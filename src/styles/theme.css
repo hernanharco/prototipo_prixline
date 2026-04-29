@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "system-ui", "sans-serif";
+  --font-serif: "Playfair Display", "Georgia", "serif";
+  
+  --color-primary: #1A2B3C;
+  --color-primary-light: #2c4257;
+  --color-accent: #F97316; /* Vibrant Orange */
+  --color-accent-hover: #ea580c;
+  --color-bg-soft: #F3F4F6; /* Soft Gray */
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply antialiased font-sans text-slate-800;
+  }
+}
