@@ -21,9 +21,9 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 ## Tareas
 
 - [x] T1. Rama feature + pipeline base (scripts/, content/, fixtures de prueba) — commit `c8112e65`
-- [x] T2. Extractor de cursos: `/cursos` → `content/courses/*` (~281 fichas con temario) — test-first con fixture — commit `WIP`
-- [ ] T3. Importador de posts: API WP.com → `content/posts/*` (813, categorías limpias, frontmatter) — test-first
-- [ ] T4. Importar páginas estáticas (prácticas, redes, contacto) +canales a `content/settings`
+- [x] T2. Extractor de cursos: `/cursos` → `content/courses/*` (~281 fichas con temario) — test-first con fixture — commit `e236501b`
+- [x] T3. Importador de posts: API WP.com → `content/posts/*` (813, categorías limpias, frontmatter) — test-first — commit `88136a88`
+- [x] T4. Importar páginas estáticas (prácticas, redes, contacto) +canales a `content/settings` — commit `WIP4`
 - [ ] T5. Scaffolding Astro en `site/` con content collections (courses, posts, pages) — build + typecheck en 0
 - [ ] T6. UI home con contenido real (secciones: hero dual, confianza, artículos, YouTube, cursos, prácticas, comunidad, CTA)
 - [ ] T7. Badge EN VIVO (YouTube Data API `eventType=live`) configurable desde settings
@@ -33,3 +33,5 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 
 - T1: `c8112e65` chore(pipeline): scaffold content pipeline with fixtures (fixtures: cursos 60KB, 3 posts, 54 categorías)
 - T2: extractor test-first (RED module-not-found → GREEN 6/6 tests); run live: **302 fichas** (297 títulos únicos, 4 repetidos con slug `-2`), 0 cuerpos vacíos, 0 títulos basura; regla de frontera: párrafo que empieza por `CURSO` en mayúsculas (el fixture no tiene elementos heading)
+- T3: `88136a88` — 813 fichas (3,5MB), tests 5/5, mapa cerrado 51 claves → 8 categorías limpias; 546 posts solo `sin-categoria` (marca `prixline`/`prix-line`), 104 cuerpos <200 chars (fuente fiel)
+- T4: tests 9/9 (suite total 20/20); 4 páginas importadas; `social.json` con 13 canales (2 son CTAs no-redes: `sugerencias`→prix.com/contacto, `opiniones`→comentarios) y `site.json` con bloque `live` (handle `@prixline`, 300s)

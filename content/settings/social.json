@@ -1,0 +1,71 @@
+{
+  "channels": [
+    {
+      "platform": "youtube",
+      "label": "YouTube",
+      "url": "https://youtube.com/@prixline"
+    },
+    {
+      "platform": "spotify",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/16GIk745t5L6hxFMNQcoVK"
+    },
+    {
+      "platform": "instagram",
+      "label": "Instagram",
+      "url": "https://instagram.com/prixline/"
+    },
+    {
+      "platform": "sugerencias",
+      "label": "Sugerencias",
+      "url": "http://prix.com/contacto"
+    },
+    {
+      "platform": "twitter",
+      "label": "Twitter",
+      "url": "https://twitter.com/prixline"
+    },
+    {
+      "platform": "tiktok",
+      "label": "TikTok",
+      "url": "http://prixline.tv/"
+    },
+    {
+      "platform": "linkedin",
+      "label": "Ponte a trabajar",
+      "url": "https://linkedin.com/company/prixline"
+    },
+    {
+      "platform": "ivoox",
+      "label": "iVoox",
+      "url": "http://ivoox.com/podcast-prixline-cursos_sq_f1382981_1.html"
+    },
+    {
+      "platform": "spreaker",
+      "label": "Spreaker",
+      "url": "https://spreaker.com/show/conferencias-de-prixline"
+    },
+    {
+      "platform": "itunes",
+      "label": "iTunes Orientación",
+      "url": "https://apple.co/2P6AtnU"
+    },
+    {
+      "platform": "itunes",
+      "label": "iTunes Cursos",
+      "url": "https://apple.co/2Imyg7o"
+    },
+    {
+      "platform": "opiniones",
+      "label": "Opiniones de los alumnos",
+      "url": "http://prixline.wordpress.com/opiniones/#comments"
+    },
+    {
+      "platform": "pinterest",
+      "label": "Pinterest",
+      "url": "http://pinterest.com/prixline/"
+    }
+  ],
+  "sourceUrl": "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/pages?slug=redes",
+  "extractedAt": "2026-10-03T06:27:35.503Z"
+}
