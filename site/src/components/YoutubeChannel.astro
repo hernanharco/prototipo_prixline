@@ -1,18 +1,73 @@
 ---
-// Banda oscura del canal de YouTube. Handle tomado de
-// content/settings/site.json (`live.youtubeHandle`). Sin métricas ni
-// miniaturas inventadas. El indicador en vivo (T7, LiveBadge.astro) se
-// monta aquí: oculto por defecto y solo visible si el canal emite.
+// Banda oscura del canal de YouTube (T12). Los últimos vídeos REALES del
+// canal llegan en content/settings/videos.json, importados por
+// scripts/import-youtube.ts desde el RSS público del canal (sin API key) y
+// editables desde el CMS. Reglas:
+//   - El componente NO hace fetch en build: los datos ya están en el JSON.
+//   - Cero URLs/ids/miniaturas de vídeo hardcodeados: todo sale del JSON.
+//   - Sin `videos` (o vacío) se renderiza el fallback de enlace actual:
+//     nunca una rejilla rota.
+// El indicador en vivo (T7, LiveBadge.astro) se monta aquí: oculto por
+// defecto y solo visible si el canal emite.
+import { decodeEntities } from '../lib/format';
 import LiveBadge from './LiveBadge.astro';
 import siteSettings from '../../../content/settings/site.json';
+import videosSettings from '../../../content/settings/videos.json';
 
 const handle = siteSettings.live.youtubeHandle;
 const channelUrl = `https://youtube.com/${handle.replace(/^@/, '@')}`;
+
+interface YoutubeVideo {
+  videoId: string;
+  title: string;
+  publishedAt: string;
+  thumbnail: string;
+  url: string;
+}
+
+interface VideosData {
+  channelId?: string;
+  sourceUrl?: string;
+  fetchedAt?: string;
+  videos?: YoutubeVideo[];
+}
+
+const videosData = videosSettings as Partial<VideosData>;
+
+// Últimos 6 vídeos con campos válidos (defensa ante ediciones CMS del JSON).
+const latestVideos = (Array.isArray(videosData.videos) ? videosData.videos : [])
+  .filter((video): video is YoutubeVideo => {
+    if (typeof video !== 'object' || video === null) return false;
+    const candidate = video as Partial<YoutubeVideo>;
+    return (
+      typeof candidate.videoId === 'string' &&
+      candidate.videoId.length > 0 &&
+      typeof candidate.title === 'string' &&
+      candidate.title.length > 0 &&
+      typeof candidate.thumbnail === 'string' &&
+      candidate.thumbnail.length > 0 &&
+      typeof candidate.publishedAt === 'string' &&
+      !Number.isNaN(Date.parse(candidate.publishedAt))
+    );
+  })
+  .slice(0, 6);
+
+/** Fecha de publicación en español, en UTC (determinista en build). */
+function formatDateEs(iso: string): string {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return '';
+  return new Intl.DateTimeFormat('es-ES', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'UTC',
+  }).format(date);
+}
 ---
 
 <section class="ytband section" aria-labelledby="yt-title">
   <div class="container ytband__inner">
-    <div>
+    <div class="ytband__intro">
       <p class="ytband__eyebrow">Canal de YouTube</p>
       <h2 id="yt-title">Videoclases y charlas de Prixline</h2>
       <p class="ytband__handle">
@@ -23,10 +78,40 @@ const channelUrl = `https://youtube.com/${handle.replace(/^@/, '@')}`;
         channelUrl={channelUrl}
         checkIntervalSeconds={siteSettings.live.checkIntervalSeconds}
       />
-      <a class="btn btn--on-navy" href={channelUrl}>
-        Ver el canal de YouTube
-      </a>
     </div>
+    {
+      latestVideos.length > 0 && (
+        <ul class="ytband__grid">
+          {latestVideos.map((video) => (
+            <li class="ytband__item">
+              <a
+                class="ytband__card"
+                href={`https://www.youtube.com/watch?v=${video.videoId}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  class="ytband__thumb"
+                  src={video.thumbnail}
+                  alt={decodeEntities(video.title)}
+                  width="480"
+                  height="270"
+                  loading="lazy"
+                  decoding="async"
+                />
+                <span class="ytband__card-title">{decodeEntities(video.title)}</span>
+                <time class="ytband__date" datetime={video.publishedAt}>
+                  {formatDateEs(video.publishedAt)}
+                </time>
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <a class="btn btn--on-navy ytband__cta" href={channelUrl}>
+      Ver canal completo
+    </a>
   </div>
 </section>
 
@@ -55,5 +140,82 @@ const channelUrl = `https://youtube.com/${handle.replace(/^@/, '@')}`;
 
   .ytband__handle {
     color: var(--color-on-navy-muted);
+  }
+
+  /* Rejilla responsive 3 → 2 → 1 columnas de los últimos vídeos. */
+  .ytband__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-4);
+    list-style: none;
+    margin: var(--space-6) 0 var(--space-5);
+    padding: 0;
+  }
+
+  @media (max-width: 900px) {
+    .ytband__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 560px) {
+    .ytband__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .ytband__item {
+    display: flex;
+  }
+
+  .ytband__card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    width: 100%;
+    height: 100%;
+    padding: var(--space-2);
+    border-radius: var(--radius-md);
+    background: rgba(255, 255, 255, 0.06);
+    color: var(--color-on-navy);
+    text-decoration: none;
+  }
+
+  .ytband__card:hover {
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .ytband__card:focus-visible {
+    outline: 3px solid var(--color-gold);
+    outline-offset: 2px;
+  }
+
+  .ytband__thumb {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+  }
+
+  /* Título con clamp de 2 líneas (con fallback estándar `line-clamp`). */
+  .ytband__card-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .ytband__date {
+    margin-top: auto;
+    font-size: var(--text-xs);
+    color: var(--color-on-navy-muted);
+  }
+
+  .ytband__cta {
+    margin-top: var(--space-1);
   }
 </style>
