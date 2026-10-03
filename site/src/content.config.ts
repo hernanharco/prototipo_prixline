@@ -49,6 +49,16 @@ const posts = defineCollection({
     categories: z.array(z.string()),
     originCategories: z.array(z.coerce.string()),
     excerpt: z.string(),
+    // T11: campos de medios editables desde el CMS (regla del usuario: toda
+    // imagen vive en un campo de datos, cero URLs hardcodeadas en componentes).
+    // `thumbnail` lo propone el importador desde el contenido origen (URL
+    // i.ytimg.com de YouTube o la primera <img> absoluta) y es opcional:
+    // ausente = sin medios = bloque tipográfico en la home.
+    thumbnail: z.string().url().optional(),
+    videoId: z.string().optional(),
+    // El importador lo emite SIEMPRE ("" por defecto); el editor lo rellena
+    // desde el panel y el panel puede sobreescribirlo después sin tocar código.
+    thumbnailAlt: z.string().optional(),
   }),
 });
 

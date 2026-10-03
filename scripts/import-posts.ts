@@ -25,10 +25,10 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import { mapCategories, originCategoryNames } from "./category-map.ts";
-import { POSTS_API_BASE, renderPost } from "./post-render.ts";
+import { POSTS_API_BASE, renderPost, extractThumbnail } from "./post-render.ts";
 
-export { renderPost };
-export type { WpPost } from "./post-render.ts";
+export { renderPost, extractThumbnail };
+export type { ThumbnailInfo, WpPost } from "./post-render.ts";
 
 const CATEGORIES_API_BASE =
   "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/categories";

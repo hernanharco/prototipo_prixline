@@ -2,6 +2,11 @@
 // Últimos artículos: 6 posts más recientes de la colección `posts`, con
 // entidades decodificadas, fecha real en <time datetime> y chips de
 // categorías. Cada tarjeta enlaza a post.data.originUrl (enlace externo).
+// Miniaturas (T11): la imagen vive SIEMPRE en el campo frontmatter
+// `thumbnail` (propuesto por el importador, editable desde el CMS); este
+// componente no hardcodea ninguna URL. Sin `thumbnail` la tarjeta cae al
+// bloque tipográfico (chip + fecha + título), nunca a una imagen rota ni a
+// un servicio externo de placeholders.
 import type { CollectionEntry } from 'astro:content';
 import { decodeEntities, formatDateEs, isoDate } from '../lib/format';
 
@@ -28,6 +33,16 @@ const ORIGIN_BLOG = 'https://prixline.blog/';
         posts.map((post) => (
           <li>
             <article class="card">
+              {post.data.thumbnail && (
+                <div class="card__thumb">
+                  <img
+                    src={post.data.thumbnail}
+                    alt={post.data.thumbnailAlt || decodeEntities(post.data.title)}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </div>
+              )}
               <p class="card__meta">
                 <time datetime={isoDate(post.data.date)}>
                   {formatDateEs(post.data.date)}
@@ -73,6 +88,24 @@ const ORIGIN_BLOG = 'https://prixline.blog/';
 
   .cards .card {
     width: 100%;
+  }
+
+  /* Miniatura (T11): marco recortado 16:9 a sangre en la cabecera de la
+     tarjeta. object-fit: cover evita deformar; overflow: hidden + radio
+     superior heredado recorta la imagen al marco. La URL viene solo de
+     frontmatter (regla CMS). */
+  .card__thumb {
+    aspect-ratio: 16 / 9;
+    margin: calc(-1 * var(--space-5)) calc(-1 * var(--space-5)) 0;
+    overflow: hidden;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .card__thumb img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
   .cta-row {

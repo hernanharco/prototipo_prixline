@@ -57,13 +57,14 @@ function parseFrontmatter(md: string): {
     const key = line.slice(0, sep);
     const rest = line.slice(sep + 1);
     if (rest === "") {
-      // list field: subsequent `  - item` lines (or `  []`)
+      // list field: subsequent `  - item` lines (or `  []` marker)
       const items: string[] = [];
       while (i + 1 < lines.length && /^  - /.test(lines[i + 1])) {
         const raw = lines[i + 1].slice(4);
         items.push(raw.startsWith('"') ? (JSON.parse(raw) as string) : raw);
         i++;
       }
+      if (lines[i + 1] === "  []") i++; // empty-list marker from yamlList
       lists[key] = items;
       fields[key] = "";
     } else {
@@ -231,4 +232,44 @@ test("YAML string values are emitted safely (@-values, numeric lookalikes)", () 
     "Webs de empleo&nbsp;sectoriales",
     "title must round-trip exactly",
   );
+});
+
+// --- T11: renderPost CMS thumbnail fields ---------------------------------
+// (extractThumbnail unit tests live in scripts/thumbnail.test.ts)
+
+test("renderPost emits CMS thumbnail fields; absent media omits them", () => {
+  const base: WpPost = {
+    id: 7,
+    date: "2024-05-01T10:00:00",
+    slug: "siete",
+    link: "https://prixline.blog/2024/05/01/siete/",
+    title: { rendered: "Título sintético" },
+    excerpt: { rendered: "<p>Resumen</p>" },
+    categories: [],
+  };
+  // Case A: YouTube embed in content.
+  const withVideo = renderPost(
+    { ...base, content: { rendered: '<iframe src="https://www.youtube.com/embed/jmRtex1vdzU"></iframe>' } },
+    ["empleo"],
+  );
+  const a = parseFrontmatter(withVideo).fields;
+  assert.equal(a.videoId, "jmRtex1vdzU", "videoId must be emitted for YouTube posts");
+  assert.equal(
+    a.thumbnail,
+    "https://i.ytimg.com/vi/jmRtex1vdzU/hqdefault.jpg",
+    "thumbnail must be the i.ytimg.com URL",
+  );
+  assert.equal(a.thumbnailAlt, "", "thumbnailAlt must be emitted as an empty CMS-editable field");
+  // Case B: no media → thumbnail/videoId keys must NOT appear (not empty strings).
+  const noMedia = renderPost({ ...base, content: { rendered: "<p>Solo texto.</p>" } }, ["empleo"]);
+  const raw = noMedia.slice(0, noMedia.indexOf("\n---\n"));
+  assert.ok(!/^thumbnail:/m.test(raw), "absent thumbnail must not be emitted");
+  assert.ok(!/^videoId:/m.test(raw), "absent videoId must not be emitted");
+  const b = parseFrontmatter(noMedia).fields;
+  assert.equal(b.thumbnail, undefined, "thumbnail must be undefined when no media");
+  assert.equal(b.videoId, undefined, "videoId must be undefined when no media");
+  assert.equal(b.thumbnailAlt, "", "thumbnailAlt is always emitted, even without media");
+  // Existing fields unchanged.
+  assert.equal(b.originUrl, base.link);
+  assert.equal(b.id, "7");
 });
