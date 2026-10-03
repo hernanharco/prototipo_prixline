@@ -1,0 +1,157 @@
+---
+// Tarjeta de artículo del índice interno `/articulos/` (T14). Reproduce la
+// jerarquía de CourseCard.astro (tarjeta-enlace completa, título dominante,
+// meta mínima empujada al pie) con la miniatura 16:9 de LatestArticles.astro
+// (T11): la imagen vive SOLO en el campo frontmatter `thumbnail` (editable
+// desde el CMS); sin ella, la tarjeta cae al bloque tipográfico (fecha +
+// título + chips), nunca a una imagen rota ni a un placeholder externo.
+// Las categorías son chips informativos, no enlaces.
+//
+// Props derivadas en `pages/articulos/index.astro`:
+//   - `searchText`: título decodificado + categorías (guiones → espacios)
+//     para el buscador instantáneo del índice.
+//   - `id`: id de la entrada de `posts` (mismo valor con el que la ficha
+//     `/articulos/[slug]/` genera su ruta, ya con slugs decodificados).
+interface Props {
+  title: string;
+  id: string;
+  dateLabel: string;
+  iso: string;
+  categories: string[];
+  thumbnail?: string;
+  thumbnailAlt?: string;
+  searchText: string;
+}
+
+const {
+  title,
+  id,
+  dateLabel,
+  iso,
+  categories,
+  thumbnail,
+  thumbnailAlt,
+  searchText,
+} = Astro.props;
+---
+
+<li class="article-index-item" data-article={searchText.toLowerCase()}>
+  <a class="article-card" href={`/articulos/${id}/`}>
+    {
+      thumbnail && (
+        <div class="article-card__thumb">
+          <img
+            src={thumbnail}
+            alt={thumbnailAlt || title}
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+      )
+    }
+    <p class="article-card__meta">
+      <time datetime={iso}>{dateLabel}</time>
+    </p>
+    {/* Título decodificado ya en la prop: el enlace apunta a la ficha
+        interna /articulos/<id>/ (slugs decodificados, T13). */}
+    <h3 class="article-card__title">{title}</h3>
+    {
+      categories.length > 0 && (
+        <ul class="chips">
+          {categories.map((category) => (
+            <li class="chip">{category}</li>
+          ))}
+        </ul>
+      )
+    }
+  </a>
+</li>
+
+<style>
+  .article-index-item {
+    list-style: none;
+  }
+
+  /* Tarjeta-enlace completa: misma caja para todo el área pulsable
+     (patrón CourseCard.astro). */
+  .article-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    height: 100%;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-soft);
+    color: inherit;
+    text-decoration: none;
+    transition:
+      transform 0.15s ease,
+      box-shadow 0.15s ease,
+      border-color 0.15s ease;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--color-gold);
+    box-shadow:
+      0 2px 4px rgba(18, 49, 79, 0.08),
+      0 16px 32px rgba(18, 49, 79, 0.12);
+  }
+
+  .article-card:hover .article-card__title {
+    color: var(--color-gold-ink);
+  }
+
+  .article-card:focus-visible {
+    border-color: var(--color-gold);
+  }
+
+  /* Miniatura 16:9 a sangre en la cabecera de la tarjeta (patrón
+     LatestArticles.astro): object-fit: cover sin deformar; overflow +
+     radio superior la recortan al marco. Solo aparece si hay `thumbnail`. */
+  .article-card__thumb {
+    aspect-ratio: 16 / 9;
+    margin: calc(-1 * var(--space-5)) calc(-1 * var(--space-5)) 0;
+    overflow: hidden;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .article-card__thumb img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Meta: fecha real en <time>, alineada al pie como en CourseCard. */
+  .article-card__meta {
+    margin: 0;
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+  }
+
+  /* Título dominante: los títulos largos del archivo no rompen la
+     retícula; el texto sigue completo en el DOM y para lectores. */
+  .article-card__title {
+    margin: 0;
+    font-size: var(--text-lg);
+    line-height: 1.25;
+    color: var(--color-navy);
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    overflow: hidden;
+  }
+
+  /* Chips de categoría: al pie de la tarjeta, no enlaces. */
+  .article-card .chips {
+    margin-top: auto;
+  }
+
+  .article-card .chip {
+    background: var(--color-bg);
+  }
+</style>

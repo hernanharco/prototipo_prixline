@@ -2,13 +2,13 @@
 // Últimos artículos: 6 posts más recientes de la colección `posts`, con
 // entidades decodificadas, fecha real en <time datetime> y chips de
 // categorías. Cada tarjeta enlaza a la ficha interna /articulos/<id>/
-// (T13): el visitante permanece en el sitio. El CTA “Ver todos los
-// artículos” se re-apunta al índice interno /articulos/ en T14.
+// (T13): el visitante permanece en el sitio.
 // Miniaturas (T11): la imagen vive SIEMPRE en el campo frontmatter
 // `thumbnail` (propuesto por el importador, editable desde el CMS); este
 // componente no hardcodea ninguna URL. Sin `thumbnail` la tarjeta cae al
 // bloque tipográfico (chip + fecha + título), nunca a una imagen rota ni a
-// un servicio externo de placeholders.
+// un servicio externo de placeholders. T14: el CTA “Ver todos los
+// artículos” enlaza al índice interno /articulos/.
 import type { CollectionEntry } from 'astro:content';
 import { decodeEntities, formatDateEs, isoDate } from '../lib/format';
 
@@ -17,8 +17,6 @@ interface Props {
 }
 
 const { posts } = Astro.props;
-
-const ORIGIN_BLOG = 'https://prixline.blog/';
 ---
 
 <section class="section" id="migracion" aria-labelledby="migracion-title">
@@ -69,7 +67,8 @@ const ORIGIN_BLOG = 'https://prixline.blog/';
     </ul>
 
     <p class="cta-row">
-      <a class="btn btn--ghost" href={ORIGIN_BLOG}>Ver todos los artículos</a>
+      {/* T14: CTA interno al índice /articulos/ (antes: blog de origen). */}
+      <a class="btn btn--ghost" href="/articulos/">Ver todos los artículos</a>
     </p>
   </div>
 </section>

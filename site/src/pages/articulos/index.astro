@@ -1,0 +1,288 @@
+---
+// Índice interno de artículos (T14): `/articulos/` reúne los 813 posts de la
+// colección `posts`, agrupados por año (descendente: 2026 → … → 2012) con
+// buscador instantáneo en cliente. Es el destino del CTA "Ver todos los
+// artículos" y del enlace "Blog" del pie (antes apuntaban a prixline.blog).
+// Sin dependencias; sin marcos de test de markup en `site/`: la verificación
+// de este módulo es el build + `astro check` + greps estructurales sobre
+// `dist/`. Progresivo (patrón de /cursos/): sin JS la lista completa es
+// visible y el campo de búsqueda queda oculto (clase `js` en <html>).
+import { getCollection } from 'astro:content';
+import { decodeEntities, formatDateEs, isoDate } from '../../lib/format';
+import ArticleIndexCard from '../../components/ArticleIndexCard.astro';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const posts = await getCollection('posts');
+
+// Orden descendente por fecha real; el mismo criterio dentro de cada año.
+const sorted = posts
+  .slice()
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .map((post) => {
+    const title = decodeEntities(post.data.title);
+    // Chips de categoría con guiones a espacios (patrón de la ficha y de
+    // LatestArticles.astro) y buscable = título + categorías.
+    const categories = post.data.categories.map((category) =>
+      category.replace(/-/g, ' '),
+    );
+    return {
+      title,
+      id: post.id,
+      dateLabel: formatDateEs(post.data.date),
+      iso: isoDate(post.data.date),
+      year: post.data.date.getFullYear(),
+      categories,
+      // Miniatura solo desde el campo CMS `thumbnail` (T11); alt =
+      // thumbnailAlt real o el título, nunca inventado.
+      thumbnail: post.data.thumbnail,
+      thumbnailAlt: post.data.thumbnailAlt || title,
+      searchText: [title, ...categories].join(' '),
+    };
+  });
+
+// Agrupación por año en orden descendente.
+const byYear = new Map<number, typeof sorted>();
+for (const item of sorted) {
+  const group = byYear.get(item.year);
+  if (group) group.push(item);
+  else byYear.set(item.year, [item]);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+const total = sorted.length;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Artículos — Prixline</title>
+    <meta
+      name="description"
+      content={`Los ${total} artículos de Prixline sobre migración, formación y trabajo en España, agrupados por año.`}
+    />
+    {/* Clase `js` en <html> como mejora progresiva: sin ella el buscador
+        queda oculto y la lista completa navegable. */}
+    <script is:inline>
+      document.documentElement.classList.add('js');
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido" class="section">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            <li aria-current="page">Artículos</li>
+          </ol>
+        </nav>
+
+        <p class="eyebrow">Migración</p>
+        <h1>Artículos</h1>
+        <p class="section-intro">
+          Los {total} artículos de Prixline, agrupados por año: del más
+          reciente al más antiguo.
+        </p>
+
+        {/* El buscador es mejora progresiva: sin JS queda oculto y la lista
+            completa sigue siendo navegable. El contador vive fuera del bloque
+            oculto: sin JS sigue mostrando el total real. */}
+        <div class="articles-filter">
+          <label class="articles-filter__label" for="articles-search">
+            Buscar artículos
+          </label>
+          <input
+            class="articles-filter__input"
+            id="articles-search"
+            type="search"
+            placeholder="Escribe un título o una categoría…"
+            autocomplete="off"
+            data-articles-filter
+          />
+        </div>
+
+        <p class="articles-filter__status" data-filter-status role="status" aria-live="polite">
+          {total} de {total} artículos
+        </p>
+
+        <p class="articles-empty" data-filter-empty hidden>
+          Ningún artículo coincide con la búsqueda.
+        </p>
+
+        {
+          years.map((year) => (
+            <section
+              class="article-year"
+              data-year-section
+              aria-labelledby={`year-${year}`}
+            >
+              <h2 class="article-year__title" id={`year-${year}`}>{year}</h2>
+              <ul class="article-index-list">
+                {byYear.get(year)!.map((item) => (
+                  <ArticleIndexCard
+                    title={item.title}
+                    id={item.id}
+                    dateLabel={item.dateLabel}
+                    iso={item.iso}
+                    categories={item.categories}
+                    thumbnail={item.thumbnail}
+                    thumbnailAlt={item.thumbnailAlt}
+                    searchText={item.searchText}
+                  />
+                ))}
+              </ul>
+            </section>
+          ))
+        }
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<script>
+  const input = document.querySelector<HTMLInputElement>('[data-articles-filter]');
+  const items = Array.from(
+    document.querySelectorAll<HTMLElement>('[data-year-section] [data-article]'),
+  );
+  const sections = Array.from(
+    document.querySelectorAll<HTMLElement>('[data-year-section]'),
+  );
+  const status = document.querySelector<HTMLElement>('[data-filter-status]');
+  const empty = document.querySelector<HTMLElement>('[data-filter-empty]');
+  const EMPTY_TEXT = 'Ningún artículo coincide con la búsqueda.';
+
+  if (input && items.length > 0) {
+    input.addEventListener('input', () => {
+      const query = input.value.trim().toLowerCase();
+      let visible = 0;
+
+      // Coincidencia por título + categoría (texto ya normalizado).
+      for (const item of items) {
+        const match = !query || (item.dataset.article ?? '').includes(query);
+        item.hidden = !match;
+        if (match) visible += 1;
+      }
+
+      // Contador en vivo: se actualiza con cada pulsación.
+      if (status) status.textContent = `${visible} de ${items.length} artículos`;
+      if (empty) {
+        empty.hidden = visible !== 0;
+        empty.textContent = query
+          ? `Ningún artículo coincide con «${input.value.trim()}».`
+          : EMPTY_TEXT;
+      }
+
+      // Secciones de año sin coincidencias: ocultas para no dejar huecos.
+      for (const section of sections) {
+        const anyVisible = Array.from(
+          section.querySelectorAll<HTMLElement>('[data-article]'),
+        ).some((el) => !el.hidden);
+        section.hidden = !anyVisible;
+      }
+    });
+  }
+</script>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .breadcrumb li + li::before {
+    content: '/';
+    margin-right: var(--space-2);
+    color: var(--color-border);
+  }
+
+  .breadcrumb a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-navy);
+    text-decoration: underline;
+  }
+
+  html:not(.js) .articles-filter {
+    display: none;
+  }
+
+  .articles-filter {
+    margin: var(--space-5) 0 var(--space-2);
+  }
+
+  .articles-filter__label {
+    display: block;
+    margin-bottom: var(--space-2);
+    font-weight: 600;
+  }
+
+  .articles-filter__input {
+    width: 100%;
+    max-width: 28rem;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font: inherit;
+  }
+
+  .articles-filter__status {
+    margin: 0 0 var(--space-4);
+    min-height: 1.2em;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .articles-empty {
+    margin: 0 0 var(--space-4);
+    color: var(--color-muted);
+  }
+
+  .article-year {
+    margin-top: var(--space-6);
+  }
+
+  .article-year__title {
+    margin: 0 0 var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  /* Misma retícula respirable que /cursos/: 1 col. móvil / 2 tablet /
+     3 escritorio. */
+  .article-index-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (min-width: 48rem) {
+    .article-index-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .article-index-list {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+</style>
