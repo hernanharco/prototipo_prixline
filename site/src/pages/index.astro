@@ -33,10 +33,9 @@ const featuredCourses = courses
   .slice(0, 9);
 
 // Año real del artículo más antiguo del archivo.
-const earliestYear = posts.reduce(
-  (min, post) => Math.min(min, post.data.date.getFullYear()),
-  Number.POSITIVE_INFINITY,
-);
+const earliestYear = posts.length > 0
+  ? posts.reduce((min, post) => Math.min(min, post.data.date.getFullYear()), Number.POSITIVE_INFINITY)
+  : new Date().getFullYear();
 ---
 
 <!doctype html>
@@ -58,7 +57,7 @@ const earliestYear = posts.reduce(
       <Trust
         earliestYear={earliestYear}
         postCount={posts.length}
-        channelCount={socialSettings.channels.length}
+        channelCount={socialSettings.channels.filter((c) => c.platform !== 'sugerencias' && c.platform !== 'opiniones').length}
       />
       <LatestArticles posts={latestPosts} />
       <Courses courses={featuredCourses} totalCourses={courses.length} />
