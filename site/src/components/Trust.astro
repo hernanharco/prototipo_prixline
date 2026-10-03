@@ -1,0 +1,100 @@
+---
+// Banda de confianza: SOLO datos reales derivados de las colecciones
+// importadas y de content/settings/social.json. Sin métricas inventadas.
+interface Props {
+  earliestYear: number;
+  postCount: number;
+  channelCount: number;
+}
+
+const { earliestYear, postCount, channelCount } = Astro.props;
+
+const points = [
+  {
+    value: String(earliestYear),
+    label: 'Contenido desde',
+    detail: 'El archivo de artículos de Prixline llega hasta este año.',
+  },
+  {
+    value: String(postCount),
+    label: 'Artículos publicados',
+    detail: 'Contenido real importado del blog de origen, sin recuentos inventados.',
+  },
+  {
+    value: String(channelCount),
+    label: 'Canales abiertos',
+    detail: 'Redes, podcasts y plataformas donde Prixline está presente.',
+  },
+];
+---
+
+<section class="trust section section--surface" aria-labelledby="trust-title">
+  <div class="container">
+    <h2 id="trust-title" class="visually-hidden">Prixline en datos reales</h2>
+    <ul class="trust__grid">
+      {
+        points.map((point) => (
+          <li class="trust__item">
+            <p class="trust__value">{point.value}</p>
+            <p class="trust__label">{point.label}</p>
+            <p class="trust__detail">{point.detail}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .trust {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .trust__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .trust__item {
+    padding: var(--space-4);
+    border-left: 3px solid var(--color-gold);
+  }
+
+  .trust__value {
+    margin: 0;
+    font-size: var(--text-h2);
+    font-weight: 800;
+    color: var(--color-navy);
+    line-height: 1.1;
+  }
+
+  .trust__label {
+    margin: var(--space-1) 0 var(--space-2);
+    font-weight: 700;
+    color: var(--color-text);
+  }
+
+  .trust__detail {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+</style>
+
+<style>
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

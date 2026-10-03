@@ -1,0 +1,52 @@
+---
+// Prácticas: texto REAL extraído en build time de la página importada
+// `pages/practicas` (content/pages/practicas.md) vía getEntry. Se
+// eliminan las etiquetas HTML/Markdown del cuerpo y se reutilizan las
+// frases tal cual; no se inventa contenido. La imagen de WordPress de la
+// página original se omite a propósito: el home no debe hacer peticiones
+// de red en tiempo de ejecución salvo enlaces salientes.
+import { getEntry } from 'astro:content';
+import { decodeEntities } from '../lib/format';
+
+const entry = await getEntry('pages', 'practicas');
+
+// Extrae los párrafos reales del cuerpo markdown/HTML de la página.
+const paragraphs = (entry?.body ?? '')
+  .split(/<\/p>/i)
+  .map((chunk) => {
+    const inner = chunk.match(/<p[^>]*>([\s\S]*)$/i);
+    const raw = inner ? inner[1] : chunk;
+    return decodeEntities(raw.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
+  })
+  .filter((text) => text.length > 0 && !text.startsWith('#'));
+
+const lead = paragraphs[0] ?? '';
+const details = paragraphs.slice(1, 4);
+const originUrl = entry?.data.originUrl ?? 'https://prixline.blog/practicas/';
+---
+
+<section class="section" id="practicas" aria-labelledby="practicas-title">
+  <div class="container practices">
+    <div>
+      <p class="eyebrow">Prácticas</p>
+      <h2 id="practicas-title">Prácticas y trabajo</h2>
+      {lead && <p class="practices__lead">{lead}</p>}
+      {details.map((text) => <p>{text}</p>)}
+      <p>
+        <a class="btn btn--ghost" href={originUrl}>Más información sobre prácticas</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .practices {
+    max-width: calc(var(--container-max) * 0.85);
+  }
+
+  .practices__lead {
+    font-size: var(--text-lg);
+    font-weight: 700;
+    color: var(--color-navy);
+  }
+</style>

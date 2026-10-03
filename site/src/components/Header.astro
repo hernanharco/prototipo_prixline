@@ -1,0 +1,203 @@
+---
+// Header sticky con wordmark de texto, anclas internas y un CTA al contacto
+// del sitio de origen. Móvil: botón con aria-expanded + script mínimo
+// (sin dependencias). Sin JS la navegación permanece visible (clase `js`
+// añadida al <html> solo cuando el script de conmutación está disponible).
+const CONTACT_URL = 'https://prixline.blog/contacto/';
+
+const navItems = [
+  { href: '#migracion', label: 'Migración' },
+  { href: '#cursos', label: 'Cursos' },
+  { href: '#comunidad', label: 'Comunidad' },
+  { href: '#practicas', label: 'Prácticas' },
+];
+---
+
+<header class="site-header">
+  <script is:inline>
+    document.documentElement.classList.add('js');
+  </script>
+  <div class="container site-header__inner">
+    <a class="wordmark" href="/">Prixline</a>
+
+    <button
+      class="nav-toggle"
+      type="button"
+      data-nav-toggle
+      aria-expanded="false"
+      aria-controls="site-nav"
+    >
+      <span class="nav-toggle__label">Menú</span>
+      <span class="nav-toggle__icon" aria-hidden="true"></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" data-nav aria-label="Principal">
+      <ul>
+        {
+          navItems.map((item) => (
+            <li>
+              <a href={item.href}>{item.label}</a>
+            </li>
+          ))
+        }
+        <li>
+          <a class="btn btn--accent site-nav__cta" href={CONTACT_URL}>
+            Contacto
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('[data-nav-toggle]');
+  const nav = document.querySelector<HTMLElement>('[data-nav]');
+
+  if (toggle && nav) {
+    const setOpen = (open: boolean) => {
+      toggle.setAttribute('aria-expanded', String(open));
+      nav.classList.toggle('is-open', open);
+    };
+
+    toggle.addEventListener('click', () => {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+
+    // Al navegar por un ancla se cierra el menú desplegado.
+    nav.addEventListener('click', (event) => {
+      if (event.target instanceof HTMLAnchorElement) setOpen(false);
+    });
+  }
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .site-header__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    padding-block: var(--space-3);
+  }
+
+  .wordmark {
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    color: var(--color-navy);
+    text-decoration: none;
+  }
+
+  .wordmark::after {
+    content: '';
+    display: block;
+    width: 2.2rem;
+    height: 3px;
+    margin-top: 2px;
+    border-radius: var(--radius-pill);
+    background: var(--color-gold);
+  }
+
+  .site-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-4);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .site-nav a:not(.btn) {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .site-nav a:not(.btn):hover {
+    color: var(--color-gold-ink);
+    text-decoration: underline;
+  }
+
+  .site-nav__cta {
+    padding: 0.5rem 1.1rem;
+  }
+
+  /* Conmutador móvil: solo visible con JS disponible. */
+  .nav-toggle {
+    display: none;
+    align-items: center;
+    gap: var(--space-2);
+    padding: 0.45rem 0.9rem;
+    border: 2px solid var(--color-navy);
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-navy);
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .nav-toggle__icon,
+  .nav-toggle__icon::before,
+  .nav-toggle__icon::after {
+    display: block;
+    width: 1rem;
+    height: 2px;
+    border-radius: var(--radius-pill);
+    background: currentColor;
+  }
+
+  .nav-toggle__icon {
+    position: relative;
+  }
+
+  .nav-toggle__icon::before,
+  .nav-toggle__icon::after {
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+
+  .nav-toggle__icon::before {
+    top: -5px;
+  }
+
+  .nav-toggle__icon::after {
+    top: 5px;
+  }
+
+  @media (max-width: 48rem) {
+    .nav-toggle {
+      display: inline-flex;
+    }
+
+    /* Sin JS: la navegación fluye debajo del wordmark (visible siempre). */
+    .site-nav {
+      width: 100%;
+    }
+
+    html.js .site-nav {
+      display: none;
+    }
+
+    html.js .site-nav.is-open {
+      display: block;
+    }
+
+    .site-nav ul {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--space-3);
+      padding-block: var(--space-3);
+    }
+  }
+</style>

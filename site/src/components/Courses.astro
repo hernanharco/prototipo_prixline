@@ -1,0 +1,75 @@
+---
+// Cursos destacados en home. REGLA DE SELECCIÓN (documentada):
+// los 9 títulos alfabéticamente primeros bajo ordenación con
+// `localeCompare(..., 'es')` sobre `courses.data.title`. Es determinista
+// dada la colección importada (302 cursos). El catálogo completo vive
+// en /cursos/.
+import type { CollectionEntry } from 'astro:content';
+import { decodeEntities } from '../lib/format';
+
+interface Props {
+  courses: CollectionEntry<'courses'>[];
+  totalCourses: number;
+}
+
+const { courses, totalCourses } = Astro.props;
+---
+
+<section class="section section--surface" id="cursos" aria-labelledby="cursos-title">
+  <div class="container">
+    <p class="eyebrow">Cursos</p>
+    <h2 id="cursos-title">Empieza por aquí</h2>
+    <p class="section-intro">
+      Una selección del catálogo de cursos de Prixline. La lista completa
+      está disponible en la página de cursos.
+    </p>
+
+    <ul class="course-grid">
+      {
+        courses.map((course) => (
+          <li class="course-item">
+            <a href="/cursos/">{decodeEntities(course.data.title)}</a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="cta-row">
+      <a class="btn btn--primary" href="/cursos/">
+        Ver el catálogo completo ({totalCourses} cursos)
+      </a>
+    </p>
+  </div>
+</section>
+
+<style>
+  .course-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: var(--space-3);
+    list-style: none;
+    margin: var(--space-6) 0;
+    padding: 0;
+  }
+
+  .course-item {
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    font-weight: 600;
+  }
+
+  .course-item a {
+    text-decoration: none;
+  }
+
+  .course-item a:hover {
+    color: var(--color-gold-ink);
+    text-decoration: underline;
+  }
+
+  .cta-row {
+    margin: 0;
+  }
+</style>

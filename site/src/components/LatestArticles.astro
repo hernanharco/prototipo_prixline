@@ -1,0 +1,81 @@
+---
+// Últimos artículos: 6 posts más recientes de la colección `posts`, con
+// entidades decodificadas, fecha real en <time datetime> y chips de
+// categorías. Cada tarjeta enlaza a post.data.originUrl (enlace externo).
+import type { CollectionEntry } from 'astro:content';
+import { decodeEntities, formatDateEs, isoDate } from '../lib/format';
+
+interface Props {
+  posts: CollectionEntry<'posts'>[];
+}
+
+const { posts } = Astro.props;
+
+const ORIGIN_BLOG = 'https://prixline.blog/';
+---
+
+<section class="section" id="migracion" aria-labelledby="migracion-title">
+  <div class="container">
+    <p class="eyebrow">Migración</p>
+    <h2 id="migracion-title">Últimos artículos</h2>
+    <p class="section-intro">
+      Información práctica sobre migrar, formarse y encontrar trabajo, tal y
+      como se publicó en el blog de Prixline.
+    </p>
+
+    <ul class="cards">
+      {
+        posts.map((post) => (
+          <li>
+            <article class="card">
+              <p class="card__meta">
+                <time datetime={isoDate(post.data.date)}>
+                  {formatDateEs(post.data.date)}
+                </time>
+              </p>
+              <h3 class="card__title">
+                <a href={post.data.originUrl} rel="noopener noreferrer">
+                  {decodeEntities(post.data.title)}
+                </a>
+              </h3>
+              {post.data.categories.length > 0 && (
+                <ul class="chips">
+                  {post.data.categories.map((category) => (
+                    <li class="chip">{category.replace(/-/g, ' ')}</li>
+                  ))}
+                </ul>
+              )}
+            </article>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="cta-row">
+      <a class="btn btn--ghost" href={ORIGIN_BLOG}>Ver todos los artículos</a>
+    </p>
+  </div>
+</section>
+
+<style>
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: var(--space-4);
+    list-style: none;
+    margin: var(--space-6) 0;
+    padding: 0;
+  }
+
+  .cards li {
+    display: flex;
+  }
+
+  .cards .card {
+    width: 100%;
+  }
+
+  .cta-row {
+    margin: 0;
+  }
+</style>

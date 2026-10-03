@@ -1,0 +1,204 @@
+---
+// Catálogo completo de cursos: lista alfabética de los cursos importados
+// (colección `courses`) con filtro instantáneo en cliente (script inline,
+// sin dependencias). Progresivo: sin JS la lista completa es visible y el
+// campo de filtro queda oculto (clase `js` en <html>).
+import { getCollection } from 'astro:content';
+import { decodeEntities } from '../../lib/format';
+import '../../styles/global.css';
+
+const courses = await getCollection('courses');
+
+// Orden alfabético determinista con ordenación española.
+const sorted = courses
+  .slice()
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'))
+  .map((course) => ({
+    title: decodeEntities(course.data.title),
+    sourceUrl: course.data.sourceUrl,
+  }));
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cursos — Prixline</title>
+    <meta
+      name="description"
+      content="Catálogo completo de cursos de Prixline: {sorted.length} cursos ordenados alfabéticamente."
+    />
+    <script is:inline>
+      document.documentElement.classList.add('js');
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+    <header class="catalog-header">
+      <div class="container catalog-header__inner">
+        <a class="wordmark" href="/">Prixline</a>
+        <a class="btn btn--ghost" href="/">Volver al inicio</a>
+      </div>
+    </header>
+
+    <main id="contenido" class="section">
+      <div class="container">
+        <p class="eyebrow">Cursos</p>
+        <h1>Catálogo de cursos</h1>
+        <p class="section-intro">
+          Los {sorted.length} cursos de Prixline, ordenados alfabéticamente.
+        </p>
+
+        <div class="catalog-filter">
+          <label class="catalog-filter__label" for="catalog-search">
+            Filtrar cursos
+          </label>
+          <input
+            class="catalog-filter__input"
+            id="catalog-search"
+            type="search"
+            placeholder="Escribe un nombre de curso…"
+            autocomplete="off"
+            data-catalog-filter
+          />
+          <p class="catalog-filter__status" data-filter-status role="status" aria-live="polite"></p>
+        </div>
+
+        <p class="catalog-empty" data-filter-empty hidden>
+          Ningún curso coincide con la búsqueda.
+        </p>
+
+        <ul class="catalog-list" data-catalog-list>
+          {
+            sorted.map((course) => (
+              <li class="catalog-item" data-course={course.title.toLowerCase()}>
+                <a href={course.sourceUrl} rel="noopener noreferrer">{course.title}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </main>
+
+    <script>
+      const input = document.querySelector<HTMLInputElement>('[data-catalog-filter]');
+      const items = Array.from(
+        document.querySelectorAll<HTMLElement>('[data-catalog-list] [data-course]'),
+      );
+      const status = document.querySelector<HTMLElement>('[data-filter-status]');
+      const empty = document.querySelector<HTMLElement>('[data-filter-empty]');
+
+      if (input && items.length > 0) {
+        input.addEventListener('input', () => {
+          const query = input.value.trim().toLowerCase();
+          let visible = 0;
+
+          for (const item of items) {
+            const match = !query || (item.dataset.course ?? '').includes(query);
+            item.hidden = !match;
+            if (match) visible += 1;
+          }
+
+          if (status) {
+            status.textContent = query
+              ? `${visible} de ${items.length} cursos`
+              : '';
+          }
+          if (empty) empty.hidden = visible !== 0;
+        });
+      }
+    </script>
+
+    <style>
+      .catalog-header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: var(--color-surface);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .catalog-header__inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: var(--space-3);
+        padding-block: var(--space-3);
+      }
+
+      .wordmark {
+        font-size: 1.35rem;
+        font-weight: 800;
+        color: var(--color-navy);
+        text-decoration: none;
+      }
+
+      /* El filtro es mejora progresiva: sin JS oculto y la lista completa
+         sigue siendo navegable. */
+      html:not(.js) .catalog-filter {
+        display: none;
+      }
+
+      .catalog-filter {
+        margin: var(--space-5) 0 var(--space-4);
+      }
+
+      .catalog-filter__label {
+        display: block;
+        margin-bottom: var(--space-2);
+        font-weight: 600;
+      }
+
+      .catalog-filter__input {
+        width: 100%;
+        max-width: 28rem;
+        padding: 0.6rem 0.9rem;
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-md);
+        background: var(--color-surface);
+        color: var(--color-text);
+        font: inherit;
+      }
+
+      .catalog-filter__status {
+        margin: var(--space-2) 0 0;
+        min-height: 1.2em;
+        font-size: var(--text-sm);
+        color: var(--color-muted);
+      }
+
+      .catalog-empty {
+        margin: var(--space-4) 0;
+        color: var(--color-muted);
+      }
+
+      .catalog-list {
+        columns: 2 18rem;
+        column-gap: var(--space-5);
+        list-style: none;
+        margin: var(--space-4) 0 0;
+        padding: 0;
+      }
+
+      .catalog-item {
+        break-inside: avoid;
+        margin-bottom: var(--space-2);
+        padding: var(--space-2) var(--space-3);
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-sm);
+        background: var(--color-surface);
+      }
+
+      .catalog-item a {
+        text-decoration: none;
+      }
+
+      .catalog-item a:hover {
+        color: var(--color-gold-ink);
+        text-decoration: underline;
+      }
+    </style>
+  </body>
+</html>

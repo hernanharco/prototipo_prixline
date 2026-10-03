@@ -1,0 +1,51 @@
+---
+// Comunidad: los canales sociales reales de content/settings/social.json
+// como chips accesibles. Excluye `sugerencias` y `opiniones` (no son
+// redes sociales: se muestran en el pie/contacto). Icono = inicial de la
+// etiqueta, sin librerías externas.
+import socialSettings from '../../../content/settings/social.json';
+
+const NON_SOCIAL_PLATFORMS = new Set(['sugerencias', 'opiniones']);
+
+const channels = socialSettings.channels.filter(
+  (channel) => !NON_SOCIAL_PLATFORMS.has(channel.platform),
+);
+---
+
+<section class="section section--surface" id="comunidad" aria-labelledby="comunidad-title">
+  <div class="container">
+    <p class="eyebrow">Comunidad</p>
+    <h2 id="comunidad-title">Sigue a Prixline</h2>
+    <p class="section-intro">
+      {channels.length} canales abiertos donde publicamos contenido, avisos y
+      recursos para la comunidad.
+    </p>
+
+    <ul class="chips community__chips">
+      {
+        channels.map((channel) => (
+          <li>
+            <a class="chip" href={channel.url} rel="noopener noreferrer">
+              <span class="chip__icon" aria-hidden="true">
+                {channel.label.trim().charAt(0).toUpperCase()}
+              </span>
+              {channel.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .community__chips {
+    margin-top: var(--space-5);
+    gap: var(--space-3);
+  }
+
+  .community__chips .chip {
+    padding: 0.4rem 0.9rem;
+    font-size: var(--text-sm);
+  }
+</style>
