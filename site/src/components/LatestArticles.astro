@@ -1,7 +1,9 @@
 ---
 // Últimos artículos: 6 posts más recientes de la colección `posts`, con
 // entidades decodificadas, fecha real en <time datetime> y chips de
-// categorías. Cada tarjeta enlaza a post.data.originUrl (enlace externo).
+// categorías. Cada tarjeta enlaza a la ficha interna /articulos/<id>/
+// (T13): el visitante permanece en el sitio. El CTA “Ver todos los
+// artículos” se re-apunta al índice interno /articulos/ en T14.
 // Miniaturas (T11): la imagen vive SIEMPRE en el campo frontmatter
 // `thumbnail` (propuesto por el importador, editable desde el CMS); este
 // componente no hardcodea ninguna URL. Sin `thumbnail` la tarjeta cae al
@@ -49,7 +51,7 @@ const ORIGIN_BLOG = 'https://prixline.blog/';
                 </time>
               </p>
               <h3 class="card__title">
-                <a href={post.data.originUrl} rel="noopener noreferrer">
+                <a href={`/articulos/${post.id}/`}>
                   {decodeEntities(post.data.title)}
                 </a>
               </h3>

@@ -1,0 +1,269 @@
+---
+// Ficha interna de artículo (T13): `/articulos/<id>/` para las 813 rutas de
+// la colección `posts`. El visitante permanece en el sitio: el cuerpo
+// original de WordPress se sanea (scripts, iframes no permitidos, handlers
+// on* y URLs javascript:) con sanitizeArticleHtml y se renderiza con
+// set:html dentro de un contenedor `.prose` legible. Sin dependencias;
+// composición Header/Footer igual que la home y las fichas de curso.
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import { decodeEntities, formatDateEs, isoDate } from '../../lib/format';
+import { sanitizeArticleHtml } from '../../lib/sanitizeHtml';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+interface Props {
+  entry: CollectionEntry<'posts'>;
+}
+
+// 813 rutas: una por entrada de `posts`. El id de la entrada (generado
+// desde el slug importado, ver content.config.ts) es el parámetro de ruta;
+// es el mismo valor con el que la home enlaza /articulos/<id>/.
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const title = decodeEntities(entry.data.title);
+const originUrl = entry.data.originUrl;
+
+// Texto plano de un fragmento HTML: quita etiquetas, decodifica entidades
+// y colapsa espacios (incluido &nbsp;).
+function plainText(fragment: string): string {
+  return decodeEntities(fragment.replace(/<[^>]*>/g, ''))
+    .replace(/[\s\u00a0]+/g, ' ')
+    .trim();
+}
+
+// Primer <p> del cuerpo (para el fallback de la meta description).
+function firstParagraphText(bodyHtml: string): string {
+  const m = /<p\b[^>]*>([\s\S]*?)<\/p\s*>/i.exec(bodyHtml);
+  return m ? plainText(m[1]) : '';
+}
+
+// Corte en frontera de palabra a ≤155 caracteres (patrón de cursos).
+function clampDescription(text: string): string {
+  const MAX = 155;
+  if (text.length <= MAX) return text;
+  const cut = text.slice(0, MAX);
+  const boundary = cut.lastIndexOf(' ');
+  return `${(boundary > MAX / 2 ? cut.slice(0, boundary) : cut).trimEnd()}…`;
+}
+
+// El importador escribe `# <TÍTULO>` como primera línea; la página pinta su
+// propio <h1>, así que se descarta. Solo la PRIMERA línea: los `# ` que
+// siguen dentro del HTML son texto literal del origen, no markdown.
+const rawBody = (entry.body ?? '').replace(/^\s*#[^\n]*\n?/, '');
+const articleHtml = sanitizeArticleHtml(rawBody);
+
+// Meta description: excerpt (decodificado, colapsado, ≤155) → primer
+// párrafo del cuerpo → título. Nunca datos inventados.
+const description = clampDescription(
+  plainText(entry.data.excerpt) || firstParagraphText(rawBody) || title,
+);
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} — Prixline</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido" class="section">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            {/* T14 crea el índice /articulos/; el enlace queda desde ya
+                para no re-tocar esta página después. */}
+            <li><a href="/articulos/">Artículos</a></li>
+            <li aria-current="page">{title}</li>
+          </ol>
+        </nav>
+
+        <article class="article">
+          <p class="eyebrow">Artículo</p>
+          <h1>{title}</h1>
+          <p class="article-meta">
+            <time datetime={isoDate(entry.data.date)}>{formatDateEs(entry.data.date)}</time>
+          </p>
+          {
+            entry.data.categories.length > 0 && (
+              <ul class="chips">
+                {entry.data.categories.map((category) => (
+                  <li class="chip">{category.replace(/-/g, ' ')}</li>
+                ))}
+              </ul>
+            )
+          }
+
+          {/* Contenedor de prosa: los estilos hijos usan :global() porque
+              el HTML inyectado con set:html no recibe atributos de scope
+              de Astro. */}
+          <div class="prose" set:html={articleHtml}></div>
+
+          <section class="article-cta card" aria-labelledby="article-cta-title">
+            <h2 id="article-cta-title">¿Te interesa? Habla con Prixline</h2>
+            <p class="card__meta">
+              Cuéntanos qué necesitas y te acompañamos en el siguiente paso.
+            </p>
+            <p class="article-cta__action">
+              <a class="btn btn--accent" href="/#comunidad">Habla con Prixline</a>
+            </p>
+          </section>
+
+          <p class="article-source">
+            Fuente: <a href={originUrl} rel="noopener">prixline.blog</a>
+          </p>
+        </article>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .breadcrumb li + li::before {
+    content: '/';
+    margin-right: var(--space-2);
+    color: var(--color-border);
+  }
+
+  .breadcrumb a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-navy);
+    text-decoration: underline;
+  }
+
+  .article-meta {
+    margin: 0 0 var(--space-4);
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+  }
+
+  .article .chips {
+    margin-bottom: var(--space-6);
+  }
+
+  .article-cta {
+    max-width: 46rem;
+    margin-top: var(--space-7);
+  }
+
+  .article-cta h2 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-2);
+  }
+
+  .article-cta__action {
+    margin: 0;
+  }
+
+  .article-source {
+    max-width: 46rem;
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  /* ---- Prosa del artículo (HTML inyectado con set:html) ---- */
+
+  /* Medida de lectura y ritmo: el contenedor de página es ancho; la prosa
+     se limita para que las líneas no se estiren en pantallas grandes. */
+  .prose {
+    max-width: 46rem;
+    line-height: var(--leading-body);
+  }
+
+  .prose :global(p) {
+    margin: 0 0 var(--space-4);
+  }
+
+  .prose :global(h2),
+  .prose :global(h3),
+  .prose :global(h4) {
+    margin: var(--space-6) 0 var(--space-3);
+    line-height: 1.2;
+  }
+
+  .prose :global(h3) {
+    font-size: var(--text-lg);
+  }
+
+  .prose :global(ul),
+  .prose :global(ol) {
+    margin: 0 0 var(--space-4);
+    padding-left: 1.35rem;
+  }
+
+  .prose :global(li) {
+    margin-bottom: var(--space-2);
+  }
+
+  .prose :global(img) {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: var(--space-4) auto;
+    border-radius: var(--radius-md);
+  }
+
+  /* Embeds 16:9 responsivos sin wrapper de DOM: aspect-ratio sobre el
+     propio iframe (los iframes del corpus ya miden 16:9). */
+  .prose :global(iframe) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    margin: var(--space-5) 0;
+    border: 0;
+    border-radius: var(--radius-md);
+  }
+
+  .prose :global(blockquote) {
+    margin: var(--space-5) 0;
+    padding: var(--space-2) var(--space-4);
+    border-left: 3px solid var(--color-gold);
+    background: var(--color-surface);
+    color: var(--color-muted);
+  }
+
+  .prose :global(blockquote p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .prose :global(a) {
+    color: var(--color-navy);
+    text-underline-offset: 2px;
+  }
+
+  .prose :global(a:hover) {
+    color: var(--color-gold-ink);
+  }
+</style>

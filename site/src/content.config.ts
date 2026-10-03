@@ -28,7 +28,20 @@ const posts = defineCollection({
     // `data.slug` verbatim and then crashes on `id.endsWith(...)`.
     // Coerce to string here; entry ids stay unique (verified no duplicate
     // slug lines across the 813 posts).
-    generateId: ({ entry, data }) => String(data.slug ?? entry),
+    // Second fix: 79 posts carry percent-encoded UTF-8 in the slug (mostly
+    // emoji, `...-%f0%9f%98%ac`). Keeping it writes literal `%xx` directory
+    // names that no URL variant can reach (404 on every form). Decode to the
+    // raw characters so routes and links resolve; malformed sequences fall
+    // back to the raw value. Decoding preserves uniqueness (bijection over
+    // well-formed slugs).
+    generateId: ({ entry, data }) => {
+      const raw = String(data.slug ?? entry);
+      try {
+        return decodeURIComponent(raw);
+      } catch {
+        return raw;
+      }
+    },
   }),
   schema: z.object({
     id: z.number(),
