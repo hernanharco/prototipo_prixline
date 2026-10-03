@@ -6,7 +6,8 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "pipeline:courses": "node scripts/extract-courses.ts --fixture"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",

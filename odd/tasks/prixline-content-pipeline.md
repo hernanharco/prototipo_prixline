@@ -20,8 +20,8 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 
 ## Tareas
 
-- [ ] T1. Rama feature + pipeline base (scripts/, content/, fixtures de prueba)
-- [ ] T2. Extractor de cursos: `/cursos` → `content/courses/*` (~281 fichas con temario) — test-first con fixture
+- [x] T1. Rama feature + pipeline base (scripts/, content/, fixtures de prueba) — commit `c8112e65`
+- [x] T2. Extractor de cursos: `/cursos` → `content/courses/*` (~281 fichas con temario) — test-first con fixture — commit `WIP`
 - [ ] T3. Importador de posts: API WP.com → `content/posts/*` (813, categorías limpias, frontmatter) — test-first
 - [ ] T4. Importar páginas estáticas (prácticas, redes, contacto) +canales a `content/settings`
 - [ ] T5. Scaffolding Astro en `site/` con content collections (courses, posts, pages) — build + typecheck en 0
@@ -31,4 +31,5 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 
 ## Evidencia
 
-- Commits por tarea: (se rellena al cerrar cada tarea)
+- T1: `c8112e65` chore(pipeline): scaffold content pipeline with fixtures (fixtures: cursos 60KB, 3 posts, 54 categorías)
+- T2: extractor test-first (RED module-not-found → GREEN 6/6 tests); run live: **302 fichas** (297 títulos únicos, 4 repetidos con slug `-2`), 0 cuerpos vacíos, 0 títulos basura; regla de frontera: párrafo que empieza por `CURSO` en mayúsculas (el fixture no tiene elementos heading)
