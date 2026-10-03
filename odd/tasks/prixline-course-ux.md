@@ -29,10 +29,10 @@ Decisiones del usuario:
       `thumbnail` (primer id de YouTube del contenido o primera `<img>`) y la
       home muestra los 6 artículos con imagen real (fallback tipográfico si no
       hay). — commit `55a1086f`
-- [ ] T12. Sección YouTube con vídeos reales del canal vía RSS de build
+- [x] T12. Sección YouTube con vídeos reales del canal vía RSS de build
       (`youtube.com/feeds/videos.xml?channel_id=...`, sin API key): últimos
       vídeos con miniatura real `i.ytimg.com`, enlazados, sustituyendo el
-      bloque solo-enlace actual.
+      bloque solo-enlace actual. — commit `WIP12`
 
 ## Criterios de aceptación
 
@@ -56,5 +56,6 @@ Decisiones del usuario:
 - T9: `b0c70f66` — `Temario.astro` (161 l.) clasifica líneas en h2/li/dt/p sin set:html; `[slug].astro` (145 l.); build **304 páginas**, check 0/0/0, `dist/cursos` = **303** rutas, **302** enlaces internos y **0** externos en el catálogo; spot-check guitarra: 1 h1, 21 li, dt de modalidades, breadcrumb con `aria-current`, CTA `/#comunidad`. Pendiente T10: anclas del Header (`#cursos`) muertas en detalle.
 - T10: `355970db` — `CourseCard.astro` (127 l.), grid 1/2/3 cols, tarjeta = título (clamp 2) + nº de temario + hasta 3 chips de la línea de palabras clave real (274/302 con chips, 253 con contador; **0 inventados**); contador vivo `N de 302 cursos` + estado vacío; sin JS se ve la lista completa y el contador es cierto; Header con anclas root `/#…` (arregladas en detalle); gates: build 304, check 0/0/0, 303 rutas, 302 enlaces internos, 0 `<p>`/externos en tarjetas.
 - T11: tests **45/45** (RED→GREEN en extractor y en el filtro); campos CMS `thumbnail`/`videoId`/`thumbnailAlt` en frontmatter (alt siempre presente, editable desde panel); **471 miniaturas reales** (265 prixline.wordpress.com + 94 i.ytimg.com + 37 i0.wp.com + CDN varios) y **0 gravatar** tras el filtro de avatares (clase `avatar`, host gravatar, `s≤128`, escaneo que continúa hasta la primera imagen útil — decisión del padre tras el flag del worker: 623→471); `videoId` 94; home: 6 imgs lazy i.ytimg, 0 src vacío; build/check 0, 303 rutas.
+- T12: tests **58/58** (13 nuevos, RED→GREEN, fixture RSS capturado `scripts/fixtures/youtube-feed.xml`); canal `UCcEX40UDEqB3a_6o9j0NozQ` resuelto desde `externalId` (la página no trae `"channelId":"UC…"`); `content/settings/videos.json` con **12 vídeos** (CMS-editable, 12/12 thumbs i.ytimg); componente con grid de 6, fallback si vacío, badge EN VIVO intacto, **0 ids hardcodeados** en `.astro`; build offline (sin fetch en build); gates: build 304 páginas, check 0/0/0, 303 rutas.
 
 - Commits por tarea: (se rellena al cerrar)
