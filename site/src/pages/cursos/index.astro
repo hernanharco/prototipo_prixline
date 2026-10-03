@@ -15,7 +15,9 @@ const sorted = courses
   .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'))
   .map((course) => ({
     title: decodeEntities(course.data.title),
-    sourceUrl: course.data.sourceUrl,
+    // T9: las tarjetas enlazan a la ficha interna /cursos/<slug>/;
+    // el catálogo ya no saca al visitante al blog de origen.
+    slug: course.data.slug,
   }));
 ---
 
@@ -74,7 +76,7 @@ const sorted = courses
           {
             sorted.map((course) => (
               <li class="catalog-item" data-course={course.title.toLowerCase()}>
-                <a href={course.sourceUrl} rel="noopener noreferrer">{course.title}</a>
+                <a href={`/cursos/${course.slug}/`}>{course.title}</a>
               </li>
             ))
           }

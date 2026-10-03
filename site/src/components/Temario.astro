@@ -1,0 +1,161 @@
+---
+// Renderizador estructurado del cuerpo de un curso importado (T9).
+//
+// El cuerpo viene del importador como texto markdown-ish: la primera línea
+// es un H1 (`# <TÍTULO>`) que NO se renderiza aquí (la página pinta su
+// propio <h1>), y el resto son líneas separadas por UN salto de línea,
+// que en CommonMark NO es un salto de línea: renderizar el cuerpo como
+// markdown colapsaría el temario en un párrafo continuo. Por eso esta
+// componente clasifica cada línea y emite elementos semánticos propios,
+// sin dependencias ni `set:html` (todo el texto se escapa solo, Astro
+// escapa los nodos de texto).
+//
+// Clasificación (en este orden):
+//   1. Primera línea no vacía `# ...` → se descarta.
+//   2. Prefijo `Tema`/`Módulo`/`MÓDULO`/`Modulo`/`Unidad` (insensible a
+//      mayúsculas) → <h2> de sección.
+//   3. Viñetas `–`, `-`, `•` → <li> dentro de un <ul>.
+//   4. Línea `Etiqueta: valor` (etiqueta corta que empieza por mayúscula)
+//      → fila de definición <dt>/<dd> dentro de un <dl>.
+//   5. Cualquier otra línea → <p> propio. Cada línea es un elemento: no
+//      se funden líneas consecutivas, así el temario conserva su
+//      jerarquía en lugar de volver a ser un muro de texto.
+//
+// Las líneas en blanco se omiten; el ritmo vertical lo da CSS.
+
+interface Props {
+  body: string;
+}
+
+const { body } = Astro.props;
+
+type Block =
+  | { type: 'heading'; text: string }
+  | { type: 'list'; items: string[] }
+  | { type: 'rows'; rows: { label: string; value: string }[] }
+  | { type: 'paragraph'; text: string };
+
+// Prefijos de sección del temario importado (Tema 2:, TEMA 1., MÓDULO 3,
+// Unidad 1..., Temario del curso...). La alternativa `m[oó]dulo` cubre
+// con y sin tilde; el flag `i` resuelve mayúsculas (`TEMA`, `UNIDAD`).
+const HEADING_RE = /^(tema|m[oó]dulo|unidad)/i;
+// Viñetas reales del corpus: en dash (–), bullet (•) y guion (-).
+const BULLET_RE = /^[–•-]/;
+// `Etiqueta: valor` estilo "MODALIDADES: A distancia, OnLine.". La
+// etiqueta empieza por mayúscula y es corta (≤70 chars): así las líneas
+// de prosa con dos puntos (`aplicación efectiva...: comunicación,`) o
+// viñetas con dos puntos caen en <p>/<li>, nunca en fila de definición.
+const LABEL_RE = /^([A-ZÁÉÍÓÚÑ][^:]{0,69}?):\s*(.*)$/;
+
+function parseCourseBody(raw: string): Block[] {
+  const blocks: Block[] = [];
+  let sawTitle = false;
+
+  for (const line of raw.split(/\r?\n/)) {
+    const text = line.trim();
+    if (!text) continue;
+
+    // La página renderiza su propio <h1>: descartamos la línea `# ...`.
+    if (!sawTitle) {
+      sawTitle = true;
+      if (text.startsWith('#')) continue;
+    }
+
+    if (HEADING_RE.test(text)) {
+      // "Temario:" → "Temario" (el dos puntos sobrante no aporta).
+      blocks.push({ type: 'heading', text: text.replace(/:\s*$/, '').trim() });
+    } else if (BULLET_RE.test(text)) {
+      const item = text.replace(BULLET_RE, '').trim();
+      const last = blocks[blocks.length - 1];
+      if (last?.type === 'list') last.items.push(item);
+      else blocks.push({ type: 'list', items: [item] });
+    } else {
+      const labelMatch = LABEL_RE.exec(text);
+      if (labelMatch) {
+        const row = { label: labelMatch[1].trim(), value: labelMatch[2].trim() };
+        const last = blocks[blocks.length - 1];
+        if (last?.type === 'rows') last.rows.push(row);
+        else blocks.push({ type: 'rows', rows: [row] });
+      } else {
+        blocks.push({ type: 'paragraph', text });
+      }
+    }
+  }
+
+  return blocks;
+}
+
+const blocks = parseCourseBody(body);
+---
+
+<div class="temario">
+  {
+    blocks.map((block) => {
+      if (block.type === 'heading') return <h2>{block.text}</h2>;
+      if (block.type === 'list')
+        return (
+          <ul>
+            {block.items.map((item) => <li>{item}</li>)}
+          </ul>
+        );
+      if (block.type === 'rows')
+        return (
+          <dl>
+            {block.rows.map((row) => (
+              <div class="temario__row">
+                <dt>{row.label}</dt>
+                {row.value ? <dd>{row.value}</dd> : null}
+              </div>
+            ))}
+          </dl>
+        );
+      return <p>{block.text}</p>;
+    })
+  }
+</div>
+
+<style>
+  /* Medida de lectura: el contenedor de página es ancho; el temario se
+     limita para que las líneas no se estiren en pantallas grandes. */
+  .temario {
+    max-width: 46rem;
+  }
+
+  .temario h2 {
+    margin: var(--space-6) 0 var(--space-3);
+  }
+
+  /* Ritmo compacto y regular: cada línea del importador es un elemento,
+     los márgenes pequeños evitan el efecto "muro" y dan jerarquía sin
+     exceso de texto vertical. */
+  .temario p {
+    margin: 0 0 var(--space-2);
+  }
+
+  .temario ul {
+    margin: 0 0 var(--space-4);
+    padding-left: 1.35rem;
+  }
+
+  .temario li {
+    margin-bottom: var(--space-2);
+  }
+
+  .temario dl {
+    margin: 0 0 var(--space-4);
+  }
+
+  .temario__row {
+    margin-bottom: var(--space-3);
+  }
+
+  .temario dt {
+    font-weight: 700;
+    color: var(--color-navy);
+  }
+
+  .temario dd {
+    margin: 0 0 0 var(--space-4);
+    color: var(--color-muted);
+  }
+</style>

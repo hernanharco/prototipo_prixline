@@ -1,0 +1,145 @@
+---
+// Ficha interna de curso (T9): `/cursos/<slug>/` para las 302 rutas
+// estáticas de la colección `courses`. El visitante permanece en el sitio:
+// el temario se renderiza con Temario.astro (jerarquía, sin muro de
+// texto) y la fuente origen queda como enlace discreto al pie. Sin JS ni
+// dependencias nuevas; composición Header/Footer igual que la home.
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import { decodeEntities } from '../../lib/format';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import Temario from '../../components/Temario.astro';
+import Footer from '../../components/Footer.astro';
+
+interface Props {
+  entry: CollectionEntry<'courses'>;
+}
+
+// 302 rutas: una por entrada de la colección. Los slugs del corpus están
+// verificados como únicos y URL-seguros ([a-z0-9-]), así que `data.slug`
+// es el parámetro canónico de la ruta.
+export async function getStaticPaths() {
+  const courses = await getCollection('courses');
+  return courses.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const title = decodeEntities(entry.data.title);
+const body = entry.body ?? '';
+const sourceUrl = entry.data.sourceUrl;
+
+// Meta description derivada del cuerpo (no hardcodeada): primeros ~155
+// caracteres tras quitar la línea `# ...` inicial y colapsar espacios,
+// cortada en frontera de palabra. NOTA: un campo `description` en el
+// frontmatter (añadido al schema del CMS) podrá sobreescribir este valor
+// derivado más adelante sin tocar esta página.
+function deriveDescription(raw: string): string {
+  const text = raw.replace(/^\s*#[^\n]*\n?/, '').replace(/\s+/g, ' ').trim();
+  const MAX = 155;
+  if (text.length <= MAX) return text;
+  const cut = text.slice(0, MAX);
+  const boundary = cut.lastIndexOf(' ');
+  return `${(boundary > MAX / 2 ? cut.slice(0, boundary) : cut).trimEnd()}…`;
+}
+
+const description = deriveDescription(body);
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} — Cursos Prixline</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido" class="section">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            <li><a href="/cursos/">Cursos</a></li>
+            <li aria-current="page">{title}</li>
+          </ol>
+        </nav>
+
+        <p class="eyebrow">Curso</p>
+        <h1>{title}</h1>
+
+        <Temario body={body} />
+
+        <section class="course-cta card" aria-labelledby="course-cta-title">
+          <h2 id="course-cta-title">¿Te interesa? Habla con Prixline</h2>
+          <p class="card__meta">
+            Cuéntanos qué curso te interesa y te acompañamos en el siguiente paso.
+          </p>
+          <p class="course-cta__action">
+            <a class="btn btn--accent" href="/#comunidad">Habla con Prixline</a>
+          </p>
+        </section>
+
+        <p class="course-source">
+          Fuente: <a href={sourceUrl} rel="noopener">prixline.blog</a>
+        </p>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .breadcrumb li + li::before {
+    content: '/';
+    margin-right: var(--space-2);
+    color: var(--color-border);
+  }
+
+  .breadcrumb a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-navy);
+    text-decoration: underline;
+  }
+
+  .course-cta {
+    max-width: 46rem;
+    margin-top: var(--space-7);
+  }
+
+  .course-cta h2 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-2);
+  }
+
+  .course-cta__action {
+    margin: 0;
+  }
+
+  .course-source {
+    max-width: 46rem;
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+</style>
