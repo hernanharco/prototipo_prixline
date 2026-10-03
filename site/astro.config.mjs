@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// TODO: real domain — a real domain decision is pending.
+// Production domain of the Prixline gift site.
 export default defineConfig({
-  site: 'https://prixline.example',
+  site: 'https://prixline.rincom.es',
 });
