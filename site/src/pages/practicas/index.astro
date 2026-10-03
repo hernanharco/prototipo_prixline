@@ -1,0 +1,228 @@
+---
+// Página interna de prácticas (T15): `/practicas/` renderiza el cuerpo REAL
+// importado de la página `pages/practicas` (colección `pages`, frontmatter
+// title/slug/sourceUrl/originUrl/extractedAt) vía `sanitizeArticleHtml` en
+// el mismo contenedor `.prose` de las fichas de artículo (T13). Es el
+// destino del CTA de la sección Prácticas de la home y del enlace
+// "Prácticas" del menú. La fuente origen queda como nota discreta.
+// Sin dependencias; composición Header/Footer igual que el resto de rutas.
+import { getEntry } from 'astro:content';
+import { decodeEntities } from '../../lib/format';
+import { sanitizeArticleHtml } from '../../lib/sanitizeHtml';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const entry = await getEntry('pages', 'practicas');
+if (!entry) {
+  throw new Error('Falta la entrada importada `pages/practicas` (content/pages/practicas.md).');
+}
+
+// H1 = título del frontmatter importado ("Prácticas y Trabajo"), decodificado.
+// No se inventa un título alternativo: es el título real de la página origen.
+const title = decodeEntities(entry.data.title);
+const originUrl = entry.data.originUrl;
+
+// Texto plano de un fragmento HTML (patrón de articulos/[slug].astro):
+// quita etiquetas, decodifica entidades y colapsa espacios.
+function plainText(fragment: string): string {
+  return decodeEntities(fragment.replace(/<[^>]*>/g, ''))
+    .replace(/[\s\u00a0]+/g, ' ')
+    .trim();
+}
+
+// Corte en frontera de palabra a ≤155 caracteres (patrón de cursos/artículos).
+function clampDescription(text: string): string {
+  const MAX = 155;
+  if (text.length <= MAX) return text;
+  const cut = text.slice(0, MAX);
+  const boundary = cut.lastIndexOf(' ');
+  return `${(boundary > MAX / 2 ? cut.slice(0, boundary) : cut).trimEnd()}…`;
+}
+
+// El importador escribe `# <TÍTULO>` como primera línea; esta página pinta su
+// propio <h1>, así que se descarta (patrón de las fichas de artículo).
+const rawBody = (entry.body ?? '').replace(/^\s*#[^\n]*\n?/, '');
+
+// Cuerpo saneado: sin <script>, sin handlers on*, sin iframes no
+// permitidos y sin href/src javascript: (contrato de sanitizeHtml.ts).
+const proseHtml = sanitizeArticleHtml(rawBody);
+
+// Meta description DERIVADA del cuerpo importado (nunca inventada):
+// primeros ~155 caracteres del texto plano, cortado en frontera de palabra.
+const description = clampDescription(plainText(rawBody));
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} — Prixline</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido" class="section">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            <li aria-current="page">Prácticas</li>
+          </ol>
+        </nav>
+
+        <article class="article">
+          <p class="eyebrow">Prácticas y trabajo</p>
+          <h1>{title}</h1>
+
+          {/* Contenedor de prosa idéntico al de las fichas de artículo: los
+              estilos hijos usan :global() porque el HTML inyectado con
+              set:html no recibe atributos de scope de Astro. */}
+          <div class="prose" set:html={proseHtml}></div>
+
+          {/* CTA interno: el visitante NO sale a prixline.blog (T15). */}
+          <section class="article-cta card" aria-labelledby="practicas-cta-title">
+            <h2 id="practicas-cta-title">¿Te interesa? Habla con Prixline</h2>
+            <p class="card__meta">
+              Cuéntanos qué necesitas y te acompañamos en el siguiente paso.
+            </p>
+            <p class="article-cta__action">
+              <a class="btn btn--accent" href="/contacto/">Hablar con Prixline</a>
+            </p>
+          </section>
+
+          {/* Atribución discreta al contenido importado (decisión documentada). */}
+          <p class="article-source">
+            Fuente: <a href={originUrl} rel="noopener">prixline.blog</a>
+          </p>
+        </article>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .breadcrumb li + li::before {
+    content: '/';
+    margin-right: var(--space-2);
+    color: var(--color-border);
+  }
+
+  .breadcrumb a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-navy);
+    text-decoration: underline;
+  }
+
+  .article-cta {
+    max-width: 46rem;
+    margin-top: var(--space-7);
+  }
+
+  .article-cta h2 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-2);
+  }
+
+  .article-cta__action {
+    margin: 0;
+  }
+
+  .article-source {
+    max-width: 46rem;
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  /* ---- Prosa de la página (HTML inyectado con set:html) ---- */
+  /* Misma medida de lectura y ritmo que las fichas de artículo (T13). */
+
+  .prose {
+    max-width: 46rem;
+    line-height: var(--leading-body);
+  }
+
+  .prose :global(p) {
+    margin: 0 0 var(--space-4);
+  }
+
+  .prose :global(h2),
+  .prose :global(h3),
+  .prose :global(h4) {
+    margin: var(--space-6) 0 var(--space-3);
+    line-height: 1.2;
+  }
+
+  .prose :global(h3) {
+    font-size: var(--text-lg);
+  }
+
+  .prose :global(ul),
+  .prose :global(ol) {
+    margin: 0 0 var(--space-4);
+    padding-left: 1.35rem;
+  }
+
+  .prose :global(li) {
+    margin-bottom: var(--space-2);
+  }
+
+  .prose :global(img) {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: var(--space-4) auto;
+    border-radius: var(--radius-md);
+  }
+
+  .prose :global(iframe) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    margin: var(--space-5) 0;
+    border: 0;
+    border-radius: var(--radius-md);
+  }
+
+  .prose :global(blockquote) {
+    margin: var(--space-5) 0;
+    padding: var(--space-2) var(--space-4);
+    border-left: 3px solid var(--color-gold);
+    background: var(--color-surface);
+    color: var(--color-muted);
+  }
+
+  .prose :global(blockquote p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .prose :global(a) {
+    color: var(--color-navy);
+    text-underline-offset: 2px;
+  }
+
+  .prose :global(a:hover) {
+    color: var(--color-gold-ink);
+  }
+</style>

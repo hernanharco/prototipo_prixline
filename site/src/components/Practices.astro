@@ -5,6 +5,8 @@
 // frases tal cual; no se inventa contenido. La imagen de WordPress de la
 // página original se omite a propósito: el home no debe hacer peticiones
 // de red en tiempo de ejecución salvo enlaces salientes.
+// T15: el CTA apunta a la página interna /practicas/ (antes: originUrl del
+// blog). El texto mostrado NO cambia: solo cambia el destino del CTA.
 import { getEntry } from 'astro:content';
 import { decodeEntities } from '../lib/format';
 
@@ -22,7 +24,6 @@ const paragraphs = (entry?.body ?? '')
 
 const lead = paragraphs[0] ?? '';
 const details = paragraphs.slice(1, 4);
-const originUrl = entry?.data.originUrl ?? 'https://prixline.blog/practicas/';
 ---
 
 <section class="section" id="practicas" aria-labelledby="practicas-title">
@@ -33,7 +34,7 @@ const originUrl = entry?.data.originUrl ?? 'https://prixline.blog/practicas/';
       {lead && <p class="practices__lead">{lead}</p>}
       {details.map((text) => <p>{text}</p>)}
       <p>
-        <a class="btn btn--ghost" href={originUrl}>Más información sobre prácticas</a>
+        <a class="btn btn--ghost" href="/practicas/">Más información sobre prácticas</a>
       </p>
     </div>
   </div>

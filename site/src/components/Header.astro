@@ -1,9 +1,10 @@
 ---
-// Header sticky con wordmark de texto, anclas internas y un CTA al contacto
-// del sitio de origen. Móvil: botón con aria-expanded + script mínimo
+// Header sticky con wordmark de texto, anclas internas y un CTA a la
+// página interna de contacto. Móvil: botón con aria-expanded + script mínimo
 // (sin dependencias). Sin JS la navegación permanece visible (clase `js`
 // añadida al <html> solo cuando el script de conmutación está disponible).
-const CONTACT_URL = 'https://prixline.blog/contacto/';
+// T15: el CTA apunta a /contacto/ (página interna), no a prixline.blog.
+const CONTACT_URL = '/contacto/';
 
 // Anclas ancladas a la home (`/#seccion`): los fragmentos a secas
 // (`#comunidad`) solo resuelven en `/`, así que en `/cursos/` y en las

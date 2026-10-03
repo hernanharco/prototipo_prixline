@@ -1,0 +1,188 @@
+---
+// Página interna de contacto (T15): `/contacto/` construida SOLO con datos
+// reales de content/settings/social.json — la columna de chat
+// (`platform: sugerencias`, CTA primario) y los canales de comunidad — más
+// el enlace a las opiniones (`platform: opiniones`, hilo de comentarios
+// real en el sitio de origen). Sin formulario inventado, sin email ni
+// teléfono hardcodeados: los datos no los contienen y no se inventan.
+// Es el destino del CTA del header y del enlace "Sugerencias" del pie.
+// Chips con el mismo estilo que Community.astro (duplicación deliberada:
+// extraer lógica compartida no es trivial sin refactorizar el componente).
+import socialSettings from '../../../../content/settings/social.json';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const NON_SOCIAL_PLATFORMS = new Set(['sugerencias', 'opiniones']);
+
+// Chat real (CTA primario) y opiniones (línea secundaria), desde los datos.
+const chatChannel = socialSettings.channels.find((c) => c.platform === 'sugerencias');
+const opinionsChannel = socialSettings.channels.find((c) => c.platform === 'opiniones');
+
+// Canales de comunidad reales: 13 entradas − 2 no sociales = 11.
+const channels = socialSettings.channels.filter(
+  (c) => !NON_SOCIAL_PLATFORMS.has(c.platform),
+);
+
+if (!chatChannel || !opinionsChannel) {
+  throw new Error('social.json debe contener los canales `sugerencias` y `opiniones`.');
+}
+
+// Meta description DERIVADA de los datos (recuento real de canales), no inventada.
+const description = `Habla con Prixline por chat y descubre nuestros ${channels.length} canales de comunidad: cursos, prácticas y trabajo en España.`;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contacto — Prixline</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido" class="section">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            <li aria-current="page">Contacto</li>
+          </ol>
+        </nav>
+
+        <p class="eyebrow">Contacto</p>
+        <h1>Contacto</h1>
+        <p class="section-intro">
+          La vía más directa es el chat de Prixline; además estamos presentes
+          en {channels.length} canales de comunidad donde publicamos contenido,
+          avisos y recursos.
+        </p>
+
+        {/* CTA primario: el chat REAL de social.json (`platform: sugerencias`).
+            Vive en el dominio de origen por diseño —el chat está ahí— y es el
+            único enlace de contacto de la página (nada inventado). */}
+        <section class="card contact-chat" aria-labelledby="chat-title">
+          <h2 id="chat-title">¿Hablamos?</h2>
+          <p class="card__meta">
+            Cuéntanos qué necesitas y te ayudamos con cursos, prácticas y tu
+            camino en España.
+          </p>
+          <p class="contact-chat__action">
+            <a class="btn btn--accent" href={chatChannel.url} rel="noopener noreferrer">
+              Abrir chat con Prixline
+            </a>
+          </p>
+        </section>
+
+        {/* Canales de comunidad reales (excluye sugerencias/opiniones). */}
+        <section class="contact-channels" aria-labelledby="channels-title">
+          <h2 id="channels-title">Canales de comunidad</h2>
+          <p class="section-intro">
+            Sigue a Prixline donde prefieras: vídeo, podcast, audio y redes.
+          </p>
+          <ul class="chips contact-channels__chips">
+            {
+              channels.map((channel) => (
+                <li>
+                  <a class="chip" href={channel.url} rel="noopener noreferrer">
+                    <span class="chip__icon" aria-hidden="true">
+                      {channel.label.trim().charAt(0).toUpperCase()}
+                    </span>
+                    {channel.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </section>
+
+        {/* Línea secundaria: opiniones reales (comentarios del sitio origen,
+            externo legítimo documentado). La etiqueta es la del dato. */}
+        <p class="contact-opinions">
+          ¿Quieres saber qué opinan los alumnos?{' '}
+          <a href={opinionsChannel.url} rel="noopener noreferrer">
+            {opinionsChannel.label}
+          </a>
+        </p>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .breadcrumb li + li::before {
+    content: '/';
+    margin-right: var(--space-2);
+    color: var(--color-border);
+  }
+
+  .breadcrumb a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-navy);
+    text-decoration: underline;
+  }
+
+  .contact-chat {
+    max-width: 46rem;
+    margin-top: var(--space-6);
+  }
+
+  .contact-chat h2 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-2);
+  }
+
+  .contact-chat__action {
+    margin: 0;
+  }
+
+  .contact-channels {
+    max-width: 52rem;
+    margin-top: var(--space-7);
+  }
+
+  /* Mismo chip que Community.astro: inicial de la etiqueta en burbuja. */
+  .contact-channels__chips {
+    margin-top: var(--space-5);
+    gap: var(--space-3);
+  }
+
+  .contact-channels__chips .chip {
+    padding: 0.4rem 0.9rem;
+    font-size: var(--text-sm);
+  }
+
+  .contact-opinions {
+    max-width: 46rem;
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .contact-opinions a {
+    color: var(--color-navy);
+    text-underline-offset: 2px;
+  }
+
+  .contact-opinions a:hover {
+    color: var(--color-gold-ink);
+  }
+</style>

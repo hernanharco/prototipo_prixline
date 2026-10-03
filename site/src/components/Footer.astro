@@ -1,13 +1,21 @@
 ---
 // Pie de página: tagline real, enlace al blog interno /articulos/ (T14),
-// enlaces de sugerencias y opiniones (los dos canales no sociales de
-// social.json), enlace al sitio de origen y aviso de dominio pendiente.
+// enlace de sugerencias re-apuntado a la página interna /contacto/ (T15),
+// enlace de opiniones (hilo de comentarios real, externo legítimo) y enlace
+// al sitio de origen. Aviso de dominio pendiente.
 import siteSettings from '../../../content/settings/site.json';
 import socialSettings from '../../../content/settings/social.json';
 
-const supportLinks = socialSettings.channels.filter(
-  (channel) => channel.platform === 'sugerencias' || channel.platform === 'opiniones',
-);
+// T15: `sugerencias` se internaliza → /contacto/ (página propia); la etiqueta
+// del dato se conserva. `opiniones` se mantiene externo: el hilo de
+// comentarios vive en el sitio de origen (decisión documentada).
+const supportLinks = socialSettings.channels
+  .filter((channel) => channel.platform === 'sugerencias' || channel.platform === 'opiniones')
+  .map((channel) => ({
+    label: channel.label,
+    href: channel.platform === 'sugerencias' ? '/contacto/' : channel.url,
+    external: channel.platform !== 'sugerencias',
+  }));
 
 const year = new Date().getFullYear();
 ---
@@ -30,7 +38,9 @@ const year = new Date().getFullYear();
         {
           supportLinks.map((link) => (
             <li>
-              <a href={link.url} rel="noopener noreferrer">{link.label}</a>
+              <a href={link.href} rel={link.external ? 'noopener noreferrer' : undefined}>
+                {link.label}
+              </a>
             </li>
           ))
         }
