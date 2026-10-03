@@ -52,7 +52,19 @@ export const SITE_NAME = "Prixline";
 export const SITE_TAGLINE = "Cursos -> prácticas -> trabajo";
 export const ORIGIN_SITE = "https://prixline.blog/";
 export const YOUTUBE_HANDLE = "@prixline";
-export const LIVE_CHECK_INTERVAL_SECONDS = 300;
+/**
+ * Intervalo de comprobación del badge "EN VIVO" (T7), en segundos.
+ *
+ * Cuota YouTube Data API v3 (plan gratis: 10.000 unidades/día):
+ *   search.list   → 100 unidades por llamada
+ *   channels.list →   1 unidad  por llamada (channelId cacheado 24 h en el
+ *                     navegador; la búsqueda es la llamada cara)
+ * 300 s → 288 búsquedas/día × 100 u = 28.800 u → FUERA de cuota.
+ * 900 s →  96 búsquedas/día × 100 u =  9.600 u → dentro de cuota (< 10.000).
+ * Este valor se inlinea en el build (data-check-interval-seconds) y el
+ * generador es el único dueño de content/settings/site.json.
+ */
+export const LIVE_CHECK_INTERVAL_SECONDS = 900;
 
 /** API record URL of the redes page (sourceUrl for both settings files). */
 export function redesSourceUrl(): string {

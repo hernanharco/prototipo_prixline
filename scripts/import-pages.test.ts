@@ -13,7 +13,12 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 import { renderPage, type WpPage } from "./import-pages.ts";
-import { buildSiteSettings, buildSocialSettings, parseChannels } from "./import-settings.ts";
+import {
+  buildSiteSettings,
+  buildSocialSettings,
+  LIVE_CHECK_INTERVAL_SECONDS,
+  parseChannels,
+} from "./import-settings.ts";
 
 const FIXTURE_PAGES_URL = new URL("./fixtures/pages-sample.json", import.meta.url);
 
@@ -155,7 +160,10 @@ test("site.json shape validates", () => {
     "live.youtubeHandle missing",
   );
   assert.equal(settings.live.youtubeHandle, "@prixline");
-  assert.equal(settings.live.checkIntervalSeconds, 300);
+  // Quota-driven value owned by the generator (900s = 96 searches/day, under
+  // the 10.000 free YouTube units/day); assert against the source of truth.
+  assert.equal(settings.live.checkIntervalSeconds, LIVE_CHECK_INTERVAL_SECONDS);
+  assert.equal(LIVE_CHECK_INTERVAL_SECONDS, 900);
   assert.equal(settings.sourceUrl, SOURCE_URL);
   assert.equal(settings.extractedAt, EXTRACTED_AT);
 });

@@ -4,8 +4,8 @@
   "originSite": "https://prixline.blog/",
   "live": {
     "youtubeHandle": "@prixline",
-    "checkIntervalSeconds": 300
+    "checkIntervalSeconds": 900
   },
   "sourceUrl": "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/pages?slug=redes",
-  "extractedAt": "2026-10-03T06:27:35.503Z"
+  "extractedAt": "2026-10-03T10:59:45.728Z"
 }
