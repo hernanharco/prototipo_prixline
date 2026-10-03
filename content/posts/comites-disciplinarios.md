@@ -14,6 +14,8 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/02/2014-02-21-disciplinas.jpg?w=450&h=335"
+thumbnailAlt: ""
 ---
 
 # Comités disciplinarios

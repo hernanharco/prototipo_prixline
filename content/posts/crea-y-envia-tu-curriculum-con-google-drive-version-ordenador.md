@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La entrada de hoy tiene como fin ofrecer un tutorial super sencillo para crear tu curriculum con Google Drive desde tu ordenador, portátil, etc. En … Crea y envía tu curriculum con Google Drive (versión ordenador)"
+thumbnail: "https://i0.wp.com/plandempleo.files.wordpress.com/2021/03/crear-y-enviar-cv-desde-drive.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Crea y envía tu curriculum con Google Drive (versión&nbsp;ordenador)

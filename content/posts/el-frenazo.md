@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: republica.com"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/10/2015-10-02-frenazo.jpg?w=450&h=335"
+thumbnailAlt: ""
 ---
 
 # El frenazo

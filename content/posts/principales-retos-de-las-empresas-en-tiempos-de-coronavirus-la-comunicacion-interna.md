@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Madrid, 23 de abril de 2020.- En la actualidad, las empresas se enfrentan al reto de mantener motivado, implicado y, sobre todo, informado, a un … Principales retos de las empresas en tiempos de coronavirus: la comunicación interna."
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/04/ndp-fitbook-comunicacion.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Principales retos de las empresas en tiempos de coronavirus: la comunicación&nbsp;interna.

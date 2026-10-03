@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Decimos en la entrevista de trabajo que tengo pensado irme de&nbsp;vacaciones?

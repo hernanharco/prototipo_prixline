@@ -21,6 +21,8 @@ originCategories:
   - "recursos"
   - "vídeos"
 excerpt: "Originally posted on Transform The World Artistically: ¡Hola! Acabo de llegar de trabajar…son las 3 am hora de España, y como no puedo dormirme sin relajarme un rato…me he puesto a ver vídeos de TED (http://www.ted.com/; charlas de 20 minutos que dan personas significativas con experiencias y conocimiento muy interesantes de todo el mundo). Y&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/02/dirtyjobs.jpg?w=417&h=338"
+thumbnailAlt: ""
 ---
 
 # Vídeo de Mike Rowe en TED: ¡celebrando al trabajo, cualquier tipo de&nbsp;trabajo!

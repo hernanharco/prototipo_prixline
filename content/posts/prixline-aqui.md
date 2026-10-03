@@ -24,6 +24,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Sencillo es mejor: El título de esta entrada es una máxima que se trata actualmente en muchas disciplinas de tipo psicológico. Es algo así como ser consciente de dónde estoy (entorno físico) y como me siento (entorno psíquico) en un momento determinado que es el “ahora” (momento presente). Se trata de que&hellip;"
+thumbnail: "http://sencilloesmejor.files.wordpress.com/2012/11/2012-11-27-11-18-29.jpg?w=225&h=300"
+thumbnailAlt: ""
 ---
 
 # Estar presente aquí y&nbsp;ahora

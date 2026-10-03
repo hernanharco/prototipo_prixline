@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Adecua tu discurso en función de lo que quiere oír tu interlocutor. Utiliza tu inteligencia emocional para saber cómo puedes conectar con él y causar una buena impresión… destacando aquéllas cosas positivas de tu curriculum. Por tanto, no necesitas ser tan transparente. Honestidad, sinceridad, sí siempre. Transparencia… sólo a veces."
+thumbnailAlt: ""
 ---
 
 # En la #entrevista: ¿Honestidad o&nbsp;transparencia?

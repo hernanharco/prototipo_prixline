@@ -16,6 +16,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "¿Utilizas alguna de estas herramientas? ¿Qué opinas del nuevo rumbo que estamos tomando hacia las Redes Sociales para encontrar trabajo?"
+thumbnailAlt: ""
 ---
 
 # Herramientas online para crear y mejorar tu&nbsp;currículum

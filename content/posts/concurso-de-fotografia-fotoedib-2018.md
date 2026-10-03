@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La escuela Edib organiza por séptimo año consecutivo su concurso de fotografía nacional FOTOEDIB 2018 (http://www.fotoedib.com), en el que cada participante podrá presentar su mejor fotografía. La temática del concurso es libre. El jurado valorará la creatividad, el retoque fotográfico, el impacto visual de la imagen y las sensaciones que&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/06/fotoedib.png?w=150&h=150"
+thumbnailAlt: ""
 ---
 
 # Concurso de Fotografía FOTOEDIB&nbsp;2018.

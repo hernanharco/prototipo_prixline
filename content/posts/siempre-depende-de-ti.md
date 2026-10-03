@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on merceroura: Hay esperanza. Cuesta notarlo, a veces, porque el cansancio apremia y la rutina se come la poesía. Porque la ansiedad desdibuja el perfil de todo lo que nos rodea y lo convierte en desesperación. Porque cuando te sientes hundido vas dando tumbos y te golpeas con el perímetro de todo lo&hellip;"
+thumbnailAlt: ""
 ---
 
 # Siempre depende de&nbsp;ti

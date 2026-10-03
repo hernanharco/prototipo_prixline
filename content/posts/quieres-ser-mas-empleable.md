@@ -17,6 +17,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Quieres ser más&nbsp;empleable?

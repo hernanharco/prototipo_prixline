@@ -16,6 +16,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Mi opinión es que este curso ha sido de gran ayuda para mi formación en cuanto al mundo de las telecomunicaciones. Jo que soy técnico en instalaciones electrotécnicas y no tenía los conocimientos suficientes para realizar instalaciones de antenas. Con la ayuda de este curso creo que he avanzado bastante en mi formación, y lo [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Curso de Instalador de Antenas y&nbsp;TDT

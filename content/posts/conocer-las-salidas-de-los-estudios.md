@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Tanto si se estudia Formación Profesional como si se realizan estudios superiores, conviene saber cuales son las salidas profesionales de los mismos o el nivel de empleabilidad. El Diario El Pais suele publicar artículos interesantes en este sentido. Hoy, por ejemplo ha publicado el artículo FP: Administrativo y&hellip;"
+thumbnailAlt: ""
 ---
 
 # Conocer las salidas de los&nbsp;estudios

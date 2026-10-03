@@ -18,6 +18,8 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Para autoemplearse, ¿cuál es la mejor cualidad que tenemos los españoles? Creo que es el optimismo. Somos un país que, pese a todo, nos echamos todo a la espalda, y la semana que viene nos habremos olvidado del problema de hoy. Eso es una gran cualidad, de verdad. No arrastramos, no somos rencorosos con nuestros [&hellip;]"
+thumbnail: "http://ristomejide.com/wp-content/uploads/2013/11/risto-15.jpg?w=300"
+thumbnailAlt: ""
 ---
 
 # Entrevista a Risto Mejide &#8221; El miedo es el peor paralizante&#8221;.

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Si te manejas bien en las redes sociales, quieres ampliar tu red de contactos y de paso, acceder a ofertas de empleo, sin duda BeBee puede que sea lo que estás buscando. A la sombra de la red profesional por excelencia, LinkedIn, nació en 2015 BeBee. Y tal y como dicen&hellip;"
+thumbnail: "https://i.ytimg.com/vi/I9G3nkWwZS8/hqdefault.jpg"
+videoId: "I9G3nkWwZS8"
+thumbnailAlt: ""
 ---
 
 # BeBee, la red profesional más&nbsp;social

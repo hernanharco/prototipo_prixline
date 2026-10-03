@@ -24,6 +24,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Llega el verano, llegan los estudiantes de prácticas a las empresas. Una colaboración en la que salen ganando todas las partes si se aprovecha al máximo. El becario gana experiencia y pone en uso sus conocimientos, e incluso, puede ganar un contrato. Mientras, la empresa identifica talento y delega ciertas tareas. De julio a septiembre, [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/06/20120627-222136.jpg"
+thumbnailAlt: ""
 ---
 
 # Llegan los estudiantes de prácticas a las&nbsp;empresas.

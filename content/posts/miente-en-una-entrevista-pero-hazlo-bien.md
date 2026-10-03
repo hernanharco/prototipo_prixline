@@ -20,6 +20,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Miente en una entrevista, pero hazlo&nbsp;bien¡¡

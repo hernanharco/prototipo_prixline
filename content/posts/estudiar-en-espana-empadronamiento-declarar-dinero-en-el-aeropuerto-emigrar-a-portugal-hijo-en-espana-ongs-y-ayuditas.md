@@ -16,6 +16,7 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "De esto y más hablamos hoy. Únete al grupo de Telegram https://t.me/prixliners y así aumentamos la “Inteligencia Colectiva”"
+thumbnailAlt: ""
 ---
 
 # ¿Estudiar en España, empadronamiento, declarar dinero en el aeropuerto, emigrar a Portugal, hijo en España, ONGs y ayuditas&#8230;?

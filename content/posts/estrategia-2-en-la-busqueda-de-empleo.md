@@ -15,6 +15,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: En post anterior vimos la estrategia 1 en la Búsqueda de Empleo, la del Cañon. Otra de las estrategias para buscar trabajo es la del “francotirador”. Si la del cañón era buscar a “bulto”, sin mucha precisión para detectar aquello que se nos escapa, la del francotirador es aquella que&hellip;"
+thumbnailAlt: ""
 ---
 
 # Estrategia 2 en la Búsqueda de&nbsp;Empleo

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Britney nos cuenta como ha hecho para estar legal en España… Síguenos en Telegram https://t.me/prixliners aumentamos la Inteligencia Colectiva y desde allí te ayudamos 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España http://PRIX.com/contacto 💚 Spotify: http://bit.ly/prixline 🌋 Instagram: http://instagram.com/prixline/ 🎥 TikTok: http://prixline.TV 🐦 Twitter: http://twitter.com/prixline"
+thumbnail: "https://i.ytimg.com/vi/NsYCT5HKXDA/hqdefault.jpg"
+videoId: "NsYCT5HKXDA"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ &#8220;PASO a PASO&#8221; para Estar LEGAL en ESPAÑA 🇪🇸 😃&nbsp;👍

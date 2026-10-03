@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La mejor forma de conseguir que se lea tu curriculum es llegar al máximo de seleccionadores posibles, a los que informar de manera breve, clara y concisa de tus capacidades y habilidades para el puesto, que es lo que te diferencia de los demás, despertando de este modo el interés por conocernos mejor en una [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Sólo 20 segundos para tu&nbsp;curriculum

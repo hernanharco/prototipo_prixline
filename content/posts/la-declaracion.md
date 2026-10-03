@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Excelente @ferranmartin @FerranMartín View original post"
+thumbnail: "http://ferranhumor.files.wordpress.com/2014/02/2014-02-08-declaracion.jpg?w=450&h=335"
+thumbnailAlt: ""
 ---
 
 # La declaración

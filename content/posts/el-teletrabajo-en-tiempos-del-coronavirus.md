@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En esta situación de emergencia sanitaria y alarma social, se está produciendo un experimento global: muchas compañías han optado (precipitadamente) … El teletrabajo en tiempos del coronavirus Sea como sea, resulta curioso que haya tenido que llegar un virus de estas características para que las compañías comiencen a plantearse la posibilidad de implantar una modalidad [&hellip;]"
+thumbnail: "https://i0.wp.com/joanaherrerogarcia.files.wordpress.com/2020/03/teletrabajo-1.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # El teletrabajo en tiempos del&nbsp;coronavirus

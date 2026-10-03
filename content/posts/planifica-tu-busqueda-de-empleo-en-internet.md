@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Planifica tu búsqueda de empleo en&nbsp;internet

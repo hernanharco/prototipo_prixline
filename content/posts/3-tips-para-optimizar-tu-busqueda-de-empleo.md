@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Septiembre ya está aquí. Mucha gente odia este mes, sobre todo los/as estudiantes, la vuelta al cole y tal… Pero a mi me gusta mucho, siempre digo que es el segundo enero del año, y esto hay que verlo como una especie de segunda oportunidad, de volver a plantear esos propósitos&hellip;"
+thumbnailAlt: ""
 ---
 
 # 3 tips para optimizar tu búsqueda de&nbsp;empleo

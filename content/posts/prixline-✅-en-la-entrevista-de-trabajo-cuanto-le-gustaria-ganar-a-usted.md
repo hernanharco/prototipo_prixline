@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/hY6n5L-UPLM/hqdefault.jpg"
+videoId: "hY6n5L-UPLM"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ En la entrevista de TRABAJO&#8230; ¿Cuánto le gustaría ganar a&nbsp;usted?

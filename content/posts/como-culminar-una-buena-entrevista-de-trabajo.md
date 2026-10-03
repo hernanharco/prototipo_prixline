@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: El mundo de las entrevistas de trabajo es complejo, pero no tiene por qué ser difícil. Hace unos días María Luisa Moreno Cobián daba unas cuantas recomendaciones más que interesantes para preparar una entrevista de trabajo a través de un webinar en Infojobs (si no lo has visto, aquí tienes el&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cómo culminar una buena entrevista de&nbsp;trabajo

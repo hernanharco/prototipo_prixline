@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on merceroura: ¿Pareces más encorvado de la cuenta o tienes una postura corporal cerrada? ¿Bajas la cabeza? Todo eso no solo te muestra antes los demás como una persona hundida y poco amigable y por tanto te cierra puertas en el ámbito laboral y el personal sino que te hace sentir mal a&hellip;"
+thumbnail: "https://i.ytimg.com/vi/3wOrIRV9Fdg/hqdefault.jpg"
+videoId: "3wOrIRV9Fdg"
+thumbnailAlt: ""
 ---
 
 # Modifica tu lenguaje corporal, modifica tu&nbsp;vida

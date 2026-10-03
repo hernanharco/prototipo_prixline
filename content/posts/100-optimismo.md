@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/10450798_420826498056392_2529715322496605700_n.jpg?w=594&h=446"
+thumbnailAlt: ""
 ---
 
 # 100% Optimismo

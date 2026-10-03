@@ -27,6 +27,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Conocer el mercado laboral en el que nos moveremos es de vital inportancia para nuestra futura inserción laboral. El conocimiento de ocupaciones emergentes puede ser nuestro gran aliado en la lucha contra el desempleo. 1.- Guía de nuevas profesiones. Te ofrecemos un diccionario-guía de nuevas ocupaciones organizadas por sectores. Se trata de ocupaciones emergentes provocadas [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/11/prixline-trabajando.jpeg?w=263&h=192"
+thumbnailAlt: ""
 ---
 
 # Guías de Ocupaciones&nbsp;Profesionales

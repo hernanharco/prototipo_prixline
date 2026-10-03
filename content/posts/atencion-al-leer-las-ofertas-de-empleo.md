@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Atención al leer las ofertas de&nbsp;empleo

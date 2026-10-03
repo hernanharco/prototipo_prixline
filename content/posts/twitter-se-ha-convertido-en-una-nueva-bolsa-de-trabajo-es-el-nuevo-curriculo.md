@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Twitter se ha convertido en una nueva bolsa de trabajo. Es el nuevo&nbsp;currículo

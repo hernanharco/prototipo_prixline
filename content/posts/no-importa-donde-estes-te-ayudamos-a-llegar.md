@@ -16,6 +16,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Porque sabemos que buscar trabajo es un trabajo en sí, nace empléAte, la App de Adecco que te ayudará a planificar tus entrevistas, organizar tu calendario de empleo, acceder a tu cv y a tus cartas de presentación, dónde y cuándo quieras, consultar los mejores consejos que te ayudarán en tu búsqueda de empleo diaria [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/10/20131012-085313.jpg"
+thumbnailAlt: ""
 ---
 
 # No importa donde ESTÉS. Te ayudamos a&nbsp;LLEGAR.

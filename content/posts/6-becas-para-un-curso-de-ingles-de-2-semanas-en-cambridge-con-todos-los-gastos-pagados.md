@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Quieres ganar un curso de inglés de 2 semanas en Cambridge con todos los gastos pagados? Cambridge University Press quiere dar la oportunidad de aprender inglés en Cambridge a 6 alumnos de bachillerato y para ello concede 6 becas “Raymond Murphy Scholarship Award” consistentes en un curso de&hellip;"
+thumbnailAlt: ""
 ---
 
 # 6 becas para un curso de inglés de 2 semanas en Cambridge con todos los gastos&nbsp;pagados

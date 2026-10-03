@@ -15,6 +15,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Blog Juventud Gijón: La Obra Social “La Caixa” convoca 140 becas internacionales y nacionales ¿Te gustaría cursar estudios de posgrado en el Estado español, Europa, América del Norte o en la zona Asia – Pacífico? ¡Esta podría ser tu oportunidad! Destinos: EUROPA. 65 becas para que curses estudios de posgrado en&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas de Postgrado Obra Social &#8220;la Caixa&#8221;&nbsp;2016

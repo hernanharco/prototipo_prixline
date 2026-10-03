@@ -13,6 +13,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Este es el principio. Después, según vayas trabajando, te encontrarás con muchas más mejoras ¿cuáles son tus trucos para utilizar las redes sociales para encontrar trabajo?"
+thumbnailAlt: ""
 ---
 
 # Uso de las Redes Sociales para buscar&nbsp;trabajo

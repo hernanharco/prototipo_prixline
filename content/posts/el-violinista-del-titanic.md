@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Para contextualizar una respuesta que no ha sido nada fácil, permitidme una breve entrada. Llevo colaborando con la revista semanal El Jueves apenas desde hace un año. Llegué a la revista tras haber consolidado una trayectoria personal en diversos medios, pero básicamente algunos conoceréis mi trabajo en el digital La Información. Allá fuimos&hellip;"
+thumbnailAlt: ""
 ---
 
 # El violinista del&nbsp;Titanic

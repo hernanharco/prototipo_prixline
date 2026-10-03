@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Todas estas pruebas, serían un ejemplo común de lo que nos podemos encontrar en un proceso de selección genérico. Por supuesto, en algunos procesos, podremos encontrarnos alguna prueba más; mientras que en otros, alguna prueba menos. Lo importante, es que tengamos en cuenta que se trata de fases que completan al proceso de selección y [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Pruebas qué podemos encontrarnos en un proceso de&nbsp;selección.

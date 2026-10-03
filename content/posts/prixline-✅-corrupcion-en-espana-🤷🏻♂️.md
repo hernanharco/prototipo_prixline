@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Con Don Jesús Villegas (Magistrado en ejercicio) y con Don Salvador Viada (Fiscal en el Tribunal Supremo) hablando sobre la corrupción en España. Síguenos en Telegram https://t.me/prixliners aumentamos la “Inteligencia Colectiva” y desde allí te ayudamos 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España: http://PRIX.com/contacto 00:00 Intro 03:15 Don Jesús Villegas (Magistrado) [&hellip;]"
+thumbnail: "https://i.ytimg.com/vi/ZsEG-uHdYfw/hqdefault.jpg"
+videoId: "ZsEG-uHdYfw"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Corrupción en España?&nbsp;🤷🏻‍♂️

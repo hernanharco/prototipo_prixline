@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hoy quiero compartir con todos vosotros esta infografía en la que nos dejan bien reflejados consejos para afrontar con éxito una entrevista de trabajo. Pero no sólo eso, sino que diferencia claramente los momentos cruciales en los que tendrás que prestar especial atención: Los momentos previos&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/02/consejos-para-antes-durante-y-dc3a9spues-de-una-entrevista-de-trabajo.jpg?w=564&h=2256"
+thumbnailAlt: ""
 ---
 
 # Consejos para antes, durante y después de una entrevista de&nbsp;trabajo

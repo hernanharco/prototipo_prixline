@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Abogacía a tu alcance: España: un país de fútbol, playa, corrupción y mucho más ¿Puede decirse que España ha salido de lo peor en cuanto a la crisis económica? Los indicadores económicos dicen que sí, las economías familiares todavía no lo pueden confirmar. Lo grave de todo ésto no es si&hellip;"
+thumbnail: "http://ti.tradetracker.net/?c=13564&#038;m=500491&#038;a=179548&#038;r=&#038;t=html"
+thumbnailAlt: ""
 ---
 
 # España es mucho más que fútbol, playa y&nbsp;corrupción

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En el conversatorio de hoy: ¿Cómo voy a España y trabajo? El Plan de Negocio. ¿Casarse en España o en Colombia? y mucho más… ¡Participa! Únete al … PRIXLINE ✅ ¿Cómo voy a España 🇪🇸 y trabajo? 😃"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Cómo voy a España 🇪🇸 y trabajo?&nbsp;😃

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: ¿Eres una chica o chico entre 18 y 30 años y te apetece colaboraren un centro educativo de Holanda y no tienes planes para los próximos meses? ¿Te gusta viajar? ¿Te apetece aprender y practicar otros idiomas? ¡Pues no dejes escapar esta oportunidad! Desde la organización Stichting IJSiq foundation ofrecen realizar varios proyectos de voluntariado en Vlijmen&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/12/cuerpo-europeo-solidaridad.png?w=150&h=33"
+thumbnailAlt: ""
 ---
 
 # Voluntariado Europeo en&nbsp;Holanda

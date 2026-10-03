@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Eurolingua Venairlanda anuncia su 4º edición de becas para realizar cursos de inglés en Irlanda durante el mes de agosto de 2016Eurolingua Venairlanda es una empresa de cursos de idiomas en el extranjero que subvenciones el 100% del coste de estos cursos. Entre los requisitos: Becas dirigidas a&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas Cursos de Inglés en&nbsp;Irlanda

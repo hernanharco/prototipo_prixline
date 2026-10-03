@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "¿Cómo responder a esta pregunta de una forma adecuada e interesante para el entrevistador?"
+thumbnailAlt: ""
 ---
 
 # &#8220;Cuéntame sobre ti&#8230;&#8221; #4claves&nbsp;#entrevista

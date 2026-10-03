@@ -16,6 +16,7 @@ originCategories:
   - "prixline"
   - "semipresencial"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # La opinión y el comentario de Rosa sobre el Curso de&nbsp;PRIXLINE

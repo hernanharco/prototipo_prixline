@@ -18,6 +18,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mamaniaca!: …si, lo confieso, soy adicta a ellos, me encantan, amo como se ven en mi pequeña biblioteca, esa que he ido formando en todos estos años, me gusta verlos en las tiendas, o como se ven en las bibliotecas todos ordenados, lo juro, amo leer, recuerdo que cuando tenia 13 lo&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/04/prixline-dia-del-libro.jpg?w=604&h=412"
+thumbnailAlt: ""
 ---
 
 # FELIZ DÍA DEL LIBRO! 23 de&nbsp;Abril

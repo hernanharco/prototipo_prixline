@@ -14,6 +14,8 @@ originCategories:
   - "Solidaridad"
   - "Trabajo"
 excerpt: "https://reflexionesconcitas.wordpress.com/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/09/img_2276.jpg"
+thumbnailAlt: ""
 ---
 
 # ¡Yo Quiero, Yo Puedo, Yo soy&nbsp;Capaz!

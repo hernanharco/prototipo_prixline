@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Soy consciente que habrás leído multitud de artículos sobre este tema. Estoy segura que habrás investigado y buceado en internet, “por el infinito y … ¿Existe el curriculum 10? “No existen curriculums buenos o malos, no existen herramientas mágicas, a través de las cuales, obtengas un empleo. Solo existen herramientas que te permitan plasmar tu [&hellip;]"
+thumbnail: "https://i0.wp.com/remearjona.files.wordpress.com/2021/05/question-mark-1872634.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # ¿Existe el curriculum&nbsp;10?

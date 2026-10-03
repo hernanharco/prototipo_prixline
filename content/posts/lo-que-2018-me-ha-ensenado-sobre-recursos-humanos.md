@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "El 2018 va llegando a su fin y es hora de hacer balance de lo vivido. Cientos de experiencias que me han llevado por toda España en este bonito oficio de acompañar personas y hacer crecer el negocio a través de ellas. Nunca un año había dado para tanto, profesionalmente hablando. Estoy convencido que en&hellip;"
+thumbnailAlt: ""
 ---
 
 # Lo que 2018 me ha enseñado sobre Recursos&nbsp;Humanos

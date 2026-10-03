@@ -14,6 +14,7 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: "Para ampliar: Encuesta de Inserción Laboral de Titulados Universitarios 2014 (vía INE 22/12/15). Las carreras con más salida y casi 100% de tasa de empleo (vía Huffington Post 22/12/15). Las carreras mayor tasa de empleo (vía El País 22/12/15). ¿Dónde puedo encontrar trabajo en 2016? (vía El Mundo 26/12/15). Demasiados filólogos, pocos ingenieros (vía El [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Carreras con mayor y menor&nbsp;empleo.

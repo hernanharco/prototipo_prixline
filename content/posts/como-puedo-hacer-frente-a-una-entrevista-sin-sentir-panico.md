@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Es un tema recurrente en los últimos tiempos que tantos a las personas que asesoro como algunos correos que llegan al blog me cuenten esta historia por lo que esta semana he decidido dar una respuesta y dedicarle una entrada en el mismo. Me produce pavor hacer frente a&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo puedo hacer frente a una entrevista sin sentir&nbsp;pánico?

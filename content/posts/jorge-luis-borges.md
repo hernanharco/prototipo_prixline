@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Jorge Luís Borges

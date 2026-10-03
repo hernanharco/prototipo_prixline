@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prix-line"
 excerpt: "e-Learning, redes sociales e inteligencia interconectada."
+thumbnailAlt: ""
 ---
 
 # e-Learning, redes sociales e inteligencia&nbsp;interconectada.

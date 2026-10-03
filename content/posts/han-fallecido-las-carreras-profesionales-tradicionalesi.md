@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Creo que empece a pensar en el ámbito de la carrera profesional desde el inicio de mi carrera universitaria aunque en los últimos meses quizás mucho más en el último máster que he realizado. En las diferentes fases del máster, he trabajado diversos planes:Diseño de una campaña de branding,&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Han fallecido las carreras profesionales tradicionales?(I)

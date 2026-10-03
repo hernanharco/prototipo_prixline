@@ -12,6 +12,9 @@ originCategories:
   - "opinion"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/x3CeTfQOX_0/hqdefault.jpg"
+videoId: "x3CeTfQOX_0"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Estado de EXCEPCIÓN “de Facto” en España? 🇪🇸&nbsp;🧐

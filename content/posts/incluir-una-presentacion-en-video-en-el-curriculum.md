@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Además, tiene más servicios y de manera gratuita, como publicar el currículo para tenerlo siempre disponible, modificarlo e imprimirlo las veces que quieras, y sobre hacerlo viral. Compartirlo en las redes sociales. Fuente: http://mi-curriculum-vitae.com/ Autora: Isa Loureiro. Orientadora Profesional."
+thumbnailAlt: ""
 ---
 
 # Incluir una presentación en video en el&nbsp;currículum

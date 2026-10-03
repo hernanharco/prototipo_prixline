@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/12/12189519_985197448192687_5654942695223629575_n.jpg?w=620&h=620"
+thumbnailAlt: ""
 ---
 
 # Todos tenemos una llave que abre la puerta de los&nbsp;sueños

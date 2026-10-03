@@ -15,6 +15,7 @@ originCategories:
   - "Certificado de Profesionalidad"
   - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Te imaginas que te contratasen durante al menos un año mientras te preparas para ejercer esa profesión? Suena bien ¿verdad? Poder obtener una titulación que te cualifique profesionalmente y a la vez sumar meses de experiencia remunerada. Pues ya está inventado. Se llama contrato para la formación y el aprendizaje&hellip;"
+thumbnailAlt: ""
 ---
 
 # Todo en uno: Contrato para la formación y el&nbsp;aprendizaje

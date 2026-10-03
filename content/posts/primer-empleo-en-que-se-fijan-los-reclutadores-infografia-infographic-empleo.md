@@ -17,6 +17,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "TICs y Formación Hola: Una infografía sobre Primer empleo: en qué se fijan los reclutadores. Vía Un saludo Primer empleo: en qué se fijan los reclutadores View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/infografia-primer-empleo.jpg?w=800&h=800"
+thumbnailAlt: ""
 ---
 
 # Primer empleo: en qué se fijan los reclutadores #infografia #infographic&nbsp;#empleo

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Como todas las semanas, compartimos un resumen de las convocatorias de empleo de los últimos días. Dada la situación actual que estamos viviendo, no son muchas las novedades, pero intentamos recoger cada semana las nuevas ofertas. Recuerda que en lo referente a convocatorias de empleo público, actualmente esta&hellip;"
+thumbnailAlt: ""
 ---
 
 # Ofertas de Empleo destacadas de la&nbsp;semana

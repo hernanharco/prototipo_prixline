@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/12/13729034_10201941221208617_8735944612016895096_n.jpg?w=620&h=444"
+thumbnailAlt: ""
 ---
 
 # Con mis mejores&nbsp;deseos:

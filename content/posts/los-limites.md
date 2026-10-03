@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/02/2014-02-15-limites.jpg?w=400&h=448"
+thumbnailAlt: ""
 ---
 
 # Los límites

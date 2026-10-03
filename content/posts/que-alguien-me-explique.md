@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: Qué difícil escribir este fin de semana, qué difícil encontrar las palabras…de hecho esta es la enésima vez que me siento frente al ordenador, no hay palabras que expresen este dolor y sin embargo no lo podemos dejar en silencio, en un silencio que se&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/11/peony-rose-2-1193261.jpg?w=300&h=219"
+thumbnailAlt: ""
 ---
 
 # Que alguien me&nbsp;explique&#8230;

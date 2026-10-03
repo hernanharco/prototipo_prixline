@@ -25,6 +25,7 @@ originCategories:
   - "recursos"
   - "vídeos"
 excerpt: "Se amplifican las posibilidades de monitorización de los procesos de aprendizaje en el entorno digital. Habrá que estar atentos, ¿no te parece?"
+thumbnailAlt: ""
 ---
 
 # Procesos de aprendizaje en el entorno&nbsp;digital

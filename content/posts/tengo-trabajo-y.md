@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: No voy a engañaros amigos lectores si algo me identifica siempre ha sido mi sinceridad y honestidad y el huir del autoengaño. Hoy soy feliz por este trabajo indefinido a media jornada, no me da para salir de la pobreza y ser independiente. Yo lo asemejo a comprar un viaje&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/11/soledadhombrecamarosa.jpg?w=400&h=317"
+thumbnailAlt: ""
 ---
 
 # Tengo trabajo ¿y&#8230;?

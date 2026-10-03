@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Cuando era monaguillo me enteré que expresión coloquial «Se armó la de Dios», se debía a las disputas entre cristianos tradicionales y arrianos en el… Cuando en el Estado de alarma se arma la de Dios"
+thumbnail: "https://i0.wp.com/delajusticia.com/wp-content/uploads/2020/05/13092557341465367336.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Cuando en el Estado de alarma se arma la de&nbsp;Dios

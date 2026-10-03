@@ -19,6 +19,8 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Partimos de la idea de que el trabajo es la manera en que los individuos obtienen unos ingresos económicos para poder sobrevivir . Esta afirmación es cierta pero no debería ser esta nuestra única visión porque no refleja el valor que realmente aporta en la vida de cada personas&hellip;"
+thumbnail: "http://www.burjassot.org/galerias/4050%5CCharla%20sobre%20dinero.jpg"
+thumbnailAlt: ""
 ---
 
 # ¿ Qué significado tiene el trabajo en la vida de las personas&nbsp;?

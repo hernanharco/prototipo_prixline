@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Un poco de humor mientras preparamos la vuelta de las vacaciones…"
+thumbnail: "http://sobrevivirrhhe.files.wordpress.com/2013/08/wpid-facebook_-914453373.jpg"
+thumbnailAlt: ""
 ---
 
 # ¿Qué tal de&nbsp;inglés?

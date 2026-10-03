@@ -17,6 +17,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "En los últimos tiempos nos animan a emprender porque el mercado laboral no puede absorber toda la oferta que existe y que crece día tras día y aunque llevar una idea a la práctica y que sea exitosa no es imposible tampoco es fácil. Ideas brillantes sobran pero ni todas se concretan ni todas las [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Por qué y para qué emprender? O&nbsp;no.

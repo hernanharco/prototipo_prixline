@@ -18,6 +18,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on MarcaEmpleo: El Proyecto GPS es un conjunto de recursos de orientación académica y laboral, dirigida a jóvenes estudiantes con el objetivo de favorecer en el alumnado una toma de decisiones respecto a su futuro profesional centrada en sus capacidades, gustos, posibilidades de inserción laboral y libre de sesgos de género. El Proyecto&hellip;"
+thumbnail: "http://empleoyorientacionsalamanca.files.wordpress.com/2013/09/gps.png?w=538&h=43"
+thumbnailAlt: ""
 ---
 
 # Lectura Semanal: Proyecto&nbsp;GPS.

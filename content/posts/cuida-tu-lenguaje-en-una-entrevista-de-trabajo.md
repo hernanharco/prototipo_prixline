@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Haz el rol play de una entrevista. Practica. Seguro que te sale alguna expresión porque está en nuestra forma de hablar. Pero corrígela. Recuerda que si te lo crees, prácticas, podrás conseguirlo. Autora. Isa Loureiro. Orientadora Profesional."
+thumbnailAlt: ""
 ---
 
 # Cuida tu lenguaje en una entrevista de&nbsp;trabajo

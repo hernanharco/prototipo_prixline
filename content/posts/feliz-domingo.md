@@ -17,6 +17,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Lectura, lectura…"
+thumbnailAlt: ""
 ---
 
 # Feliz domingo

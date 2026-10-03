@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: Republica.com"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/02/2016-02-29-pacta-como-puedas.jpg?w=1024&h=762"
+thumbnailAlt: ""
 ---
 
 # Pacta como puedas

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: La mayoría de nosotros/as tenemos un teléfono móvil con internet, un smartphone que casi lo utilizamos más para hacer fotos y jugar que para hablar, que era su función original. Asociamos el uso del móvil a algo lúdico y de ocio, en general, pero también podemos utilizar nuestro smartphone para buscar empleo. De hecho, muchas&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cómo utilizar tu móvil para buscar&nbsp;empleo

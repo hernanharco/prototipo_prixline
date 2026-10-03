@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ? Será que la cabra tira al monte, y de tanto trabajar en entornos sanitarios y escuchar debate tras debate, jornada tras jornada, congreso tras congreso y leer “cienes y cienes” de publicaciones sobre medicina basada en la evidencia o cuidados basados en la evidencia,&hellip;"
+thumbnailAlt: ""
 ---
 
 # Curriculum Vitae basado en la&nbsp;evidencia.

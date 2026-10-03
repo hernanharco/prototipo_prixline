@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Mainfor en colaboración con la Universidad Rey Juan Carlos y más de 40 empresas de España, Argentina, Chile, Colombia, Honduras, México, Perú, Costa Rica y República Dominicana ha desarrollado un ambicioso programa formativo internacional en el sector de la Biomasa enfocado en la formación práctica y la empleabilidad de jóvenes titulados. El programa formativo se desarrolla de manera [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Trabaja en el sector de la biomasa: Te acercamos a las empresas de 9&nbsp;países.

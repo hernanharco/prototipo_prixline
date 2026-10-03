@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/02/27544862_10208807329975159_7684422477739971753_n.jpg?w=450&h=435"
+thumbnailAlt: ""
 ---
 
 # Una pizca de&nbsp;locura

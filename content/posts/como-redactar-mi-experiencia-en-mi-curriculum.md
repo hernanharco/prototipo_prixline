@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Cómo redactar mi experiencia en mi&nbsp;currículum?

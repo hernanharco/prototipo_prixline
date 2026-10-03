@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: A lo largo de los años que llevo trabajando he tenido la oportunidad de asistir a unos cuantos procesos de selección como candidata con la perspectiva de reclutadora, lo cual me ha facilitado poder tener una visión crítica de la función de RRHH. Cada entrevista de trabajo que hacía como&hellip;"
+thumbnailAlt: ""
 ---
 
 # Preguntas estúpidas que pueden hacerte en una entrevista de&nbsp;trabajo

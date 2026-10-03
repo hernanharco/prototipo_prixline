@@ -18,6 +18,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com El curriculum sigue siendo la herramienta fundamental para la búsqueda de empleo y por ello tener un buen curriculum es básico para poder llegar a la tan ansiada entrevista. Lo que ocurre es que a veces no le damos la importancia que tiene o no lo cuidamos en exceso, y&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/06/curriculum-creativo1.jpg?w=300&h=300"
+thumbnailAlt: ""
 ---
 
 # Cómo diseñar un buen&nbsp;curriculum

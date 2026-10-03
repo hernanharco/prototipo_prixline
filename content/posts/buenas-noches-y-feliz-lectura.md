@@ -12,6 +12,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Buenas noches y feliz&nbsp;lectura

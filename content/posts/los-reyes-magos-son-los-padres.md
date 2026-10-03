@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Lo que de verdad importa: Presupongo que mi blog, entre sus lectores, no cuenta con niños o adultos que sigan creyendo en sus Majestades los Reyes Melchor, Gaspar y Baltasar. Y si me equivoco, pido sinceras disculpas porque no es mi intención acabar con las ilusiones de nadie. Pero sí, los Reyes&hellip;"
+thumbnailAlt: ""
 ---
 
 # Los Reyes Magos son los&nbsp;padres

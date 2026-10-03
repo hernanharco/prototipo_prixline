@@ -15,6 +15,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Es importante que establezcáis vuestra rutina de buscar trabajo, que salgáis de vuestra casa, que os relacionéis con gente, que acudáis a eventos, charlas, cursos útiles para mejorar vuestra empleabilidad. Nunca es tarde para aprender cosas."
+thumbnailAlt: ""
 ---
 
 # ¿Con qué actitud afrontáis vuestro proceso de búsqueda de&nbsp;empleo?

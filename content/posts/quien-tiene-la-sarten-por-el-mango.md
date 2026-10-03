@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: visto en http://refranenmano.blogspot.com.ar Es habitual leer avisos laborales donde SOLO se especifican los REQUISITOS y TAREAS/RESPONSABILIDADES para el postulante. Nada de lo que se le OFRECE, con qué se lo va a atraer…total el que lo necesita es el potencial postulante/candidato. Es bastante habitual leer RECOMENDACIONES para el CANDIDATO&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/07/sarten.jpg?w=544&h=292"
+thumbnailAlt: ""
 ---
 
 # ¿Quién tiene la sartén por el&nbsp;mango?

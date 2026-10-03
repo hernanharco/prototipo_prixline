@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Aunque no lo creas hay un montón de libros que los autores ponen a disposición del público de manera gratuita y que puedes descargar Hay miles de libros bajo licencias Creative Commons, su problema es la amplia dispersión de estos contenidos Para que sea más fácil hacer una&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Donde buscar libros electrónicos gratuitos y&nbsp;legales?

@@ -19,6 +19,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Hay cosas que se pueden cambiar, hay otras que no se pueden cambiar y la sabiduría consiste en establecer la diferencia entre las dos."
+thumbnailAlt: ""
 ---
 
 # Cuidado con los nuevos profetas de la gestión&nbsp;empresarial

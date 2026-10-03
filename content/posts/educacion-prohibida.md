@@ -24,6 +24,9 @@ originCategories:
   - "recursos"
   - "vídeos"
 excerpt: "La escuela ha cumplido ya más de 200 años de existencia y es aun considerada la principal forma de acceso a la educación. Hoy en día, la escuela y la educación son conceptos ampliamente discutidos en foros académicos, políticas públicas, instituciones educativas, medios de comunicación y espacios de la sociedad civil. Desde su origen, la [&hellip;]"
+thumbnail: "https://i.ytimg.com/vi/Hhfa4R7NVjQ/hqdefault.jpg"
+videoId: "Hhfa4R7NVjQ"
+thumbnailAlt: ""
 ---
 
 # Película: La Educación Prohibida&nbsp;(completa)

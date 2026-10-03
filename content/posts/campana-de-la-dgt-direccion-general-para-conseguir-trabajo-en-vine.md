@@ -17,6 +17,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on Dial 2.0: Hay veces que necesitamos leer un libro, escuchar música o salir a correr para encontrar inspiración. Fue así como se me ocurrió que debía viralizar (intentarlo al menos) mi marca personal. Vi un cartel en la autopista y una cosa llevó a la otra. Pensé que en vez de poner Majadahonda,&hellip;"
+thumbnail: "http://socabu.files.wordpress.com/2013/07/correr-ok.jpg?w=300&h=223"
+thumbnailAlt: ""
 ---
 
 # Campaña de la DGT (Dirección General para conseguir #Trabajo) en&nbsp;Vine

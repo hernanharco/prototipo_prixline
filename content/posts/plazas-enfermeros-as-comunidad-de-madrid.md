@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Servicio Madrileño de Salud convoca pruebas selectivas para el acceso de 5.266 plazas a la condición de personal estatutario fijo en la categoría de Enfermero/a. Las plazas convocadas se proveerán por el sistema de turno libre, mediante concurso-oposición, y se dividen en dos cupos: Plazas del cupo general: 4.897. Plazas del&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/07/sms.png?w=1024&h=225"
+thumbnailAlt: ""
 ---
 
 # Plazas Enfermeros/as. Comunidad de&nbsp;Madrid

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on APRENDE LA LEY: ¿ SE PUEDE COBRAR EL PARO Y TRABAJAR ? En un mercado laboral donde hay tan pocas oportunidades como gran competencia para un mismo puesto, recibir una oferta de trabajo con pocas horas de trabajo a la semana nos puede levantar dudas. Imagine que cobra 800 euros de&hellip;"
+thumbnail: "http://juanmanuelmaldonadoleon.files.wordpress.com/2014/09/empleo_r.jpg?w=300&h=272"
+thumbnailAlt: ""
 ---
 
 # ¿ SE PUEDE COBRAR EL PARO Y&nbsp;TRABAJAR?

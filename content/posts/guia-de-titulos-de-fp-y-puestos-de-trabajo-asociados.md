@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Guía de Títulos de FP y puestos de trabajo&nbsp;asociados.

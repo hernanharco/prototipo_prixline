@@ -18,6 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Aquí los tienes todos: Ajustadores y operadores de máquinas-herramienta. Animadores de tiempo libre. Auxiliares de enfermería. Ayudantes de cocina. Cajeros y reponedores de comercio. Camareros. Cocineros. Conductores de vehículos para el transporte urbano o por carretera. Desarrolladores de videojuegos. Directores comerciales, de investigación y desarrollo. Diseñadores gráficos y multimedia. Empleados administrativos. Empleados administrativos comerciales. Empleados [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Perfiles de la oferta de&nbsp;empleo.

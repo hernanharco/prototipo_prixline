@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Excelente! @FerranMartín View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/2014-04-29-epa.jpg?w=450&h=335"
+thumbnailAlt: ""
 ---
 
 # EPA

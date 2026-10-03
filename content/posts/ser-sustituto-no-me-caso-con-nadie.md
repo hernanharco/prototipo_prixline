@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Hace ya un tiempo que quería reflexionar lo que supone ser un trabajador de sustitución, como que no podía ordenar mis ideas pues no quiero que el texto suponga matices de queja. Los pros de ser sustituto veraniego, te dictan como lo tienes que hacer el trabajo el jefe y&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/ddddd_2.jpg?w=820&h=459"
+thumbnailAlt: ""
 ---
 
 # Ser sustituto, no me caso con&nbsp;nadie.

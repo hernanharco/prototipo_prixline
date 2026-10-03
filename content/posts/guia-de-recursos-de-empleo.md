@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: La Diputación de Almería ha publicado una GUÍA DE RECURSOS DE EMPLEO muy interesante y completa en la que se puede acceder a enlaces de todo tipo, Orientación, Formación y Búsqueda activa de empleo Pincha en aquí para abrir la GUÍA DE RECURSOS DE EMPLEO_2014 Consiste, básicamente, en un directorio&hellip;"
+thumbnailAlt: ""
 ---
 
 # Guía de Recursos de&nbsp;Empleo

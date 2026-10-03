@@ -17,6 +17,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/08/1383902_634978086523690_1189975579_n.jpg?w=594&h=594"
+thumbnailAlt: ""
 ---
 
 # Sólo una persona puede impedirte llegar muy&nbsp;alto&#8230;.

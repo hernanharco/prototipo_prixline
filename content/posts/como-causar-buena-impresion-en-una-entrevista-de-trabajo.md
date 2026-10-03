@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Siempre se ha dicho que una imagen vale más que mil palabras, que la primera impresión es la que queda, etc., etc… Por eso, cuando encuentras una infografía como ésta, poco más se puede añadir… Fuente: Alfredo Vela."
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/01/infografc3ada-buena-impresic3b3n-entrevista-trabajo.jpg?w=564&h=1329"
+thumbnailAlt: ""
 ---
 
 # Cómo causar buena impresión en una entrevista de&nbsp;trabajo.

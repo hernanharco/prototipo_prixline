@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Llegan las navidades y con ello la época en la que los comercios refuerzan sus plantillas. Si tienes un perfil comercial esta es una buena época para enviar tu CV a las empresas que en pocas semanas contratarán personal para la campaña de navidad. Recuerda que buena parte de ese&hellip;"
+thumbnailAlt: ""
 ---
 
 # Campaña de Navidad = Oportunidad de&nbsp;empleo

@@ -14,6 +14,8 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Es hora de tomar la innovación en serio, porque los números no engañan -muchas personas empiezan a estar fuera de los márgenes de la empleabilidad y muchas otras lo estarán a corto plazo- y los cambios se imponen sin tener en cuenta si nuestra sociedad está laboralmente preparada para asumirlos. Innovar es crear oportunidades, unir [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/02/img_4313.jpg"
+thumbnailAlt: ""
 ---
 
 # ¿Innovas o diseñas&nbsp;estrategias?

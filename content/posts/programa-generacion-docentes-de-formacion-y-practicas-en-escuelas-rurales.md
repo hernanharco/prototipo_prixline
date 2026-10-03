@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Periodo de inscripción Del 17/01/2022 al 31/03/2022 Fecha de celebración Cuatro meses de prácticas curriculares entre 1 de enero y 30 de junio de … Programa «Generación Docentes» de formación y prácticas en escuelas rurales La Fundación Princesa de Girona selecciona a 30 jóvenes estudiantes de Educación Infantil o Primaria para formar parte de la tercera edición [&hellip;]"
+thumbnail: "https://i0.wp.com/mocedastur.files.wordpress.com/2022/01/hoy-4.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Programa «Generación Docentes» de formación y prácticas en escuelas&nbsp;rurales

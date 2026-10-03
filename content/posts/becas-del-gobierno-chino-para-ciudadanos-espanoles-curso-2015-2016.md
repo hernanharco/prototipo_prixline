@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Estas becas para cursar estudios en china se dirigen a personas de nacionalidad española (o de otro país UE que acrediten su residencia en España). Hay cinco modalidades de beca, con los siguientes requisitos: Programa de Grado: Menor de 25 años Título de bachillerato Programa de Máster: Menor&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas del gobierno chino para ciudadanos españoles, curso&nbsp;2015-2016

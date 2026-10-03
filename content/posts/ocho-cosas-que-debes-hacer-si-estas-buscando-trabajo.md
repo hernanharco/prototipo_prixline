@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Hace unos días en la web equiposytalento.com publicaron un interesante artículo donde recogían las Ocho cosas que todo aquél que busque trabajo debería estar haciendo. Estos ocho factores son las conclusiones que se han extraído de Irelaunch, una plataforma que através de conferencias, actividades, seminarios de coaching, etc busca conectar profesionales que&hellip;"
+thumbnailAlt: ""
 ---
 
 # Ocho cosas que debes hacer si estás buscando&nbsp;trabajo

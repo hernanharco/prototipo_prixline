@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # JORNADA GRATUITA DE GAMIFICACIÓN EN LA EMPRESA EL 6 DE JULIO EN&nbsp;ZARAGOZA

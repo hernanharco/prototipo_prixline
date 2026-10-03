@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: No sé bien cómo empezar a escribir este post y me perdonaréis si parece algo desordenado, alterado, confuso incluso triste. Seguramente es como me encuentro en estos momentos, sintiendo un mazagote entre el estómago y el esternón a la altura de la garganta. Necesito compartir&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/image2.jpg?w=200&h=300"
+thumbnailAlt: ""
 ---
 
 # No te dejes&nbsp;robar!

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Bienvenidos a la era del aprendizaje continuo El paradigma laboral en el que nos encontramos inmersos nada tiene que ver con lo que conocimos. Un mundo digitalizado, con profesiones y oportunidades laborales que no existían hace apenas 6-8 años, con una competencia global (ya no importa donde vivas, el trabajo es universal y puedes colaborar&hellip;"
+thumbnailAlt: ""
 ---
 
 # No te quedan excusas para no&nbsp;aprender

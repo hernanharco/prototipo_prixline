@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # En #entrevista muy importante: Nunca hables de tu&nbsp;#sueldo

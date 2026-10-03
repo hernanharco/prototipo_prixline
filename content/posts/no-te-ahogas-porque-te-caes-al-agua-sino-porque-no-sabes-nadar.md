@@ -19,6 +19,7 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: "En definitiva, y como ya apuntamos en Quien te enfada, te domina, «no son las cosas o las personas la causa de nuestros enfados, sino más bien las interpretaciones que formulamos a nosotros mismos de esas cosas o personas, las frases que interiormente nos decimos a nosotros mismos con ocasión de los diversos acontecimientos de [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # No te ahogas porque te caes al agua, sino porque no sabes&nbsp;nadar

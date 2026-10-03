@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/10440954_923160531049251_2168537213687546784_n.jpg?w=305&h=395"
+thumbnailAlt: ""
 ---
 
 # El 90% del éxito se basa simplemente en&nbsp;insistir

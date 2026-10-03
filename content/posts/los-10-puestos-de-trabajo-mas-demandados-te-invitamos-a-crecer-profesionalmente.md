@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Los 10 puestos de trabajo más demandados. Te invitamos a crecer profesionalmente.

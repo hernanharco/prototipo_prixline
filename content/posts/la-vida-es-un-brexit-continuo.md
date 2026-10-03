@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Eres libre de tomar tus decisiones pero también prisionero de las consecuencias“. Hoy los resultados del Brexit han dicho que Reino Unido, ha decidido que quiere salir de la Unión Europea. ¡¡QUE HORROR!! ¿Qué nos va a pasar? ¿Y con Gibraltar? Son algunas de las expresiones que&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/06/me-quiere-no-me-quiere-1.jpg?w=300&h=202"
+thumbnailAlt: ""
 ---
 
 # ¡¡La vida es un BREXIT&nbsp;continuo!!

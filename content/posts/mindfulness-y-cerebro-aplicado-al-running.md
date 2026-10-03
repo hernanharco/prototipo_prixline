@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Inspiración al Talento: Para los runners suele ser un dilema qué hacer con la mente mientras corren. ¿Dónde pongo mi mente? ¿En la música de un equipo de audio, en los pensamientos que me llegan…? ¿Dónde? Una técnica en auge te ayuda a encontrar respuestas, disciplinar la mente, cansarte menos y&hellip;"
+thumbnail: "http://entremujeres.clarin.com/vida-sana/fitness/correr-running-getty-ejercicio-deporte_MUJIMA20120920_0019_35.jpg"
+thumbnailAlt: ""
 ---
 
 # mindfulness y cerebro APLICADO AL&nbsp;RUNNING

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Siete consejos clave para ser un buen compañero de trabajo virtual y mejorar la productividad de cualquier empresa que funcione a través del trabajo remoto. El trabajo remoto es uno de los métodos más comunes para laborar en estos días. Para muchas personas resulta increíblemente beneficioso el hecho de … ¿Cómo ser un buen compañero [&hellip;]"
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/09/1.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo ser un buen compañero de trabajo&nbsp;virtual?

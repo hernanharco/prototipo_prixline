@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Son muchas las ocasiones en que no nos sentimos tranquilos ante ciertas preguntas en una entrevista de trabajo, muchas veces no sabemos si es sensación nuestra, que al estar inmersos en la presión de un proceso de este tipo, en el que se puede estar&hellip;"
+thumbnailAlt: ""
 ---
 
 # Preguntas que no pueden hacerte en una entrevista de&nbsp;trabajo.

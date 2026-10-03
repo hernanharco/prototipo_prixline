@@ -19,6 +19,8 @@ originCategories:
   - "gratis"
   - "opiniones"
 excerpt: "Quiero empezar este artículo, poniendo a continuación las dos preguntas que me suelo hacer últimamente y que os las quiero transmitir a todos vosotros, las cuales me preocupan y mucho: ¿Sabemos realmente hasta qué punto es necesario hacer prácticas presenciales? y ¿estamos dando el valor que realmente se merecen? Pues precisamente, en este artículo quiero [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/12/prixline_practicas.jpg?w=362&h=272"
+thumbnailAlt: ""
 ---
 
 # La necesidad de hacer prácticas y saber&nbsp;valorarlas

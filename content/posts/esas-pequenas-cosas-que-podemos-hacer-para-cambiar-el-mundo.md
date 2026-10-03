@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Pues sí, tengo 40 añazos y ya peino alguna cana (sobre todo en la barba) pero hay cosas que no dejan de emocionarme cuando las veo, y este vídeo, que descubrí en el muro de facebook de la gran Mónica López Ventoso, es una de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Esas pequeñas cosas que podemos hacer para cambiar el&nbsp;mundo.

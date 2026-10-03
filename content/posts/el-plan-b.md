@@ -18,6 +18,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on La que has liado: En todo laberinto siempre hay una salida. Es cierto, cuando todo parece perdido y estamos a punto de quemar las naves, si tan solo nos bajaramos un instante del mundo, nos daríamos cuenta que todavía nos queda un conejo en la chistera, o un as en la manga&hellip;"
+thumbnail: "http://laquehasliado.files.wordpress.com/2013/08/planb.jpg?w=370&h=279"
+thumbnailAlt: ""
 ---
 
 # El plan B

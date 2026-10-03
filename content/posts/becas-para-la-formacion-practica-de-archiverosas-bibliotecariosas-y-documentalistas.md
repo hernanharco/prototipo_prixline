@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: El Congreso de los Diputados convoca doce becas individuales para la formación práctica de licenciados/as o graduados/as en actividades archivísticas, bibliográficas y documentales de la Cámara. El desarrollo de las becas estará dirigido por la Dirección de Documentación, Biblioteca y Archivo, por la Dirección de Estudios, Análisis y&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas para la formación práctica de Archiveros/as, Bibliotecarios/as y&nbsp;Documentalistas

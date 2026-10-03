@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/1vQfaTMw3KE/hqdefault.jpg"
+videoId: "1vQfaTMw3KE"
+thumbnailAlt: ""
 ---
 
 # Las pruebas 😱en las ENTREVISTAS de trabajo&nbsp;😳

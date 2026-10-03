@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "ha sido una tarea bonita y motivadora enfocada hacia el proyecto que ahora realizo con mi Escuela de Baloncesto. Reconozco que es un tema muy intenso, interesante y con mucha documentación por eso aunque dentro del mundo deportivo, he tratado de enfocarlo más al baloncesto .Cómo se podrá observar en el punto de la evolución [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Curso de Monitor&nbsp;Deportivo

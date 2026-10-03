@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "https://www.pscp.tv/prixline/1mnGeoaXYdZxX"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/09/img_5512.png?w=2560&h=1440"
+thumbnailAlt: ""
 ---
 
 # Talent Summit 🤗

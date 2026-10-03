@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/NgHQgpGmivs/hqdefault.jpg"
+videoId: "NgHQgpGmivs"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Qué haré al terminar el&nbsp;CAP?

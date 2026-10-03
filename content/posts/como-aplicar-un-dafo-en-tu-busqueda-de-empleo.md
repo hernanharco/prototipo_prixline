@@ -16,6 +16,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on Orientadores Palencia: La técnica DAFO consiste en construir una matriz para determinar cuáles son las Debilidades, Amenazas, Fortalezas y Oportunidades en nuestra candidatura, en función de nuestras capacidades, de la competencia y el mercado. Nos ayudará a conocernos mejor y definir cuál es la mejor hoja de ruta a seguir en nuestra búsqueda&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cómo aplicar un DAFO en tu búsqueda de&nbsp;empleo

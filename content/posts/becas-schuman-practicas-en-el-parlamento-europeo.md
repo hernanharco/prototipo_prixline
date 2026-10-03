@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Periodo de inscripción Del 01/11/2020 al 30/11/2020 Información El Parlamento Europeo ofrece dos periodos de prácticas dentro de su programa “Shuman … Becas Schuman. Prácticas en el Parlamento Europeo Para presentar una solicitud, debes solicitar tres becas como máximo y si eres preseleccionado, se te pedirá que aportes determinados documentos que acrediten que puedes ser seleccionado definitivamente; si [&hellip;]"
+thumbnail: "https://i0.wp.com/mocedastur.files.wordpress.com/2020/10/actual-2.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Becas Schuman. Prácticas en el Parlamento&nbsp;Europeo

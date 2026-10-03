@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Como comentaba en mi anterior entrada esta semana continuamos hablando de aquellos recursos que poseen las personas que, ocurra lo que ocurra en su vida siempre mantienen una actitud positiva. Si te perdiste el anterior post con las tres primeras te invito a que lo leas aquí Práctica la motivación.&hellip;"
+thumbnailAlt: ""
 ---
 
 # Práctica la motivación. Sé tu propio “preparador”(II)

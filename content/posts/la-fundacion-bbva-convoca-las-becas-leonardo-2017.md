@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¡Jóvenes investigadores y creadores!, llegan las becas Leonardo 2017 Este miércoles 1 de marzo de 2017 se abre el plazo para solicitar las Becas Leonardo 2017 convocadas por la Fundación BBVA. Se trata de la cuarta edición de un programa de ayudas que buscan apoyar proyectos individuales de&hellip;"
+thumbnailAlt: ""
 ---
 
 # La Fundación BBVA convoca las Becas Leonardo&nbsp;2017

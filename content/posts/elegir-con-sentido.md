@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Y para finalizar, vuelvo a poner la cabeza en las estrellas ¿sería posible llegar a encontrar ofertas de entidades, empresas, profesionales que publicaran: “Buscamos personas que se ilusionen con nuestro proyecto, que lo sientan como propio, y que quieran contribuir a la misión y al sentido compartido de nuestra actividad. Hemos pensado en ti. ¿Nos [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ELEGIR CON SENTIDO

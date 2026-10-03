@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Muchas son las ocasiones en las que se habla de la gran cantidad de profesionales de la enfermería que tienen que ir al extranjero a ganarse la vida. Puede que no hayas tenido suerte en España y te estés planteando una escapadita a Inglaterra a&hellip;"
+thumbnailAlt: ""
 ---
 
 # Nueva infografía para #FanzinEnfermería con trucos para hacer CV en&nbsp;inglés

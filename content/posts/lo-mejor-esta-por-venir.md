@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/09/1937445_594825677294274_7002981557454973504_n.jpg?w=526&h=514"
+thumbnailAlt: ""
 ---
 
 # &#8220;Lo mejor está por&nbsp;venir&#8221;

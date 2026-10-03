@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Teoría del Vaso Lleno: Cuando escuchamos la palabra egoísmo se nos viene a la cabeza esa persona altanera que mira por encima de sus hombros a los demás y que se quiere mucho a sí mismo sin tener en cuenta lo que pisotea a su paso. Ahora te hago la siguiente&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/11/eg1.png?w=251&h=200"
+thumbnailAlt: ""
 ---
 
 # ¿Te apetece ser&nbsp;egoísta?

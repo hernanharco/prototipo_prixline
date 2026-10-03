@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/nRyJvCTO8cU/hqdefault.jpg"
+videoId: "nRyJvCTO8cU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Emigrar de Venezuela 🇻🇪a Colombia 🇨🇴 y España&nbsp;🇪🇸

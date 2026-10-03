@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/209af6a489f5ff8b776e56e926d777d6.jpg?w=620&h=620"
+thumbnailAlt: ""
 ---
 
 # Una mentira

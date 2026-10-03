@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : En cualquier sitio siempre decimos que la primera impresión cuenta en el mundo de las empresas no iba a ser menos. La etapa de incorporación expone en qué medida la información y los ofrecimientos que la organización ha hecho al candidato son ciertas y si el nuevo empleado verá&hellip;"
+thumbnail: "https://images.unsplash.com/photo-1556565681-306458ef93cd?ixlib=rb-1.2.1&#038;ixid=eyJhcHBfaWQiOjEyMDd9&#038;auto=format&#038;fit=crop&#038;w=1000&#038;q=80"
+thumbnailAlt: ""
 ---
 
 # ¿Por qué una buena incorporación no depende sólo de las&nbsp;organizaciones?

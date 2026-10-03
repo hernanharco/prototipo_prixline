@@ -20,6 +20,7 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Originally posted on Attack Mars by NeuroMars: Un joven fue a solicitar un puesto gerencial en una empresa grande. Pasó la entrevista inicial y ahora iba a conocer al director para la entrevista final. El director vio en su CV sus logros académicos y eran excelentes. Y le preguntó: ” ¿Recibió alguna beca en la&hellip;"
+thumbnailAlt: ""
 ---
 
 # El Joven que queria ser&nbsp;Gerente.

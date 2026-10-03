@@ -15,6 +15,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Un laberinto de emociones: Aquí os dejo un cuestionario que os orientará sobre vuestro nivel de asertividad. Se expone una situación concreta y las posibles respuestas son: SI, A VECES, NO. Ves anotando en cada situación la respuesta que das. En caso de tener que exponer una queja o una reclamación, lo&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Eres asertivo?

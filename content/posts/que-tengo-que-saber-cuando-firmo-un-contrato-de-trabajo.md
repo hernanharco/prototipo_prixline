@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Qué tengo que saber cuándo firmo un contrato de&nbsp;trabajo?

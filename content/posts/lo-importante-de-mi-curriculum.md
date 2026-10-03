@@ -17,6 +17,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Recuerda, solo tengo unos segundos para tu currículo. Así que sea rápido de vista. Autora. Isa Loureiro Varela. Orientadora Profesional."
+thumbnailAlt: ""
 ---
 
 # Lo importante de mi&nbsp;curriculum

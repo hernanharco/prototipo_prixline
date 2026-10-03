@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: 500 Becas para estudiar Bachiller en Canadá o en Estados Unidos El programa de Becas de la Fundación Amancio Ortega tiene el objetivo de facilitar el aprendizaje del inglés y la inmersión en la cultura extranjera a jóvenes de institutos y colegios españoles durante un año académico. El&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas Fundación Amancio&nbsp;Ortega

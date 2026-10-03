@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/j5BV6ryFP2A/hqdefault.jpg"
+videoId: "j5BV6ryFP2A"
+thumbnailAlt: ""
 ---
 
 # ¿Qué se valora en la entrevista de&nbsp;trabajo?

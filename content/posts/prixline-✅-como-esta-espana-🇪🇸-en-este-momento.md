@@ -12,6 +12,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/k7JIqQmh6Fw/hqdefault.jpg"
+videoId: "k7JIqQmh6Fw"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Cómo está ESPAÑA 🇪🇸 en este&nbsp;Momento?

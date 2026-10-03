@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En este episodio: Cómo luché mi permiso para trabajar en España y mucho más. Síguenos en Telegram 👉 https://t.me/prixliners aumentamos la Inteligencia Colectiva y desde allí te ayudamos gratuitamente 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España 👉 http://PRIX.com/contacto https://open.spotify.com/episode/0CsMleG1GKWGy8QWX4ipR8?si=HwtJTYvxTF2cHg0aS6pxVA Encuentras más contenido en: 📲YouTube: https://bit.ly/2OO6b7z 💚 Spotify: http://bit.ly/prixline 🌋 Instagram: http://instagram.com/prixline/ [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2023/03/pexels-photo-3769021.jpg?w=1024"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Cómo luché mi permiso para trabajar en España? y&nbsp;más…

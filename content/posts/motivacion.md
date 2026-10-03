@@ -16,6 +16,8 @@ originCategories:
   - "opiniones"
   - "recursos"
 excerpt: ""
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/06/20130630-105302.jpg"
+thumbnailAlt: ""
 ---
 
 # Motivación

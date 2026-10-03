@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Originally posted on Academia Cimbra: Hoy en día, la dispersión es un mal que aqueja a ricos y pobres, y frente, a lo que se pudiera creer, más a los últimos que a los primeros. En el Culebrón de los 90, “los Ricos también lloran” estaban un poquito equivocados 😉 Los ricos no han de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Sobre la dispersión &#8211; Cómo elegir un Curso Formativo y No&nbsp;Equivocarte

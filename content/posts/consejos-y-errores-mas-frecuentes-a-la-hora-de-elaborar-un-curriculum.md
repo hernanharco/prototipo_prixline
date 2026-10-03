@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Estás pensando en hacer un C.V pero no sabes cómo enfocarlo?A continuación,te hacemos algunas recomendaciones y te contamos los errores más frecuentes que se cometen a la hora de elaborarlo. El currículum es nuestra carta de presentación. Su finalidad es conseguir una entrevista y posteriormente, un trabajo que&hellip;"
+thumbnailAlt: ""
 ---
 
 # Consejos y errores más frecuentes a la hora de elaborar un&nbsp;Currículum

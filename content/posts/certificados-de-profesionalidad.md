@@ -19,6 +19,8 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "¿Qué es el certificado de profesionalidad? El certificado de profesionalidad es el instrumento de acreditación oficial de las cualificaciones profesionales en el ámbito de la Administración laboral, que acredita la capacitación para el desarrollo de una actividad laboral con significación para el empleo y asegura la formación necesaria para su adquisición. Los certificados de profesionalidad tendrán carácter oficial y [&hellip;]"
+thumbnail: "https://i0.wp.com/www.lascualificacionesprofesionales.com/wp-content/uploads/2011/02/materias_certificados1-e1297701369902.jpg"
+thumbnailAlt: ""
 ---
 
 # Certificados de Profesionalidad y&nbsp;Homologaciones

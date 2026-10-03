@@ -18,6 +18,7 @@ originCategories:
   - "Trabajo"
   - "vídeos"
 excerpt: "Como ya he comentado en otras ocasiones, en un proceso de selección se recopila toda la información que se puede de un candidato. La información que procede de la red es muy útil para un reclutador y le permite acelerar muchísimo el proceso, pudiendo ser determinante para descartar a un candidato o incluirlo dentro de [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Cómo obtiene un reclutador información en la red sobre el&nbsp;candidato

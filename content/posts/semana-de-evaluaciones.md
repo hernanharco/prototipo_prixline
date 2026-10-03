@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Consejos para el día del examen. 1. No entres en pánico Para evitar el pánico previo a un examen, sirve mucho dormir una cantidad suficiente de horas la noche anterior. Tienes que estar bien preparado. Las horas de sueño no son negociables. 2. Tomate tiempo para pensar antes&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/03/examen.jpg?w=572&h=296"
+thumbnailAlt: ""
 ---
 
 # Semana de evaluaciones.

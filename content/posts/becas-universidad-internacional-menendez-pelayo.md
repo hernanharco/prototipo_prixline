@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Tal vez te interese optar a alguna de estas becas para actividades académicas en las sedes de la Universidad Internacional Menéndez Pelayo Se convocan en régimen de concurrencia competitiva becas completas y becas de matrícula para la asistencia a las actividades académicas que se celebrarán en las sedes&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas Universidad Internacional Menéndez&nbsp;Pelayo

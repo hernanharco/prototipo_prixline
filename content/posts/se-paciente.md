@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/10373626_411154775706830_2249147141602264111_n.jpg?w=459&h=460"
+thumbnailAlt: ""
 ---
 
 # Sé paciente

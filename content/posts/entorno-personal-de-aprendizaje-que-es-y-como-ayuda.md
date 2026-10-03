@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "El aprendizaje es un proceso que varía de un profesional a otro y hoy aprender es lo único que te mantendrá profesionalmente empleable. Por eso … Entorno Personal de Aprendizaje ¿Qué es y cómo ayuda? 3 pasos para crear un entorno personal de aprendizaje (EPA – PLE) Decide el enfoque. Establecer áreas de aprendizaje y metas. [&hellip;]"
+thumbnail: "https://i0.wp.com/victoriaredondo.files.wordpress.com/2020/05/empleabilidad-empleo-entorno-personal-aprendizaje-epa-ple.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Entorno Personal de Aprendizaje ¿Qué es y cómo&nbsp;ayuda?

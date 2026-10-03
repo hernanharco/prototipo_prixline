@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Este proyecto tiene como base el acercamiento de los profesionales a la realidad empresarial, a través de diferentes actividades de mentoring individual, formación grupal y eventos de networking. “Visual Me” es un proyecto realizado en colaboración entre la Asociación de Jóvenes Empresarios de Asturias (AJE) y la Agencia&hellip;"
+thumbnailAlt: ""
 ---
 
 # Proyecto &#8220;Visual Me&#8221;

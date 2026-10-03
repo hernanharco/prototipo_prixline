@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Tienes que hacer una evaluación y un seguimiento de la estrategia. Tenemos que ver hacia dónde nos lleva la estrategia, qué no me funciona, … ver lo qué puedo cambiar, qué puedo conseguir, … Importante que observes, pruebes, aceptes, rechaza, … hay muchas aplicaciones y herramientas en internet. Usa las que mejor te vengan. Llega [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Usa internet de manera eficaz en buscar&nbsp;trabajo

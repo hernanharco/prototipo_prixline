@@ -14,6 +14,7 @@ originCategories:
   - "becas y practicas"
   - "prixline"
 excerpt: "Convocatoria de 15 becas destinadas a alumnos/as del último curso de Grado o Licenciatura en Periodismo y/o Comunicación Audiovisual para realizar 18 meses de prácticas formativas en la Agencia EFE. Los primeros 9 meses, de noviembre de 2015 a julio de 2016, las prácticas se realizarán en las delegaciones de la Agencia EFE en comunidades [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # 15 Becas de “La Caixa” y Agencia EFE prácticas formativas Periodismo en España y&nbsp;Extranjero

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/2014-04-11-rodeados.jpg?w=450&h=335"
+thumbnailAlt: ""
 ---
 
 # Rodeados

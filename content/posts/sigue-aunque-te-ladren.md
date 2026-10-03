@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Tu vida irá hacia adelante cuando te apartes de las personas que te llevan hacia atrás“. ¡¡Que ladre lo que quiera, digan lo que digan, voy a conseguirlo…!!. Es una frase que me han dicho hoy durante una conversación y que la voy a unir a mi&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/05/ladridos-de-perro.jpg?w=373&h=209"
+thumbnailAlt: ""
 ---
 
 # ¡¡Sigue, aunque te&nbsp;ladren&#8230;!!

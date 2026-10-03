@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: En los últimos años es evidente que ha cambiado la búsqueda de trabajo, pero también lo ha hecho la forma en que las empresas buscan a los candidatos. Aunque es verdad que, mayoritariamente, las pequeñas y medianas empresas siguen optando casi siempre por el curriculum de toda la vida, cada vez&hellip;"
+thumbnailAlt: ""
 ---
 
 # Nuevas tendencias en la búsqueda de empleo y de&nbsp;candidatos

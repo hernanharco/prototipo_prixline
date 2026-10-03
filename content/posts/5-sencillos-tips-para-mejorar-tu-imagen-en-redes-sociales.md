@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Publiteísta: ¿Quién no ha publicado un disparate en redes sociales? La verdad todos hemos sido victimas de las circunstancias, modas y sentimientos y hemos dejado que uno que otro desliz nos atrape incautos causando incómodas manchas dentro de nuestra impecable imagen pública. Hay qué recordar que nuestras redes sociales son&hellip;"
+thumbnailAlt: ""
 ---
 
 # 5 sencillos tips para mejorar tu imagen en redes&nbsp;sociales.

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En este conversatorio hablamos sobre: Visa (vs) Estancia, Repoblar España, Trabajar de Camionero, Voluntariado, el permiso que necesitan los menores … PRIXLINE ✅ Visa (vs) Estancia, Repoblar España, Trabajar de Camionero, Voluntariado, el permiso que necesitan los menores para viajar y mucho más 👍"
+thumbnail: "https://i0.wp.com/prixlinepodcast.files.wordpress.com/2022/07/pexels-photo-6684512.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Visa (vs) Estancia, Repoblar España, Trabajar de Camionero, Voluntariado, el permiso que necesitan los menores para viajar y mucho más&nbsp;👍

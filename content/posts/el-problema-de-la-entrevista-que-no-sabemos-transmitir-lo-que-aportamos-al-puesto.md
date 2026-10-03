@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # El problema de la entrevista … que no sabemos transmitir lo que aportamos al&nbsp;puesto

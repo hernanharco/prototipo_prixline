@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "“En las peores crisis están las mejores oportunidades . Y es cuando tu genio y creatividad te llevan al éxito”. Hace semanas que no veo el telediario… ¿Qué es una crisis? La oportunidad que estabas buscando No se ha reinventado, no se ha sumado a ningún club secreto, SÓLO HA EVOLUCIONADO. Sólo ha visto la [&hellip;]"
+thumbnail: "https://i0.wp.com/principiodeuncomienzo.files.wordpress.com/2020/05/2-2.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # ¿Qué es una crisis? La oportunidad que estabas&nbsp;buscando

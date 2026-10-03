@@ -16,6 +16,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Cómo enviar un buen email de&nbsp;trabajo

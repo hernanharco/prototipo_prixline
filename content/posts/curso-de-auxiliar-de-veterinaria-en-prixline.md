@@ -21,6 +21,8 @@ originCategories:
   - "trabajo"
   - "Veterinaria"
 excerpt: "El objetivo de este curso es proporcionar una sólida formación a aquellas personas que, con experiencia o sin ella, quieran adquirir los conocimientos teórico-prácticos esenciales para ejercer la profesión por la que sienten inclinación. ¿A QUIÉN VA DIRIGIDO? Personas que trabajen en clínicas o establecimientos zoológicos y que su contacto diario con los animales les [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/04/veterinaria-prixline.jpg?w=300&h=218"
+thumbnailAlt: ""
 ---
 
 # Curso de Auxiliar de Veterinaria en&nbsp;Prixline

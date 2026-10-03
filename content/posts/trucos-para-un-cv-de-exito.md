@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "El curriculum vitae se ha convertido en una de las herramientas más importantes para encontrar el trabajo deseado. La redacción de este documento … Trucos para un CV de éxito. Analiza cada oferta y busca cada una de esas palabras clave para añadirlas en tu curriculum siempre que coincidan con tu perfil de puesto."
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/08/como-hacer-un-buen-curriculum.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Trucos para un CV de&nbsp;éxito.

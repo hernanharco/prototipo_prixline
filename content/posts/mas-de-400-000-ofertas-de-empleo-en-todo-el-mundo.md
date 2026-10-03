@@ -17,6 +17,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Yovijob: Cada día mejoramos nuestro metabuscador para ayudaros a encontrar empleo en cualquier país. Los metabuscadores son una herramienta muy útil para encontrar resultados a nuestra búsqueda ya que buscan en toda la Red sin necesidad de buscar en cada página web, y trae todos los resultados a una misma web. En&hellip;"
+thumbnail: "http://yovijob.files.wordpress.com/2014/01/400-000-ofertas1.jpg?w=500&h=309"
+thumbnailAlt: ""
 ---
 
 # Más de 400.000 ofertas de empleo en todo el&nbsp;mundo.

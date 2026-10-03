@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/XWeHU9oB9Z8/hqdefault.jpg"
+videoId: "XWeHU9oB9Z8"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Ayudas al Pago Del Alquiler 2020 💰(hasta 900€)&nbsp;😃

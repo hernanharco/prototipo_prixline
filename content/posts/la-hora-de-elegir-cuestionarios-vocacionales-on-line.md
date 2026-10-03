@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # La hora de elegir: Cuestionarios vocacionales&nbsp;on-line.

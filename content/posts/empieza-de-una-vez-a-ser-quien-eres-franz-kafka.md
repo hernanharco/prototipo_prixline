@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/02/91d080d8e27eff780f01f2c945c0c580.jpg?w=432&h=432"
+thumbnailAlt: ""
 ---
 
 # &#8220;Empieza de una vez a ser quien eres&#8230;&#8221; (Franz&nbsp;Kafka)

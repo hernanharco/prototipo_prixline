@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Hoy en día para poder optar a un puesto de trabajo la criba que se realiza viene marcada por cuatro elementos: la formación reglada, la disponibilidad de carnet de conducir y coche, la experiencia y el nivel de idiomas. La combinación de los cuatro favorece que puedas llegar a la tan&hellip;"
+thumbnailAlt: ""
 ---
 
 # Acredita tu experiencia con los certificados de&nbsp;profesionalidad

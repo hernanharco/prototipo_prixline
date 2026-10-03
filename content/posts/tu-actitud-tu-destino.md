@@ -18,6 +18,8 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/07/wpid-wp-1404771591785.jpeg"
+thumbnailAlt: ""
 ---
 
 # Tu actitud, Tu&nbsp;destino

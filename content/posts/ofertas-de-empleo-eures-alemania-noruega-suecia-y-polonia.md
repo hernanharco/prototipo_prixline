@@ -21,6 +21,8 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "El Servicio Público de Empleo Estatal (SEPE), a través de la Red EURES, informa de diferentes ofertas de empleo en Europa: Alemania Proceso de seleccion Hostelería. Recepción de CVS hasta el 10 de octubre de 2014 (Entrevistas en Málaga y Palma de Mallorca 22-24 octubre 2014). SAP-Basisbetreuer (w/m). Fecha límite: 1 de julio de 2014. Prozessorganisator SAP Produktion / [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg?w=77&h=92"
+thumbnailAlt: ""
 ---
 
 # Ofertas de empleo EURES. Alemania, Noruega, Suecia y&nbsp;Polonia

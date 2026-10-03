@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Espera un poco. Date tiempo. Escúchate y mira en tu interior… valórate de nuevo. Acuérdate que no te han rechazado “a ti”, sino “a lo que hacías en un determinado trabajo”… tú como persona, eres muchísimo más que eso. Cuando sientas que has superado el duelo y que puedes contar la experiencia y vuelves a [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Superando el &#8220;duelo&nbsp;laboral&#8221;

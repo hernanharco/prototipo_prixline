@@ -20,6 +20,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Como regla general, hay dos épocas al año en las que las opciones de empleo temporales aumentan, estas son en verano y en Navidades, esta última fecha a la que nos referimos en este post.Hoy queremos mostrarte alguna de las opciones donde puedes buscar trabajo en Navidades. Desde centros&hellip;"
+thumbnail: "http://www.trabajarporelmundo.org/wp-content/uploads/2014/11/trabajar-en-navidad-610x400.jpg"
+thumbnailAlt: ""
 ---
 
 # Opciones para trabajar en la Campaña de Navidad en&nbsp;España

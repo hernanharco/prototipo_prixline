@@ -17,6 +17,8 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Originally posted on MarcaEmpleo: Curso Linkedin Gratis 775 inShare Sharebar ¿Sabes cómo usar Linkedin para mejorar tu imagen? ¿Sabes cómo usar Linkedin para encontrar trabajo? ¿Sabes cómo usar Linkedin para vender tus productos y servicios? Con la formación gratuita vas a aprender los siguientes puntos clave: Como salir el primero en las búsquedas de Linkedin&hellip;"
+thumbnail: "http://elblogdelinkedin.com/wp-content/uploads/2012/10/curso-linkedin.jpeg"
+thumbnailAlt: ""
 ---
 
 # Curso Linkedin Gratis.

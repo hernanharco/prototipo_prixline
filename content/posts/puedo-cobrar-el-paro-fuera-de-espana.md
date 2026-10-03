@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Puedo cobrar el paro fuera de&nbsp;España?

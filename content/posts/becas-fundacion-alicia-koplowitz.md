@@ -22,6 +22,7 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: La Fundación Alicia Koplowitz convoca varias becas y ayudas para el 2015: 4 becas de Formación Avanzada en Psiquiatría o Psicología del Niño y Adolescentes: 2 años Para realizar estudios de posgrado en Psiquiatría y Psicología del Niño y el Adolescente, con especial dedicación a la Investigación clínica,&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas Fundación Alicia&nbsp;Koplowitz

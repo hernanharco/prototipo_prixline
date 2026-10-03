@@ -20,6 +20,8 @@ originCategories:
   - "recursos"
   - "vídeos"
 excerpt: "Originally posted on Habilidades directivas 2.0: Recuerdo, hace unos meses, un vuelo Barcelona – Madrid. En el mismo, tuve oportunidad <permitirme el eufemismo> de “gozar” de un viajero tóxico. Al principio, me hizo gracia y lo encontré hasta divertido. Cuando ya estaba a la altura de Tarragona, empezaba a estar cansado. A la altura de Zaragoza,&hellip;"
+thumbnail: "http://habilidadesdirectivas20.files.wordpress.com/2013/04/008d6jae-lja-p1_1.jpg?w=210&h=167"
+thumbnailAlt: ""
 ---
 
 # La libertad &#8230; ¿una puerta&nbsp;imaginaria?

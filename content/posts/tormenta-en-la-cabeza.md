@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/05/10659449_10152832038614276_7256769578472137177_n.jpg?w=620&h=378"
+thumbnailAlt: ""
 ---
 
 # Tormenta en la&nbsp;cabeza.

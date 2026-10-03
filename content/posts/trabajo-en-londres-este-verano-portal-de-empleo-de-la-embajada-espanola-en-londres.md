@@ -24,6 +24,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on Salva Gallego: ¡Me voy a Londres a buscar trabajo! ¡Cómo me suena esta frase! Desde hace años viajar a Londres ha sido la gran escapatoria para quien buscaba nuevos horizontes. Hoy también, y con más motivos. La gran afluencia de españoles a Inglaterra, en busca de trabajo, ha fomentado la creación del&hellip;"
+thumbnail: "http://salvagallego.files.wordpress.com/2013/06/trabajo-en-londres.png?w=300&h=227"
+thumbnailAlt: ""
 ---
 
 # Trabajo en Londres este verano!: Portal de empleo de la Embajada española en&nbsp;Londres

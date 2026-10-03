@@ -17,6 +17,8 @@ originCategories:
   - "Idiomas"
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Agencia Nacional de Rumania del programa Erasmus+ Juventud en Acción, en colaboración con las agencias nacionales de Francia, Suecia y Hugria, organiza el Curso “Get Ready for Social Entrepreneurship”. Objetivos: Informar y sensibilizar a los participantes acerca de las características, beneficios, valores y factores para el éxito del emprendimiento&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/salto-youth-e1318929851550.jpg?w=135&h=56"
+thumbnailAlt: ""
 ---
 
 # Curso SALTO en&nbsp;Rumanía

@@ -16,6 +16,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Originally posted on El Blog de Iñaki González : Otra forma curiosa de mover tu currículum por las redes sociales, ni más ni menos que por twitter, la red social de micro blogging por excelencia, y con sólo 10 tweets. Como digo, son sólo 10 tweets, así que asegúrate de hacerlo bien… si te&hellip;"
+thumbnail: "http://media-cache-ec3.pinimg.com/550x/95/d7/6d/95d76d21743ce11488a640d8956eaa72.jpg"
+thumbnailAlt: ""
 ---
 
 # 10 tweets que marcarán tu&nbsp;CV.

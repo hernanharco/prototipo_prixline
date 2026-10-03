@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Extensiones de Chrome para Linkedln que te pueden ayudar a buscar&nbsp;trabajo

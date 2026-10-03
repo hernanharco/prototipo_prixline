@@ -18,6 +18,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com Hace unos días en CincoDias.com publicaban un más que interesante artículo sobre los Diez errores que se cometen en LinkedIn o Infojobs. Tan interesante y básico que no he podido evitar hacer una revisión del mismo para que no metamos la pata en lo fundamental. Estos errores son habituales y&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/errores-a-la-hora-de-buscar-trabajo1.jpg?w=500&h=333"
+thumbnailAlt: ""
 ---
 
 # Errores a evitar en la búsqueda de&nbsp;empleo

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Ayer acudí al acto de entrega de los títulos de Certificados de Profesionalidad que organizó el INAEM. Acudí acompañando a una persona muy importante para mi, pero fue la excusa perfecta para reflexionar sobre eso de la reinvención profesional. En ese acto había muchas personas, bueno, en concreto unas 110, una&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Existe futuro en la reinvención&nbsp;profesional?

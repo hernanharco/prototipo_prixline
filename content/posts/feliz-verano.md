@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/07/19895113_10213161090399329_5282734593180883499_n.jpg?w=620&h=775"
+thumbnailAlt: ""
 ---
 
 # ¡Feliz Verano!

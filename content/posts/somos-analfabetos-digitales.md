@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "se aprende, lo único que hay que hacer es querer aprender. Autora. Isa Loureiro. Orientadora Profesional."
+thumbnailAlt: ""
 ---
 
 # ¿Somos analfabetos digitales?

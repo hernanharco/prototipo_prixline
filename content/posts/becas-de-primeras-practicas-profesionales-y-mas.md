@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: El verano puede ser un buen momento para buscar esa beca que te ayude con tus estudios o a adquirir experiencia. Aprovechamos las últimas convocatorias de becas para hacer un resumen y sugerirte dónde puedes seguir buscando. En estas últimas semanas hemos ido publicando en nuestro blog, o&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas de primeras prácticas profesionales (y&nbsp;más)

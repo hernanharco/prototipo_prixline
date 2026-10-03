@@ -22,6 +22,7 @@ originCategories:
   - "trabajo"
   - "vídeos"
 excerpt: "Originally posted on El Blog de Iñaki González : Vamos a empezar la semana con un vídeo impactante, de esos con mensaje cargado de optimismo, y en el que sus personajes, nos animan a coger el toro por los cuernos, a no rendirse. Fracasar es no intentarlo, ser rebelde no son unos vaqueros rotos…&hellip;"
+thumbnailAlt: ""
 ---
 
 # Ser rebelde no son unos vaqueros&nbsp;rotos.

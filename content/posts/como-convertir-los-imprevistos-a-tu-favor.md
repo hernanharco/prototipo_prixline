@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Diferentes situaciones en la vida hacen que el rumbo laboral, previsto inicialmente, nada tenga que ver con el panorama actual. Circunstancias como el desempleo, cambio de actividad laboral porque ese puesto de trabajo ya no existe, cambio de carrera laboral, escasa oferta de vacantes para esos puestos para el que&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cómo convertir los (im)previstos a tu&nbsp;favor

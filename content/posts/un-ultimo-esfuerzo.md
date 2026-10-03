@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/10/1383911_448609091927013_1624277124_n.jpg?w=594&h=309"
+thumbnailAlt: ""
 ---
 
 # Un último esfuerzo

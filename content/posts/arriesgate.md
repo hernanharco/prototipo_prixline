@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/9eb186ee66762f088b5000b22a009ef1.jpg?w=236&h=236"
+thumbnailAlt: ""
 ---
 
 # ¡Arriésgate!

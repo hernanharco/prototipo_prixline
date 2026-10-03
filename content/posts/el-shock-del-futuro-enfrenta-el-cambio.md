@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La pandemia del coronavirus será, lamentablemente, un hito en la historia, un «shock del futuro» que nos pone frente a multitud de cambios. El … El «shock del futuro». Enfrenta el cambio."
+thumbnail: "https://i0.wp.com/victoriaredondo.files.wordpress.com/2020/04/empleabilidad-empleo-shock-futuro-cambio-gestionar-enfrentar-abrazar-emociones-confianza.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # El «shock del futuro». Enfrenta el&nbsp;cambio.

@@ -18,6 +18,8 @@ originCategories:
   - "opinion"
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: Hace varias semanas estuve orientando a una persona con respecto a un cambio profesional que quería hacer. Tenía bastantes dudas de cómo reorientar su carrera profesional. Se encontraba en una encrucijada entre dos opciones: seguir su carrerra profesional tal cual la había estado desarrollando hasta ahora, o por el contrario&hellip;"
+thumbnail: "http://descubriendotalento.files.wordpress.com/2013/12/brujula.jpg?w=400&h=350"
+thumbnailAlt: ""
 ---
 
 # ¿Y a mí quién me&nbsp;contrata?

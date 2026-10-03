@@ -16,6 +16,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on BLOG ENTREVISTARTE: ¿ Las personas con talento nacen, o se hacen? Esta es una pregunta a la que seguro te has enfrentado en algún momento de tu vida…Lo que parece claro, es que el talento puede desarrollarse y además, no sólo poseemos un único talento, sino muchos. Para desarrollar nuestros talentos es&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿ Y TÚ QUÉ TIENES ? ¿ SUERTE O TALENTO&nbsp;?

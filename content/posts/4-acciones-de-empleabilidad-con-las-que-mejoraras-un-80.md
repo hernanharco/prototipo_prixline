@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Si tu problema es la falta de tiempo, saca el máximo partido al tiempo del que dispones, optimiza las acciones de empleabilidad usando la Ley de Pareto, genera tu 80% de valor con el 20% de esfuerzo. Espero que el post te sirva y te ayude a ganar empleabilidad."
+thumbnailAlt: ""
 ---
 
 # 4 acciones de empleabilidad con las que mejorarás un&nbsp;80%

@@ -18,6 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Google+ para buscar&nbsp;trabajo

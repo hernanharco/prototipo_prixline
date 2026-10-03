@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/G66GnlsBWhc/hqdefault.jpg"
+videoId: "G66GnlsBWhc"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo afrontar el primer día de trabajo en una&nbsp;empresa?

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Recientemente Tino Fernández hablaba en su artículo ‘Casting’ laborales, las nuevas entrevistas de trabajo sobre los cambios que se están dando en las entrevistas. Incluso señalaba que hay personas que vaticinan que las entrevistas de trabajo van a desaparecer. No creo que se llegue hasta este punto, pues el contacto humano&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo son las nuevas entrevistas de&nbsp;trabajo?

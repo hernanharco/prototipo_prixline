@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/ZmnjE9bCuX0/hqdefault.jpg"
+videoId: "ZmnjE9bCuX0"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Ganar Dinero 💰En Estos Momentos&nbsp;🦠

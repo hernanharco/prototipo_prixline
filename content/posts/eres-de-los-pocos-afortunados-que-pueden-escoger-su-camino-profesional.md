@@ -13,6 +13,8 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Estoy contenta. Estoy feliz. Me he dado cuenta que puedo “escoger”… ¡qué lujo! Hoy he pensado escribir sobre la oportunidad de “escoger”, algo que puede parecer trivial pero no lo es. Hay personas que no pueden escoger. Tienen que irse de su país a buscar una vida mejor. No hay elección. Es el único camino, [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/09/img_2258.jpg"
+thumbnailAlt: ""
 ---
 
 # ¿Eres de los pocos afortunados que pueden “escoger” su camino&nbsp;profesional?

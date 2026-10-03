@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "No voy a entrar a detallar las cualidades que debe tener un community manager, aunque si que debe ser un profesional con una serie de cualidades características para poder desarrollar su trabajo como son…"
+thumbnailAlt: ""
 ---
 
 # El Community Manager, artista y&nbsp;científico

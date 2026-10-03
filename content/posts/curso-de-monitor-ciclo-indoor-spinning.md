@@ -14,6 +14,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Con este curso se te abrirán las puertas a un mundo laboral con una gran salida, como monitor de Ciclo Indoor. Además con las prácticas incluidas pondrás en práctica todos los conocimientos adquiridos en el curso. En nuestra academia de formación te ofrecemos, en el curso de ciclo indoor, las nociones básicas en lo referente [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/03/img_4553.jpg?w=604&h=297"
+thumbnailAlt: ""
 ---
 
 # Curso de Monitor Ciclo Indoor&nbsp;Spinning

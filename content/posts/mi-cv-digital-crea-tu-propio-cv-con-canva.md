@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Enfermera de Vocación: Las herramientas digitales nos permiten diseñar, crear e innovar todo tipo de contenidos para hacerlos más atractivos, visuales y sobre todo, que sean digitales, para poder compartirse en todos los medios sociales y a golpe de click. Hace ya tiempo que el tradicional curriculum vitae ( CV) en&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/07/looking-for-fun.png?w=1024&h=1024"
+thumbnailAlt: ""
 ---
 
 # Mi CV Digital: crea tu propio CV con&nbsp;Canva

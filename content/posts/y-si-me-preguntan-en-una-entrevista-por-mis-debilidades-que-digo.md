@@ -21,6 +21,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Usa tu debilidad como una oportunidad para contar que has realizado (o estas realizando) como una superación. Eso a los que hacemos entrevistas, nos gusta más oír."
+thumbnailAlt: ""
 ---
 
 # Y si me preguntan en una entrevista por mis debilidades, ¿qué&nbsp;digo?

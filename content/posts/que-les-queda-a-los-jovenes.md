@@ -12,6 +12,7 @@ originCategories:
   - "Curso de atención a personas drogodependientes"
   - "prix-line"
 excerpt: "Aquí tambien puedes poner tus comentarios. Un saludo"
+thumbnailAlt: ""
 ---
 
 # ¿Qué les queda a los&nbsp;jóvenes?

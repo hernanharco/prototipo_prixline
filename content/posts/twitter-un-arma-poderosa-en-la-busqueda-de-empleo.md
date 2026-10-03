@@ -19,6 +19,7 @@ originCategories:
   - "Solidaridad"
   - "Trabajo"
 excerpt: "Se activo Estás desempleado, no parado. Lo bueno, es que tienes tiempo para llevar a cabo tu estrategia, publicar y llegar a los posibles empleadores. Si resultar pesado, mantente activo en las redes sociales."
+thumbnailAlt: ""
 ---
 
 # Twitter, un arma poderosa en la búsqueda de&nbsp;empleo

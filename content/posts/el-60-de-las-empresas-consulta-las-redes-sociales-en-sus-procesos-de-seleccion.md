@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: • El 23% de las empresas contratan a sus empleados a través de redes sociales y un 62%, otros canales on line, como los portales • En 1 de cada 3 procesos de selección se ha descartado al candidato por su actividad en medios sociales Barcelona 6 de&hellip;"
+thumbnailAlt: ""
 ---
 
 # El 60% de las empresas consulta las redes sociales en sus procesos de&nbsp;selección

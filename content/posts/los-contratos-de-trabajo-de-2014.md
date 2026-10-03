@@ -14,6 +14,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on plandempleo: Con la llegada del 2014 también nos ha llegado la implantación definitiva de los nuevos (o viejos, depende) contratos de trabajo, haciendo una remodelación y pasando de 42 modelos a 4: indefinido, temporal, de formación y de prácticas. La legislación de referencia es el Real Decreto-ley 16/2013, de 20 de diciembre,&hellip;"
+thumbnailAlt: ""
 ---
 
 # Los contratos de trabajo de&nbsp;2014

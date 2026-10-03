@@ -17,6 +17,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on En Red Ando… Community Manager: VIDEOCURRÍCULUM ¿CÓMO HACER UN CURRÍCULUM MODERNO? Los videocurrículum son una importante y novedosa herramienta para buscar trabajo o encontrar clientes si eres freelance. Es una forma divertida y original de presentarse, que sin lugar a dudas, no dejará indiferente a los encargados de recursos humanos o a&hellip;"
+thumbnailAlt: ""
 ---
 
 # Videocurrículum. ¿Como hacer un currículum&nbsp;moderno?

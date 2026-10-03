@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hay veces que los proyectos se caen, es algo bastante habitual, por eso siempre hay que tener varios ases guardados en la manga. Bueno, realmente esto no era un proyecto como tal, era algo más especial, porque aunque haya impartido conferencias de inauguración y/o de&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/06/body-friki-comopapa-fucsia.jpg?w=273&h=300"
+thumbnailAlt: ""
 ---
 
 # ¿Y tú de mayor qué quieres&nbsp;ser?

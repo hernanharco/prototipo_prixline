@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Aprender francés gratis con estos 44 recursos gratuitos&nbsp;disponibles

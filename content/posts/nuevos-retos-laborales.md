@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La pandemia va a suponer un terremoto en en nuestras vidas, en lo personal, en lo social y también en lo profesional y no, no soy apocalíptico, soy … NUEVOS RETOS LABORALES"
+thumbnail: "https://i0.wp.com/avanzalaboral.files.wordpress.com/2020/03/pexels-photo-2559747.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # NUEVOS RETOS LABORALES

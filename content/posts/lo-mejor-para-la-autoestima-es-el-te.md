@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/04/10629776_609620859148089_7787353987670452150_n.jpg?w=620&h=597"
+thumbnailAlt: ""
 ---
 
 # Lo mejor para la autoestima es el&nbsp;té

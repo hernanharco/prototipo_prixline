@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/VMCWZRQ0_AU/hqdefault.jpg"
+videoId: "VMCWZRQ0_AU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Repoblar España 🇪🇸 Muñana un pueblo 🏡 de Ávila 👍&nbsp;😃￼

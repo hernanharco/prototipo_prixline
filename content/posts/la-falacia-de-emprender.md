@@ -23,6 +23,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "En fin, el tema tiene bastante miga ¿te atreves a compartir tu opinión en los comentarios?"
+thumbnailAlt: ""
 ---
 
 # La falacia de&nbsp;emprender

@@ -22,6 +22,7 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Nuevos cursos: + Gobernanza y Gestión democrática en el S. XXI + Balanced Business ScoreCard: Un Sistema de Control de Gestión. + Comunicación global e identidad corporativa. Branding. + El coaching como herramienta de liderazgo. Para más información podeis consultar y descargar la solicitud en la pagina: http://efiaulaopenschool.org/cursos-mooc/ El plazo está abierto hasta el 10 [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Nuevos cursos gratuitos MOOC, importantes novedades. Inicio mes de&nbsp;Junio.

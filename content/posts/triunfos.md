@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/08/moti-3.jpg?w=465&h=375"
+thumbnailAlt: ""
 ---
 
 # TRIUNFOS

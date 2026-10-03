@@ -17,6 +17,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on INNOVATION FOR SOCIAL CHANGE: Hay algo muy interesante que sucede con el bambú japonés y que nos enseña una importante lección. Cuando un cultivador planta una semilla de este árbol, el bambú no crece inmediatamente por más que se riegue y se abone regularmente. De hecho, el bambú japonés no sale a&hellip;"
+thumbnailAlt: ""
 ---
 
 # Una historia sobre la perseverancia: el cuento del bambú&nbsp;japonés

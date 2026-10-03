@@ -17,6 +17,7 @@ originCategories:
   - "Prácticas"
   - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com Creo que no somos conscientes de qué poca información da esta frase dicha a una persona que no te conoce de nada. Generalmente todos buscamos trabajo dentro de lo que sería nuestro perfil, según nuestra formación o experiencia o cualidades y competencias profesionales, elaboramos (o al menos deberíamos elaborar) una&hellip;"
+thumbnailAlt: ""
 ---
 
 # Estoy buscando trabajo de lo&nbsp;mío

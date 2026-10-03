@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: AVANZA LABORAL View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/05/avanza-laboral.jpg?w=1024&h=739"
+thumbnailAlt: ""
 ---
 
 # Recomendaciones para la Búsqueda Activa de&nbsp;Empleo

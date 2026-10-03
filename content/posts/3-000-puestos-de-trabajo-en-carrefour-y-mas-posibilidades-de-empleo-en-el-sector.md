@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Varias noticias de prensa informan de que el grupo francés de distribución Carrefour contratará a 3.000 personas con carácter indefinido a lo largo de 2015, preferentemente jóvenes. sigue leyendo si quieres más sobre estas y otras ofertas. El diario económico Expansión señala en su noticia “Carrefour creará 3.000&hellip;"
+thumbnailAlt: ""
 ---
 
 # 3.000 puestos de trabajo en Carrefour (y más posibilidades de empleo en el&nbsp;sector)

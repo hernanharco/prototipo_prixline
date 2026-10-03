@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on MOTIVISMO: Época de crisis, época de llanto o época de oportunidades, en estas últimas semanas la perspectiva que llevaba tiempo recorriendo mi manera de ver el mundo no hace más que afianzarse. Si bien, es cierto que vivimos unos momentos negativos, si hay que tener en cuenta que justo en estos tiempos&hellip;"
+thumbnailAlt: ""
 ---
 
 # ACOSO Y DERRIBO&nbsp;PREMEDITADO

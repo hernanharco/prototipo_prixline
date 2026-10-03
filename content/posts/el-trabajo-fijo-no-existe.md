@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Puede que resulte muy duro el título de esta entrada pero a veces merece más la pena recibir el shock desde el principio y así empezar a digerirlo. Si buscas estabilidad en el empleo, o bien prepara a conciencia unas oposiciones, o borra esa idea de tu cabeza. El mercado laboral&hellip;"
+thumbnailAlt: ""
 ---
 
 # El trabajo fijo no&nbsp;existe

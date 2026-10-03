@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Por fin, una sentencia de la Sala contencioso-administrativa del Tribunal Supremo, dictada ayer, 17 de marzo de 2021, estabiliza el criterio en … El Tribunal Supremo confirma la necesidad de proporcionalidad para la expulsión de extranjeros Por lo expuesto, se incrementan las garantías de una decisión tan gravosa como es la expulsión. Las garantías del [&hellip;]"
+thumbnail: "https://i0.wp.com/delajusticia.com/wp-content/uploads/2020/05/e8797197d052c8851599de2502d23319.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # El Tribunal Supremo confirma la necesidad de proporcionalidad para la expulsión de&nbsp;extranjeros

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/shbDDZvKKMk/hqdefault.jpg"
+videoId: "shbDDZvKKMk"
+thumbnailAlt: ""
 ---
 
 # Inteligencia Artificial (parte&nbsp;2)

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Desde el Cepi Centro – Arganzuela os informamos del nuevo curso de “Camarera/o de Sala y Barra” que comenzará en el mes de marzo y que se impartirá en horario de mañanas. Tendrá una duración total de 176 horas (teóricas y prácticas). La inscripción y preselección será presencial y&hellip;"
+thumbnailAlt: ""
 ---
 
 # FORMACIÓN: CURSO DE CAMARERO/A DE BARRA Y SALA.&nbsp;MADRID

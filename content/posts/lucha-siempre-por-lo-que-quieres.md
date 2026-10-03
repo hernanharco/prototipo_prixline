@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/10153279_10152429557551006_6382053671395569831_n.jpg?w=408&h=378"
+thumbnailAlt: ""
 ---
 
 # Lucha siempre por lo que&nbsp;quieres

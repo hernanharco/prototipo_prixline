@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Se avecina fin de semana largo. En Navarra (donde vivo) ya estamos acostumbrados a que el día de Santiago sea festivo, pero en La Rioja (donde trabajo) no suele serlo, así que hay que aprovechar que el lunes no hay que trabajar para realizar una mini&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Qué buscas, alimentar tu ego o tu&nbsp;felicidad?

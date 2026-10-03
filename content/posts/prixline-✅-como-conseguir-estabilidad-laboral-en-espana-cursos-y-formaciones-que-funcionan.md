@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "Curso Auxiliar Geriatría"
 excerpt: "¿Estás buscando empleo? En este directo hablamos sin filtros sobre cómo es realmente trabajar en España en 2026: sueldos, condiciones, contratos, papeles, y los sectores donde hay más oportunidades. Hablaremos de: ✅ Cómo conseguir trabajo en España ✅ Qué trabajos hay para recién llegados (con o sin papeles) ✅ Cómo funcionan las ETT ✅ Derechos [&hellip;]"
+thumbnail: "https://i.ytimg.com/vi/jmRtex1vdzU/hqdefault.jpg"
+videoId: "jmRtex1vdzU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Cómo conseguir estabilidad laboral en España | Cursos y formaciones que&nbsp;funcionan

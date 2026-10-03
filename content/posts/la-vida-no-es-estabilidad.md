@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/1920015_702710113084766_737652766_n.jpg?w=500&h=500"
+thumbnailAlt: ""
 ---
 
 # La vida no es&nbsp;estabilidad

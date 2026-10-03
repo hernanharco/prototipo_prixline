@@ -21,6 +21,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on Orientadores Palencia: Algunas redes sociales se han creado para ayudar a los jóvenes a contactar con empresas y mejorar las posibilidades de encontrar un puesto de trabajo Autor: Por AZUCENA GARCÍA / Fecha de publicación: 5 de junio de 2013 – Imagen: austinevan – Cuando la tasa de paro juvenil continúa en&hellip;"
+thumbnailAlt: ""
 ---
 
 # Siete redes sociales para que universitarios y recién graduados busquen&nbsp;empleo

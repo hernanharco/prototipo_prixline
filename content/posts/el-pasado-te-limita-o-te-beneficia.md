@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “El pasado muere. El presente vive, el recuerdo queda. Y la vida sigue“. Estaba viendo una película cuando de repente, surgió una pregunta que me lleva tiempo en mi cabeza: “Conocer el pasado, ¿Nos limita o nos beneficia?”. Si el pasado, según la Real Academia de la&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/03/538934_3115378102228_1045206820_n.jpg?w=300&h=245"
+thumbnailAlt: ""
 ---
 
 # El pasado ¿Te limita o te&nbsp;beneficia?

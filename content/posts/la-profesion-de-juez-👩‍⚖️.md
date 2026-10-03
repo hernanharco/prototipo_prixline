@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/MkF6_ijWtJQ/hqdefault.jpg"
+videoId: "MkF6_ijWtJQ"
+thumbnailAlt: ""
 ---
 
 # La profesión de Juez&nbsp;👩‍⚖️

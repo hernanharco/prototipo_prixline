@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hace unos meses repasábamos los 10 mandamientos de la búsqueda de empleo en redes sociales. En primer lugar, señalábamos que nunca debemos abandonar los canales tradicionales a favor de las mismas. De hecho, un gran error es apostar todas nuestras cartas a las populares redes, ya&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/04/redes-sociales-y-bc3basqueda-de-empleo.png?w=1024&h=512"
+thumbnailAlt: ""
 ---
 
 # Las redes sociales en la búsqueda de&nbsp;empleo.

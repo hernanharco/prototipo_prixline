@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/07/2462a3ae4b41138f0ee0f1e9edb8512a.jpg?w=620&h=670"
+thumbnailAlt: ""
 ---
 
 # Palabras para la vida. Coge la&nbsp;tuya.

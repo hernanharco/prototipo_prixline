@@ -23,6 +23,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Nunca te marches de una entrevista sin preguntar cuál es el siguiente paso en el proceso de selección. Le demostrarás al entrevistador que realmente estás interesado. Por otro lado es posible que realizando esta pregunta consigas que el reclutador lo tenga en cuenta y se ponga en contacto contigo incluso en el caso de que [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Debo realizar alguna pregunta al&nbsp;entrevistador?

@@ -15,6 +15,9 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/AplEJ_cc1AY/hqdefault.jpg"
+videoId: "AplEJ_cc1AY"
+thumbnailAlt: ""
 ---
 
 # PRIXLINERs ✅ Si Hay Trabajo en España 🇪🇸 (y Fátima SIN Trabajo)&nbsp;😃

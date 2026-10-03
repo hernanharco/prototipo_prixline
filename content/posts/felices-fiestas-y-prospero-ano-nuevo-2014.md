@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Quería desearos unas Felices Fiestas en compañia de vuestros amigos , familia y seres queridos . Que estas sean unas fiestas en el que penséis que la felicidad está en las pequeñas cosas del día a día y que compartidas las cosas siempre se viven mejor . Espero&hellip;"
+thumbnail: "http://vallededempleo.files.wordpress.com/2013/12/postal-observatorio-de-empleo.jpg?w=300&h=284"
+thumbnailAlt: ""
 ---
 
 # Felices Fiestas y Próspero Año Nuevo&nbsp;2014

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: Desde hace algún tiempo recibo bastantes correos de gente donde me cuentan su situación actual en la búsqueda de empleo. La mayor parte de ellos me suelen pedir que les eche un vistazo a su perfil en LinkedIn o a su currículum para ver en qué pueden mejorarlo. Desde que&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿De verdad quieres que te ayude en tu búsqueda de&nbsp;empleo?

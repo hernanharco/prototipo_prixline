@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eduarea's Blog: El uso del iPad en entornos de aprendizaje formal, a decir de muchos, está en alza. Debido a las formas casi mágicas que promueve la interacción, eso tiene sentido. Pero cuando los alumnos están utilizando el iPad, ¿qué están haciendo? ¿Qué es exactamente? A menudo la novedad de la&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/ipad-cognitive-spectrum.png?w=768&h=1024"
+thumbnailAlt: ""
 ---
 
 # 25 Maneras de Utilizar el iPad en el Aula por&nbsp;Complejidad

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Una carrera profesional tiene un camino en el que hay que asumir riesgos y tomar decisiones. La mayoría de personas por no decir todo el mundo ha tenido en algún momento de su vida un trabajo que le ha sido insatisfactorio. Todos deseamos y ansiamos conseguir ese trabajo que&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/la-resignacion-laboral.jpg?w=232&h=217"
+thumbnailAlt: ""
 ---
 
 # La resignación laboral

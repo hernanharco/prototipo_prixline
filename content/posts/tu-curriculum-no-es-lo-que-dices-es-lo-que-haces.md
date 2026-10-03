@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Esta es una de las frases estrella del libro Superprofesional de Alfonso Alcántara, y la verdad es que no puede ser más acertada. Nos preocupamos demasiado de si poner o no foto, de cómo organizar el curriculum y a veces nos dejamos lo más importante, las tareas que has hecho en&hellip;"
+thumbnailAlt: ""
 ---
 
 # Tu curriculum no es lo que dices, es lo que&nbsp;haces

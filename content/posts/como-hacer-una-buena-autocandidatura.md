@@ -18,6 +18,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: En la búsqueda de empleo nos encontramos con múltiples opciones y alternativas. Aparte de inscribirnos a ofertas como medio tradicional para buscar, podemos optar por ser más proactivos y hacer llegar nuestro curriculum a una empresa mediante la autocandidatura. La autocandidatura es un procedimiento por medio del cual intentamos acceder a&hellip;"
+thumbnail: "https://plandempleo.files.wordpress.com/2014/04/esta-es-la-nuestra.jpg?w=300&h=147"
+thumbnailAlt: ""
 ---
 
 # Cómo hacer una buena&nbsp;autocandidatura

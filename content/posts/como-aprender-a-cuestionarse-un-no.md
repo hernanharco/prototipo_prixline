@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Analiza, cuestiónate el “no”, sal de tu zona de confort y ¡sácale el máximo partido a la situación! Seguro que ya te ha pasado y tienes una experiencia positiva. Vívelo a medio plazo, genera empleabilidad, renueva tu curriculum y apórtale algo nuevo."
+thumbnailAlt: ""
 ---
 
 # ¿Cómo aprender a cuestionarse un&nbsp;no?

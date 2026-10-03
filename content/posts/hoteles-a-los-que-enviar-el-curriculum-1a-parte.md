@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Se acerca la temporada alta y los hoteles están cerrando sus plantillas para la temporada de verano. Estos son algunos enlaces de Hoteles y cadenas hoteleras en las que se puede dejar el currículum online para optar a cubrir puestos de diverso tipo: Camareros, cocineros, camarera de piso, recepcionistas, animadores,&hellip;"
+thumbnailAlt: ""
 ---
 
 # Hoteles a los que enviar el currículum (1ª&nbsp;parte)

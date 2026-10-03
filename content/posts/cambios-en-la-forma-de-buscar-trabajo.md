@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Ya hace tiempo que lo llevamos diciendo, la forma de buscar trabajo ha cambiado de manera sustancial y nos toca adaptarnos a esos cambios para que no se nos escape ninguna oportunidad. Se viene diciendo que el 80% de las ofertas de empleo no salen a la luz, aunque aquí podríamos&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cambios en la forma de buscar&nbsp;trabajo

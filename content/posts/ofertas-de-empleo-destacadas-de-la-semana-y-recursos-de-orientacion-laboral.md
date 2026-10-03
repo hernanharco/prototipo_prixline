@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Estas son las ofertas de empleo que destacamos esta semana y diferentes recursos que puedan mejorar tus posibilidades de inserción laboral. Hoy te … Ofertas de Empleo destacadas de la semana y recursos de orientación laboral"
+thumbnail: "https://i0.wp.com/juventudgijon.files.wordpress.com/2020/06/empleo.png?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Ofertas de Empleo destacadas de la semana y recursos de orientación&nbsp;laboral

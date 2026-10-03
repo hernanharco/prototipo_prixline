@@ -15,6 +15,8 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Ministerio de Educación, Cultura y Deporte convoca las becas FormARTE de formación y especialización en materias de la competencia de las instituciones culturales dependientes de este Ministerio, correspondientes al año 2014, en seis modalidades: Modalidad A) Becas de Conservación y Restauración de Bienes Culturales: 14 becas. Modalidad B) Becas&hellip;"
+thumbnail: "http://mocedastur.files.wordpress.com/2012/02/ministerio-educacion_cultura-y-deporte.gif?w=236&h=56"
+thumbnailAlt: ""
 ---
 
 # Becas FormARTE

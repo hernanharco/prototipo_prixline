@@ -14,6 +14,9 @@ originCategories:
   - "Trabajo"
   - "vídeos"
 excerpt: "Adaptarte a los nuevos tiempos, tener una actitud positiva, ser constante, continuar con tu formación, centrarte en la solución y no en el problema… Manuel Coloma, ex-seleccionador nacional de baloncesto femenino, te explica en esta píldora formativa algunas ideas motivadoras para que tu búsqueda de empleo sea efectiva."
+thumbnail: "https://i.ytimg.com/vi/qdH8DnvYc_U/hqdefault.jpg"
+videoId: "qdH8DnvYc_U"
+thumbnailAlt: ""
 ---
 
 # Manuel Coloma &#8211; El éxito en la&nbsp;empleabilidad

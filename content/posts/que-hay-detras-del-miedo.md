@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Porque detrás de cada persona se esconde otra. Quizás más bella, quizás más nueva, quizás la tuya” dice Federico Moccia. “Siento miedo pero no quiero saber por qué. Veremos si tapándonos los ojos se pasa“. Es una frase que nos repetimos una y otra vez, de alguna&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/untitled1.png?w=299&h=168"
+thumbnailAlt: ""
 ---
 
 # ¿Qué hay detrás del&nbsp;miedo?

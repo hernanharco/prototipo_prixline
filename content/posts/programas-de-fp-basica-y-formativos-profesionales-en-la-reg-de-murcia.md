@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Programas de FP Básica y Formativos Profesionales en la Reg. de&nbsp;Murcia.

@@ -18,6 +18,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Está claro que es difícil encontrar trabajo en España, pero hay que moverse, no existe una fórmula que de trabajo al instante, pero si hay métodos para estar más cerca de las empresas, y espero que este artículo le ayude a actualizar la forma de buscar trabajo."
+thumbnailAlt: ""
 ---
 
 # El currículo convencional

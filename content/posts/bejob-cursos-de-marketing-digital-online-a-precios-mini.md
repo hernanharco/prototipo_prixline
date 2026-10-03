@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Luces y Sombras de las Marcas: Los profesionales del marketing necesitamos estar en formación continua, ya que los cambios que se producen a diario en el sector, sobre todo desde la llegada de las nuevas tecnologías, hacen que nuestros conocimientos se tengan que ir adaptando a las novedades y aprender nuevas técnicas&hellip;"
+thumbnail: "https://fmlopez48.files.wordpress.com/2016/12/formacic3b3n-online-marketing-digital.jpg?w=640&h=345"
+thumbnailAlt: ""
 ---
 
 # Bejob, cursos de Marketing Digital online a precios&nbsp;«mini»

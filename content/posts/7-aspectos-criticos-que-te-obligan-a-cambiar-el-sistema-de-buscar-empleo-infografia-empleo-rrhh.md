@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía sobre 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo. Vía Infojobs. Un saludo 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png?w=660&h=1628"
+thumbnailAlt: ""
 ---
 
 # 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo #infografia #empleo&nbsp;#rrhh

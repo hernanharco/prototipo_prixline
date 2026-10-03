@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/01/10351610_10152326957725892_6367994572970057251_n.jpg?w=450&h=450"
+thumbnailAlt: ""
 ---
 
 # Son gratis

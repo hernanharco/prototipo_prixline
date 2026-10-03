@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://reflexionesconcitas.files.wordpress.com/2016/09/14183820_1048289128625670_2867365213109065253_n.jpg?w=620&h=620"
+thumbnailAlt: ""
 ---
 
 # 10 Maneras de amargarse la&nbsp;vida.

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Una vez realizada la entrevista de trabajo, por fin, no tenemos del todo claro si nos ha ido bien o mal. Ahora es el momento de esperar una llamada que confirme si hemos sido seleccionados o no. Esta espera se hace dura, los días pasan y pasan… ¿Por qué no&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg?w=300&h=200"
+thumbnailAlt: ""
 ---
 
 # ¿Qué hago después de la&nbsp;entrevista?

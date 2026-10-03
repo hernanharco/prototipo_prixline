@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Seguro que mientras dura el confinamiento, muchas personas no tienen ganas ahora de buscar trabajo… pero puede que en breve se tengan que poner las … Qué hacer durante el confinamiento para encontrar trabajo después"
+thumbnail: "https://i0.wp.com/elcandidatoidoneo.com/wp-content/uploads/2020/04/confinement.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Qué hacer durante el confinamiento para encontrar trabajo&nbsp;después

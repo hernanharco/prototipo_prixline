@@ -20,6 +20,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La campaña de Navidad se acerca y una de las ciudades europeas más populares para ir de compras en estas fechas, Londres, se prepara para la gran ocasión. Distintas empresas ubicadas en la capital británica precisan personal para las fechas más consumistas del año. 24/10/2013&hellip;"
+thumbnail: "http://www.portalparados.es/userfiles/2013/Oct_24/horizontal_365/navidadlondres_54_horizontal.jpg"
+thumbnailAlt: ""
 ---
 
 # ¿Quieres trabajar estas Navidades en Londres? Aquí tienes ofertas de&nbsp;empleo

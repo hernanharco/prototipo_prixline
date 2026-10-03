@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Es más probable que actuando tengamos ganas de hacer algo, que esperar a tener ganas de actuar. “Después lo haré”. Pocas veces existe una frase tan inútil. Simplemente: Hagámoslo! Fuente http://www.ramonjhernandez.com/2014/10/crecimiento.html"
+thumbnailAlt: ""
 ---
 
 # Crecimiento emocional

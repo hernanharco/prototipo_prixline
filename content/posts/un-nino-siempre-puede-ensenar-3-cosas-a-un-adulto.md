@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/01/602891_303882969732412_996504002_n.jpg?w=500&h=404"
+thumbnailAlt: ""
 ---
 
 # Un niño siempre puede enseñar 3 cosas a un&nbsp;adulto

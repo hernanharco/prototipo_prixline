@@ -14,6 +14,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/Zf48d1hy28U/hqdefault.jpg"
+videoId: "Zf48d1hy28U"
+thumbnailAlt: ""
 ---
 
 # #PRIXLINE ✅ ¿Amnistía en España? Magistrado Don Jesús Villegas 👍 🇪🇸 PCIJ Independencia&nbsp;Judicial

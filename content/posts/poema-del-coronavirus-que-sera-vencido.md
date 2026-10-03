@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En el confinamiento, nada mejor que unas gotas de poesía, humor y ánimo. Aquí va el Poema «Coronín, coronado el virus se ha acabado» the Poem Y por… Poema del Coronavirus que será vencido"
+thumbnail: "https://i0.wp.com/vivoycoleando.files.wordpress.com/2020/04/htb1z95frpxxxxbdxfxxq6xxfxxxw.jpg_q50.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Poema del Coronavirus que será&nbsp;vencido

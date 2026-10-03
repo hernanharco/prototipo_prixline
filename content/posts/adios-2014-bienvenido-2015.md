@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Mi percepción, a medida que crezco , es que NO HAY AÑOS MALOS. Hay años de fuertes aprendizajes y otros que son como un recreo, pero malos no son. Creo firmemente que la forma en que se debería evaluar un año tendría más que ver con cuánto fuimos capaces&hellip;"
+thumbnail: "http://ferreteria-y-bricolaje.cdecomunicacion.es/system/attachments/000/063/534/news_story/2015.jpg?1419878032"
+thumbnailAlt: ""
 ---
 
 # Adiós 2014&#8230;&#8230;.Bienvenido 2015

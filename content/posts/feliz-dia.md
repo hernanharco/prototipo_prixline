@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/07/ee9ac075024771668ca0e4a9867f272c.jpg?w=320&h=453"
+thumbnailAlt: ""
 ---
 
 # ¡Feliz día!

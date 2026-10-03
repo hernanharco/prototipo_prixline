@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Owura Kwadwo es profesor de TIC en una escuela rural de Kumasi, en Ghana. Estos días todos hemos oído hablar de un profesor de una escuela de Ghana que da sus clases con la ayuda únicamente de una pizarra de tiza, sus conocimientos y sobre todo su imaginación.&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/03/1519934394_521191_1519937336_noticia_normal_recorte1.jpg?w=730&h=488"
+thumbnailAlt: ""
 ---
 
 # La imaginación es poder&#8230;, con final&nbsp;feliz.

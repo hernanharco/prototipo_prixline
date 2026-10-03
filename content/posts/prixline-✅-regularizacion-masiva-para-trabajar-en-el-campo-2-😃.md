@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/ij84nLGUC-A/hqdefault.jpg"
+videoId: "ij84nLGUC-A"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Regularización MASIVA para TRABAJAR en el CAMPO (2)&nbsp;😃

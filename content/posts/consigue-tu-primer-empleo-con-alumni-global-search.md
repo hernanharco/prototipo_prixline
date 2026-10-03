@@ -21,6 +21,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: Si eres un/a joven recién licenciado universitario y te enfrentas por primera vez a la búsqueda de empleo, seguro que te surgen un montón de dudas y probablemente te des cuenta de que buscar trabajo no es algo tan aparentemente sencillo como parece, o al menos buscar BIEN trabajo. Porque enviar&hellip;"
+thumbnailAlt: ""
 ---
 
 # Consigue tu primer empleo con Alumni Global&nbsp;Search

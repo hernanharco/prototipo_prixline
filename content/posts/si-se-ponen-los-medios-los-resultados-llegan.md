@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Ya va casi para dos años, ¡cómo pasa el tiempo!, que reflexionaba en este mismo espacio y concretaba “la transformación digital afecta a cómo trabajamos, a cómo y dónde aprendemos pero, sobre todo, a nuestra manera de comunicarnos, ya que requiere del manejo de nuevas herramientas y de nuevos lenguajes. Lo global y lo local&hellip;"
+thumbnailAlt: ""
 ---
 
 # Si se ponen los medios, los resultados&nbsp;llegan

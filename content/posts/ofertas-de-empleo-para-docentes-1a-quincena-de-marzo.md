@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: El tiempo pasa volando… y ya estoy de nuevo aquí inagurando el mes de marzo con nuevas ofertas de empleo para docentes que he encontrado en las redes y varias que me han enviado para que las difunda. Gracias a todos/as!! Me envían a mi correo estas ofertas de&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/jv7omds7odg4sv21_eo-w.png?w=654&h=435"
+thumbnailAlt: ""
 ---
 
 # Ofertas de empleo para docentes 1ª quincena de&nbsp;marzo

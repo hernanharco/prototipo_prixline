@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Repartir curriculums o inscribirse a ofertas a través de internet suelen ser las dos vías más habituales de búsqueda de empleo, pero ¿son las más eficaces? Seguro que si hacemos una encuesta saldrá ganando el no… Y es que en la actualidad no sólo vale con saber hacer un trabajo, hay&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Es ineficaz buscar trabajo como&nbsp;tal?

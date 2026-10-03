@@ -12,6 +12,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/PL_mLT80PEU/hqdefault.jpg"
+videoId: "PL_mLT80PEU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Terror 😱 Político en el MUNDO 🌎 La CABINA&nbsp;😃

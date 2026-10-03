@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Siempre me ha gustado este mes, y creo que algo de culpa tienen Los Enemigos. Aunque su canción sea bastante triste, tengo que decir que este mes lo he considerado siempre como un segundo enero: volvemos a empezar, aparecen nuevas oportunidades y es como si todo comenzara de nuevo. Después de un&hellip;"
+thumbnail: "https://i.ytimg.com/vi/sPMt-Bwk2bk/hqdefault.jpg"
+videoId: "sPMt-Bwk2bk"
+thumbnailAlt: ""
 ---
 
 # Septiembre

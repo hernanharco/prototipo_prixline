@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Eleforma Asturias organiza el curso de operador de plataforma elevadora móvil de personal en el Centro de Empresas de Novales, de Valdepares (El Franco) Se trata de un curso teórico-práctico. Tendrá lugar el sábado 22 de agosto de 2015, de 10:00 a 14:00 y de 16:00 a 20:00 horas. Precio: 110 euros Más información, inscripciones y&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/centro-empresas-novales-el-franco.jpg?w=121&h=92"
+thumbnailAlt: ""
 ---
 
 # Curso de operador de plataforma elevadora.&nbsp;Valdepares

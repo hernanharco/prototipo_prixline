@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "He de decir, antes de nada, que el hecho de realizar este proyecto ha sido una satisfacción tanto a nivel personal como profesional. A través de este trabajo he aprendido muchas cosas y también he afianzado otras que ya conocía. He descubierto que el arte de la manualidad puede ser muy provechoso en todos los [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Curso de Monitor de&nbsp;Manualidades

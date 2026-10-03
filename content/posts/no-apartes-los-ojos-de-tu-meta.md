@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/1623586_10151984888363883_132862019_n.jpg?w=594&h=216"
+thumbnailAlt: ""
 ---
 
 # No apartes los ojos de tu&nbsp;meta

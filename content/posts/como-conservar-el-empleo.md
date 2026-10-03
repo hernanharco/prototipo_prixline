@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Dado la situación que nos encontramos poder conservar o conseguir ese empleo que tanto queremos puede resultar ser una auténtica pesadilla. Muchas personas les es difícil conservar el empleo ya sea por la situación o porque sencillamente no supieron como conservarlo por no adaptarse a los cambios, clima laboral,&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/conservar-el-empleo.jpg?w=300&h=215"
+thumbnailAlt: ""
 ---
 
 # Como conservar el&nbsp;empleo

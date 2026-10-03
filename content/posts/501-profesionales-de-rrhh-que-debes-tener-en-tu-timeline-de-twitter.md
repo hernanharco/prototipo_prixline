@@ -20,6 +20,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # 50+1 profesionales de RRHH que debes tener en tu timeline de&nbsp;twitter

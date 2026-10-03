@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Cuando buscamos EMPLEO y tenemos DISCAPACIDAD, es frecuente que nos surjan muchas dudas a la hora de abordar la tarea: ¿lo indico en el currículo?,¿saco el tema en la entrevista?, ¿cómo lo explico?, etc… Aquí os dejamos unas RECOMENDACIONES que, esperamos, os resulten de utilidad. ANTES DE LA&hellip;"
+thumbnailAlt: ""
 ---
 
 # NOTICIA DE EMPLEO: ¿CÓMO TRATO MI DISCAPACIDAD EN UNA ENTREVISTA DE&nbsp;TRABAJO?

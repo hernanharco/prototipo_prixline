@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/02/ab3da08906c6d9f0f7937a7eb94e2f4d.jpg?w=450&h=650"
+thumbnailAlt: ""
 ---
 
 # 12 Reglas del&nbsp;éxito.

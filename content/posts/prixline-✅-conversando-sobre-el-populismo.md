@@ -12,6 +12,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/TM56KCtLOPA/hqdefault.jpg"
+videoId: "TM56KCtLOPA"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Conversando sobre el Populismo&#8230;

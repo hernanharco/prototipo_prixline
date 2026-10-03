@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Cada vez más son las empresas que gestionan sus ofertas de empleo por internet. Eso nos permite enviar el currículum sin tener que acudir a sus instalaciones e incluso ver las ofertas de trabajo que tienen publicadas. Más de 100 enlaces de empresas a los que enviar el currículum, pincha&hellip;"
+thumbnailAlt: ""
 ---
 
 # Más de 100 enlaces de empresas a los que enviar el currículum&nbsp;online

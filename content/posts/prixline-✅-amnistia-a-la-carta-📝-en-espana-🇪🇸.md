@@ -14,6 +14,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/rJOGXkPqgMw/hqdefault.jpg"
+videoId: "rJOGXkPqgMw"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Amnistía a la Carta 📝 en España&nbsp;🇪🇸

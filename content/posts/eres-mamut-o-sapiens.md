@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Photo by Sheku Koroma on Pexels.com “Nos hallamos en el umbral tanto del cielo como del infierno, moviéndonos nerviosamente entre el portal de uno y … ¿Eres Mamut o Sapiens? ¿Quién eres? ¿Cuáles son tus fortalezas? ¿Cuáles son tus debilidades? ¿Cómo transformarlas? Son algunas de las preguntas que en estos momentos de confinamientos físico y [&hellip;]"
+thumbnail: "https://i0.wp.com/principiodeuncomienzo.files.wordpress.com/2020/10/pexels-photo-4730171.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # ¿Eres Mamut o&nbsp;Sapiens?

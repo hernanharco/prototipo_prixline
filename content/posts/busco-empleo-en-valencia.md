@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Actualmente estoy trabajando tan solo por un mes de sustitución. Movido por mi motivación de no cesar en encontrar un empleo digno y con mayor estabilidad en el tiempo, sigo demandando ayuda por este medio, yo no me paro. Busco empleo en Valencia. El boca a boca ayuda mucho, cualquier&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/agustin_ramon06_20160704_0129_arrinconados_busco_empleo.jpg?w=800&h=440"
+thumbnailAlt: ""
 ---
 
 # Busco empleo en&nbsp;Valencia

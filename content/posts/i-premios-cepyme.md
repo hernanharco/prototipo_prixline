@@ -15,6 +15,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Emprego Viveiro: I Premios Cepyme La Confederación Española de la Pequeña y Mediana Empresa (CEPYME) y la Federación Española de Autónomos-CEAT han convocado la primera edición de los Premios CEPYME, con la que quieren reconocer y divulgar el protagonismo de las pymes y los autónomos en la sociedad, así como la importante&hellip;"
+thumbnail: "http://www.cel.es/media/img/entries/m_53340132eadbf.jpg"
+thumbnailAlt: ""
 ---
 
 # I Premios Cepyme

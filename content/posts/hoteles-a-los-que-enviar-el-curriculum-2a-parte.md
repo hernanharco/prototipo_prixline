@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Esta es la SEGUNDA parte de la serie de posts relacionados con el empleo en Hoteles y la época estival. Recuerda que si quieres consultar la primera está en este enlace, picha aquí ? ANDILANA HOTELS http://www.grupandilana.com/es/trabaja-con-nosotros ? BlueBay – Bluebay Hotels & Resorts http://www.bluebayresorts.com/es/trabaja-con-nosotros.html Hotel Bestprice Diagonal –&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/05/precio-curri.jpg?w=300&h=142"
+thumbnailAlt: ""
 ---
 
 # Hoteles a los que enviar el currículum (2ª&nbsp;parte)

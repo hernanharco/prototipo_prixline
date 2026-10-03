@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/oWR1wUOr7CQ/hqdefault.jpg"
+videoId: "oWR1wUOr7CQ"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Carrera Universitaria 👩🏼‍🎓 o Grado Superior (FP) ¿Qué elijo?&nbsp;🤔

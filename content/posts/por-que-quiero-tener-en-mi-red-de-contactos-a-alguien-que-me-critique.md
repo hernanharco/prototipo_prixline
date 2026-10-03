@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: Hace unas semanas tuve un encontronazo bastante fuerte con una persona en un debate de LinkedIn. No se trataba de un troll, personajes que pululan por tus perfiles sociales tratando de desacreditarte sin más, sino de alguien que se había mostrado contrario a mi punto de vista. Su comentario sobre&hellip;"
+thumbnailAlt: ""
 ---
 
 # Por qué quiero tener en mi red de contactos a alguien que me&nbsp;critique

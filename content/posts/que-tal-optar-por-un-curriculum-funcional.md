@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Muchas personas tienen dudas a la hora de elaborar su curriculum. Si lo hacemos cronológico puede que se queden aspectos relevantes de nuestro historial un poco difuminados. A veces se crea mucha confusión con respecto al mejor formato del curriculum, por ello para personas que tengan experiencias profesionales en diversos sectores&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Qué tal optar por un curriculum&nbsp;funcional?

@@ -21,6 +21,8 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on DirComtomía: Las nuevas fórmulas de autoaprendizaje son una tendencia en alza para 2013. Los cursos online abiertos y gratuitos están revolucionando la enseñanza y el boom de los MOOC (Massive Open Online Courses) está obligando a las universidades a replantear su modelo. Hace tiempo que sigo de cerca las ofertas formativa de cursos online y gratuitos, por las razones&hellip;"
+thumbnail: "http://dircomtomia.files.wordpress.com/2013/03/5637742855_9a6d97b293_z.jpg?w=300&h=199"
+thumbnailAlt: ""
 ---
 
 # Cursos online y gratuitos: La generación &#8216;social media&#8217; demanda conocimiento&nbsp;abierto

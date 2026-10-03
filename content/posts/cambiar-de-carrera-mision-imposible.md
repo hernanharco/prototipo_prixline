@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Cambiar de #carrera&#8230; ¿misión&nbsp;imposible?

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Que hoy en día está todo interconectado es algo que ya no se puede negar, aunque los de siempre quieran quedarse con el lado negativo de las cosas. Que cualquier cosa que cuelgues en Internet es de acceso público, en mayor o menor medida, dependiendo&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/10/sec3b1or-reclutador-veo-veo-quc3a9-ves1.jpg?w=300&h=214"
+thumbnailAlt: ""
 ---
 
 # Señor reclutador: Veo, veo&#8230; qué&nbsp;ves!

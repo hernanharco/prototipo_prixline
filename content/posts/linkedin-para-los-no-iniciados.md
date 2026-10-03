@@ -17,6 +17,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Éste particular punto de vista sobre LinkedIn que expresó Marta a raíz de ese debate, me ha dado un gran punto de partida en el que poder apoyarme para desarrollar una idea clara sobre que es LinkedIn mediante conceptos simples y entendibles para toda persona no iniciada en ésta muy buena plataforma social, principalmente pensada [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # LinkedIn para los no&nbsp;Iniciados

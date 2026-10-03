@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Planifica tu trabajo y luego trabaja sobre tu plan” decía Robert Baden-Powell “Me encanta que los planes salgan bien“. Frase mítica de la serie del Equipo A, que al oírla recientemente me ha hecho recapacitar. Te lanzo esta pregunta: ¿Tienes un plan para tu vida?. Si es&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/01/plan.png?w=300&h=168"
+thumbnailAlt: ""
 ---
 
 # ¿Tienes un plan para tu&nbsp;vida?

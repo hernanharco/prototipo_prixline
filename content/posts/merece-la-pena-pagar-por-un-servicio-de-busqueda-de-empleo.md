@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Merece la pena pagar por un servicio de búsqueda de&nbsp;empleo?

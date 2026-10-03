@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: FOTO: Caminos de Pirané (Formosa) Voy a comenzar contándote que he realizado varios cursos a través de internet (online/e-learning), todos fueron productivos porque algo aprendí, actualicé conocimientos, conocí otros autores, otras personas, otras formas de ver las cosas y todo eso me permitió y me permite hacer un ”&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/08/5.jpg?w=1280&h=768"
+thumbnailAlt: ""
 ---
 
 # ¿Por qué HYPATIA? Parte&nbsp;I

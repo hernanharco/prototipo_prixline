@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La entrevista telefónica es una fase que permite un intercambio de ideas rápido, en el cuál no van a tener en cuenta ni nuestra apariencia ni nuestro lenguaje corporal, pero en la que sí que tendrán en cuenta otra serie de factores – como hemos ido comentando. Además, es el momento de preguntar cualquier duda [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Entrevista telefónica

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Si necesitas ayuda, pídela. Los servicios públicos tienen orientadores laborales sobradamente preparados para poder asesorarte. No lo dudes. Si hay algo que tienes que cambiar es la negatividad. No puedes pensar que “no hay nada”, “que los demás son mejores que yo”, etc. Todo esto no te da garantía de conseguir un trabajo, tampoco que [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Seguro que estás desempleado? Pues tienes mucho que&nbsp;hacer….

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/AmvHDlJZr6w/hqdefault.jpg"
+videoId: "AmvHDlJZr6w"
+thumbnailAlt: ""
 ---
 
 # Prácticas en orientación laboral: La&nbsp;comunicación.

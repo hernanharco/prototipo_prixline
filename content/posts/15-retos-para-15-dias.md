@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Te propongo 15 retos para 15 días que te pueden ayudar a lidiar con la adversidad. En ocasiones la vida no es fácil o puede ser injusta. Y ya nos … 15 retos para 15 días"
+thumbnail: "https://i0.wp.com/victoriaredondo.files.wordpress.com/2020/03/empleabilidad-empleo-reto-logro-tiempo-carrera-profesional-reflexion-actividad.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # 15 retos para 15&nbsp;días

@@ -17,6 +17,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Es una de las preguntas más frecuentes que los emprendedores se hacen antes de comenzar la aventura de su primer empresa. Las historias de éxito son posibles. Pero, ¿qué tienes que tomar en cuenta antes y durante el proceso? Es posible emprender con amigos, familia o con gente externa y la búsqueda de socios corresponde [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Emprender solo o con alguien&nbsp;más?

@@ -20,6 +20,8 @@ originCategories:
   - "Tanatoestetica"
   - "trabajo"
 excerpt: "En la mayoría de los cursos podrás optar por realizar prácticas, con el objetivo de aplicar los conocimientos adquiridos en entidades y centros especializados. De este modo, tienes la oportunidad de entrar en contacto directo con tu futura profesión y adquirir un aprendizaje práctico, imprescindible para incorporarte con éxito al mercado laboral. El coordinador de [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/03/practicas.jpeg?w=282&h=179"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo buscamos las prácticas en&nbsp;prixline?

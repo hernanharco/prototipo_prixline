@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Este viernes 26 de diciembre, así como regalo de Navidad, se ha emitido la entrevista que realizamos para el programa de televisión La Nueva Ruta del Empleo, de TeleRibera. Comparto con vosotros el vídeo porque durante aprox. 15 minutos charlamos junto a José Ramón Villaverde&hellip;"
+thumbnailAlt: ""
 ---
 
 # Hablando de búsqueda de empleo y redes sociales en La Nueva Ruta del Empleo&nbsp;TV.

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Ya está! Estás cansadx de buscar empleo de la manera tradicional, es decir, te has dado cuenta de que, además de inscribirte en un montón de webs de empleo, de contarle a tus familiares y amigxs que quieres trabajar o cambiar de empleo, y de patearte la ciudad –y más allá-, vas a hacer algo&hellip;"
+thumbnailAlt: ""
 ---
 
 # Sin Valor&#8230;no hay&nbsp;Paraíso

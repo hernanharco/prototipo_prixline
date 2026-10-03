@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: El 99,99% de los avisos laborales contiene la frase como requisito de competencias personales el “trabajo en equipo”. Aunque las tareas se realicen en forma individual, hoy más que nunca, es casi imposible que TODO el trabajo sea totalmente individual. Entonces ¿qué significa saber trabajar en equipo? ¿No es,&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Qué significa saber trabajar en&nbsp;equipo?

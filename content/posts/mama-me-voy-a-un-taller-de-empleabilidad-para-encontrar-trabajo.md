@@ -17,6 +17,7 @@ originCategories:
   - "Prácticas"
   - "prixline"
 excerpt: "Se suele decir “it’s not about talking, just walking” o cállate y anda, básicamente. La diferencia entre un experto y un vendedor de humo es que el primero hace y el segundo dice cómo dicen otros que se hace. Y este principio no es para los frikis de Social Media, vale para todo hijo de vecino, te [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # &#8220;Mamá, me voy a un taller de empleabilidad para encontrar&nbsp;trabajo&#8221;.

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/LwSJ84gajp8/hqdefault.jpg"
+videoId: "LwSJ84gajp8"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Reunión en Madrid de los Prixliners&nbsp;😃

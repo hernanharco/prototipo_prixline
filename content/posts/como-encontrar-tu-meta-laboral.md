@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Me refiero a tu autoestima, la confianza en uno mismo, a la creencia en nuestras posibilidades, a una actitud de trabajo y esfuerzo, a la búsqueda del cambio y mejora, a la energía positiva, a la capacidad de superación, a la capacidad de lucha por lo que quieres, a la perseverancia,…"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo encontrar tu Meta&nbsp;Laboral?

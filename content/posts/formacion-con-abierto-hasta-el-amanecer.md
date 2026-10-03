@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Abierto hasta el Amanecer organiza dos cursos para el mes de agosto: “Acompañante de transporte escolar” y “Monitor/a de comedor y ocio”. Acompañante de transporte escolar Del 17 al 21 de agosto, en horario de 10:00 a 14:00 h. (20 h) Monitor/a de comedor y ocio. Del 24&hellip;"
+thumbnailAlt: ""
 ---
 
 # Formación con Abierto hasta el&nbsp;Amanecer

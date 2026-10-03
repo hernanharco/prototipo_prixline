@@ -20,6 +20,8 @@ originCategories:
   - "prixline"
   - "tiempo-libre"
 excerpt: "De toda la serie de términos que se suelen asociar a este área de conocimiento que denominamos animación sociocultural, tales como animación lectora, animación en ocio y tiempo libre, dinamismo y otras expresiones similares…, es curioso que todas tengan un denominador común que es la noción de movimiento y de acción. Tanto la animación sociocultural [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/05/tiempolibre-prixline.jpeg?w=231&h=176"
+thumbnailAlt: ""
 ---
 
 # Curso de Monitor de Ocio y Tiempo Libre con&nbsp;prácticas

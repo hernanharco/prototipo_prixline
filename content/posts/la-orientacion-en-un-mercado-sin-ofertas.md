@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Esta entrada no es de orientación, no es de ayuda, no sirve para las personas que están sufriendo el desempleo. Esta entrada nace un poco desde de la frustración y de la impotencia. Y es que el mercado laboral actual es muy puñetero y se está llevando a mucha gente por&hellip;"
+thumbnailAlt: ""
 ---
 
 # La orientación en un mercado sin&nbsp;ofertas

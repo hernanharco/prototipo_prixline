@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on merceroura: Si eres de esas personas que cuando alguien te cuenta su historia está pensando qué va a contestar o interrumpe no sabes escuchar. La escucha activa se practica con todo el cuerpo. Con los ojos, los pies, las manos y la actitud con la que te mueves. Es una forma de&hellip;"
+thumbnail: "https://i.ytimg.com/vi/Rl6gfmF0jk0/hqdefault.jpg"
+videoId: "Rl6gfmF0jk0"
+thumbnailAlt: ""
 ---
 
 # ¿Sabes escuchar?

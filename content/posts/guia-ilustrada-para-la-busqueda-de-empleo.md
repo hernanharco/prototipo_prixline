@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Guía Ilustrada para la Búsqueda de&nbsp;Empleo.

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Si buscas hacer autocandidatura, es decir, enviar tu curriculum o datos para futuras ofertas a una empresa, seguro que a veces te ha visto con dificultades. En la web existen múltiples recursos con mucha información pero a veces seleccionar los más interesantes o adecuados no es una tarea fácil. Echemos un&hellip;"
+thumbnailAlt: ""
 ---
 
 # Webs para autocandidatura

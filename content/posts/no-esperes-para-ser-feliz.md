@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/06/12644987_10153865269132980_3882943654009328044_n.jpg?w=480&h=444"
+thumbnailAlt: ""
 ---
 
 # No esperes para ser&nbsp;feliz.

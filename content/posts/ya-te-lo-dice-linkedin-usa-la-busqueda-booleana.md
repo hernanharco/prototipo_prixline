@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Ya te lo dice LinkedIn, usa la búsqueda&nbsp;booleana

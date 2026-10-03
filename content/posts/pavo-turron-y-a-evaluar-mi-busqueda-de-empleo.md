@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Parece que fue ayer cuando empezamos 2015, pero todo lo que tiene un principio tiene un final y sin apenas darnos cuenta, o quizás, dándonos demasiada cuenta, hemos llegado a la recta final del Año. En estos momentos más que nunca, es momento de hacer balance,&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/12/keyboard-567803_960_720.jpg?w=960&h=640"
+thumbnailAlt: ""
 ---
 
 # Pavo, Turrón y a  Evaluar mi Búsqueda de&nbsp;Empleo

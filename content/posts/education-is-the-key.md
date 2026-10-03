@@ -27,6 +27,7 @@ originCategories:
   - "Trabajo"
   - "vídeos"
 excerpt: "Originally posted on plandempleo: ¿Conoces a Suli Breaks? Este joven británico es un poeta, y habla sobre la actualidad, más bien rapea sobre la actualidad, aunque no haya música en sus vídeos. Artista multidisciplinar, me lo dio a conocer mi sobrino de 15 años. Tela. Dejo un vídeo, y me cuentas. http://www.youtube.com/watch?v=0-o4h8ibT3s"
+thumbnailAlt: ""
 ---
 
 # Education is the&nbsp;key&#8230;

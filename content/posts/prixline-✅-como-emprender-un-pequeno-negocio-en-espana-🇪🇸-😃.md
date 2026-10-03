@@ -13,6 +13,9 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/K6o0T42I2no/hqdefault.jpg"
+videoId: "K6o0T42I2no"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Como EMPRENDER un PEQUEÑO NEGOCIO en España 🇪🇸&nbsp;😃

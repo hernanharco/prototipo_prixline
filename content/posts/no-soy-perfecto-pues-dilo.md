@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Cuando prepares la entrevista, ten en cuenta que no sabemos qué preguntas concretas te pueden hacer. Así que prepara bloques de preguntas y con sus respuestas. Bien, pero es importante que mantengas la calma. No te precipites, piensa lo que vas a decir antes de decirlo. Sé que es difícil, pero por eso preparamos las [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # No soy perfecto, ¡pues&nbsp;dilo!

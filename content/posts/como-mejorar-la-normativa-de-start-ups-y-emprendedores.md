@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Todo es electrónico: Hay consenso sobre que la normativa española de impulso a la creación de empresas puede mejorar. Aunque con frecuencia las oportunidades parecen desarrollarse en el ámbito tecnológico, seguro que hay muchas actividades en las que se puede mejorar el hábitat que permita iniciar y desarrollar actividades empresariales. Y&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/01/startup-emprender.jpg?w=320&h=213"
+thumbnailAlt: ""
 ---
 
 # Como mejorar la normativa de Start-ups y&nbsp;emprendedores

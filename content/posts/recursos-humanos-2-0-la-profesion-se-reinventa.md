@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : En los últimos años, las TIC han cambiado nuestra forma de trabajar, pero también ha conseguido que uno de los departamentos más clásicos del organigrama empresarial haya tenido que reinventarse: el departamento de Recursos Humanos 2.0. Según cuentan ellos mismos, la óptima gestión de los&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/03/tiempo-de-reinvetarse-rrhh-201.jpg?w=700&h=466"
+thumbnailAlt: ""
 ---
 
 # Recursos Humanos 2.0. La profesión se&nbsp;reinventa.

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: 45 plazas de prácticas de verano, con una dotación de 800 €/mes en el Programa “Emprende tus Prácticas” 10ª edición de Emprende tus Prácticas dirigido a estudiantes interesados en realizar prácticas en startups de base tecnológica repartidas en distintas ciudades españolas ( Ávila, Barcelona, La Rioja, Madrid, Orense&hellip;"
+thumbnailAlt: ""
 ---
 
 # Emprende tus prácticas

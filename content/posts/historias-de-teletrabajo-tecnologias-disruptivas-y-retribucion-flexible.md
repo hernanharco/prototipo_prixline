@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Esta semana, los links que más han llamado la atención de los muchos que he compartido, nos llevan a reflexiones sobre el teletrabajo y la … Historias de… teletrabajo, tecnologías disruptivas y retribución flexible. Al buscar trabajo hay muchas cosas que considerar, como dónde buscar, con qué frecuencia y para qué. A veces tienes suerte [&hellip;]"
+thumbnail: "https://sobrevivirrhhe.files.wordpress.com/2022/02/tecnologias_disruptivas_2022.webp"
+thumbnailAlt: ""
 ---
 
 # Historias de… teletrabajo, tecnologías disruptivas y retribución&nbsp;flexible.

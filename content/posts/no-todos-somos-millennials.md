@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La vida es demasiado corta para tener el trabajo equivocado” Estoy asqueado y con miedo. No es que haya visto el perfil “no bueno” de Julio Iglesias, o haya conocido a la niña de las chuches de Rajoy. Tengo miedo del camino que estamos tomando. Asqueado porque&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/08/untitled3.png?w=271&h=186"
+thumbnailAlt: ""
 ---
 
 # ¡¡No todos somos&nbsp;Millennials!!

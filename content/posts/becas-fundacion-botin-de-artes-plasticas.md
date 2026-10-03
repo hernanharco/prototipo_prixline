@@ -15,6 +15,8 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación Botín convoca Becas de Artes Plásticas para formación, investigación y realización de proyectos personales en el ámbito de la creación artística, que se cierran con la organización de la exposición Itinerarios y la edición de un catálogo. La convocatoria está abierta a artistas de cualquier nacionalidad. Las referidas a formación&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/02/fundacion-botin.jpg?w=86&h=86"
+thumbnailAlt: ""
 ---
 
 # Becas Fundación Botín de Artes&nbsp;Plásticas

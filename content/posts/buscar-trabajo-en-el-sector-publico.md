@@ -18,6 +18,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on plandempleo: photopin.com Cuando pensamos en buscar trabajo en el sector público nos vemos enseguida pensado en las oposiciones, pero no es la única vía. El sector público hace referencia al conjunto de administraciones, organismos y empresas públicas que son de titularidad estatal. Es decir, el ámbito de la economía que controlan directamente&hellip;"
+thumbnail: "https://plandempleo.files.wordpress.com/2014/04/esta-es-la-nuestra.jpg?w=300&h=147"
+thumbnailAlt: ""
 ---
 
 # Buscar trabajo en el sector&nbsp;público

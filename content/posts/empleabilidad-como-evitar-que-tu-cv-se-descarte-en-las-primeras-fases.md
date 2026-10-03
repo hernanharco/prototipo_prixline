@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Resulta paradójico que contando con un excedente de profesionales disponibles se pueda tener, a simultáneo, la percepción de la existencia de una carestía de talento. De nada sirve “valer” si no se acierta a comunicarlo ante el supuesto de tener encontrar una oportunidad para emplearse o para crecer profesionalmente. La empleabilidad no es un concepto [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/img_2114.jpg"
+thumbnailAlt: ""
 ---
 
 # Empleabilidad: cómo evitar que tu CV se descarte en las primeras&nbsp;fases&#8230;

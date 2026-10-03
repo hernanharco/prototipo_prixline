@@ -17,6 +17,8 @@ originCategories:
   - "recursos"
   - "tiempo-libre"
 excerpt: "Originally posted on Mocedastur Blog: La Escuela de Animación Infantil y Juvenil Concepción Arenal organiza los siguientes cursos de Tiempo Libre: Curso de Monitor/a de Actividades de Tiempo Libre + Certificado de Manipulador de Alimentos Consta de una parte teórica de 150 horas de duración, y de una parte práctica de 80 horas y el desarrollo de&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/03/escuela-de-animacion-infantil-y-juvenil-concepcion-arenal_2013.jpg?w=96&h=96"
+thumbnailAlt: ""
 ---
 
 # Cursos de Tiempo Libre + Manipulador de&nbsp;Alimentos

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Hoy por hoy, tener una entrevista de trabajo es casi un éxito en sí mismo. La complicación de cumplir requisitos en las ofertas y la alta competencia hace que el llegar a la entrevista de trabajo sea casi una carrera de fondo. Por ello, es crucial enfrentarnos a la entrevista con&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cómo responder preguntas difíciles en las entrevistas de&nbsp;trabajo

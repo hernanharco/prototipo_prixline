@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Recuerda como pueden ser las preguntas: Directas. Respuestas concretas. Ejemplo: ¿cuántos estuvo en la anterior empresa?, ¿Dónde estudio? Indirectas. De su respuesta, obtenemos información. Ejemplo: si le preguntamos a alguien que nos hablara de ti, ¿qué nos diría? Abiertas. La respuesta es personal y amplia. Aprovecha para dar información favorable. Ejemplo, ¿le gusta nuestra empresa?, [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Trucos para hacer una buena entrevista de&nbsp;trabajo

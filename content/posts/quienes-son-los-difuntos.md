@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: En estos días de transición entre octubre y noviembre celebramos en la mayoría de culturas del mundo un dia un tanto “especial” en el que invitamos a los difuntos a volver a caminar entre nosotros. Es el día de los santos difuntos que en España&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/11/518210_20121101194639.jpg?w=226&h=300"
+thumbnailAlt: ""
 ---
 
 # Quiénes son los&nbsp;difuntos?

@@ -16,6 +16,8 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on Probando MUNDO: ¡La creatividad al poder! Llevo ya algún tiempo buscando empleo en el mundo del marketing online, social media, eventos… Y no hay manera, oye! Pero no me desanimo. La idea está en diferenciarse y crear una marca personal, algo que ya tengo casi dominado, porque con un poquito de creatividad he podido&hellip;"
+thumbnail: "http://probandomundo.files.wordpress.com/2013/10/cv-20-original.png?w=1024&h=588"
+thumbnailAlt: ""
 ---
 
 # Cómo crear un CV 2.0 original para buscar&nbsp;empleo

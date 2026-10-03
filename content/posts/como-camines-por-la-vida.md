@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/11/e0854f6a0f30dc3220859649673e19a3.jpg?w=364&h=364"
+thumbnailAlt: ""
 ---
 
 # Como camines por la&nbsp;vida&#8230;

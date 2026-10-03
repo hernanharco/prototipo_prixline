@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/11/c3a20e582d34102b690682f38c9bed7c.jpg?w=620&h=335"
+thumbnailAlt: ""
 ---
 
 # Tres reglas simples en la&nbsp;vida

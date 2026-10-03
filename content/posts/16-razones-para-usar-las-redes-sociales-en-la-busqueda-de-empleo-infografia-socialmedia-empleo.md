@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Infografías en castellano: 16 razones para usar las Redes Sociales en la búsqueda de empleo"
+thumbnail: "https://ticsyformacion.com/wp-content/uploads/2018/05/razones-para-usar-redes-sociales-en-la-busqueda-de-empleo-infografia.png"
+thumbnailAlt: ""
 ---
 
 # 16 razones para usar las Redes Sociales en la búsqueda de empleo #infografia #socialmedia&nbsp;#empleo

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/12f87fb8033646a374285c35f306c5b1.jpg?w=620&h=618"
+thumbnailAlt: ""
 ---
 
 # Repítelo cada día

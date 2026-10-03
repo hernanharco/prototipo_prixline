@@ -19,6 +19,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Originally posted on plandempleo: Imaginemos: Marco Antonio y Cleopatra yacen muertos en el suelo de una habitación en Egipto. Ésta se encuentra cerrada por dentro, las ventanas están cerradas, no hay signos de violencia ni sangre en el suelo, ni armas u objetos que hayan podido ser usados para producir la muerte, y tampoco han&hellip;"
+thumbnail: "http://plandempleo.files.wordpress.com/2013/04/pecera.jpg?w=300&h=300"
+thumbnailAlt: ""
 ---
 
 # El pensamiento lateral

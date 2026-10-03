@@ -20,6 +20,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: Aunque hay quien cuestiona el momento de ponerse frente al entrevistador como un episodio fundamental en el proceso de selección, lo cierto es que la búsqueda, el currículo y todo lo que haces mientras rastreas un empleo te conduce a este encuentro definitivo. En esos&hellip;"
+thumbnail: "http://estaticos01.expansion.com/imagenes/2014/09/19/emprendedores-empleomercado-laboral/1411150781_0.jpg"
+thumbnailAlt: ""
 ---
 
 # Lo que nunca debes hacer en una entrevista de&nbsp;trabajo

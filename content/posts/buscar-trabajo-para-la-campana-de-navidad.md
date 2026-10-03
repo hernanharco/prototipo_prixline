@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: La campaña de Navidad está a la vuelta de la esquina y es un momento perfecto para buscar ofertas de trabajo, sobre todo en los sectores relacionados con la logística, el comercio, la hostelería, en fin, la atención al cliente en general. Por eso vamos a hacer un repaso de aquellos&hellip;"
+thumbnailAlt: ""
 ---
 
 # Buscar trabajo para la campaña de&nbsp;Navidad

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Os recuerdo que #empleo #trabajo #ofertaempleo son unas etiquetas que te ayudaran a buscar empleo en twitter."
+thumbnailAlt: ""
 ---
 
 # Twitter lo mejor para la búsqueda de&nbsp;empleo

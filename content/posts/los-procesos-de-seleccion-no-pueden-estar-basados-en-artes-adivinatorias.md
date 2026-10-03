@@ -17,6 +17,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Teniendo en cuenta que los perfiles sociales del 47% de los empleados potenciales son examinados inmediatamente después de haber recibido su candidatura a una oferta de empleo, y el 27% después de una conversación inicial, es obvia la importancia que están adquiriendo las redes sociales en el proceso de preselección."
+thumbnailAlt: ""
 ---
 
 # Los procesos de selección no pueden estar basados en artes&nbsp;adivinatorias

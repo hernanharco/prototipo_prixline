@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Consejería de Educación y Universidades de Canarias convoca un procedimiento selectivo para el ingreso en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Profesores de Escuelas Oficiales de Idiomas y Profesores Técnicos de Formación Profesional. Se convocan 500 plazas en las siguientes especialidades: Profesores de Enseñanza&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/05/gobierno-de-canarias.jpg?w=150&h=76"
+thumbnailAlt: ""
 ---
 
 # 500 plazas de profesores para&nbsp;Canarias

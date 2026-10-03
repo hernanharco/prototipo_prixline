@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La orientación laboral en estos momentos tiene que ir encaminada a potenciar el desarrollo personal más allá del empleo en el momento determinado."
+thumbnailAlt: ""
 ---
 
 # La orientación laboral en la&nbsp;actualidad

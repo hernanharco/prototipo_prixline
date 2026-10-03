@@ -20,6 +20,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Originally posted on Probando MUNDO: ¿Cómo llevas tu marca personal? Si aún no la estás gestionando ponte a ello, es importante sobre todo si buscas empleo! La mayoría de los reclutadores hoy en día te “Googlean” a ver qué encuentran sobre tí en Internet. Una marca personal o personal branding, es nuestra seña de identidad&hellip;"
+thumbnail: "http://probandomundo.files.wordpress.com/2013/05/baf2f-ser-diferente.jpg?w=500&h=334"
+thumbnailAlt: ""
 ---
 
 # 9 Pasos para crear tu marca&nbsp;personal

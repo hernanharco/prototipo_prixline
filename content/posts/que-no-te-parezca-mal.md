@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Cuando queremos comunicar alguna cosa a los demás tenemos dos maneras de hacerlo. De manera genuina y positiva Expresando una sentencia. Vigilar nuestros vocablos es básico para que el contrapeso del vínculo éste compensado. Quiero contaros una historia como siempre para ilustrar el post de esta semana. A María&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/04/friends-578183_1280.jpg?w=574&h=323"
+thumbnailAlt: ""
 ---
 
 # &#8220;Que no te parezca mal&nbsp;&#8230;&#8221;

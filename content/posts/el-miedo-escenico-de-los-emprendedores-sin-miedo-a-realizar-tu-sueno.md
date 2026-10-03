@@ -21,6 +21,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Por eso, cuando reflexiono tranquila, soy consciente de lo que quiero, estoy cerca de personas curiosas y luchadoras y leo este tipo de cosas me doy cuenta de que siempre habrá motivos para desconfiar de mi misma pero que la vida, ni en los peores momentos, deja de ser maravillosa, que lo importante es estar [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # El miedo escénico de los emprendedores | Sin Miedo a Realizar Tu&nbsp;Sueño

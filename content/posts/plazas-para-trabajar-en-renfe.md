@@ -14,6 +14,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Podrás consultar las características y requisitos de cada una de las plazas ofertadas, en el apartado Empleo y Formación de la web de RENFE. Las inscripciones se realizarán a través del formulario online de la página web. El plazo de presentación de solicitudes, para todas ellas, finalizará el día 4 de septiembre de 2015. RENFE [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Plazas para Trabajar en&nbsp;RENFE.

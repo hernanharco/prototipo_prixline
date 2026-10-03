@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: GRUPO CORTEFIEL – Textil Busca DEPENDIENTES/AS para cubrir la campaña de rebajas. VENDEDOR/A COLABORADOR/A CAMPAÑA VERANO (Ventas) 250 Vacante(s) Todas (Comunidad Autónoma Todas) Requisitos Experiencia Laboral Al menos 1 año Estudios mínimos Educación Secundaria Obligatoria Requisitos mínimos: Experiencia como dependiente en tienda del sector&hellip;"
+thumbnailAlt: ""
 ---
 
 # OFERTA DE EMPLEO: 250 DEPENDIENTES/AS PARA TODA ESPAÑA. CAMPAÑA DE&nbsp;VERANO

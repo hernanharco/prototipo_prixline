@@ -17,6 +17,7 @@ originCategories:
   - "gratis"
   - "prixline"
 excerpt: "Formación cyldigital.es La web CyLDigital quiere fomentar la participación activa de los ciudadanos mediante la creación de nuevos contenidos, como imágenes y vídeos, y desde ella se podrá preguntar y opinar sobre diversos temas de interés mediante la participación en grupos de la Comunidad CyL Digital. El ciudadano y la empresa pasará a ser de [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Formación online gratuita&nbsp;CyLDigital

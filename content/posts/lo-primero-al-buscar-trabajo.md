@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Buscar trabajo no es una foto chula, un currículum con colores, ni un enlace en un perfil. Que la empresa te valore como candidato es algo más."
+thumbnailAlt: ""
 ---
 
 # Lo primero al buscar&nbsp;trabajo

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Vivo y Coleando Ayer visité un zoo bello, inquietante y deprimente. El Zoo La Grandera en Cangas de Onís (Asturias). Bello porque en un entorno natural boscoso contaba con preciosas aves rapaces, canguros impasibles, linces calmosos y lobos inquietantes, entre otras decenas de especies, al alcance de la vista y casi del tacto (fruto del [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/04/img_0379.jpg?w=367&h=275"
+thumbnailAlt: ""
 ---
 
 # Prisioneros sin saberlo : osos, lobos y&nbsp;hombres

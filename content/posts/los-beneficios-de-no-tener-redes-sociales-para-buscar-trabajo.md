@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Yo desde aquí soy partidaria de las redes sociales, sin embargo es mejor no mantener un perfil en Linkedin, que tener uno mal hecho, sobre todo para dar un poco de “buena impresión”."
+thumbnailAlt: ""
 ---
 
 # Los beneficios de no tener redes sociales para buscar&nbsp;trabajo

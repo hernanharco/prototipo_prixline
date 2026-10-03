@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Volviendo al terreno laboral, y en concreto al Español, los expertos aseguran que aquello empleos menos susceptibles de ser automatizado o computarizadostendrán más posibilidades de sobrevivir. Algo que resulta bastante obvio, pero ¿cuáles son esos perfiles que las máquinas no pueden sustituir?"
+thumbnailAlt: ""
 ---
 
 # Si trabajas en esto, no habrá robot o máquina que pueda&nbsp;sustituirte

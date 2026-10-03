@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Si estás realizando estudios de Grado ó Master en Telecomunicaciones, Informática, Publicidad, Marketind, Periodismo, Recursos Humanos u otras Ingenierías; puedes realizar estas becas de formación práctica para Telefónica en distintos puntos de España:Talentum Telefónica y FUO ofertan un programa de prácticas profesionales en Telefónica para estudiantes de Grado&hellip;"
+thumbnailAlt: ""
 ---
 
 # 73 plazas prácticas programa Talentum&nbsp;Telefónica

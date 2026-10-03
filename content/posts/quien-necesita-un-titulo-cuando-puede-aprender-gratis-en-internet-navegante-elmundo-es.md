@@ -17,6 +17,7 @@ originCategories:
   - "gratis"
   - "prix-line"
 excerpt: "¿Quién necesita un título cuando puede aprender gratis en Internet? | Navegante | elmundo.es. Estudiar por el placer de aprender es la diferencia entre seguir una enseñanza reglada y formarse por iniciativa propia sin el objetivo de obtener un título a cambio. En el primer caso basta con ir a un centro educativo y pasar [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Quién necesita un título cuando puede aprender gratis (o casi gratis) en Internet? | Navegante |&nbsp;elmundo.es

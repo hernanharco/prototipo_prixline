@@ -12,6 +12,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/3JsPCtCdA80/hqdefault.jpg"
+videoId: "3JsPCtCdA80"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Desvalorización del EURO y el DÓLAR 😳 ¡AHORRAR en BITCOINs!&nbsp;💰

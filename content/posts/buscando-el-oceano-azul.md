@@ -16,6 +16,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "40 años. Esos son exactamente los años que mi padre estuvo ejerciendo su profesión en su empresa. Toda una vida vinculado profesionalmente e incluso me atrevería a decir emocionalmente. Jamás se le habría ocurrido pensar en cambiar de empresa a menos que las circunstancias le hubieran obligado y no fue el caso. Además en sus&hellip;"
+thumbnailAlt: ""
 ---
 
 # Buscando el océano&nbsp;azul

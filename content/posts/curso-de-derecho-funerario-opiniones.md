@@ -22,6 +22,7 @@ originCategories:
   - "Tanatomaquillaje"
   - "Tanatopraxia"
 excerpt: "Decir, que ha sido basado sobre EL DERECHO FUNERARIO. He aprendido muchísimo con prixline y ha sido de mucha ayuda e información, ya que estamos desinformados, de muchos temas que van relacionados con el Sector Funerario. Espero Sres de prixline den por apto mi éxamen, ya que lo he realizado con mucho empeño e ilusión, [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Curso de Funerario

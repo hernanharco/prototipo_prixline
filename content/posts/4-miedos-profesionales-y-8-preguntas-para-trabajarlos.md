@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # 4 miedos profesionales y 8 preguntas para&nbsp;trabajarlos

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Y creer que esta situación de desempleo cambiará cuando mejore la situación, que esto le pasa a muchos, y que no hay trabajo, es un gran error. El mercado de trabajo ha cambiado (si leiste bien, ha cambiado, no va a cambiar) y no vamos a volver al punto de salida. Volveremos pero la salida [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # No sigamos cometiendo los mismos errores en la búsqueda de&nbsp;empleo

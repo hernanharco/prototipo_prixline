@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on PSICOLOGIA EDUARDO ORTEGA: En el gran juego del empleo, la que juega es sobre todo la empresa. Tú no eres más que un peón, y el empleo que te reservan es un regalo que te hacen. Lo que tienes que hacer es dar las gracias por el contrato que te han ofrecido,&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/tu-eres-empleo-25.jpg?w=421&h=268"
+thumbnailAlt: ""
 ---
 
 # Tú eres Empleo

@@ -14,6 +14,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/ImEOgg7ILII/hqdefault.jpg"
+videoId: "ImEOgg7ILII"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Bloqueo Institucional Del Poder Judicial Español&nbsp;😳

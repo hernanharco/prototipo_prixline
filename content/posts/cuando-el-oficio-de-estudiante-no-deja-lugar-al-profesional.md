@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Durante la formación académica o reglada TODAS las actividades están pautadas de antemano por otros, los profesores, no se tiene ninguna posibilidad de intervención sobre los Temas a impartir, Libros que se van a leer y mucho menos en “cómo se va a aprender”. Es así, como se pasan&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/clases.jpg?w=300&h=199"
+thumbnailAlt: ""
 ---
 
 # Cuando el oficio de “estudiante no deja lugar al&nbsp;profesional”

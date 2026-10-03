@@ -20,6 +20,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on AVANZA LABORAL: A los usuarios que me consultan, siempre les hago una comparación: “El curriculum es como la ropa interior” ¿Por qué digo esto? Cuando era pequeño, recuerdo a mi madre decir una de sus frases lapidarias “hay que llevar la ropa interior en perfecto estado porque no sabes que te puede&hellip;"
+thumbnailAlt: ""
 ---
 
 # Lugares donde llevar el&nbsp;Currículum

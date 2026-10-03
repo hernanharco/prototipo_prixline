@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/SSmZ2KPizbw/hqdefault.jpg"
+videoId: "SSmZ2KPizbw"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Prepárate para Trabajar en España 🇪🇸 [en&nbsp;2024]

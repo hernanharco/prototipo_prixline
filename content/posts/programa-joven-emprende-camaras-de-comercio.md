@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¡Ey Joven¡ ¿Te gustaría emprender tu propio negocio? Ahora puedes obtener ayuda en tu idea empresarial porque desde las Cámaras de Comercio se organiza el Programa Joven Emprende.Se trata de un proyecto formativo promovido por la Cámara de Comercio de Oviedo y la Fundación Incyde enmarcado en el&hellip;"
+thumbnailAlt: ""
 ---
 
 # Programa Joven Emprende Cámaras de&nbsp;Comercio

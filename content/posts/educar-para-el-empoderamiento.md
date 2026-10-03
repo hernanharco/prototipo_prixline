@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "El profesor debe comprometerse en la causa, invirtiendo el proceso educador donde el alumno pasa de ser una caja vacía de contenidos a un ser consciente, fomentando así, mediante la estimulación de la autonomía y la libertad con métodos dialógicos y participativos, el crecimiento individual del estudiante, en un juego dialéctico de acción-reflexión donde el [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Educar para el&nbsp;empoderamiento

@@ -12,6 +12,8 @@ originCategories:
   - "autoaprendizaje"
   - "prixline"
 excerpt: "Un DETOX tecnológico o leer un libro te ayudará a incrementar tu capacidad de concentración y mejorar habilidades como el pensamiento crítico, la … DETOX tecnológico para mejorar tus habilidades profesionales este verano. “Apostamos por el aprendizaje continuo de todos los “paradigmáticos” pero no solo ofreciendo formación sino facilitando consejos para el autoaprendizaje. Adquirir cambios [&hellip;]"
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2022/07/detox-digital.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # DETOX tecnológico para mejorar tus habilidades profesionales este&nbsp;verano.

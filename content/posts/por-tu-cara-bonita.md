@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Por fin se han despejado todas mis dudas. Después de años y años dejándome los cuernos en el trabajo, y ver cómo hasta el más tonto subía hasta lo más alto y era ascendido e incluso recompensado con despachos propios y cargos vacios de contenido sólo&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/por-tu-cara-bonita.jpg?w=450&h=586"
+thumbnailAlt: ""
 ---
 
 # Por tu cara bonita. 

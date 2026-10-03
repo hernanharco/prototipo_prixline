@@ -18,6 +18,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : TEIDE-HEASE, Centros colaboradores en la Formación para el Empleo Como Centro colaborador en la Formación para el Empleo ofrecemos la posibilidad de mediar para proporcionar alumnos en prácticas no laborales. Este programa de prácticas permitirá contactar a posibles trabajadores y verificar sus capacidades y rendimiento profesional. Los alumnos&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/03/formacic3b3nprofesional.jpg?w=270&h=300"
+thumbnailAlt: ""
 ---
 
 # Prácticas profesionales no&nbsp;laborales

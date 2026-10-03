@@ -13,6 +13,7 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Utiliza un pin para cada una de las empresas que has trabajado, para los centros donde te has formado o estudiado, para cada mención, etc. Y después, conéctalo, únelo, con todas las redes que uses como te decía antes: Linkedln, Google +, Facebook, Twitter y también con las demás herramientas de la web 2.0 que [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Tienes perfil en Pinterest para buscar trabajo?, ¿No?, y ¿a qué&nbsp;esperas?

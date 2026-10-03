@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: AGENTES CONDUCTORES Empresa dedicada al servicio de aparcamiento en Madrid, solicita incorporar personal con el siguiente perfil: REQUISITOS • Edad: 25 a 45 años. • Poseer carnet de conducir B: mínimo 3 años. • Competencias: Proactivos, dinámicos y Trabajo en equipo. FUNCIONES • Recoger y Trasladar vehículos de&hellip;"
+thumbnailAlt: ""
 ---
 
 # OFERTA DE EMPLEO: AGENTES CONDUCTORES.&nbsp;MADRID

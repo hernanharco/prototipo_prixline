@@ -14,6 +14,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # BUENOS DÍAS CON&nbsp;HUMOR

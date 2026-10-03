@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "La empresa valora más a un candidato que intenta mejorar su empleo que a otro “como no tengo nada”. La razón es que si él crece, la empresa crece."
+thumbnailAlt: ""
 ---
 
 # ¿Puedo rechazar una oferta de&nbsp;empleo?

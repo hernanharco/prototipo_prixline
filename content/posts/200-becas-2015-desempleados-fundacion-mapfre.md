@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Fundación MAPFRE realiza una convocatoria extraordinaria de 200 becas para facilitar el acceso a personas desempleadas en España que deseen incorporarse a los cursos e-learning que oferta el Área de Seguro y Previsión Social en la promoción de febrero de 2015. Hasta el 20 de enero, Requisitos: Personas&hellip;"
+thumbnailAlt: ""
 ---
 
 # 200 becas 2015 desempleados Fundacion&nbsp;Mapfre

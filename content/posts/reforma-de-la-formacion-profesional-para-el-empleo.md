@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : De aplicación a todas las Administraciones Públicas en todo el territorio nacional El Pleno del Congreso de los Diputados aprobó el pasado jueves el Real Decreto-Ley para la reforma urgente del Sistema de Formación Profesional para el Empleo en el ámbito laboral. La norma aprobada tiene como objetivos&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/formacic3b3nempleo.jpg?w=978&h=145"
+thumbnailAlt: ""
 ---
 
 # Reforma de la Formación Profesional para el&nbsp;Empleo

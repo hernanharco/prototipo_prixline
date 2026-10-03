@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "vídeos"
 excerpt: "Esta circunstancia se ha traducido en una gran dispersión en cuanto a metodologías, precios, y sobre todo, en lo referente a la calidad de los programas académicos."
+thumbnailAlt: ""
 ---
 
 # Cómo elegir tu formación&nbsp;[video-post]

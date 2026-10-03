@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Juan Domingo Farnos Hacer lo que siempre hiciste no funcionará más. Cuestionar todo, es un buen hábito para la agilidad, tanto mental como real. -… Transitando por la formación hacia un ecosistema digital de aprendizaje permanente El potencial digital en el sector de la educación y la formación es muy amplio y apunta a la [&hellip;]"
+thumbnail: "https://i0.wp.com/juandomingofarnos.files.wordpress.com/2020/09/1-23.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Transitando por la formación hacia un ecosistema digital de aprendizaje&nbsp;permanente

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: ¿Te has imaginado alguna vez encontrarte a un director/a de Recursos Humanos en un ascensor? Este viaje tiene una duración como máximo de 2 minutos. Eso significa que en ese tiempo tienes que darte a conocer y si fuera el caso, vender tu proyecto. El tiempo es fundamental, se&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/598.jpg?w=300&h=215"
+thumbnailAlt: ""
 ---
 
 # ¿Sabes qué es un ELEVATOR&nbsp;PITCH?

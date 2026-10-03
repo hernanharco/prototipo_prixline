@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: En algunas de mis entradas anteriores he tratado el tema de la formación que está siendo, y será, necesaria para los requerimientos de la cuarta revolución industrial (Industria 4.0) a la que estamos asistiendo. Seguimos hablando sobre el empleo que destruirán los robots y la Inteligencia artificial (IA),&hellip;"
+thumbnailAlt: ""
 ---
 
 # Formación y nuevos tiempos: ¿Cómo&nbsp;vamos?

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "https://anchor.fm/s/18a62e4/podcast/rss Resumen Vuelos baratos, Cita de asilo Familiar, Seguros para viajar, Refugio VS Arraigo, Criptomonedas… de … PRIXLINE ✅ Vuelos baratos, Cita de asilo Familiar, Seguros para viajar, ¿Cuántos días reservas de hotel? Criptomonedas"
+thumbnail: "https://i0.wp.com/prixlinepodcast.files.wordpress.com/2022/03/spain-flag-flutter-spanish-54097.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Vuelos baratos, Cita de asilo Familiar, Seguros para viajar, ¿Cuántos días reservas de hotel?&nbsp;Criptomonedas

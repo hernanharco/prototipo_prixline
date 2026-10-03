@@ -17,6 +17,7 @@ originCategories:
   - "aprender"
   - "prixline"
 excerpt: "Actívate, de Google: Hace unas semanas os hablamos de esta iniciativa del gigante Google, que tiene por objeto facilitar el acceso de jóvenes y no tan jóvenes, al conocimiento, formación, emprendimiento y mundo profesional, en general, centrándose sobre todo en el manejo de herramientas digitales. ¿Habéis probado ya alguna de estas plataformas? De ser así, [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Formación online gratuita y de&nbsp;calidad

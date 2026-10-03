@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Banco Santander ofrece 100 puestos de prácticas profesionales en sus servicios centrales de Madrid. Se trata de prácticas remuneradas de seis meses de duración en Áreas de Servicios Centrales como Inteligencia Comercial, Medios de Pago, Marketing, Banca Mayorista, Banca Privada, Control de Gestión, Open Bank, Tecnología. Requisitos mínimos: Estudiantes&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/santander.jpg?w=150&h=90"
+thumbnailAlt: ""
 ---
 
 # 100 Plazas de prácticas en&nbsp;Madrid.

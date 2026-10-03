@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Seguimos dando difusión y visibilidad a uno de mis proyectos favoritos: las Lanzaderas de Empleo y Emprendimiento Solidario. ¿No sabes lo que son? Una lanzadera es un equipo heterogéneo de personas desempleadas con espíritu dinámico, comprometido y solidario que acceden de forma voluntaria a esta iniciativa y que, coordinadas por un&hellip;"
+thumbnailAlt: ""
 ---
 
 # II Lanzadera de Empleo de&nbsp;Calatayud

@@ -22,6 +22,9 @@ originCategories:
   - "Trabajo"
   - "vídeos"
 excerpt: "Originally posted on OrientaPalencia: See on Scoop.it – Empleo Palencia Hola, soy Sabina Serrano de http://mejorartucv.com y en este v&iacute;deo te explico qu&eacute; formato pienso que es el m&aacute;s indicado para enviar tu CV por email, si es me… See on http://www.youtube.com"
+thumbnail: "https://i.ytimg.com/vi/PgAnuwFRrtk/hqdefault.jpg"
+videoId: "PgAnuwFRrtk"
+thumbnailAlt: ""
 ---
 
 # Cómo enviar tu CV con éxito: ¿PDF o&nbsp;Word?

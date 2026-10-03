@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "El año 2020 pintaba bien, bien. La verdad que lo empecé con muchas ganas: nuevo trabajo ilusionante, nuevos proyectos paralelos… Tuve que dejar … Empleo, orientación y COVID 19 Hablo de ser realista. De ser consciente de lo que hay y de que si algo depende de mi, pues qué leches, tendré que enfrentarlo. ¿Fácil? [&hellip;]"
+thumbnail: "https://i0.wp.com/plandempleo.files.wordpress.com/2020/11/empleo-orientacion-y-covid-19.gif?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Empleo, orientación y COVID&nbsp;19

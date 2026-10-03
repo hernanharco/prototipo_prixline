@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/N9UgiAoTMFU/hqdefault.jpg"
+videoId: "N9UgiAoTMFU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINERs ✅ Preguntas en Vivo del Chat&nbsp;😃

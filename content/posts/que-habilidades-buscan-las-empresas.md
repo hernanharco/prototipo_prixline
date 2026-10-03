@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Los departamentos de recursos humanos de las empresas tienen el objetivo de contratar al empleado ideal para cada vacante y ello conlleva a un proceso de selección no siempre fácil en muchos casos. Pero, aunque cada empresa tenga una filosofía única y diferente, existen algunas capacidades y características tan demandadas como necesarias a la hora [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Qué habilidades buscan las&nbsp;empresas?

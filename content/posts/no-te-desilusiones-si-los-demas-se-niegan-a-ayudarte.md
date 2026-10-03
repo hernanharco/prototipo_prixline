@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/01/12507166_1019494844763898_4351505763231165704_n.jpg?w=620&h=533"
+thumbnailAlt: ""
 ---
 
 # No te desilusiones si los demás se niegan a&nbsp;ayudarte&#8230;

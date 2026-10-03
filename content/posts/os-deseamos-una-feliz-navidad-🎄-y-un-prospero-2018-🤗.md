@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/12/img_3027.jpg?w=771&h=1133"
+thumbnailAlt: ""
 ---
 
 # Os deseamos una Feliz Navidad 🎄 y un próspero 2018&nbsp;🤗

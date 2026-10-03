@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Imagen via (AlexandraLeperq) Hoy ya no es posible solo hablar de educación, bueno si es posible si actuamos des de o posiciones reduccionistas o no queremos entender la complejidad de nuestra sociedad, hacerlo así significa trabajar y darnos solo una “oportunidad” en aspectos muy concretos dejando&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/figure-6-overview-of-wp5-year-1-activities-based-on-integrated-research-activity-map.png?w=780&h=1078"
+thumbnailAlt: ""
 ---
 
 # El aprendizaje informal representa a los aprendices y trabajadores de hoy! Educación&nbsp;Disruptiva)

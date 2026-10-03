@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/nw-yZX1-W1I/hqdefault.jpg"
+videoId: "nw-yZX1-W1I"
+thumbnailAlt: ""
 ---
 
 # El día anterior a la entrevista de TRABAJO&nbsp;&#8230;

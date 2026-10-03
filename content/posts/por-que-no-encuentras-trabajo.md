@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Comenzamos temporada 2018 en el blog y he decidido hacerlo con un tema que me apasiona y que no es otro que asesorar y orientar a las personas para que encuentren trabajo. Lo sé, sé que se han escrito miles de artículos y post sobre este tema pero necesitaba compartir contigo mi experiencia y mi&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Por qué no encuentras&nbsp;trabajo?

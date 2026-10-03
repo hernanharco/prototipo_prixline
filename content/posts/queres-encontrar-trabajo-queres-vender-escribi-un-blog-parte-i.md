@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: https://www.youtube.com/watch?v=ySvMnOIFhhE ¡Hola! cuánta verdad hay en esto de que caminando se hace camino. Cuando comencé a darle forma a lo que quiero decir en este video se me fueron abriendo tantos caminos!!! y la esencia de lo que me quedó es decirle a los profesionales de cualquier disciplina que&hellip;"
+thumbnail: "https://i.ytimg.com/vi/ySvMnOIFhhE/hqdefault.jpg"
+videoId: "ySvMnOIFhhE"
+thumbnailAlt: ""
 ---
 
 # ¿Querés encontrar trabajo? ¿Querés vender? Escribí un blog. Parte&nbsp;I

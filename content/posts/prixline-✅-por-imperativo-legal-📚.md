@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/EV5AFyP0Uyg/hqdefault.jpg"
+videoId: "EV5AFyP0Uyg"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ &#8220;Por IMPERATIVO LEGAL&#8221;&nbsp;📚

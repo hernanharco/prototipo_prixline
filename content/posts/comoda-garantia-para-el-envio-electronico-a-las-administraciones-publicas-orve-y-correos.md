@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Es cierto que la firma electrónica y un ordenador a mano nos permite enviar escritos en formato electrónico a las Administraciones públicas, como … Cómoda garantía para el envío electrónico a las Administraciones públicas: ORVE y Correos Que me disculpen los que piensen que no es una novedad y que hay otros sistemas, pero sólo [&hellip;]"
+thumbnail: "https://i0.wp.com/delajusticia.com/wp-content/uploads/2020/05/babel.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Cómoda garantía para el envío electrónico a las Administraciones públicas: ORVE y&nbsp;Correos

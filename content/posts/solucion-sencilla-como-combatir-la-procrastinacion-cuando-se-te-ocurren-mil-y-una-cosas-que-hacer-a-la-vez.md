@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Esta sencilla técnica me ha ahorrado a mí muchos quebraderos de cabeza y me ha ayudado a estar más enfocada en la tarea principal que tengo que hacer, en lugar de seguir procrastinando una y otra vez por culpa de las Mil y Una menudencias alternativas que se me ocurren. Espero que os sirva a [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # SOLUCIÓN SENCILLA Cómo combatir la procrastinación, cuando se te ocurren mil y una cosas que hacer a la&nbsp;vez

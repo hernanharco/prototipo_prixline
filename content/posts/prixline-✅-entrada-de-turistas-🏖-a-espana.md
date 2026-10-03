@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/XwHM7LMXCg8/hqdefault.jpg"
+videoId: "XwHM7LMXCg8"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Entrada de TURISTAS 🏖 a&nbsp;ESPAÑA

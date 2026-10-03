@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: Empezamos el mes de Julio en breve y, junto al calor, ya se dejan notar en el ambiente las ganas de relajarse, de salir del “mundanal ruido” y perderse en algún lugar desconocido, y mejor si está fresquito. Seguro que much@s estáis a punto de comenzar las ansiadas&hellip;"
+thumbnailAlt: ""
 ---
 
 # 3 propuestas de lectura&nbsp;3

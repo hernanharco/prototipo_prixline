@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/7kba75i_vHs/hqdefault.jpg"
+videoId: "7kba75i_vHs"
+thumbnailAlt: ""
 ---
 
 # Curso 📚de Atención SocioSanitaria&nbsp;🧓🏻

@@ -20,6 +20,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: El Gobierno la Garantía Juvenil de Empleo, un programa para jóvenes menores de 25 años que no estudien ni trabajen. OBJETIVOS: Desde el lunes 7 de julio el Ministerio Empleo y Seguridad Social ha habilitado un servicio de información telefónica (060) para informar al respecto. Información sobre la Garantía Juvenil:&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/07/avanza-laboral-empleo-almeria.jpg?w=482&h=379"
+thumbnailAlt: ""
 ---
 
 # Plan de Garantía Juvenil de&nbsp;Empleo

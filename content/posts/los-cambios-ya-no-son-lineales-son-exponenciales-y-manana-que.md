@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Los cambios ya nunca más serán lineales, ahora son exponenciales y mañana…quien sabe…. ¿cómo podemos promover el aprendizaje en todas partes? Estamos utilizando tecnologías móviles todo el tiempo, en todas partes, y esto cambia lo que podemos hacer, ya que podemos mezclar el ocio y el&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/metadatos.jpg?w=203&h=248"
+thumbnailAlt: ""
 ---
 
 # Los cambios ya no son lineales, son exponenciales y&#8230;¿mañana&nbsp;qué?

@@ -20,6 +20,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on plandempleo: En mi etapa de orientadora esa frase sobrevolaba la mayoría de las entrevistas que realizaba. Ahora, hoy por hoy, esa frase es de lo más habitual no sólo en mi vida sino en la vida de muchas personas. Estar en desempleo genera una espiral de pensamientos negativos, confusos y de culpa&hellip;"
+thumbnail: "http://plandempleo.files.wordpress.com/2013/09/si-nunca-has-estado-en-paro-no-sabes-lo-que-se-siente.jpg?w=300&h=199"
+thumbnailAlt: ""
 ---
 
 # Si nunca has estado en paro, no sabes lo que se&nbsp;siente

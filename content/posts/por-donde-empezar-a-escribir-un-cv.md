@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Si estás pensando en rehacer tu curriculum… no te sientes delante del ordenador. No reedites un viejo CV que has utilizado en el pasado. Empieza de cero. Valora de nuevo todo lo que has hecho y cómo lo vas a explicar."
+thumbnailAlt: ""
 ---
 
 # ¿Por dónde empezar a escribir un&nbsp;CV?

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación SEPI convoca 55 becas ampliables correspondientes al Programa Red Eléctrica de España Practica+2016. Las becas tendrán una duración de nueves meses. La formación se llevará a cabo en cualquiera de los centros de trabajo de REE tiene establecidos en España. Las personas beneficiarias percibirán una asignación mensual de 750 ó&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/fundacic3b3n_sepi.jpg?w=100&h=100"
+thumbnailAlt: ""
 ---
 
 # Becas SEPI de formación&nbsp;práctica.

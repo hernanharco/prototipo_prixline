@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Mi blog a tu servicio y de cualquier persona que busque empleo o quiere que le ayude a una causa solidaria desde la humildad. Perfil Profesional Emilio López-Carrasco Recuerda, si te gustó la entrada la puedes recomendar, comentar, compartir y si te gusta el blog te puedes suscribir. ¡Muchas gracias&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/10/vvvvvvv.jpg?w=759&h=897"
+thumbnailAlt: ""
 ---
 
 # Os presento a Emilio&nbsp;López-Carrasco

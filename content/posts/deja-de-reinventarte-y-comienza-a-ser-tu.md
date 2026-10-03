@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: La R.A.E, dice que la palabra REINVENTAR, no se encuentra en el Diccionario. En cambio, si vamos a la palabra Inventar, dice: “Fingir hechos falsos“. Por lo tanto si uniéramos el prefijo re- a la palabra inventar, podríamos definir reinventar como ” volver a fingir hechos falsos”.&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/04/11.png?w=275&h=183"
+thumbnailAlt: ""
 ---
 
 # ¡¡Deja de reinventarte y comienza a ser&nbsp;tú!!

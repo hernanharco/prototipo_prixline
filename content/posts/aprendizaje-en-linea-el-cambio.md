@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Una experiencia gratificante y eficaz de aprendizaje en línea implica algo más que objetos de aprendizaje, los plug-ins e interfaces. Sin embargo, es fácil de involucrarse en lo que averiguar cómo utilizar la tecnología para ofrecer la información, para que a corto plazo cambiar el desarrollo&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/07/comunidades-de-aprendizaje.jpg?w=1075&h=805"
+thumbnailAlt: ""
 ---
 
 # Aprendizaje en línea: el&nbsp;cambio!

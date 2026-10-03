@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "¿Currículum vitae, sí?, ¿currículum vitae, no?, ¿ya no se utiliza? ¿El currículum ha muerto? ¿Cuántas páginas ha de tener?, ¿qué apartados son recomendables?, ¿incluyo la edad?, ¿y el sexo?, ¿pongo foto? Éstas y otras dudas nos asaltan cada vez que nos ponemos delante del folio en blanco o, mucho peor, cuando echamos mano de una&hellip;"
+thumbnailAlt: ""
 ---
 
 # El currículum social

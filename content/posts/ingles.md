@@ -21,6 +21,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "– El blog para aprender inglés: Tengas un nivel avanzado o acabas de empezar. Estés preparándote para algún examen en concreto (como puede ser Cambridge o TOEFL), o simplemente quieres aprender inglés sin tener que ir a una academia, EBPAI te ofrecemultitud de recursos de cosecha propia, todo tipo de ejercicios para un mayorreforzamiento, unas explicaciones sobre la teoría que más de uno quisiera [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/12/escuelas-de-ingles-prixline.jpg?w=300&h=300"
+thumbnailAlt: ""
 ---
 
 # Páginas recomendadas para aprender&nbsp;inglés

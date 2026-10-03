@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Hay veces en que el propio legislador reparte las potestades con una técnica tan discreta y sutil que es fuente de recursos. Se trata de la … Potestad facultativa o imperativa, ¿poder o deber? esa es la cuestión De ahí, que los fontaneros de la técnica legislativa, funcionarios y consejos que intervienen en los procedimientos [&hellip;]"
+thumbnail: "https://i0.wp.com/delajusticia.com/wp-content/uploads/2022/04/red.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Potestad facultativa o imperativa, ¿poder o deber? esa es la&nbsp;cuestión

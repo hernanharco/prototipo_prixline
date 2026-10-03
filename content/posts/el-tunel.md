@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eficacia personal: Cuando se ha entrado en un túnel, hay que tener la seguridad de que siempre se sale. Siempre hay una salida, Si se entra, se sale. Si hay voluntad para ello. A veces la salida está en el otro lado. Otras veces se vuelve por donde hemos entrado. Toda crisis&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2020/04/salir-del-tunel.jpg"
+thumbnailAlt: ""
 ---
 
 # EL TUNEL

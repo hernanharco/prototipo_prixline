@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convocan varias becas en el Tribunal Constitucional Beca de formación en biblioteconomía y documentación en el Tribunal Constitucional: Duración: Tendrá una duración de 12 meses prorrogables por otro plazo igual. Dotación: 1.100 euros brutos mensuales. Entre los requisitos de los beneficiarios/as: Estar en posesión de alguno de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas Tribunal Constitucional

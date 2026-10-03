@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Decía Marco Aurelio, apodado el Sabio o el Filósofo, emperador del Imperio romano (121-180 d.C.) que somos mas fuertes de lo que creemos. La prueba … Meditaciones ante la pandemia"
+thumbnail: "https://i0.wp.com/vivoycoleando.files.wordpress.com/2020/03/gettyimages-1138627576.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Meditaciones ante la&nbsp;pandemia

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Eres una persona voluntaria? ¿Quiéres continuar formándote gratis? No dejes de leer… ¡Aquí tienes el primer Programa de becas de la Fundación AFIM para voluntariado! ¿Qué pretende AFIM con ellas? Facilitar los medios necesarios para ampliar la formación de los voluntarios y voluntarias y que así puedan realizar su&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas AFIM para&nbsp;Voluntariado

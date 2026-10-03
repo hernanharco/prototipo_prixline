@@ -25,6 +25,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "¿Has vivido alguna entrevista de este tipo?"
+thumbnailAlt: ""
 ---
 
 # ¿Te parece bien que comamos juntos?: Entrevista en una&nbsp;comida

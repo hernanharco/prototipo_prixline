@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/10372566_10152665589469276_282629825223986550_n.jpg?w=594&h=424"
+thumbnailAlt: ""
 ---
 
 # Creer que todo tiene solución no es optimismo, es&nbsp;talento

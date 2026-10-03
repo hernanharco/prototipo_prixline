@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: En la cola de la parada de Pepe en Vilassar, hoy bien tempranito, hay muchas cosas que preparar. Al final me ha pillado un poco el carro, un poco bastante, para que me voy a engañar, pero todavia hay tiempo. Estoy repasando las cosas que&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/familia-simpson-navidad.jpg?w=300&h=225"
+thumbnailAlt: ""
 ---
 
 # No hay familia&nbsp;perfecta&#8230;

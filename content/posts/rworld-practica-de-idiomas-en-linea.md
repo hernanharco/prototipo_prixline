@@ -30,6 +30,8 @@ originCategories:
   - "recursos"
   - "vídeos"
 excerpt: "RWorld es una comunidad en línea donde se pueden practicar habilidades lingüísticas. Encontramos un entorno social lleno de actividades interactivas. Permite comunicarse y relacionarse con hablantes nativos y de nivel avanzado para mejorar las habilidades conversacionales en el idioma que se prefiera. Idiomas disponibles Pueden seleccionarse entre 24 idiomas para practicar: alemán, árabe, coreano, chino [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/10/20121014-094645.jpg"
+thumbnailAlt: ""
 ---
 
 # RWorld: práctica de idiomas en&nbsp;línea

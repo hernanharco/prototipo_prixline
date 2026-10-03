@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Siguiendo un poco con la temática del post anterior, vamos a trabajar con la idea de mejorar nuestra autocandidatura. Si hace unas semanas veíamos recursos para hacer una autocandidatura eficaz, ahora vamos a ver ideas para redactar una carta de presentación para autocandidatura efectiva. Desde luego no existe una sola clave&hellip;"
+thumbnailAlt: ""
 ---
 
 # Ideas para redactar una carta de&nbsp;presentación

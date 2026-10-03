@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: Desde hace algún tiempo vengo observando, no sin cierta preocupación, una tendencia que parece que empieza a ganar adeptos a la hora de buscar empleo en las redes sociales, y más concretamente en LinkedIn: se trata de publicar una actualización de estado donde se dice que se está en búsqueda&hellip;"
+thumbnailAlt: ""
 ---
 
 # Y tú, ¿cómo buscas empleo en las redes&nbsp;sociales?

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/NQ9AHKgL95A/hqdefault.jpg"
+videoId: "NQ9AHKgL95A"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Trabajar en Pueblos&nbsp;😃

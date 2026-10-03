@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Cómo tratar la remuneración en una entrevista de&nbsp;trabajo

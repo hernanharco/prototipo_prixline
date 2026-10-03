@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/11/img_3067.jpg"
+thumbnailAlt: ""
 ---
 
 # Pray for Paris

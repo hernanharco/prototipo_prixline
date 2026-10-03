@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hasta ahora era este blog o el de Osenseis el que había servido de inspiración para el blog que Lola escribe para sus alumnos de quinto de primaria, pero esta vez ha sido al revés. Esta vez ha sido nuestra querida Lola la que nos&hellip;"
+thumbnail: "https://i.ytimg.com/vi/McDRFovjLKg/hqdefault.jpg"
+videoId: "McDRFovjLKg"
+thumbnailAlt: ""
 ---
 
 # Reflexiones de Navidad&#8230; ¿marketing con sentimiento de&nbsp;culpabilidad?

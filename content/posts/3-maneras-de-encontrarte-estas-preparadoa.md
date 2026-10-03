@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: gratisography.com La búsqueda de candidatos en las redes sociales no es ciencia ficción…¡es realidad!… es presente. Ya sea para buscar posibles candidatos (por área de trabajo, área de estudio) o a veces para corroborar lo que se coloca en el Currículum Vitae. Te doy un ejemplo: María es Selectora de RRHH&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/06/172h.jpg?w=1024&h=683"
+thumbnailAlt: ""
 ---
 
 # 3 maneras de encontrarte ¿estás&nbsp;preparado/a?

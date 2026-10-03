@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Pautas que te ayudan a lograr un empleo. Hoy recuperamos en el Blog estos consejos para cuando llegue tu periodo de prácticas en la empresa. Actitud … De estudiante a becario. Mantener relación con la empresa. No está de más pasarse por las instalaciones de la compañía de vez en cuando para realizar una visita [&hellip;]"
+thumbnail: "https://i0.wp.com/elblogdeteidehease.files.wordpress.com/2020/11/5empresas-colaboradoras-02-1.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # De estudiante a&nbsp;becario.

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # ¿Es lo mismo un certificado de profesionalidad y una titulación de formación&nbsp;profesional?

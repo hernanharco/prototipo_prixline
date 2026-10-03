@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on La Memoria del Escorpión: A veces no hay derrota mayor que aceptar el marco del enemigo aunque sea para desmontarlo. Se habla constantemente de efecto llamada. Efecto llamada. Efecto llamada. Efecto llamada. El propio efecto llamada es una víctima de si mismo y acaba llamando a que se hable constantemente de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Efecto llamada o efecto muerte.&nbsp;Supervivencia

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/11/habito-e1542267220987.jpg?w=521&h=485"
+thumbnailAlt: ""
 ---
 
 # Hábito  y Motivación

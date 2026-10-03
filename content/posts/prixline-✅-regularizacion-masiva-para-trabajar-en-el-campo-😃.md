@@ -12,6 +12,9 @@ originCategories:
   - "empleo"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/JfsK4kBtkVI/hqdefault.jpg"
+videoId: "JfsK4kBtkVI"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Regularización MASIVA para TRABAJAR en el CAMPO&nbsp;😃

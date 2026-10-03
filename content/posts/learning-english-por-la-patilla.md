@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ¿Cansado de que tu inglés sea nivel medio como el del 90% de los CV de este país? Pues aquí tenemos la solución definitiva, que no mágica, que algo de esfuerzo y dedicación habrá que echarle, you know! Ni más ni menos que cinco aplicaciones,&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/09/learnenglishlanguage1.jpg?w=399&h=301"
+thumbnailAlt: ""
 ---
 
 # Learning English por la&nbsp;patilla

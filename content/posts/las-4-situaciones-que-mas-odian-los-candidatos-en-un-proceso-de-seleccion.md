@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: A lo largo de todos los años que llevo trabajando en Recursos Humanos, he tenido ocasión de hacer múltiples entrevistas. Muchas de ellas como entrevistadora pero también he realizado unas cuantas como candidata. Lo cierto que para mi hacer entrevistas como candidata tenía una doble función: A veces era porque&hellip;"
+thumbnailAlt: ""
 ---
 
 # Las 4 situaciones que más odian los candidatos en un proceso de&nbsp;selección

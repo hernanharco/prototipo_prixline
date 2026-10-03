@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Me gustaría conocerte mejor, ¿me&nbsp;ayudas?

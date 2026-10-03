@@ -28,6 +28,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "1. Son personas que saben lo que quieren. La principal causa por la que las personas no consiguen lo que quieren es que no saben lo que quieren. Muchas personas funcionan por inercia, dejándose llevar, en piloto automático; y como decía Séneca: “No hay buen viento para quien no sabe a dónde va”. Cuanto más [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # 10 rasgos que definen a las personas que consiguen&nbsp;resultados

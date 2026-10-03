@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/fn9Cuk3UuMc/hqdefault.jpg"
+videoId: "fn9Cuk3UuMc"
+thumbnailAlt: ""
 ---
 
 # El trabajo de comercial&nbsp;autónomo.

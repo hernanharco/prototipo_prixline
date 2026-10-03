@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/xXOL1UdAJ70/hqdefault.jpg"
+videoId: "xXOL1UdAJ70"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Cómo TRABAJAR desde casa 🏠 SIN invertir dinero (ejemplo del&nbsp;Nutricionista)

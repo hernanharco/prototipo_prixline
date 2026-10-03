@@ -22,6 +22,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Exigen a un sabio que estaba de paso por un pueblo que diera una conferencia en la plaza. El sabio pregunta: ¿Saben algo? El público responde que no, entonces el maestro contestó que no hablaba con ignorantes y siguió su camino. Años después, la presencia del sabio en ese mismo pueblo volvió a provocar la [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # ¿Qué es un&nbsp;maestro?

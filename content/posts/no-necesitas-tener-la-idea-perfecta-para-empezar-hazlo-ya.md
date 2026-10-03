@@ -20,6 +20,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Dicho de otra forma, todos podemos corregir los errores de nuestra idea inicial en cualquier momento."
+thumbnailAlt: ""
 ---
 
 # No necesitas tener la idea perfecta para empezar, hazlo&nbsp;ya

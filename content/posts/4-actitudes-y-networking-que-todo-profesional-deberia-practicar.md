@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Asegúrate de que, al menos, tienes incorporadas estas 5 actitudes, te ayudarán para aquello que te propongas, incorpóralas a tus acciones de desarrollo y gana empleabilidad. ¿Te animas a pescar? ¿Qué quieres pescar?"
+thumbnailAlt: ""
 ---
 
 # 4 actitudes y networking que todo profesional debería&nbsp;practicar

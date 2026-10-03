@@ -21,6 +21,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "¿Te gusta leer? Compartimos esta selección de excelentes libros sobre comunicación, Internet, Social Media y Community Manager disponibles de forma gratuita. 99 libros electrónicos totalmente gratis y recomendados. #1 Tendencias del sector turístico 2012. Marketing y estrategia turística #2 La visibilidad de la banca en Internet #3 Recomendación de procesos en campañas de publicidad gráfica [&hellip;]"
+thumbnail: "https://i0.wp.com/clickefectivo.com/wp-content/uploads/2012/08/libros-150x150.jpg"
+thumbnailAlt: ""
 ---
 
 # 99 ebooks gratuitos sobre Internet, comunicación y Social&nbsp;Media

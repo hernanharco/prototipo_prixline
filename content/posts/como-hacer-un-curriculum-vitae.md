@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Como indiqué al inicio, no existe una plantilla que nos haga realizar el CV ideal; sí que es cierto que existe información vital que debemos incluir en uno (señalada en los puntos anteriores), pero más allá de eso, creo que lo más importante es que nos sintamos cómodos de cara a poder defenderlo en una [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Cómo hacer un currículum&nbsp;vitae

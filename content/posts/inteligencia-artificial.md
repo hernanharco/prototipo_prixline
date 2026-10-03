@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Nos la ofrece María Borbonés (IBM Watson Cloud and Data Platform IT Specialist – Aplicaciones cognitivas con IBM Watson) IBM apuesta por facilitar el acceso al apasionante mundo de la inteligencia artificial a todo tipo de perfiles desde desarrolladores a científico de datos gracias a IBM Watson. En esta charla me gustaría enseñaros en qué [&hellip;]"
+thumbnail: "https://i.ytimg.com/vi/sLVadT_OWSE/hqdefault.jpg"
+videoId: "sLVadT_OWSE"
+thumbnailAlt: ""
 ---
 
 # Charla sobre Inteligencia&nbsp;Artificial

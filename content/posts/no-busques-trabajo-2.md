@@ -17,6 +17,8 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Originally posted on Eternity: Genial artículo de Risto Mejide, publicista español.No tiene desperdicio alguno. No busques trabajo. Así te lo digo. No gastes ni tu tiempo ni tu dinero, de verdad que no vale la pena. Tal como está el patio, con uno de cada dos jóvenes y casi uno de cada tres adultos en&hellip;"
+thumbnail: "http://agenciaeternity.files.wordpress.com/2013/05/20130521-234404.jpg"
+thumbnailAlt: ""
 ---
 
 # &#8220;No busques trabajo&#8221;

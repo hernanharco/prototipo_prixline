@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Te interesa la formación en Igualdad de Género? Puedes inscribirte los siguientes cursos online de carácter gratuito: Desde La Escuela Virtual de Igualdad del Organismo Instituto de la Mujer y para la Igualdad de Oportunidades se establece una programación de cursos de Igualdad a través de una plataforma&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cursos gratuitos Escuela Virtual de&nbsp;Igualdad

@@ -19,6 +19,8 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Attack Mars by NeuroMars: Jackson Brown es un padre preocupado por la felicidad de su hijo y por ello le escribió estos “consejos” cuando este se fue a estudiar a la Universidad, lejos de su casa. Su hijo decidió fotocopiarlos y los distribuyó entre sus compañeros. Los mensajes tuvieron tanto éxito, que&hellip;"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/06/consejos-de-un-padre.jpg?w=300&h=225"
+thumbnailAlt: ""
 ---
 
 # Consejos de un Padre para la Felicidad de su&nbsp;Hijo.

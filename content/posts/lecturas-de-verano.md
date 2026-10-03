@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: El verano es un tiempo perfecto para retomar eso que vamos acumulando a lo largo del año. Gracias a Pocket y Keep me voy guardando artículos, posts, que leo por encima pero no digiero. Y ahora es el momento perfecto para recuperarlos. Os comparto una lista de lecturas de verano llenas&hellip;"
+thumbnailAlt: ""
 ---
 
 # Lecturas de verano

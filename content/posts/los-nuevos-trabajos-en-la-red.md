@@ -16,6 +16,8 @@ originCategories:
   - "estudiar"
   - "prixline"
 excerpt: "Originally posted on Conect@ y crea : Con estas nuevas tendencias tecnológicas hemos conocido que a raíz del auge de las redes sociales han surgido nuevos puestos de trabajo que hasta hace pocos años eran desconocidos. Hablaremos un poco sobre ellos y de que tratan, comenzando nuestro TOP empezaremos con: 1. Desarrolladores para iOS y Android:&hellip;"
+thumbnail: "http://ingridvargas.files.wordpress.com/2014/01/nuevos-trabajos.jpg?w=300&h=176"
+thumbnailAlt: ""
 ---
 
 # Los NUEVOS trabajos en la&nbsp;RED!!!

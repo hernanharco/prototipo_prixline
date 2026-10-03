@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Del 30 de marzo al 12 de mayo. «Importante: Ya está abierto el plazo para solicitar las becas de estudio del Ministerio de Educación y Formación … ¡Ya puedes solicitar tu beca de estudios! El plazo para solicitar la beca del curso 2022 – 2023 se ha adelantado: es del 30 de marzo al 12 [&hellip;]"
+thumbnail: "https://i0.wp.com/elblogdeteidehease.files.wordpress.com/2022/03/sin-titulo-1-5.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # ¡Ya puedes solicitar tu beca de&nbsp;estudios!

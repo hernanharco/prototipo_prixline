@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Crees que no haber finalizado la Educación Secundaria Obligatoria te paraliza? Nada de eso. Es cierto que si ya pasas de los 16, hasta que no cumplas los 18 no puedes optar a sacarte el graduado, pero eso no te impide seguir activo. Programas como Garantía Juvenil cuentan con diferentes&hellip;"
+thumbnailAlt: ""
 ---
 
 # Que nada frene tu desarrollo&nbsp;profesional

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/ycN1_vdlt2c/hqdefault.jpg"
+videoId: "ycN1_vdlt2c"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ La Separación de Poderes en ESPAÑA 🇪🇸 El caso de Marlaska y el Coronel&nbsp;👨🏼‍⚖️

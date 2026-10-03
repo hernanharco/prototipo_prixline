@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Conviene pararse a pensar y “afilar el hacha”… Excelente reflexión. 😃"
+thumbnailAlt: ""
 ---
 
 # Las paradojas de la búsqueda de&nbsp;empleo

@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/4QPgTm8vN9c/hqdefault.jpg"
+videoId: "4QPgTm8vN9c"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Cómo es Trabajar en Estética y Uñas de&nbsp;Gel💄

@@ -23,6 +23,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Esta edición del Injuve, es una introducción a recursos que proporcionan información para preparar un viaje con destino a los países de la Unión Europea y el Espacio Económico Europeo para aquellos jóvenes que busquen trabajo o formación académica. Ante todo, la guía pretende responder de forma sencilla y ordenada a tres cuestiones: 1. Quiero [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/03/20130313-074454.jpg"
+thumbnailAlt: ""
 ---
 
 # Estudiar y trabajar en Europa, Guía de&nbsp;Recursos

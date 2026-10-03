@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/10/5cf487364b94e2b424ddfbee3a331ea2.jpg?w=620&h=623"
+thumbnailAlt: ""
 ---
 
 # Recuerda

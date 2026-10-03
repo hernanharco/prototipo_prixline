@@ -19,6 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Orientadores Palencia: Se acercan las navidades y muchas de las personas que están teniendo serias dificultades para encontrar un empleo, o tan siquiera poder acudir a hacer una simple entrevista, ven en estas fechas una pequeña luz en el largo túnel del desempleo. Encontrarnos un trabajo de Navidad, facilitarnos una oportunidad de demostrar lo&hellip;"
+thumbnailAlt: ""
 ---
 
 # Empresas de Trabajo Temporal (ETT´s): qué son, cómo funcionan, mitos, inconvenientes,&nbsp;etc.

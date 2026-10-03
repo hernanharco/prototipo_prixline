@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: En el BOE del 6 de agosto aparecen las bases de las becas para estudios posobligatorios: anteriores a la universidad cuyo plazo finaliza el dia 30 de septiembre y universitarios, con plazo hasta el 15 de octubre. Enseñanzas posobligatorias y superirores no universitarias. Plazo: 30/09/2015 1º y 2º&hellip;"
+thumbnailAlt: ""
 ---
 
 # Becas de carácter general del MECD curso&nbsp;2015/16

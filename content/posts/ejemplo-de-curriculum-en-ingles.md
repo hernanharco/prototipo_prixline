@@ -16,6 +16,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: 21/10/2013 ¿Quieres traducir tu CV al inglés? Aquí tienes algunos consejos y un ejemplo que te ayudará El CV anglosajón suele comenzar con una descripción genérica del perfil (profile). En ella se destacan los aspectos más relevantes del perfil profesional (incluyendo funciones, conocimientos y logros). La ventaja&hellip;"
+thumbnailAlt: ""
 ---
 
 # Ejemplo de curriculum en&nbsp;inglés

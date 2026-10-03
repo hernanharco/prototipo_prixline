@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Yo Soy Tu Profe Salvador Rodríguez Ojaos @salvaroj (Facebook, Pinterest, Google+), es pedagogo, blogger, formador y asesor en innovación educativa. Ha sido profesor de la escuela de magisterio de la Universidad de Barcelona, profesor en diversos cursos de posgrado y maestro de Educación Física en Primaria. Además, actualmente es asesor pedagógico en el ámbito editorial. [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # “Compartir es el verbo que define la educación del&nbsp;futuro”

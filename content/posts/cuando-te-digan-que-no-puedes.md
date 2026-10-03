@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/03/1655972_700397010012077_747545537_n.jpg?w=480&h=595"
+thumbnailAlt: ""
 ---
 
 # Cuando te digan que no&nbsp;puedes

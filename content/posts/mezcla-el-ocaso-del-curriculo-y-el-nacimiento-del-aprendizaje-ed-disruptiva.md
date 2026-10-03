@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon La Universidad, la escuela…son una máquina de estandarizar perfectamente engrasadas. Pero su población es extremadamente heterogénea, y cada vez mas lo es en zonas marginales, en zonas de inmigración masiva, en zonas de caída espectacular de los ingresos, y de movilidad social descendente. Estandarizar lo heterogéneo&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/07/hqdefault.jpg?w=480&h=360"
+thumbnailAlt: ""
 ---
 
 # Mezcla: el ocaso del curriculo y el nacimiento del aprendizaje! (Ed.&nbsp;Disruptiva)

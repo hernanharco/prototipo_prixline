@@ -18,6 +18,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on descubriendo talento: En alguna ocasión he comentado que suelo ver con bastante frecuencia a Bob Esponja. Lo cierto es que esta esponja amarilla da mucho juego a la hora de escribir sobre situaciones reales en el entorno laboral. En uno de los últimos capítulos que he visto, Bob Esponja, agobiado por los&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Quieres ser uno más ó ser algo&nbsp;más?

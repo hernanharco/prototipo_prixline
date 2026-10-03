@@ -17,6 +17,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Originally posted on Lo que de verdad importa: “La primera vez que saliste de tu zona de confort, y posiblemente la más dura, fue nada más nacer” Si en algún momento has estado interesado en mejorar tu vida en alguna de las áreas que la componen, seguro que has escuchado o leído con bastante&hellip;"
+thumbnailAlt: ""
 ---
 
 # Es tiempo de conquistar, es hora de&nbsp;crecer

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Bajo una visión de crecimiento e innovación en el mercado de empleo en el sector turístico, Turijobs ha realizado una encuesta de satisfacción en los países que opera actualmente: España, México y Portugal. La finalidad de este estudio es conocer el comportamiento y las necesidades de los profesionales de&hellip;"
+thumbnail: "https://sobrevivirrhhe.files.wordpress.com/2017/09/turijobs-analiza-los-hc3a1bitos-de-los-profesionales-en-la-bc3basqueda-de-empleo.jpg?w=1125&h=750"
+thumbnailAlt: ""
 ---
 
 # Descubre los hábitos de búsqueda de empleo de los profesionales del sector&nbsp;turístico.

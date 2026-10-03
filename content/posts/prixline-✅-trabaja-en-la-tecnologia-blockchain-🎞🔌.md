@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/TZ0Tt-CDDjw/hqdefault.jpg"
+videoId: "TZ0Tt-CDDjw"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Trabaja en la tecnología #BLOCKCHAIN&nbsp;🎞🔌

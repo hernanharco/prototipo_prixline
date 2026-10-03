@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "opinion"
 excerpt: "Don Jesús Villegas, magistrado, nos comenta la situación que se ha creado en estos momentos en España … Síguenos en Telegram https://t.me/prixliners aumentamos la Inteligencia Colectiva y desde allí te ayudamos 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España http://PRIX.com/contacto 💚 Spotify: http://bit.ly/prixline"
+thumbnail: "https://i.ytimg.com/vi/JL36Jx2tdn0/hqdefault.jpg"
+videoId: "JL36Jx2tdn0"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Golpe de Estado del Tribunal Constitucional 😳? ¿España 🇪🇸será Venezuela 🇻🇪 ?…&nbsp;😳

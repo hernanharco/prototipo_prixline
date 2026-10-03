@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "aprender"
 excerpt: "Análisis claro del impacto real de la inteligencia artificial en la Administración pública española. Se explica cómo la IA puede mejorar trámites, reducir burocracia y aumentar la eficiencia, pero también los riesgos legales, éticos y organizativos que puede generar. Incluye reflexiones sobre justicia automatizada, toma de decisiones públicas, control político, protección de datos y el [&hellip;]"
+thumbnail: "https://i.ytimg.com/vi/88dXKrMH2sg/hqdefault.jpg"
+videoId: "88dXKrMH2sg"
+thumbnailAlt: ""
 ---
 
 # #PRIXLINE ✅ IA y Poder Judicial: ¿Quién controla a&nbsp;quién?

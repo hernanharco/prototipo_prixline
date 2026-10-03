@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Como ya os anunciaba en el episodio 12×2, seguimos desgranando el artículo diez consejos para encontrar empleo en tiempos de coronavirus. Si el lunes… Encontrar empleo en tiempos de coronavirus: propuesta de valor. En definitiva, poner EN VALOR la información que queremos destacar, la experiencia laboral que pueda aportar más puntos en el proceso, la [&hellip;]"
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/09/propuesta-valor-curriculum.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Encontrar empleo en tiempos de coronavirus: propuesta de&nbsp;valor.

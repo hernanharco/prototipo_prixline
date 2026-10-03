@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/5lzMlvHGad4/hqdefault.jpg"
+videoId: "5lzMlvHGad4"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Cuidado🚨 España 🇪🇸 ¿Pasará con la Justicia lo mismo que en México y&nbsp;Venezuela?

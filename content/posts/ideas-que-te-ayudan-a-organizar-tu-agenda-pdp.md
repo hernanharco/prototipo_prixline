@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "LIDERA una acción por mes, define una estrategia de empleabilidad basada en el desarrollo de tus capacidades profesionales y el alcance de nuevas habilidades. Ponte en marcha hacia tu objetivo profesional. ¡Comprométete contigo mismo y con tu empleabilidad! LIDERA."
+thumbnailAlt: ""
 ---
 
 # Ideas que te ayudan a organizar tu agenda&nbsp;PDP

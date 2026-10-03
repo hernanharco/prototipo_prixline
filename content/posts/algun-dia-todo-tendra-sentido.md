@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/02/10015010_287480218076160_1158026724_n.jpg?w=480&h=380"
+thumbnailAlt: ""
 ---
 
 # Algún día todo tendrá&nbsp;sentido

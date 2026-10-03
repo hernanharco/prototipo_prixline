@@ -26,6 +26,8 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Dos de las cosas que más se valoran en el momento de contratar a alguien para un nuevo empleo, son la Formación y la Experiencia. Respecto a la formación, os dejamos nuestro catálogo de cursos para que elijáis los que más os gusten. Hemos recopilado 40 webs donde podéis solicitar prácticas y becas para aumentar vuestra experiencia [&hellip;]"
+thumbnail: "https://i0.wp.com/blog.atperson.com/wp-content/uploads/2012/07/practicas.jpg"
+thumbnailAlt: ""
 ---
 
 # 40 enlaces para buscar becas y&nbsp;prácticas

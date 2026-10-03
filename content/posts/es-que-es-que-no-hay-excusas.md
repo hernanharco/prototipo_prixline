@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # &#8220;Es que&#8230;&#8221;, &#8220;es que&#8230;&#8221; no hay&nbsp;excusas

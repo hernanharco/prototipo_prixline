@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Cada vez que me enfrento a un artículo o a una charla o taller sobre búsqueda de empleo y utilización de redes sociales, el blog ha sido uno de los instrumentos que más he ensalzado para eso que venimos en llamar “marca personal“. Los que bebemos de grandes&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cosas que escribir en un blog para reforzar tu marca&nbsp;personal

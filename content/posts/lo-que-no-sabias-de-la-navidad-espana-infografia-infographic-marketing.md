@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con Lo que no sabías de la Navidad (España). Un saludo Lo que no sabías de la Navidad (España) View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/lo-qu-no-sabias-de-la-navidad-infografia.png?w=860&h=1932"
+thumbnailAlt: ""
 ---
 
 # Lo que no sabías de la Navidad (España) #infografia #infographic&nbsp;#marketing

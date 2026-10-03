@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Hay personas que todavía firman sin leer antes el contrato. Los motivos suelen ser variados, desde la prisa por firmar hasta el miedo a parecer desconfiado/a si nos paramos a leerlo. Pero tenemos que tener clara una cosa: lo que firmes, no tendrá vuelta atrás, y no es que no nos&hellip;"
+thumbnailAlt: ""
 ---
 
 # Qué tengo que tener claro al firmar el&nbsp;contrato

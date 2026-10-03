@@ -18,6 +18,7 @@ originCategories:
   - "autoaprendizaje"
   - "prixline"
 excerpt: "¿Cómo crear una buena marca personal? Recetas mágicas no hay, pero sí libros que nos pueden ayudar a crear una marca personal en el mundo Offline y Online. En este enlace os dejo varios libros sobre marca personal: LIBROS MARCA PERSONAL ¿Conoces casos de éxitos de marca personal? ¿Qué libros sobre branding personal conoces?"
+thumbnailAlt: ""
 ---
 
 # La marca personal, muy importante en el mundo&nbsp;Online

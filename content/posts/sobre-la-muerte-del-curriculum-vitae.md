@@ -15,6 +15,7 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Originally posted on plandempleo: photopin.com No puedo evitar reflexionar y opinar sobre el artículo de La muerte del curriculum vitae que salió publicado el 24 de octubre en la página de El País. El artículo me parece muy bueno y que aporta contenidos a tener en cuenta, mi reflexión no va por ahí, si no acerca de los comentarios&hellip;"
+thumbnailAlt: ""
 ---
 
 # Sobre la muerte del curriculum&nbsp;vitae&#8230;

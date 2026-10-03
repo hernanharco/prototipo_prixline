@@ -30,6 +30,8 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "La tasa de desempleo juvenil en España es de casi el 49%, es decir uno de cada dos jóvenes de entre 16 y 29 años está sin trabajo. Es una situación trágica para todos los jóvenes pero especialmente para aquellos que acaban sus estudios y ven que tienen prácticamente imposible acceder al mercado laboral sin [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/01/20130102-133901.jpg"
+thumbnailAlt: ""
 ---
 
 # ¡Acabo los estudios y no hay trabajo! ¿Ahora&nbsp;qué?

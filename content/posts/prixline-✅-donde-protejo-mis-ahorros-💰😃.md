@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/VYFYL50eCww/hqdefault.jpg"
+videoId: "VYFYL50eCww"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ ¿Dónde Protejo Mis Ahorros?&nbsp;💰😃

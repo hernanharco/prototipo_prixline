@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Pero sobre todo cree en ti y reinvéntate constantemente. Si no sabes cómo, te sugiero que leas “Reinventando tu marca personal” de Dorie Clark y “Si quieres triunfar, haz valer tu trabajo” de Pilar Jericó. ¡Te darán claves! ¡Buena suerte!"
+thumbnailAlt: ""
 ---
 
 # Hazte visible y te sentirás&nbsp;mejor

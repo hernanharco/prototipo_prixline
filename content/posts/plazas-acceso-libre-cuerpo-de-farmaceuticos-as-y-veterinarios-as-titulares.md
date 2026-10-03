@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Desde el Ministerio de Sanidad, Servicios Sociales e Igualdad se convocan las siguientes plazas de acceso libre en el Cuerpo de Farmaceúticos/as y Veterinarios/as Titulares 42 plazas acceso libre Cuerpo de Farmacéuticos/as Titulares: Se trata de 42 plazas mediante acceso libre y 1 plaza por el sistema de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Plazas acceso libre Cuerpo de Farmacéuticos/as y Veterinarios/as&nbsp;Titulares

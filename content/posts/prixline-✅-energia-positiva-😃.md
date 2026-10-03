@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/I5Lz5uyqKqg/hqdefault.jpg"
+videoId: "I5Lz5uyqKqg"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Energía Positiva&nbsp;😃

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: Ya están aquí esos días en los que la actividad normal decae, la mente se distrae con bastante frecuencia, y apartamos los pensamientos para hacer incursiones en el mundo de las emociones. En estos días de Navidad y de cambio de año, tenemos la excusa perfecta para reunirnos&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¡¡Disfruten y sean felices, muy&nbsp;felices!!

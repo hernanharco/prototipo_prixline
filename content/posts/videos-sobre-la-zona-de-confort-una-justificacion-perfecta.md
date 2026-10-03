@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Social Media's Sensei by Gus: El primer vídeo que os presento hoy está basado en un libro de Matti Hemmi con el mismo titulo “¿Te atreves a soñar?”. Os dejo el enlace: ? Si os interesa descargar en forma gratuita el primer capítulo del libro, por favor, pinchad aquí: ¿Te atreves&hellip;"
+thumbnailAlt: ""
 ---
 
 # Vídeos sobre la Zona de Confort: una Justificación&nbsp;perfecta&#8230;

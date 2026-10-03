@@ -20,6 +20,7 @@ originCategories:
   - "recursos"
   - "Solidaridad"
 excerpt: "Podemos encontrar varias entidades en el Principado que funcionan como Agencias de Colocación, como por ejemplo, la Asociación de Jóvenes Empresarios, FUCOMI, FADE, Universidad de Oviedo o Fundación Metal . Podéis consultar el listado completo en la página del SEPE."
+thumbnailAlt: ""
 ---
 
 # Las Agencias de Colocación ya son una&nbsp;realidad

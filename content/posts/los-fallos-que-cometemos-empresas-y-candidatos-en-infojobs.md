@@ -15,6 +15,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Fuente: http://ventajaprofesional.com/"
+thumbnailAlt: ""
 ---
 
 # Los fallos que cometemos empresas y candidatos en&nbsp;Infojobs

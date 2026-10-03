@@ -19,6 +19,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Los perfiles más demandados son los siguientes: Auxiliares y Técnicos con idioma, Restauración, Administración, Animadores Socioculturales, Deportivos, etc. Tendrás más posibilidades de acceder si tu formación está relacionada con: Auxiliar de Nutrición Infantil, Alternativas de Ocio Saludable, Técnicas de Dinamización Infantil y Juvenil, Cocina, hostelería, etc. Cursos relacionados con idiomas, deportes, Animación Sociocultural, Monitor/a de [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Empleos temporada de&nbsp;verano

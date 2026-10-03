@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Otra de las sorpresas de este verano ha sido el volver a colaborar con Nilton Navarro, Project Manager y #SocialMedia Manager de @InfoJobs, viejo … Entrevista para @NiltonNavarro: búsqueda de empleo en tiempos de Covid-19. Aquí os dejo las preguntas: 1. ¿Cuáles crees que serán las habilidades más importantes para encontrar trabajo en época post [&hellip;]"
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/08/inaki-gonzalez-rrhh-consejos-para-encontrar-empleo-consejos-para-marca-personal-como-encontrar-empleo-en-2020-inaki-gonzalez-tecnico-de-recursos-humanos.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Entrevista para @NiltonNavarro: búsqueda de empleo en tiempos de&nbsp;Covid-19.

@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convocan procedimientos selectivos, mediante el sistema de concurso-oposición, para cubrir 446 plazas, 14 para el Cuerpo de Inspectores de Educación y 432 para el Cuerpo de Maestros, situadosen Galicia. Cuerpo de Inspectores Docentes: 13 plazas libres + 1 reserva discapacitados Se requiere experiencia previa como funcionario de&hellip;"
+thumbnailAlt: ""
 ---
 
 # 402 plazas libres de Profesores en&nbsp;Galicia

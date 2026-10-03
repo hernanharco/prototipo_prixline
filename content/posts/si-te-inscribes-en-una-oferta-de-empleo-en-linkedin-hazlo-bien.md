@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Hay ocasiones en las que tengo la sensación de que algunas personas en búsqueda activa de empleo, realmente no desean volver a incorporarse al mercado laboral. No cometas estos errores y facilita cuanto puedas el trabajo al reclutador, tendrás muchas más oportunidades de formar parte de un proceso de selección. Víctor Candel"
+thumbnailAlt: ""
 ---
 
 # Si te inscribes en una oferta de empleo en LinkedIn, hazlo&nbsp;bien

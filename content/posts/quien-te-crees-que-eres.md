@@ -22,6 +22,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on plandempleo: No, no va con mala leche ni estoy ofuscada (bueno, igual el calor tiene algo que ver, sí…) Independientemente, la pregunta es directa y simple, sin ningún tono amenazante, llanamente, ¿quién te crees que eres? Si piensas y te preguntas eso sin darle una connotación negativa ni de reproche es probable&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Quién te crees que&nbsp;eres?

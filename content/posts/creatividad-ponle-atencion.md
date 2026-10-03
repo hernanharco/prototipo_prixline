@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Es importante adoptar hábitos que nos ayuden a gestionar nuestra energía psíquica y el capital atencional del que disponemos. La creatividad depende de ello. De hecho, creo uno de los grandes retos de la educación."
+thumbnailAlt: ""
 ---
 
 # Creatividad: ponle atención

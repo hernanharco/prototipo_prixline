@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Barcelona, 7 abril 2020 – El sector turístico, el que más aporta a la economía española, ha experimentado un frenazo en seco con motivo de la crisis … La cuarentena como periodo de formación y preparación para la reanudación del sector turístico y hostelero. Junto con su colaborador eMagister, han lanzado una gran variedad de [&hellip;]"
+thumbnail: "https://i0.wp.com/sobrevivirrhhe.files.wordpress.com/2020/04/formacion-turijobs.jpeg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # La cuarentena como periodo de formación y preparación para la reanudación del sector turístico y&nbsp;hostelero.

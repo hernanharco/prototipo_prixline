@@ -10,6 +10,9 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/h7X6Rir-dss/hqdefault.jpg"
+videoId: "h7X6Rir-dss"
+thumbnailAlt: ""
 ---
 
 # ¿Qué podemos aprender de la comunidad de&nbsp;YouTube?

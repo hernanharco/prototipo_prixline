@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Te gustaría viajar y pasar una temporada en Japón? Desde la Embajada se ofrece un interesante proyecto de estancia en el país del Sol Naciente:El Gobierno de España y Japón han firmado un acuerdo, denominado Working Holiday Scheme, que permitirá de 250 ciudadanos/as españoles/as permanecer en Japón hasta&hellip;"
+thumbnailAlt: ""
 ---
 
 # 250 plazas españoles/as Working Holiday en&nbsp;Japón

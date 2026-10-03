@@ -28,6 +28,8 @@ originCategories:
   - "recursos"
   - "semipresencial"
 excerpt: "¿Alguna vez os habéis planteado qué hay que exigirle a la formación on-line para que sea de calidad? ¡Te damos algunas guías de lo que es imprescindible! Ayuda a la hora de definir los objetivos y que estos sean acordes con el contenido y la metodología de la formación que se va a impartir. Flexibilidad horaria: la mayoría de [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/10/prixline-elearning.jpeg?w=267&h=189"
+thumbnailAlt: ""
 ---
 
 # Diez cosas que debemos exigirle a una buena formación&nbsp;e-learning

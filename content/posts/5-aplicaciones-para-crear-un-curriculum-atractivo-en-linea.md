@@ -19,6 +19,8 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Actualmente, presentar un currículum en papel a los seleccionadores no es suficiente para saciar sus expectativas. Aparte de tener un buen curriculum, es muy importante que su presentación sobresalga de la de la competencia. Desde prixline te indicamos cinco aplicaciones que te ayudarán a crear una versión del currículum que sea más atractiva para los [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/11/20121101-172824.jpg"
+thumbnailAlt: ""
 ---
 
 # 5 aplicaciones para crear un currículum atractivo en&nbsp;línea

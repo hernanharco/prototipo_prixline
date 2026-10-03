@@ -18,6 +18,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on Orientadores Palencia: Tu carta de presentación debe llevarte a conseguir una entrevista de trabajo. Debes saber venderte, pero hay errores que jamás puedes cometer por muy diferente y especial que quieras parecer al empleador. 11.07.2013 Tino Fernández. En los últimos tiempos habrás escuchado cientos de veces que para encontrar un empleo es&hellip;"
+thumbnailAlt: ""
 ---
 
 # Cinco imprudencias que pueden arruinar tu&nbsp;currículo

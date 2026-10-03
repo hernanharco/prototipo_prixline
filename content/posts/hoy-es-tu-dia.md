@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/1964947_810086639003987_341446790265167169_n.jpg?w=480&h=480"
+thumbnailAlt: ""
 ---
 
 # Hoy es tu&nbsp;día!

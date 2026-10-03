@@ -17,6 +17,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # NO ….. !!!! lo hagas&nbsp;¡¡¡

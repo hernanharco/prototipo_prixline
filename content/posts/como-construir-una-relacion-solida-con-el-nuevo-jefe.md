@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Venga va, pongámonos a soñar y soñemos con que por fin te quitan de encima el paquete de jefe que tienes y te ponen de un día para otro uno nuevo. ¿Qué hacemos? ¿Cambiamos el chip a la primera y volvemos a engrasar la maquinaria?&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/10/construir-relacic3b3n-nuevo-jefe.jpg?w=300&h=264"
+thumbnailAlt: ""
 ---
 
 # Cómo construir una relación sólida con el nuevo jefe. 

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/10/10606038_857027314309919_2480497047033816605_n.jpg?w=480&h=360"
+thumbnailAlt: ""
 ---
 
 # La felicidad.

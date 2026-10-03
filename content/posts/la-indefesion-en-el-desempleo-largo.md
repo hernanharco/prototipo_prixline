@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Caminando hay que abrir la mochila, vaciarla y seguir… sino el peso, lo impide …"
+thumbnailAlt: ""
 ---
 
 # La indefensión en el desempleo&nbsp;largo

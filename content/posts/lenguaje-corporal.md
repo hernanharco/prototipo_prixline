@@ -20,6 +20,7 @@ originCategories:
   - "prixline"
   - "vídeos"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # Lenguaje corporal

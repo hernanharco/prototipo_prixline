@@ -14,6 +14,9 @@ originCategories:
   - "MasterClass"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/jxlNMj7aqqU/hqdefault.jpg"
+videoId: "jxlNMj7aqqU"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Coche eléctrico: futuro y oportunidades de trabajo&nbsp;🚘

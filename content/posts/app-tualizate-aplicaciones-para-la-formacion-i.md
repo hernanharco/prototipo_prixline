@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Me Impulso: Hoy en día las nuevas tecnologías se alían con nosotros para facilitarnos un montón de tareas. Y eso lo saben muy bien los estudiantes cada vez más inclinados a utilizar el smartphone o la tablet como herramientas de trabajo con aplicaciones que hacen su día a día más sencillo. Se&hellip;"
+thumbnailAlt: ""
 ---
 
 # App-tualízate: Aplicaciones para la formación&nbsp;I

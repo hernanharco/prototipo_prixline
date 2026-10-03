@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convoca el procedimiento selectivo para ingreso y acceso al Cuerpo de Maestros y procedimiento para la adquisición de nuevas especialidades en la Comunidad Autónoma de Aragón.Se convocan pruebas selectivas para cubrir 530 plazas correspondientes al Cuerpo de Maestros mediante concurso-oposición, situadas en el ámbito de gestión del&hellip;"
+thumbnailAlt: ""
 ---
 
 # 530 plazas docentes y adquisición de nuevas especialidades en&nbsp;Aragón

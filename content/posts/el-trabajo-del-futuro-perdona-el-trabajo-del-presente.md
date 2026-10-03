@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Hace meses que quiero hacer esta reflexión y es justo ahora cuando he encontrado el momento. Espero no coger a nadie por sorpresa si por novena vez comento en este blog que el mercado laboral se ha transformado. Que la manera de entender el empleo está en plena revolución y que por supuesto, la forma&hellip;"
+thumbnailAlt: ""
 ---
 
 # El trabajo del futuro&#8230; ¡Perdona!          El trabajo del&nbsp;presente

@@ -17,6 +17,8 @@ originCategories:
   - "cursos"
   - "prixline"
 excerpt: "Originally posted on Emprego Viveiro: cursos online gratuitos masivos (MOOC) da Universitat Politècnica de València, aos que podes acceder en http://www.upvx.es. Listado de cursos Buscar en Internet 7 semanas 18/02/14 Valoración de Futbolistas 3 semanas 18/02/14 Tecnologías Educativas 11 semanas 18/02/14 Der. civil foral valenciano 6 semanas 18/02/14 Bases matemáticas 4 semanas 18/02/14 Mecánica para&hellip;"
+thumbnail: "http://1-ps.googleusercontent.com/x/s.upvxinicio.appspot.com/www.upvx.es/img/xdetalle_curso_internet.png.pagespeed.ic.sstPORXqzA.jpg"
+thumbnailAlt: ""
 ---
 
 # Cursos Online gratuitos masivos (MOOC) da Universitat Politècnica de&nbsp;València.

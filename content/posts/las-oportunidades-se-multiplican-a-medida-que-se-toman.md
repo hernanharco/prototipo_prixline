@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/10/10171621_738635492862307_6087771208964922264_n.jpg?w=594&h=594"
+thumbnailAlt: ""
 ---
 
 # Las oportunidades se multiplican a medida que se&nbsp;toman

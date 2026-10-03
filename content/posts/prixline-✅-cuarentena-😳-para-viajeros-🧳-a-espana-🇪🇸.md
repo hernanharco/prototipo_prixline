@@ -12,6 +12,9 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
+thumbnail: "https://i.ytimg.com/vi/sNbf_Dt0OeM/hqdefault.jpg"
+videoId: "sNbf_Dt0OeM"
+thumbnailAlt: ""
 ---
 
 # PRIXLINE ✅ Cuarentena 😳 para Viajeros 🧳 a España&nbsp;🇪🇸

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on merceroura: Lo dejamos todo para luego… Y ya ves, ese luego se demora, se escapa, se esfuma o tarda demasiado… ¿Qué sentido tiene ya? ¿A dónde se han ido esos prejuicios y ese temor a fallar o hacer el ridículo? ¿Dónde quedan esos minutos que nunca tuvimos para dedicárselos a algo que&hellip;"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2020/03/mountain-4524970_640.jpg"
+thumbnailAlt: ""
 ---
 
 # Un café pendiente

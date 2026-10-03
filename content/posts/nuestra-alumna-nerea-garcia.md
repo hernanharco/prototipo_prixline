@@ -15,6 +15,8 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Campaña solidaria de recogida de juguetes La chica que veis en la foto se llama Nerea y está estudiando 1º CFGS Administración y Finanzas en TEIDE Quintana (TEIDE IV). Pertenece al Colectivo de Voluntarios del Atlético de Madrid. Este año están colaborando en una campaña solidaria de recogida&hellip;"
+thumbnail: "http://elblogdeteidehease.files.wordpress.com/2013/12/20131203_112023.jpg?w=768&h=1024"
+thumbnailAlt: ""
 ---
 
 # Nuestra alumna Nerea&nbsp;García

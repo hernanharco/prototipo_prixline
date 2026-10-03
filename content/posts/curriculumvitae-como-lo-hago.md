@@ -20,6 +20,8 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "El curriculum vitae es lo esencial para la búsqueda de empleo, eso todos lo sabemos. Pero… ¿Sabes cómo hacer un buen CV? Los expertos en recursos humanos dicen que lo mejor es la clásica clasificación en bloques. Por ejemplo: Datos personales Datos de formación Otros estudios Conocimientos informáticos e idiomas Concernientes a la experiencia laboral&hellip;"
+thumbnail: "http://veronicagalo.files.wordpress.com/2013/11/el-perfecto-curriculum-vitae1.jpg?w=360&h=180"
+thumbnailAlt: ""
 ---
 
 # #CurriculumVitae ¿Cómo lo&nbsp;hago?

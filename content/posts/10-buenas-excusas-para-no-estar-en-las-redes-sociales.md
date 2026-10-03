@@ -18,6 +18,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Originally posted on descubriendo talento: Tras llevar un año de forma activa en las redes sociales y haber escrito algún que otro post relacionado con la búsqueda de empleo en éstas así como la conveniencia o no de estar en ellas, he recopilado las excusas más habituales con las que me he encontrado a lo&hellip;"
+thumbnailAlt: ""
 ---
 
 # 10 ¿buenas? excusas para no estar en las redes&nbsp;sociales

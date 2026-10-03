@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Conoces las becas de postgrado, doctorado y de estancias cortas de la Fundación Carolina? Pues ya está abierta la nueva convocatoria La Fundación Carolina ha abierto una nueva edición de su convocatoria de becas, correspondiente al curso académico 2018-2019. El Programa de Formación de la Fundación Carolina tiene&hellip;"
+thumbnailAlt: ""
 ---
 
 # 648 Becas de la Fundación Carolina&nbsp;2018/2019

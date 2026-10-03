@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Una de las grandes preguntas de todas las personas que nos encontramos en búsqueda de empleo es ¿cómo gestionan las grandes empresas las candidaturas? Ésta es una de las claves que pocas veces conocemos y que más determinante puede llegar a ser para conseguir la tan ansiada oportunidad profesional. Echemos un&hellip;"
+thumbnailAlt: ""
 ---
 
 # ¿Cómo gestionan las grandes empresas las&nbsp;candidaturas?

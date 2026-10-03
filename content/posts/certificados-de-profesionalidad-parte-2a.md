@@ -19,6 +19,7 @@ originCategories:
   - "Homologacion"
   - "prixline"
 excerpt: "Permiten su correspondencia con los títulos de formación profesional del sistema educativo, concretamente con los ciclos formativos regulados por la Ley Orgánica 2/2006, de 3 de mayo de Educación (no con Ley Orgánica General del Sistema Educativo, 1990). Es decir, favorecen la integración, transparencia y reconocimiento entre las diversas ofertas de FP referidas al Catálogo [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # Certificados de profesionalidad parte&nbsp;2ª

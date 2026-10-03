@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Qué imagen se te viene a la cabeza cuando oyes hablar de emprender? ¿El interior de un garaje en California? ¿Un par de chavales con pinta de genios en vaqueros y camiseta? ¿Un producto revolucionario y supertecnológico? ¿Una empresa donde la gente se mueve en monopatín y juega al futbolín?&hellip;"
+thumbnailAlt: ""
 ---
 
 # Desmontando falsos mitos del&nbsp;emprendimiento

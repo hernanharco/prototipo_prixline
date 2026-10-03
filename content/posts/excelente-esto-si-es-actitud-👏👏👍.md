@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/img_7038.jpg?w=1024&h=1024"
+thumbnailAlt: ""
 ---
 
 # Excelente, esto SÍ es ¡actitud!&nbsp;👏👏👍

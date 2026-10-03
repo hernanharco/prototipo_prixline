@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
+thumbnailAlt: ""
 ---
 
 # NIGEL MARSH en su inspiradora Charla TEDx Australia sobre Equilibrio entre Vida y&nbsp;Trabajo

@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eficacia personal: Enfócate en la solución y no en los problemas"
+thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/12/181200ab-60d3-4137-97ce-d3e4bfac3284-large.jpeg?w=640&h=318"
+thumbnailAlt: ""
 ---
 
 # ¡Enfócate en la solución, no en el&nbsp;problema!

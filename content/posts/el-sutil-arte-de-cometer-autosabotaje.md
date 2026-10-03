@@ -18,6 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on cesarpiqueras: Creo que las limitaciones del ser humano están mucho más en su mente que en la realidad que habita. A veces pienso que las personas somos especialistas en construir cárceles, meternos dentro y después tirar la llave fuera. Algunas personas viven toda su vida encerradas dentro de una de esas cárceles&hellip;"
+thumbnailAlt: ""
 ---
 
 # El sutil arte de cometer&nbsp;autosabotaje

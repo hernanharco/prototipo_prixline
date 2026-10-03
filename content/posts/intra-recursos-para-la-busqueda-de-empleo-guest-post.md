@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Ana Rubio vuelve a colaborar en plandempleo aportándonos su experiencia en el campo del empleo y la orientación con este artículo elaborado de acuerdo a sus propias vivencias y al aprendizaje extraído de las mismas y de su mejora constante, poniendo el foco en los recursos internos de cada uno, en nuestras&hellip;"
+thumbnailAlt: ""
 ---
 
 # Intra recursos para la búsqueda de empleo | Guest&nbsp;post

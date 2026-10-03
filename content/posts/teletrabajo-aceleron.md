@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Aunque hasta hace pocos meses se veía un ritmo de aumento de la utilización de la tecnología en el trabajo, quizás muchos lo centraban en robots, … Teletrabajo: ¡acelerón! Y, como se está viendo, no sólo es cuestión de tecnología, no es sólo hacer lo mismo “desde casa”, sino que también implica una nueva forma [&hellip;]"
+thumbnail: "https://i0.wp.com/lomejorestaalcaer.files.wordpress.com/2020/06/ea4akbxcwwtd0gokul8og5.jpg?quality=80&w=1242&ssl=1"
+thumbnailAlt: ""
 ---
 
 # Teletrabajo: ¡acelerón!

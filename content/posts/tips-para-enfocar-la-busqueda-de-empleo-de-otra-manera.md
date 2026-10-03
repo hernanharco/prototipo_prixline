@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: Con esta acabamos las reflexiones de verano, y no vamos a dejar de lado el último área de mejora. Hemos visto ideas para las administraciones, ideas para los profesionales de la orientación, y sólo nos queda dar ideas para los verdaderos protagonistas de todo esto. Las personas que se encuentran en&hellip;"
+thumbnailAlt: ""
 ---
 
 # Tips para enfocar la búsqueda de empleo de otra&nbsp;manera

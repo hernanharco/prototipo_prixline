@@ -10,6 +10,8 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "En fin, lo importante es tener ilusión y estar dispuesto al sacrificio. Como enseña Virgilio en “La Eneida”, “la fortuna favorece a los valientes”. delaJusticia.com Acaba de publicarse el R.D. 196/2015, de 22 de Marzo (BOE del 23), por el que se aprueba la oferta de empleo público para el año 2015. ¡Por fin parece que [&hellip;]"
+thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/militar.jpg?w=248&h=306"
+thumbnailAlt: ""
 ---
 
 # Lo que hay que saber sobre oposiciones ante la Oferta de empleo&nbsp;2015

@@ -22,6 +22,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on cesarpiqueras: Aquellos/as que tengáis más de diez años de experiencia profesional, habréis comprobado como en los últimos años, la velocidad a la que todo ocurre en nuestras empresas ha aumentado considerablemente. La globalización y el extendido uso de las nuevas tecnologías, ha hecho que a nuestro alrededor se mueva un torrente de&hellip;"
+thumbnailAlt: ""
 ---
 
 # Trabajólicos

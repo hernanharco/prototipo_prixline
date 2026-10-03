@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Desde que inicié esta aventura de tener un blog, allá por febrero de 2010, siempre tuve claro que tenía que ser accesible y permeable a cualquier tipo de colaboración. Y esa ha sido una de las señas de identidad de esta casa, el tener siempre&hellip;"
+thumbnailAlt: ""
 ---
 
 # Entrevista: ¿cuál es la relación entre oficinas y Recursos&nbsp;Humanos?

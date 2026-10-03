@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "No sólo busques empleo crea oportunidades Imagino que, por mi etapa de trabajo por cuenta propia, de manera natural, pienso en cómo crear oportunidades. Quizá puedas preguntarte ¿qué proyectos ejercen un “efecto imán” en mí? ¿qué es lo que yo puedo aportar? ¿qué “propuestas de valor” que me entusiasman se me ocurren que puedo realizar? [&hellip;]"
+thumbnailAlt: ""
 ---
 
 # AFINANDO TU ESTRATEGIA DE BÚSQUEDA DE&nbsp;EMPLEO

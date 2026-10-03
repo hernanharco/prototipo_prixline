@@ -17,6 +17,7 @@ originCategories:
   - "recursos"
   - "Solidaridad"
 excerpt: "Originally posted on plandempleo: photopin.com La búsqueda de empleo suele ser un proceso solitario. Muy pocas veces nos sentimos acompañados, y aunque estemos rodeados de personas que nos quieren y muestran su preocupación por nosotros, la búsqueda la seguimos teniendo que hacer cada uno por su cuenta. Ésto implica que tanto los éxitos como los&hellip;"
+thumbnailAlt: ""
 ---
 
 # Colaborando en la búsqueda de&nbsp;trabajo

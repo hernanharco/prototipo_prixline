@@ -10,6 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Madrid, 6 de mayo de 2019.- Son muchas las preguntas que asaltan a los candidatos en el mercado laboral, pero hay una que se repite en todas las cabezas: ¿Tendré lo que buscan? Estudios y talento son las materias primas de un buen candidato, pero,&hellip;"
+thumbnailAlt: ""
 ---
 
 # Súper talento, una herramienta para triunfar en el mercado&nbsp;laboral.

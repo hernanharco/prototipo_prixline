@@ -18,6 +18,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Originally posted on AVANZA LABORAL: Hoy la cosa va de trucos, o más bien de poner la tecnología a nuestro servicio en la búsqueda activa de empleo. En primer lugar Google. Además de buscador, es muchas otras cosas que en ocasiones pasan desapercibidas. En esta ocasión, uno de los elementos que podemos utilizar, (para la&hellip;"
+thumbnailAlt: ""
 ---
 
 # 2 lugares en los que buscar&nbsp;empleo
