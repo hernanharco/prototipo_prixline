@@ -25,9 +25,9 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 - [x] T3. Importador de posts: API WP.com → `content/posts/*` (813, categorías limpias, frontmatter) — test-first — commit `88136a88`
 - [x] T4. Importar páginas estáticas (prácticas, redes, contacto) +canales a `content/settings` — commit `953f5ebc`
 - [x] T5. Scaffolding Astro en `site/` con content collections (courses, posts, pages) — build + typecheck en 0 — commit 5bfcff5c
-- [x] T6. UI home con contenido real (secciones: hero dual, confianza, artículos, YouTube, cursos, prácticas, comunidad, CTA) — commit `WIP6`
-- [ ] T7. Badge EN VIVO (YouTube Data API `eventType=live`) configurable desde settings
-- [ ] T8. Verificación final: recuentos vs fuente, build, typecheck, <400 líneas, commits
+- [x] T6. UI home con contenido real (secciones: hero dual, confianza, artículos, YouTube, cursos, prácticas, comunidad, CTA) — commit `7f672208`
+- [x] T7. Badge EN VIVO (YouTube Data API `eventType=live`) configurable desde settings — commit `91050e94` (+ `ab554d69` mantenimiento pipeline)
+- [x] T8. Verificación final: recuentos vs fuente, build, typecheck, <400 líneas, commits
 
 ## Evidencia
 
@@ -37,3 +37,5 @@ API disponible: `https://public-api.wordpress.com/wp/v2/sites/prixline.blog/...`
 - T4: tests 9/9 (suite total 20/20); 4 páginas importadas; `social.json` con 13 canales (2 son CTAs no-redes: `sugerencias`→prix.com/contacto, `opiniones`→comentarios) y `site.json` con bloque `live` (handle `@prixline`, 300s)
 - T5: Astro 5.18.2 en `site/` (collections glob courses/posts/pages, schemas validan 1119/1119). **Bloqueo resuelto**: 46 posts tenían `@AlertasEmpleo` sin comillas en YAML (indicador reservado) → bug en NUESTRO emisor `post-render.ts` (no en el contenido); fix test-first (RED real: 1/6 fallaba) + regeneración de 813 + build/check en 0. Conteos: **813 / 302 / 4**
 - T6: paleta Confianza (navy `#12314F` + oro `#C8A24A`, contraste AA, font del sistema). 9 componentes Astro (máx 284 líneas) + home + `/cursos/` con 302 cursos y filtro sin dependencias. Hechos reales en Trust (2012 / 813 / 13), 0 métricas inventadas, 0 `<img>`, marcador TEMPORARY eliminado, build/check en 0
+- T7: `91050e94` — badge oculto por defecto, 0 peticiones sin `PUBLIC_YOUTUBE_API_KEY`, intervalo 900s (9.600 u/día < cuota 10.000), channelId cacheado 24h, tests 13/13 con RED→GREEN, build/check 0 con y sin key; `ab554d69` — `pipeline:*` ahora regeneran de verdad (antes fixture/dry-run) + README corregida (settings lo escribe `import-settings.ts`)
+- T8 (verificación completa): tests **34/34**; typecheck raíz **0 errores**; build raíz **0**; site build+check **0/0**; recuentos vs fuente **302 / 813 / 4 / 13** coinciden; **0 archivos >400 líneas** (máx 353: `src/app/components/ui/chart.tsx`); home real: 6 artículos, 4 secciones ancla, badge EN VIVO, 0 `<img>`
