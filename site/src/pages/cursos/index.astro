@@ -1,24 +1,96 @@
 ---
-// Catálogo completo de cursos: lista alfabética de los cursos importados
-// (colección `courses`) con filtro instantáneo en cliente (script inline,
-// sin dependencias). Progresivo: sin JS la lista completa es visible y el
-// campo de filtro queda oculto (clase `js` en <html>).
+// Catálogo completo de cursos (T10): retícula de tarjetas con jerarquía
+// tipográfica (título dominante, meta mínima, sin párrafos) y filtro
+// instantáneo en cliente sin dependencias. Progresivo: sin JS la lista
+// completa es visible y el campo de filtro queda oculto (clase `js` en
+// <html>).
+//
+// Sin marcos de test de markup en `site/`: la verificación de este módulo
+// es el build + `astro check` + greps estructurales sobre `dist/`.
 import { getCollection } from 'astro:content';
 import { decodeEntities } from '../../lib/format';
+import CourseCard from '../../components/CourseCard.astro';
 import '../../styles/global.css';
 
 const courses = await getCollection('courses');
+
+// Derivación de meta real del cuerpo del curso (sin inventar datos).
+// Verificado sobre los 302 cuerpos del corpus:
+//   - Chips: 274 cursos tienen keywords; 28 no (tarjeta sin chips).
+//   - Temario: 253 cursos tienen secciones/viñetas; 49 no; 20 no tienen
+//     ni chips ni conteo → tarjeta de solo título.
+// Reglas (aplicadas a la PRIMERA línea no vacía tras el `# TÍTULO`):
+//   - ≥2 partes separadas por comas, sin `:`, sin prosa (sin `. ` ni
+//     punto final) y partes cortas (≤50 car.): es patrón de keywords
+//     del origen (p. ej. `guitarra, musica, tocar`). En cualquier otro
+//     caso → sin chips.
+//   - Chips = hasta 3, sin repetidos (insensible a mayúsculas).
+//   - Conteo = nº de líneas de sección (Tema/Módulo/Unidad, misma
+//     regla que Temario.astro) + viñetas (–, •, -) del cuerpo.
+const BULLET_RE = /^[–•-]/;
+const SECTION_RE = /^(tema|m[oó]dulo|unidad)/i;
+
+function parseCourseBody(body: string): { chips: string[]; itemCount: number } {
+  const lines = body.split(/\r?\n/).map((line) => line.trim());
+  // La página renderiza su propio <h1>: descartamos la línea `# ...`.
+  let i = 0;
+  while (i < lines.length && !lines[i]) i += 1;
+  if (lines[i]?.startsWith('#')) {
+    i += 1;
+    while (i < lines.length && !lines[i]) i += 1;
+  }
+
+  const first = lines[i] ?? '';
+  const parts = first
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+  const isKeywordLine =
+    parts.length >= 2 &&
+    !first.includes(':') &&
+    !/[.]\s/.test(first) &&
+    !first.endsWith('.') &&
+    parts.every((part) => part.length <= 50);
+
+  const chips: string[] = [];
+  if (isKeywordLine) {
+    const seen = new Set<string>();
+    for (const part of parts) {
+      const key = part.toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+      chips.push(part);
+      if (chips.length === 3) break;
+    }
+  }
+
+  const itemCount = lines.filter(
+    (line) => BULLET_RE.test(line) || SECTION_RE.test(line),
+  ).length;
+
+  return { chips, itemCount };
+}
 
 // Orden alfabético determinista con ordenación española.
 const sorted = courses
   .slice()
   .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'))
-  .map((course) => ({
-    title: decodeEntities(course.data.title),
+  .map((course) => {
+    const title = decodeEntities(course.data.title);
+    const { chips, itemCount } = parseCourseBody(course.body ?? '');
     // T9: las tarjetas enlazan a la ficha interna /cursos/<slug>/;
     // el catálogo ya no saca al visitante al blog de origen.
-    slug: course.data.slug,
-  }));
+    // Buscable = título + keywords reales: filtrar por "guitarra"
+    // funciona aunque esa palabra solo aparezca en la línea de origen.
+    const searchText = [title, ...chips].join(' ');
+    return {
+      title,
+      slug: course.data.slug,
+      chips,
+      itemCount,
+      searchText,
+    };
+  });
 ---
 
 <!doctype html>
@@ -53,6 +125,9 @@ const sorted = courses
           Los {sorted.length} cursos de Prixline, ordenados alfabéticamente.
         </p>
 
+        {/* El filtro es mejora progresiva: sin JS queda oculto y la lista
+            completa sigue siendo navegable. El contador vive fuera del
+            bloque oculto: sin JS sigue mostrando el total real. */}
         <div class="catalog-filter">
           <label class="catalog-filter__label" for="catalog-search">
             Filtrar cursos
@@ -65,8 +140,11 @@ const sorted = courses
             autocomplete="off"
             data-catalog-filter
           />
-          <p class="catalog-filter__status" data-filter-status role="status" aria-live="polite"></p>
         </div>
+
+        <p class="catalog-filter__status" data-filter-status role="status" aria-live="polite">
+          {sorted.length} de {sorted.length} cursos
+        </p>
 
         <p class="catalog-empty" data-filter-empty hidden>
           Ningún curso coincide con la búsqueda.
@@ -75,9 +153,13 @@ const sorted = courses
         <ul class="catalog-list" data-catalog-list>
           {
             sorted.map((course) => (
-              <li class="catalog-item" data-course={course.title.toLowerCase()}>
-                <a href={`/cursos/${course.slug}/`}>{course.title}</a>
-              </li>
+              <CourseCard
+                title={course.title}
+                slug={course.slug}
+                chips={course.chips}
+                itemCount={course.itemCount}
+                searchText={course.searchText}
+              />
             ))
           }
         </ul>
@@ -91,6 +173,7 @@ const sorted = courses
       );
       const status = document.querySelector<HTMLElement>('[data-filter-status]');
       const empty = document.querySelector<HTMLElement>('[data-filter-empty]');
+      const EMPTY_TEXT = 'Ningún curso coincide con la búsqueda.';
 
       if (input && items.length > 0) {
         input.addEventListener('input', () => {
@@ -103,12 +186,14 @@ const sorted = courses
             if (match) visible += 1;
           }
 
-          if (status) {
-            status.textContent = query
-              ? `${visible} de ${items.length} cursos`
-              : '';
+          // Contador en vivo: se actualiza con cada pulsación.
+          if (status) status.textContent = `${visible} de ${items.length} cursos`;
+          if (empty) {
+            empty.hidden = visible !== 0;
+            empty.textContent = query
+              ? `Ningún curso coincide con «${input.value.trim()}».`
+              : EMPTY_TEXT;
           }
-          if (empty) empty.hidden = visible !== 0;
         });
       }
     </script>
@@ -137,14 +222,12 @@ const sorted = courses
         text-decoration: none;
       }
 
-      /* El filtro es mejora progresiva: sin JS oculto y la lista completa
-         sigue siendo navegable. */
       html:not(.js) .catalog-filter {
         display: none;
       }
 
       .catalog-filter {
-        margin: var(--space-5) 0 var(--space-4);
+        margin: var(--space-5) 0 var(--space-2);
       }
 
       .catalog-filter__label {
@@ -165,41 +248,38 @@ const sorted = courses
       }
 
       .catalog-filter__status {
-        margin: var(--space-2) 0 0;
+        margin: 0 0 var(--space-4);
         min-height: 1.2em;
         font-size: var(--text-sm);
         color: var(--color-muted);
       }
 
       .catalog-empty {
-        margin: var(--space-4) 0;
+        margin: 0 0 var(--space-4);
         color: var(--color-muted);
       }
 
+      /* Retícula respirable: 1 col. móvil / 2 tablet / 3 escritorio,
+         con separación generosa entre tarjetas. */
       .catalog-list {
-        columns: 2 18rem;
-        column-gap: var(--space-5);
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-5);
         list-style: none;
-        margin: var(--space-4) 0 0;
+        margin: var(--space-5) 0 0;
         padding: 0;
       }
 
-      .catalog-item {
-        break-inside: avoid;
-        margin-bottom: var(--space-2);
-        padding: var(--space-2) var(--space-3);
-        border: 1px solid var(--color-border);
-        border-radius: var(--radius-sm);
-        background: var(--color-surface);
+      @media (min-width: 48rem) {
+        .catalog-list {
+          grid-template-columns: repeat(2, 1fr);
+        }
       }
 
-      .catalog-item a {
-        text-decoration: none;
-      }
-
-      .catalog-item a:hover {
-        color: var(--color-gold-ink);
-        text-decoration: underline;
+      @media (min-width: 64rem) {
+        .catalog-list {
+          grid-template-columns: repeat(3, 1fr);
+        }
       }
     </style>
   </body>

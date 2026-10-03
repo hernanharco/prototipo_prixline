@@ -5,11 +5,14 @@
 // añadida al <html> solo cuando el script de conmutación está disponible).
 const CONTACT_URL = 'https://prixline.blog/contacto/';
 
+// Anclas ancladas a la home (`/#seccion`): los fragmentos a secas
+// (`#comunidad`) solo resuelven en `/`, así que en `/cursos/` y en las
+// 302 fichas de curso serían enlaces muertos.
 const navItems = [
-  { href: '#migracion', label: 'Migración' },
-  { href: '#cursos', label: 'Cursos' },
-  { href: '#comunidad', label: 'Comunidad' },
-  { href: '#practicas', label: 'Prácticas' },
+  { href: '/#migracion', label: 'Migración' },
+  { href: '/#cursos', label: 'Cursos' },
+  { href: '/#comunidad', label: 'Comunidad' },
+  { href: '/#practicas', label: 'Prácticas' },
 ];
 ---
 
