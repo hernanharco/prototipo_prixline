@@ -28,7 +28,7 @@ Decisiones del usuario:
 - [x] T11. Miniaturas reales en artículos: el importador de posts extrae
       `thumbnail` (primer id de YouTube del contenido o primera `<img>`) y la
       home muestra los 6 artículos con imagen real (fallback tipográfico si no
-      hay). — commit `WIPA`
+      hay). — commit `55a1086f`
 - [ ] T12. Sección YouTube con vídeos reales del canal vía RSS de build
       (`youtube.com/feeds/videos.xml?channel_id=...`, sin API key): últimos
       vídeos con miniatura real `i.ytimg.com`, enlazados, sustituyendo el
