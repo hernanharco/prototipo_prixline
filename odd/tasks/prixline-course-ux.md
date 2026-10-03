@@ -32,7 +32,7 @@ Decisiones del usuario:
 - [x] T12. Sección YouTube con vídeos reales del canal vía RSS de build
       (`youtube.com/feeds/videos.xml?channel_id=...`, sin API key): últimos
       vídeos con miniatura real `i.ytimg.com`, enlazados, sustituyendo el
-      bloque solo-enlace actual. — commit `2daccb9a`
+      bloque solo-enlace actual. — commits `2daccb9a` + `1cb33d61`
 
 ## Criterios de aceptación
 
