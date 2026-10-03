@@ -1,4 +1,3 @@
-import React from 'react';
 import { UserCheck, Briefcase, Rocket } from 'lucide-react';
 import { motion } from 'motion/react';
 
