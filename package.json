@@ -7,10 +7,11 @@
     "build": "vite build",
     "dev": "vite",
     "typecheck": "tsc --noEmit",
-    "pipeline:courses": "node scripts/extract-courses.ts --fixture",
-    "pipeline:posts": "node scripts/import-posts.ts --fixture",
-    "pipeline:pages": "node scripts/import-pages.ts --fixture",
-    "pipeline:settings": "node scripts/import-settings.ts --fixture"
+    "pipeline:courses": "node scripts/extract-courses.ts",
+    "pipeline:posts": "node scripts/import-posts.ts",
+    "pipeline:pages": "node scripts/import-pages.ts",
+    "pipeline:settings": "node scripts/import-settings.ts",
+    "pipeline:fixture": "node scripts/extract-courses.ts --fixture && node scripts/import-posts.ts --fixture && node scripts/import-pages.ts --fixture && node scripts/import-settings.ts --fixture"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",

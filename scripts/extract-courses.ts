@@ -9,7 +9,8 @@
  *   - slugify(title)       → ascii slug, unique-ified via an optional seen-map
  *   - renderMarkdown(...)  → frontmatter + body (extractedAt is passed in)
  *
- * CLI (guarded by import.meta.url): reads the fixture with --fixture, otherwise
+ * CLI (guarded by import.meta.url): reads the fixture with --fixture (dry run,
+ * never fetches and never writes), otherwise
  * fetches the live WordPress.com API page, then writes one .md per course into
  * content/courses/. Never fetches when --fixture is present.
  */
@@ -225,7 +226,8 @@ export function renderMarkdown(course: Course, sourceUrl: string, extractedAt: s
 const FIXTURE_URL = new URL("./fixtures/cursos-sample.html", import.meta.url);
 const COURSES_DIR = new URL("../content/courses/", import.meta.url);
 
-/** CLI entry: returns the number of course files written. */
+/** CLI entry: live mode writes course files; --fixture is a dry run (no writes).
+ *  Returns the number of courses parsed either way. */
 export async function run(argv: string[]): Promise<number> {
   const useFixture = argv.includes("--fixture");
   const extractedAtArg = argv.find((a) => a.startsWith("--extracted-at="));
@@ -248,6 +250,10 @@ export async function run(argv: string[]): Promise<number> {
   }
 
   const courses = parseCourses(html);
+  if (useFixture) {
+    console.log(`Dry run: parsed ${courses.length} course(s) from fixture (no files written)`);
+    return courses.length;
+  }
   await mkdir(COURSES_DIR, { recursive: true });
   for (const course of courses) {
     const md = renderMarkdown(course, CURSO_PAGE_URL, extractedAt);
