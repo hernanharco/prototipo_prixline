@@ -2,20 +2,20 @@
 id: 7022
 title: "Una historia sobre la perseverancia: el cuento del bambú&nbsp;japonés"
 date: 2013-10-18T09:09:55
-slug: una-historia-sobre-la-perseverancia-el-cuento-del-bambu-japones
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7022
-originUrl: https://prixline.blog/2013/10/18/una-historia-sobre-la-perseverancia-el-cuento-del-bambu-japones/
+slug: "una-historia-sobre-la-perseverancia-el-cuento-del-bambu-japones"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7022"
+originUrl: "https://prixline.blog/2013/10/18/una-historia-sobre-la-perseverancia-el-cuento-del-bambu-japones/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - gratis
-  - opinion
-  - prixline
-  - recursos
-  - Trabajo
+  - "gratis"
+  - "opinion"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on INNOVATION FOR SOCIAL CHANGE: Hay algo muy interesante que sucede con el bambú japonés y que nos enseña una importante lección. Cuando un cultivador planta una semilla de este árbol, el bambú no crece inmediatamente por más que se riegue y se abone regularmente. De hecho, el bambú japonés no sale a&hellip;"
 ---
 

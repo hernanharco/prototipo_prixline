@@ -2,20 +2,20 @@
 id: 7930
 title: "¿Qué vas a hacer para qué sea&nbsp;posible?"
 date: 2013-12-31T10:14:04
-slug: que-vas-a-hacer-para-que-sea-posible
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7930
-originUrl: https://prixline.blog/2013/12/31/que-vas-a-hacer-para-que-sea-posible/
+slug: "que-vas-a-hacer-para-que-sea-posible"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7930"
+originUrl: "https://prixline.blog/2013/12/31/que-vas-a-hacer-para-que-sea-posible/"
 categories:
-  - formacion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - estudiar
-  - formacion
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Un laberinto de emociones: Desde este último post del año os animo a la ACCIÓN y para ello comparto con vosotros uno de mis textos favoritos: Todo lo mejor para el 2014."
 ---
 

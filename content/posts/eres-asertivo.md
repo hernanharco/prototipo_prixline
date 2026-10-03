@@ -2,18 +2,18 @@
 id: 8473
 title: "¿Eres asertivo?"
 date: 2014-02-26T12:36:52
-slug: eres-asertivo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8473
-originUrl: https://prixline.blog/2014/02/26/eres-asertivo/
+slug: "eres-asertivo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8473"
+originUrl: "https://prixline.blog/2014/02/26/eres-asertivo/"
 categories:
-  - formacion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - autoaprendizaje
-  - b83066696
-  - prixline
-  - recursos
+  - "autoaprendizaje"
+  - "b83066696"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Un laberinto de emociones: Aquí os dejo un cuestionario que os orientará sobre vuestro nivel de asertividad. Se expone una situación concreta y las posibles respuestas son: SI, A VECES, NO. Ves anotando en cada situación la respuesta que das. En caso de tener que exponer una queja o una reclamación, lo&hellip;"
 ---
 

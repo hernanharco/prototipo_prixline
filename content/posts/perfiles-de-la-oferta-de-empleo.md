@@ -2,21 +2,21 @@
 id: 9998
 title: "Perfiles de la oferta de&nbsp;empleo."
 date: 2014-12-19T10:01:34
-slug: perfiles-de-la-oferta-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9998
-originUrl: https://prixline.blog/2014/12/19/perfiles-de-la-oferta-de-empleo/
+slug: "perfiles-de-la-oferta-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9998"
+originUrl: "https://prixline.blog/2014/12/19/perfiles-de-la-oferta-de-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Aquí los tienes todos: Ajustadores y operadores de máquinas-herramienta. Animadores de tiempo libre. Auxiliares de enfermería. Ayudantes de cocina. Cajeros y reponedores de comercio. Camareros. Cocineros. Conductores de vehículos para el transporte urbano o por carretera. Desarrolladores de videojuegos. Directores comerciales, de investigación y desarrollo. Diseñadores gráficos y multimedia. Empleados administrativos. Empleados administrativos comerciales. Empleados [&hellip;]"
 ---
 

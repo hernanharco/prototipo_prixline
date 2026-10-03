@@ -2,13 +2,13 @@
 id: 11531
 title: "Consejos y errores más frecuentes a la hora de elaborar un&nbsp;Currículum"
 date: 2016-09-23T14:21:51
-slug: consejos-y-errores-mas-frecuentes-a-la-hora-de-elaborar-un-curriculum
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11531
-originUrl: https://prixline.blog/2016/09/23/consejos-y-errores-mas-frecuentes-a-la-hora-de-elaborar-un-curriculum/
+slug: "consejos-y-errores-mas-frecuentes-a-la-hora-de-elaborar-un-curriculum"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11531"
+originUrl: "https://prixline.blog/2016/09/23/consejos-y-errores-mas-frecuentes-a-la-hora-de-elaborar-un-curriculum/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Estás pensando en hacer un C.V pero no sabes cómo enfocarlo?A continuación,te hacemos algunas recomendaciones y te contamos los errores más frecuentes que se cometen a la hora de elaborarlo. El currículum es nuestra carta de presentación. Su finalidad es conseguir una entrevista y posteriormente, un trabajo que&hellip;"
 ---
 

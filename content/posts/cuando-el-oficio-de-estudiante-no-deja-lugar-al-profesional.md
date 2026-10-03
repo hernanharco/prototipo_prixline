@@ -2,13 +2,13 @@
 id: 11500
 title: "Cuando el oficio de “estudiante no deja lugar al&nbsp;profesional”"
 date: 2016-09-10T13:16:58
-slug: cuando-el-oficio-de-estudiante-no-deja-lugar-al-profesional
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11500
-originUrl: https://prixline.blog/2016/09/10/cuando-el-oficio-de-estudiante-no-deja-lugar-al-profesional/
+slug: "cuando-el-oficio-de-estudiante-no-deja-lugar-al-profesional"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11500"
+originUrl: "https://prixline.blog/2016/09/10/cuando-el-oficio-de-estudiante-no-deja-lugar-al-profesional/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Durante la formación académica o reglada TODAS las actividades están pautadas de antemano por otros, los profesores, no se tiene ninguna posibilidad de intervención sobre los Temas a impartir, Libros que se van a leer y mucho menos en “cómo se va a aprender”. Es así, como se pasan&hellip;"
 ---
 

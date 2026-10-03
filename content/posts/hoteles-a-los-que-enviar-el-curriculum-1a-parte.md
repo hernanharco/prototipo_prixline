@@ -2,13 +2,13 @@
 id: 10426
 title: "Hoteles a los que enviar el currículum (1ª&nbsp;parte)"
 date: 2015-05-20T15:57:09
-slug: hoteles-a-los-que-enviar-el-curriculum-1a-parte
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10426
-originUrl: https://prixline.blog/2015/05/20/hoteles-a-los-que-enviar-el-curriculum-1a-parte/
+slug: "hoteles-a-los-que-enviar-el-curriculum-1a-parte"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10426"
+originUrl: "https://prixline.blog/2015/05/20/hoteles-a-los-que-enviar-el-curriculum-1a-parte/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Se acerca la temporada alta y los hoteles están cerrando sus plantillas para la temporada de verano. Estos son algunos enlaces de Hoteles y cadenas hoteleras en las que se puede dejar el currículum online para optar a cubrir puestos de diverso tipo: Camareros, cocineros, camarera de piso, recepcionistas, animadores,&hellip;"
 ---
 

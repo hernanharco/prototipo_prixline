@@ -2,21 +2,21 @@
 id: 6296
 title: "El sutil arte de cometer&nbsp;autosabotaje"
 date: 2013-09-19T12:51:58
-slug: el-sutil-arte-de-cometer-autosabotaje
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6296
-originUrl: https://prixline.blog/2013/09/19/el-sutil-arte-de-cometer-autosabotaje/
+slug: "el-sutil-arte-de-cometer-autosabotaje"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6296"
+originUrl: "https://prixline.blog/2013/09/19/el-sutil-arte-de-cometer-autosabotaje/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - autoaprendizaje
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "autoaprendizaje"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on cesarpiqueras: Creo que las limitaciones del ser humano están mucho más en su mente que en la realidad que habita. A veces pienso que las personas somos especialistas en construir cárceles, meternos dentro y después tirar la llave fuera. Algunas personas viven toda su vida encerradas dentro de una de esas cárceles&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11467
 title: "¿Donde buscar libros electrónicos gratuitos y&nbsp;legales?"
 date: 2016-08-22T19:19:47
-slug: donde-buscar-libros-electronicos-gratuitos-y-legales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11467
-originUrl: https://prixline.blog/2016/08/22/donde-buscar-libros-electronicos-gratuitos-y-legales/
+slug: "donde-buscar-libros-electronicos-gratuitos-y-legales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11467"
+originUrl: "https://prixline.blog/2016/08/22/donde-buscar-libros-electronicos-gratuitos-y-legales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Aunque no lo creas hay un montón de libros que los autores ponen a disposición del público de manera gratuita y que puedes descargar Hay miles de libros bajo licencias Creative Commons, su problema es la amplia dispersión de estos contenidos Para que sea más fácil hacer una&hellip;"
 ---
 

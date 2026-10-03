@@ -2,13 +2,13 @@
 id: 11572
 title: "Cómo construir una relación sólida con el nuevo jefe. "
 date: 2016-10-13T16:07:11
-slug: como-construir-una-relacion-solida-con-el-nuevo-jefe
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11572
-originUrl: https://prixline.blog/2016/10/13/como-construir-una-relacion-solida-con-el-nuevo-jefe/
+slug: "como-construir-una-relacion-solida-con-el-nuevo-jefe"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11572"
+originUrl: "https://prixline.blog/2016/10/13/como-construir-una-relacion-solida-con-el-nuevo-jefe/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Venga va, pongámonos a soñar y soñemos con que por fin te quitan de encima el paquete de jefe que tienes y te ponen de un día para otro uno nuevo. ¿Qué hacemos? ¿Cambiamos el chip a la primera y volvemos a engrasar la maquinaria?&hellip;"
 ---
 

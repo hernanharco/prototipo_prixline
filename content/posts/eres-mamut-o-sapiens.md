@@ -2,13 +2,13 @@
 id: 16081
 title: "¿Eres Mamut o&nbsp;Sapiens?"
 date: 2020-11-02T09:49:47
-slug: eres-mamut-o-sapiens
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16081
-originUrl: https://prixline.blog/2020/11/02/eres-mamut-o-sapiens/
+slug: "eres-mamut-o-sapiens"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16081"
+originUrl: "https://prixline.blog/2020/11/02/eres-mamut-o-sapiens/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Photo by Sheku Koroma on Pexels.com “Nos hallamos en el umbral tanto del cielo como del infierno, moviéndonos nerviosamente entre el portal de uno y … ¿Eres Mamut o Sapiens? ¿Quién eres? ¿Cuáles son tus fortalezas? ¿Cuáles son tus debilidades? ¿Cómo transformarlas? Son algunas de las preguntas que en estos momentos de confinamientos físico y [&hellip;]"
 ---
 

@@ -2,13 +2,13 @@
 id: 11432
 title: "¿Confías?"
 date: 2016-07-25T16:18:01
-slug: confias
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11432
-originUrl: https://prixline.blog/2016/07/25/confias/
+slug: "confias"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11432"
+originUrl: "https://prixline.blog/2016/07/25/confias/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on merceroura: ¿Confías en ti mismo? ¿confías en tus posibilidades de convertirte en la persona que sueñas ser? si no crees en ti, en tu talento y tu capacidad para seguir el camino que deseas, es poco probable llegar al destino que planeas… Has conseguido mucho hasta ahora, mira a tu alrededor y&hellip;"
 ---
 

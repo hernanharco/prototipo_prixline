@@ -2,13 +2,13 @@
 id: 10421
 title: "Recomendaciones para la Búsqueda Activa de&nbsp;Empleo"
 date: 2015-05-14T15:25:01
-slug: recomendaciones-para-la-busqueda-activa-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10421
-originUrl: https://prixline.blog/2015/05/14/recomendaciones-para-la-busqueda-activa-de-empleo/
+slug: "recomendaciones-para-la-busqueda-activa-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10421"
+originUrl: "https://prixline.blog/2015/05/14/recomendaciones-para-la-busqueda-activa-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: AVANZA LABORAL View original post"
 ---
 

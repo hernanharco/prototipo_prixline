@@ -2,13 +2,13 @@
 id: 12331
 title: "¿Querés encontrar trabajo? ¿Querés vender? Escribí un blog. Parte&nbsp;I"
 date: 2018-08-15T19:58:30
-slug: queres-encontrar-trabajo-queres-vender-escribi-un-blog-parte-i
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12331
-originUrl: https://prixline.blog/2018/08/15/queres-encontrar-trabajo-queres-vender-escribi-un-blog-parte-i/
+slug: "queres-encontrar-trabajo-queres-vender-escribi-un-blog-parte-i"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12331"
+originUrl: "https://prixline.blog/2018/08/15/queres-encontrar-trabajo-queres-vender-escribi-un-blog-parte-i/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: https://www.youtube.com/watch?v=ySvMnOIFhhE ¡Hola! cuánta verdad hay en esto de que caminando se hace camino. Cuando comencé a darle forma a lo que quiero decir en este video se me fueron abriendo tantos caminos!!! y la esencia de lo que me quedó es decirle a los profesionales de cualquier disciplina que&hellip;"
 ---
 

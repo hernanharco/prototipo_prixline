@@ -2,13 +2,13 @@
 id: 9039
 title: "Yo, presidente"
 date: 2014-05-27T20:17:09
-slug: yo-presidente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9039
-originUrl: https://prixline.blog/2014/05/27/yo-presidente/
+slug: "yo-presidente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9039"
+originUrl: "https://prixline.blog/2014/05/27/yo-presidente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El blog de Rafa Ferrer: Después de unas semanas sin escribir y aprovechando la estela de las elecciones europeas celebradas el pasado fin de semana, por fin me he animado a juntar unas pocas letras. No pretendo hablar de política, asunto sensible donde los haya. Tampoco de economía, ni de trabajo, ni de&hellip;"
 ---
 

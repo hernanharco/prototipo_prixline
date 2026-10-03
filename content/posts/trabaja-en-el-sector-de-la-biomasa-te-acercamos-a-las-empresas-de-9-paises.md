@@ -2,22 +2,22 @@
 id: 10563
 title: "Trabaja en el sector de la biomasa: Te acercamos a las empresas de 9&nbsp;países."
 date: 2015-07-15T12:22:12
-slug: trabaja-en-el-sector-de-la-biomasa-te-acercamos-a-las-empresas-de-9-paises
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10563
-originUrl: https://prixline.blog/2015/07/15/trabaja-en-el-sector-de-la-biomasa-te-acercamos-a-las-empresas-de-9-paises/
+slug: "trabaja-en-el-sector-de-la-biomasa-te-acercamos-a-las-empresas-de-9-paises"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10563"
+originUrl: "https://prixline.blog/2015/07/15/trabaja-en-el-sector-de-la-biomasa-te-acercamos-a-las-empresas-de-9-paises/"
 categories:
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - formacion
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "formacion"
+  - "prixline"
+  - "recursos"
 excerpt: "Mainfor en colaboración con la Universidad Rey Juan Carlos y más de 40 empresas de España, Argentina, Chile, Colombia, Honduras, México, Perú, Costa Rica y República Dominicana ha desarrollado un ambicioso programa formativo internacional en el sector de la Biomasa enfocado en la formación práctica y la empleabilidad de jóvenes titulados. El programa formativo se desarrolla de manera [&hellip;]"
 ---
 

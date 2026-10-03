@@ -2,13 +2,13 @@
 id: 12052
 title: "Becas Fundación Amancio&nbsp;Ortega"
 date: 2017-09-27T20:53:42
-slug: becas-fundacion-amancio-ortega
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12052
-originUrl: https://prixline.blog/2017/09/27/becas-fundacion-amancio-ortega/
+slug: "becas-fundacion-amancio-ortega"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12052"
+originUrl: "https://prixline.blog/2017/09/27/becas-fundacion-amancio-ortega/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: 500 Becas para estudiar Bachiller en Canadá o en Estados Unidos El programa de Becas de la Fundación Amancio Ortega tiene el objetivo de facilitar el aprendizaje del inglés y la inmersión en la cultura extranjera a jóvenes de institutos y colegios españoles durante un año académico. El&hellip;"
 ---
 

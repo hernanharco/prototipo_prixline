@@ -1,22 +1,22 @@
 ---
 id: 5544
-title: El plan B
+title: "El plan B"
 date: 2013-08-19T08:47:24
-slug: el-plan-b
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5544
-originUrl: https://prixline.blog/2013/08/19/el-plan-b/
+slug: "el-plan-b"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5544"
+originUrl: "https://prixline.blog/2013/08/19/el-plan-b/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prixline
-  - recursos
-  - Trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on La que has liado: En todo laberinto siempre hay una salida. Es cierto, cuando todo parece perdido y estamos a punto de quemar las naves, si tan solo nos bajaramos un instante del mundo, nos daríamos cuenta que todavía nos queda un conejo en la chistera, o un as en la manga&hellip;"
 ---
 

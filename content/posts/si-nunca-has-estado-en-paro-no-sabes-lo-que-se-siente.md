@@ -2,23 +2,23 @@
 id: 6409
 title: "Si nunca has estado en paro, no sabes lo que se&nbsp;siente"
 date: 2013-09-24T09:36:14
-slug: si-nunca-has-estado-en-paro-no-sabes-lo-que-se-siente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6409
-originUrl: https://prixline.blog/2013/09/24/si-nunca-has-estado-en-paro-no-sabes-lo-que-se-siente/
+slug: "si-nunca-has-estado-en-paro-no-sabes-lo-que-se-siente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6409"
+originUrl: "https://prixline.blog/2013/09/24/si-nunca-has-estado-en-paro-no-sabes-lo-que-se-siente/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on plandempleo: En mi etapa de orientadora esa frase sobrevolaba la mayoría de las entrevistas que realizaba. Ahora, hoy por hoy, esa frase es de lo más habitual no sólo en mi vida sino en la vida de muchas personas. Estar en desempleo genera una espiral de pensamientos negativos, confusos y de culpa&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11230
 title: "Lo mejor para la autoestima es el&nbsp;té"
 date: 2016-04-19T12:28:20
-slug: lo-mejor-para-la-autoestima-es-el-te
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11230
-originUrl: https://prixline.blog/2016/04/19/lo-mejor-para-la-autoestima-es-el-te/
+slug: "lo-mejor-para-la-autoestima-es-el-te"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11230"
+originUrl: "https://prixline.blog/2016/04/19/lo-mejor-para-la-autoestima-es-el-te/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

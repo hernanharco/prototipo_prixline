@@ -2,22 +2,22 @@
 id: 9123
 title: "Consejos de un Padre para la Felicidad de su&nbsp;Hijo."
 date: 2014-06-16T20:51:38
-slug: consejos-de-un-padre-para-la-felicidad-de-su-hijo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9123
-originUrl: https://prixline.blog/2014/06/16/consejos-de-un-padre-para-la-felicidad-de-su-hijo/
+slug: "consejos-de-un-padre-para-la-felicidad-de-su-hijo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9123"
+originUrl: "https://prixline.blog/2014/06/16/consejos-de-un-padre-para-la-felicidad-de-su-hijo/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - opinion
-  - opiniones
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "opinion"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Attack Mars by NeuroMars: Jackson Brown es un padre preocupado por la felicidad de su hijo y por ello le escribió estos “consejos” cuando este se fue a estudiar a la Universidad, lejos de su casa. Su hijo decidió fotocopiarlos y los distribuyó entre sus compañeros. Los mensajes tuvieron tanto éxito, que&hellip;"
 ---
 

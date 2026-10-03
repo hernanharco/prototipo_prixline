@@ -2,13 +2,13 @@
 id: 10389
 title: "Cambios en la forma de buscar&nbsp;trabajo"
 date: 2015-05-05T17:17:15
-slug: cambios-en-la-forma-de-buscar-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10389
-originUrl: https://prixline.blog/2015/05/05/cambios-en-la-forma-de-buscar-trabajo/
+slug: "cambios-en-la-forma-de-buscar-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10389"
+originUrl: "https://prixline.blog/2015/05/05/cambios-en-la-forma-de-buscar-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Ya hace tiempo que lo llevamos diciendo, la forma de buscar trabajo ha cambiado de manera sustancial y nos toca adaptarnos a esos cambios para que no se nos escape ninguna oportunidad. Se viene diciendo que el 80% de las ofertas de empleo no salen a la luz, aunque aquí podríamos&hellip;"
 ---
 

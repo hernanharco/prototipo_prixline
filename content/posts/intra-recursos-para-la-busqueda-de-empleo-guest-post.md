@@ -2,13 +2,13 @@
 id: 11515
 title: "Intra recursos para la búsqueda de empleo | Guest&nbsp;post"
 date: 2016-09-16T10:31:40
-slug: intra-recursos-para-la-busqueda-de-empleo-guest-post
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11515
-originUrl: https://prixline.blog/2016/09/16/intra-recursos-para-la-busqueda-de-empleo-guest-post/
+slug: "intra-recursos-para-la-busqueda-de-empleo-guest-post"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11515"
+originUrl: "https://prixline.blog/2016/09/16/intra-recursos-para-la-busqueda-de-empleo-guest-post/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Ana Rubio vuelve a colaborar en plandempleo aportándonos su experiencia en el campo del empleo y la orientación con este artículo elaborado de acuerdo a sus propias vivencias y al aprendizaje extraído de las mismas y de su mejora constante, poniendo el foco en los recursos internos de cada uno, en nuestras&hellip;"
 ---
 

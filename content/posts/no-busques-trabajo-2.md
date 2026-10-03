@@ -2,20 +2,20 @@
 id: 4375
 title: "&#8220;No busques trabajo&#8221;"
 date: 2013-05-26T13:18:37
-slug: no-busques-trabajo-2
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4375
-originUrl: https://prixline.blog/2013/05/26/no-busques-trabajo-2/
+slug: "no-busques-trabajo-2"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4375"
+originUrl: "https://prixline.blog/2013/05/26/no-busques-trabajo-2/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "Originally posted on Eternity: Genial artículo de Risto Mejide, publicista español.No tiene desperdicio alguno. No busques trabajo. Así te lo digo. No gastes ni tu tiempo ni tu dinero, de verdad que no vale la pena. Tal como está el patio, con uno de cada dos jóvenes y casi uno de cada tres adultos en&hellip;"
 ---
 

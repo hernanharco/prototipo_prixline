@@ -3,12 +3,12 @@ id: 27246
 title: "PRIXLINE ✅ Repoblar España 🇪🇸 Muñana un pueblo 🏡 de Ávila 👍&nbsp;😃￼"
 date: 2022-02-02T15:41:17
 slug: "prixline-%e2%9c%85-repoblar-espana-%f0%9f%87%aa%f0%9f%87%b8-munana-un-pueblo-%f0%9f%8f%a1-de-avila-%f0%9f%91%8d-%f0%9f%98%83%ef%bf%bc"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/27246
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/27246"
 originUrl: "https://prixline.blog/2022/02/02/prixline-%e2%9c%85-repoblar-espana-%f0%9f%87%aa%f0%9f%87%b8-munana-un-pueblo-%f0%9f%8f%a1-de-avila-%f0%9f%91%8d-%f0%9f%98%83%ef%bf%bc/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

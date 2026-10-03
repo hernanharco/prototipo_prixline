@@ -2,13 +2,13 @@
 id: 11264
 title: "¿Existe futuro en la reinvención&nbsp;profesional?"
 date: 2016-05-10T11:11:46
-slug: existe-futuro-en-la-reinvencion-profesional
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11264
-originUrl: https://prixline.blog/2016/05/10/existe-futuro-en-la-reinvencion-profesional/
+slug: "existe-futuro-en-la-reinvencion-profesional"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11264"
+originUrl: "https://prixline.blog/2016/05/10/existe-futuro-en-la-reinvencion-profesional/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Ayer acudí al acto de entrega de los títulos de Certificados de Profesionalidad que organizó el INAEM. Acudí acompañando a una persona muy importante para mi, pero fue la excusa perfecta para reflexionar sobre eso de la reinvención profesional. En ese acto había muchas personas, bueno, en concreto unas 110, una&hellip;"
 ---
 

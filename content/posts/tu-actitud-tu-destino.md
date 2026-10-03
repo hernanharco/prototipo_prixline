@@ -2,21 +2,21 @@
 id: 9209
 title: "Tu actitud, Tu&nbsp;destino"
 date: 2014-07-08T18:52:27
-slug: tu-actitud-tu-destino
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9209
-originUrl: https://prixline.blog/2014/07/08/tu-actitud-tu-destino/
+slug: "tu-actitud-tu-destino"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9209"
+originUrl: "https://prixline.blog/2014/07/08/tu-actitud-tu-destino/"
 categories:
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - prix-line
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

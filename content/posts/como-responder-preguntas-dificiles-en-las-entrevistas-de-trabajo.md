@@ -2,13 +2,13 @@
 id: 11763
 title: "Cómo responder preguntas difíciles en las entrevistas de&nbsp;trabajo"
 date: 2017-02-23T18:13:37
-slug: como-responder-preguntas-dificiles-en-las-entrevistas-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11763
-originUrl: https://prixline.blog/2017/02/23/como-responder-preguntas-dificiles-en-las-entrevistas-de-trabajo/
+slug: "como-responder-preguntas-dificiles-en-las-entrevistas-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11763"
+originUrl: "https://prixline.blog/2017/02/23/como-responder-preguntas-dificiles-en-las-entrevistas-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Hoy por hoy, tener una entrevista de trabajo es casi un éxito en sí mismo. La complicación de cumplir requisitos en las ofertas y la alta competencia hace que el llegar a la entrevista de trabajo sea casi una carrera de fondo. Por ello, es crucial enfrentarnos a la entrevista con&hellip;"
 ---
 

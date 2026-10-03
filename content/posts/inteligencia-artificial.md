@@ -2,13 +2,13 @@
 id: 12274
 title: "Charla sobre Inteligencia&nbsp;Artificial"
 date: 2018-06-19T09:22:57
-slug: inteligencia-artificial
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12274
-originUrl: https://prixline.blog/2018/06/19/inteligencia-artificial/
+slug: "inteligencia-artificial"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12274"
+originUrl: "https://prixline.blog/2018/06/19/inteligencia-artificial/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Nos la ofrece María Borbonés (IBM Watson Cloud and Data Platform IT Specialist – Aplicaciones cognitivas con IBM Watson) IBM apuesta por facilitar el acceso al apasionante mundo de la inteligencia artificial a todo tipo de perfiles desde desarrolladores a científico de datos gracias a IBM Watson. En esta charla me gustaría enseñaros en qué [&hellip;]"
 ---
 

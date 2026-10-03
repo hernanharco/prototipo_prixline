@@ -2,13 +2,13 @@
 id: 13986
 title: "Meditaciones ante la&nbsp;pandemia"
 date: 2020-03-29T15:16:04
-slug: meditaciones-ante-la-pandemia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13986
-originUrl: https://prixline.blog/2020/03/29/meditaciones-ante-la-pandemia/
+slug: "meditaciones-ante-la-pandemia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13986"
+originUrl: "https://prixline.blog/2020/03/29/meditaciones-ante-la-pandemia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Decía Marco Aurelio, apodado el Sabio o el Filósofo, emperador del Imperio romano (121-180 d.C.) que somos mas fuertes de lo que creemos. La prueba … Meditaciones ante la pandemia"
 ---
 

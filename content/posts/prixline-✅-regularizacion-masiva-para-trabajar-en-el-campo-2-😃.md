@@ -3,12 +3,12 @@ id: 14062
 title: "PRIXLINE ✅ Regularización MASIVA para TRABAJAR en el CAMPO (2)&nbsp;😃"
 date: 2020-04-10T18:02:21
 slug: "prixline-%e2%9c%85-regularizacion-masiva-para-trabajar-en-el-campo-2-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14062
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14062"
 originUrl: "https://prixline.blog/2020/04/10/prixline-%e2%9c%85-regularizacion-masiva-para-trabajar-en-el-campo-2-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

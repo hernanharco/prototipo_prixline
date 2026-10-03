@@ -2,13 +2,13 @@
 id: 10010
 title: "No hay familia&nbsp;perfecta&#8230;"
 date: 2014-12-24T13:10:25
-slug: no-hay-familia-perfecta
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10010
-originUrl: https://prixline.blog/2014/12/24/no-hay-familia-perfecta/
+slug: "no-hay-familia-perfecta"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10010"
+originUrl: "https://prixline.blog/2014/12/24/no-hay-familia-perfecta/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: En la cola de la parada de Pepe en Vilassar, hoy bien tempranito, hay muchas cosas que preparar. Al final me ha pillado un poco el carro, un poco bastante, para que me voy a engañar, pero todavia hay tiempo. Estoy repasando las cosas que&hellip;"
 ---
 

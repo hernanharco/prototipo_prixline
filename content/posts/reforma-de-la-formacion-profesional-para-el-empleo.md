@@ -2,13 +2,13 @@
 id: 10375
 title: "Reforma de la Formación Profesional para el&nbsp;Empleo"
 date: 2015-04-30T09:09:36
-slug: reforma-de-la-formacion-profesional-para-el-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10375
-originUrl: https://prixline.blog/2015/04/30/reforma-de-la-formacion-profesional-para-el-empleo/
+slug: "reforma-de-la-formacion-profesional-para-el-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10375"
+originUrl: "https://prixline.blog/2015/04/30/reforma-de-la-formacion-profesional-para-el-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : De aplicación a todas las Administraciones Públicas en todo el territorio nacional El Pleno del Congreso de los Diputados aprobó el pasado jueves el Real Decreto-Ley para la reforma urgente del Sistema de Formación Profesional para el Empleo en el ámbito laboral. La norma aprobada tiene como objetivos&hellip;"
 ---
 

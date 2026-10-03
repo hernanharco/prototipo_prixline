@@ -2,13 +2,13 @@
 id: 11450
 title: "Busco empleo en&nbsp;Valencia"
 date: 2016-08-15T10:31:56
-slug: busco-empleo-en-valencia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11450
-originUrl: https://prixline.blog/2016/08/15/busco-empleo-en-valencia/
+slug: "busco-empleo-en-valencia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11450"
+originUrl: "https://prixline.blog/2016/08/15/busco-empleo-en-valencia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Actualmente estoy trabajando tan solo por un mes de sustitución. Movido por mi motivación de no cesar en encontrar un empleo digno y con mayor estabilidad en el tiempo, sigo demandando ayuda por este medio, yo no me paro. Busco empleo en Valencia. El boca a boca ayuda mucho, cualquier&hellip;"
 ---
 

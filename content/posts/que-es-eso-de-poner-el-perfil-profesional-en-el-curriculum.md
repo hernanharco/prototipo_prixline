@@ -2,19 +2,19 @@
 id: 8627
 title: "¿Qué es eso de poner el perfil profesional en el&nbsp;curriculum?"
 date: 2014-03-18T09:08:46
-slug: que-es-eso-de-poner-el-perfil-profesional-en-el-curriculum
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8627
-originUrl: https://prixline.blog/2014/03/18/que-es-eso-de-poner-el-perfil-profesional-en-el-curriculum/
+slug: "que-es-eso-de-poner-el-perfil-profesional-en-el-curriculum"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8627"
+originUrl: "https://prixline.blog/2014/03/18/que-es-eso-de-poner-el-perfil-profesional-en-el-curriculum/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - prixline
-  - recursos
+  - "empleo"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com A la hora de hacer el curriculum solemos ser poco creativos en general. Tendemos, yo incluida, al sota, caballo y rey, es decir, datos personales, formación y experiencia. Hacer un curriculum con otra estructura o cambiando algo de esto parece que da miedo, es como si hacerlo diferente fuera lo&hellip;"
 ---
 

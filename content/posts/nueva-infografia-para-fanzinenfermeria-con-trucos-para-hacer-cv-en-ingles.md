@@ -2,13 +2,13 @@
 id: 12387
 title: "Nueva infografía para #FanzinEnfermería con trucos para hacer CV en&nbsp;inglés"
 date: 2018-10-03T09:42:28
-slug: nueva-infografia-para-fanzinenfermeria-con-trucos-para-hacer-cv-en-ingles
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12387
-originUrl: https://prixline.blog/2018/10/03/nueva-infografia-para-fanzinenfermeria-con-trucos-para-hacer-cv-en-ingles/
+slug: "nueva-infografia-para-fanzinenfermeria-con-trucos-para-hacer-cv-en-ingles"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12387"
+originUrl: "https://prixline.blog/2018/10/03/nueva-infografia-para-fanzinenfermeria-con-trucos-para-hacer-cv-en-ingles/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Muchas son las ocasiones en las que se habla de la gran cantidad de profesionales de la enfermería que tienen que ir al extranjero a ganarse la vida. Puede que no hayas tenido suerte en España y te estés planteando una escapadita a Inglaterra a&hellip;"
 ---
 

@@ -2,20 +2,20 @@
 id: 10047
 title: "Tu nuevo paradigma para la búsqueda de&nbsp;empleo"
 date: 2015-01-07T14:29:32
-slug: tu-nuevo-paradigma-para-la-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10047
-originUrl: https://prixline.blog/2015/01/07/tu-nuevo-paradigma-para-la-busqueda-de-empleo/
+slug: "tu-nuevo-paradigma-para-la-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10047"
+originUrl: "https://prixline.blog/2015/01/07/tu-nuevo-paradigma-para-la-busqueda-de-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - prix-line
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com Con la llegada del año nuevo, llegan los buenos propósitos, las listas de cosas que voy a hacer sí o sí, los cambios, los gimnasios, el dejar de fumar… Y cómo no, los cambios que vamos a poner en marcha para buscar trabajo. Por eso vamos a plantear un nuevo&hellip;"
 ---
 

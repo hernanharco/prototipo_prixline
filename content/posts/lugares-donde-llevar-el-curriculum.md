@@ -2,23 +2,23 @@
 id: 5960
 title: "Lugares donde llevar el&nbsp;Currículum"
 date: 2013-09-06T09:05:20
-slug: lugares-donde-llevar-el-curriculum
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5960
-originUrl: https://prixline.blog/2013/09/06/lugares-donde-llevar-el-curriculum/
+slug: "lugares-donde-llevar-el-curriculum"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5960"
+originUrl: "https://prixline.blog/2013/09/06/lugares-donde-llevar-el-curriculum/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - practicas
+  - "empleo"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on AVANZA LABORAL: A los usuarios que me consultan, siempre les hago una comparación: “El curriculum es como la ropa interior” ¿Por qué digo esto? Cuando era pequeño, recuerdo a mi madre decir una de sus frases lapidarias “hay que llevar la ropa interior en perfecto estado porque no sabes que te puede&hellip;"
 ---
 

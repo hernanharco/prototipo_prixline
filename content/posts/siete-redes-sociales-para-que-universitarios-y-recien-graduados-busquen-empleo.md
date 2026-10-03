@@ -2,24 +2,24 @@
 id: 4560
 title: "Siete redes sociales para que universitarios y recién graduados busquen&nbsp;empleo"
 date: 2013-06-06T16:54:16
-slug: siete-redes-sociales-para-que-universitarios-y-recien-graduados-busquen-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4560
-originUrl: https://prixline.blog/2013/06/06/siete-redes-sociales-para-que-universitarios-y-recien-graduados-busquen-empleo/
+slug: "siete-redes-sociales-para-que-universitarios-y-recien-graduados-busquen-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4560"
+originUrl: "https://prixline.blog/2013/06/06/siete-redes-sociales-para-que-universitarios-y-recien-graduados-busquen-empleo/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - practicas
+  - "empleo"
+  - "gratis"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on Orientadores Palencia: Algunas redes sociales se han creado para ayudar a los jóvenes a contactar con empresas y mejorar las posibilidades de encontrar un puesto de trabajo Autor: Por AZUCENA GARCÍA / Fecha de publicación: 5 de junio de 2013 – Imagen: austinevan – Cuando la tasa de paro juvenil continúa en&hellip;"
 ---
 

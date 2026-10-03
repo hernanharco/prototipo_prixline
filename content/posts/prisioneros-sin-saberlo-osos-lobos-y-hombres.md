@@ -2,13 +2,13 @@
 id: 12224
 title: "Prisioneros sin saberlo : osos, lobos y&nbsp;hombres"
 date: 2018-04-22T11:50:39
-slug: prisioneros-sin-saberlo-osos-lobos-y-hombres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12224
-originUrl: https://prixline.blog/2018/04/22/prisioneros-sin-saberlo-osos-lobos-y-hombres/
+slug: "prisioneros-sin-saberlo-osos-lobos-y-hombres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12224"
+originUrl: "https://prixline.blog/2018/04/22/prisioneros-sin-saberlo-osos-lobos-y-hombres/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Vivo y Coleando Ayer visité un zoo bello, inquietante y deprimente. El Zoo La Grandera en Cangas de Onís (Asturias). Bello porque en un entorno natural boscoso contaba con preciosas aves rapaces, canguros impasibles, linces calmosos y lobos inquietantes, entre otras decenas de especies, al alcance de la vista y casi del tacto (fruto del [&hellip;]"
 ---
 

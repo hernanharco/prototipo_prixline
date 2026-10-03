@@ -2,19 +2,19 @@
 id: 6916
 title: "Cómo crear un CV 2.0 original para buscar&nbsp;empleo"
 date: 2013-10-13T18:17:56
-slug: como-crear-un-cv-2-0-original-para-buscar-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6916
-originUrl: https://prixline.blog/2013/10/13/como-crear-un-cv-2-0-original-para-buscar-empleo/
+slug: "como-crear-un-cv-2-0-original-para-buscar-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6916"
+originUrl: "https://prixline.blog/2013/10/13/como-crear-un-cv-2-0-original-para-buscar-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - prixline
-  - recursos
-  - Trabajo
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on Probando MUNDO: ¡La creatividad al poder! Llevo ya algún tiempo buscando empleo en el mundo del marketing online, social media, eventos… Y no hay manera, oye! Pero no me desanimo. La idea está en diferenciarse y crear una marca personal, algo que ya tengo casi dominado, porque con un poquito de creatividad he podido&hellip;"
 ---
 

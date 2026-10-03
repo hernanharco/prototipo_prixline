@@ -2,13 +2,13 @@
 id: 10444
 title: "Ven a mi lado para poder caminar&nbsp;juntos"
 date: 2015-05-23T15:07:16
-slug: ven-a-mi-lado-para-poder-caminar-juntos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10444
-originUrl: https://prixline.blog/2015/05/23/ven-a-mi-lado-para-poder-caminar-juntos/
+slug: "ven-a-mi-lado-para-poder-caminar-juntos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10444"
+originUrl: "https://prixline.blog/2015/05/23/ven-a-mi-lado-para-poder-caminar-juntos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

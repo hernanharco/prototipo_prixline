@@ -2,24 +2,24 @@
 id: 5012
 title: "Cursos online y gratuitos: La generación &#8216;social media&#8217; demanda conocimiento&nbsp;abierto"
 date: 2013-07-03T11:10:45
-slug: cursos-online-y-gratuitos-la-generacion-social-media-demanda-conocimiento-abierto
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5012
-originUrl: https://prixline.blog/2013/07/03/cursos-online-y-gratuitos-la-generacion-social-media-demanda-conocimiento-abierto/
+slug: "cursos-online-y-gratuitos-la-generacion-social-media-demanda-conocimiento-abierto"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5012"
+originUrl: "https://prixline.blog/2013/07/03/cursos-online-y-gratuitos-la-generacion-social-media-demanda-conocimiento-abierto/"
 categories:
-  - cursos
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - curso
-  - cursos
-  - estudiar
-  - formacion
-  - gratis
-  - prix-line
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "curso"
+  - "cursos"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on DirComtomía: Las nuevas fórmulas de autoaprendizaje son una tendencia en alza para 2013. Los cursos online abiertos y gratuitos están revolucionando la enseñanza y el boom de los MOOC (Massive Open Online Courses) está obligando a las universidades a replantear su modelo. Hace tiempo que sigo de cerca las ofertas formativa de cursos online y gratuitos, por las razones&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11600
 title: "Tengo trabajo ¿y&#8230;?"
 date: 2016-11-05T15:55:49
-slug: tengo-trabajo-y
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11600
-originUrl: https://prixline.blog/2016/11/05/tengo-trabajo-y/
+slug: "tengo-trabajo-y"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11600"
+originUrl: "https://prixline.blog/2016/11/05/tengo-trabajo-y/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: No voy a engañaros amigos lectores si algo me identifica siempre ha sido mi sinceridad y honestidad y el huir del autoengaño. Hoy soy feliz por este trabajo indefinido a media jornada, no me da para salir de la pobreza y ser independiente. Yo lo asemejo a comprar un viaje&hellip;"
 ---
 

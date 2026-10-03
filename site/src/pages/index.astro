@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import siteSettings from '../../../content/settings/site.json';
+
+const posts = await getCollection('posts');
+const courses = await getCollection('courses');
+const pages = await getCollection('pages');
+
+const firstPosts = posts
+  .slice()
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 5);
+const firstCourses = courses.slice(0, 5);
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Prixline — content collections proof</title>
+  </head>
+  <body>
+    <!-- TEMPORARY: T6 replaces this with the real home -->
+    <h1>Prixline</h1>
+    <p>{siteSettings.tagline}</p>
+
+    <section>
+      <h2>Collection counts</h2>
+      <ul>
+        <li>posts: {posts.length}</li>
+        <li>courses: {courses.length}</li>
+        <li>pages: {pages.length}</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>First 5 posts</h2>
+      <ol>
+        {
+          firstPosts.map((post) => (
+            <li>
+              <time datetime={post.data.date.toISOString()}>
+                {post.data.date.toISOString().slice(0, 10)}
+              </time>{' '}
+              — {post.data.title}
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    <section>
+      <h2>First 5 courses</h2>
+      <ol>
+        {firstCourses.map((course) => <li>{course.data.title}</li>)}
+      </ol>
+    </section>
+  </body>
+</html>

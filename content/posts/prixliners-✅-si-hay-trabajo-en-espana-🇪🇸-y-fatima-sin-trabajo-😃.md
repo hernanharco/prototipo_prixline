@@ -3,17 +3,17 @@ id: 13415
 title: "PRIXLINERs ✅ Si Hay Trabajo en España 🇪🇸 (y Fátima SIN Trabajo)&nbsp;😃"
 date: 2019-12-24T12:02:16
 slug: "prixliners-%e2%9c%85-si-hay-trabajo-en-espana-%f0%9f%87%aa%f0%9f%87%b8-y-fatima-sin-trabajo-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13415
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13415"
 originUrl: "https://prixline.blog/2019/12/24/prixliners-%e2%9c%85-si-hay-trabajo-en-espana-%f0%9f%87%aa%f0%9f%87%b8-y-fatima-sin-trabajo-%f0%9f%98%83/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - prixline
-  - trabajo
+  - "empleo"
+  - "opiniones"
+  - "prixline"
+  - "trabajo"
 excerpt: ""
 ---
 

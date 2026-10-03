@@ -2,13 +2,13 @@
 id: 10200
 title: "mindfulness y cerebro APLICADO AL&nbsp;RUNNING"
 date: 2015-02-19T15:16:42
-slug: mindfulness-y-cerebro-aplicado-al-running
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10200
-originUrl: https://prixline.blog/2015/02/19/mindfulness-y-cerebro-aplicado-al-running/
+slug: "mindfulness-y-cerebro-aplicado-al-running"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10200"
+originUrl: "https://prixline.blog/2015/02/19/mindfulness-y-cerebro-aplicado-al-running/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Inspiración al Talento: Para los runners suele ser un dilema qué hacer con la mente mientras corren. ¿Dónde pongo mi mente? ¿En la música de un equipo de audio, en los pensamientos que me llegan…? ¿Dónde? Una técnica en auge te ayuda a encontrar respuestas, disciplinar la mente, cansarte menos y&hellip;"
 ---
 

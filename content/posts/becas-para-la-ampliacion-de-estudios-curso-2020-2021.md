@@ -2,13 +2,13 @@
 id: 13571
 title: "Becas para la ampliación de estudios. Curso&nbsp;2020-2021."
 date: 2020-01-21T13:00:56
-slug: becas-para-la-ampliacion-de-estudios-curso-2020-2021
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13571
-originUrl: https://prixline.blog/2020/01/21/becas-para-la-ampliacion-de-estudios-curso-2020-2021/
+slug: "becas-para-la-ampliacion-de-estudios-curso-2020-2021"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13571"
+originUrl: "https://prixline.blog/2020/01/21/becas-para-la-ampliacion-de-estudios-curso-2020-2021/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Banco de España convoca 5 becas para la ampliación de estudios en el extranjero y para la obtención de titulaciones de másteres oficiales en España durante el curso académico 2020-2021. Se destinarán a financiar la ampliación de estudios sobre temas de economía, en especial sobre cuestiones relativas a teoría&hellip;"
 ---
 

@@ -3,12 +3,12 @@ id: 12420
 title: "Venir a España 🇪🇸 a TRABAJAR&nbsp;🇻🇪"
 date: 2018-11-05T14:48:08
 slug: "venir-a-espana-%f0%9f%87%aa%f0%9f%87%b8-a-trabajar-%f0%9f%87%bb%f0%9f%87%aa"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12420
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12420"
 originUrl: "https://prixline.blog/2018/11/05/venir-a-espana-%f0%9f%87%aa%f0%9f%87%b8-a-trabajar-%f0%9f%87%bb%f0%9f%87%aa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

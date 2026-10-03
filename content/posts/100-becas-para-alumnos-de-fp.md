@@ -2,13 +2,13 @@
 id: 10285
 title: "100 becas para alumnos de&nbsp;FP"
 date: 2015-03-18T15:51:28
-slug: 100-becas-para-alumnos-de-fp
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10285
-originUrl: https://prixline.blog/2015/03/18/100-becas-para-alumnos-de-fp/
+slug: "100-becas-para-alumnos-de-fp"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10285"
+originUrl: "https://prixline.blog/2015/03/18/100-becas-para-alumnos-de-fp/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para la red comercial de Telefónica Telefónica España ha anunciado este martes una convocatoria de cien becas para titulados de formación profesional de grado superior, para que puedan formarse en el área comercial e iniciar una trayectoria profesional en el mundo de las ventas. A esta convocatoria pueden&hellip;"
 ---
 

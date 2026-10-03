@@ -2,13 +2,13 @@
 id: 10590
 title: "Sólo una persona puede impedirte llegar muy&nbsp;alto"
 date: 2015-07-19T13:56:49
-slug: solo-una-persona-puede-impedirte-llegar-muy-alto-2
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10590
-originUrl: https://prixline.blog/2015/07/19/solo-una-persona-puede-impedirte-llegar-muy-alto-2/
+slug: "solo-una-persona-puede-impedirte-llegar-muy-alto-2"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10590"
+originUrl: "https://prixline.blog/2015/07/19/solo-una-persona-puede-impedirte-llegar-muy-alto-2/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

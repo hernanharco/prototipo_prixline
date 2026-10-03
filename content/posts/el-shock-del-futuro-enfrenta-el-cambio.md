@@ -2,13 +2,13 @@
 id: 14078
 title: "El «shock del futuro». Enfrenta el&nbsp;cambio."
 date: 2020-04-14T20:01:10
-slug: el-shock-del-futuro-enfrenta-el-cambio
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14078
-originUrl: https://prixline.blog/2020/04/14/el-shock-del-futuro-enfrenta-el-cambio/
+slug: "el-shock-del-futuro-enfrenta-el-cambio"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14078"
+originUrl: "https://prixline.blog/2020/04/14/el-shock-del-futuro-enfrenta-el-cambio/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "La pandemia del coronavirus será, lamentablemente, un hito en la historia, un «shock del futuro» que nos pone frente a multitud de cambios. El … El «shock del futuro». Enfrenta el cambio."
 ---
 

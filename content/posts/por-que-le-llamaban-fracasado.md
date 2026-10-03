@@ -2,13 +2,13 @@
 id: 12470
 title: "¿Por qué le llamaban&nbsp;fracasado?"
 date: 2018-12-28T12:28:03
-slug: por-que-le-llamaban-fracasado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12470
-originUrl: https://prixline.blog/2018/12/28/por-que-le-llamaban-fracasado/
+slug: "por-que-le-llamaban-fracasado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12470"
+originUrl: "https://prixline.blog/2018/12/28/por-que-le-llamaban-fracasado/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Puede que te sorprenda oír esto, pero el FRACASO no existe. El fracaso es simplemente la opinión que alguien cómo se deberían hacer ciertas cosas” decía Wayne Dyer. A ciertas edades, los seres humanos, nos dividen en dos. Entre aquellos que podríamos considerar como “normales”. Es decir,&hellip;"
 ---
 

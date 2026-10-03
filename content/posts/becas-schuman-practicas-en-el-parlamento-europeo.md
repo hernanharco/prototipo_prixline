@@ -2,13 +2,13 @@
 id: 16067
 title: "Becas Schuman. Prácticas en el Parlamento&nbsp;Europeo"
 date: 2020-11-01T10:36:59
-slug: becas-schuman-practicas-en-el-parlamento-europeo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16067
-originUrl: https://prixline.blog/2020/11/01/becas-schuman-practicas-en-el-parlamento-europeo/
+slug: "becas-schuman-practicas-en-el-parlamento-europeo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16067"
+originUrl: "https://prixline.blog/2020/11/01/becas-schuman-practicas-en-el-parlamento-europeo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Periodo de inscripción Del 01/11/2020 al 30/11/2020 Información El Parlamento Europeo ofrece dos periodos de prácticas dentro de su programa “Shuman … Becas Schuman. Prácticas en el Parlamento Europeo Para presentar una solicitud, debes solicitar tres becas como máximo y si eres preseleccionado, se te pedirá que aportes determinados documentos que acrediten que puedes ser seleccionado definitivamente; si [&hellip;]"
 ---
 

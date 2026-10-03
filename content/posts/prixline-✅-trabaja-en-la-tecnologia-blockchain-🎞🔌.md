@@ -3,12 +3,12 @@ id: 12437
 title: "PRIXLINE ✅ Trabaja en la tecnología #BLOCKCHAIN&nbsp;🎞🔌"
 date: 2018-11-21T14:27:38
 slug: "prixline-%e2%9c%85-trabaja-en-la-tecnologia-blockchain-%f0%9f%8e%9e%f0%9f%94%8c"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12437
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12437"
 originUrl: "https://prixline.blog/2018/11/21/prixline-%e2%9c%85-trabaja-en-la-tecnologia-blockchain-%f0%9f%8e%9e%f0%9f%94%8c/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

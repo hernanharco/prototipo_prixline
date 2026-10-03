@@ -2,19 +2,19 @@
 id: 8584
 title: "Los diez errores más comunes en una entrevista de&nbsp;trabajo."
 date: 2014-03-13T09:13:26
-slug: los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8584
-originUrl: https://prixline.blog/2014/03/13/los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo/
+slug: "los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8584"
+originUrl: "https://prixline.blog/2014/03/13/los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Me encanta esta infografía, porque resume de una manera muy gráfica (algo que es obvio, ya que es una infografía) los errores más comunes que cometemos ante una entrevista de trabajo. A destacar esta lista con los 10 errores más comunes: 1. Dar demasiadas explicaciones&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10693
 title: "Logro o Actitud: ¿Qué está impulsando nuestra&nbsp;carrera?"
 date: 2015-08-10T16:59:44
-slug: logro-o-actitud-que-esta-impulsando-nuestra-carrera
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10693
-originUrl: https://prixline.blog/2015/08/10/logro-o-actitud-que-esta-impulsando-nuestra-carrera/
+slug: "logro-o-actitud-que-esta-impulsando-nuestra-carrera"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10693"
+originUrl: "https://prixline.blog/2015/08/10/logro-o-actitud-que-esta-impulsando-nuestra-carrera/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “No evitéis a vuestros hijos las dificultades de la vida, enseñadles más bien a superarlas”. Louis Pasteur. ¿Quién no ha mirado hacía el pasado o recordando lo que denominamos “Tiempos felices o mejores”? Desde la perspectiva y más ahora con los&hellip;"
 ---
 

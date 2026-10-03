@@ -2,13 +2,13 @@
 id: 11904
 title: "3 maneras de encontrarte ¿estás&nbsp;preparado/a?"
 date: 2017-06-05T23:00:20
-slug: 3-maneras-de-encontrarte-estas-preparadoa
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11904
-originUrl: https://prixline.blog/2017/06/05/3-maneras-de-encontrarte-estas-preparadoa/
+slug: "3-maneras-de-encontrarte-estas-preparadoa"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11904"
+originUrl: "https://prixline.blog/2017/06/05/3-maneras-de-encontrarte-estas-preparadoa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: gratisography.com La búsqueda de candidatos en las redes sociales no es ciencia ficción…¡es realidad!… es presente. Ya sea para buscar posibles candidatos (por área de trabajo, área de estudio) o a veces para corroborar lo que se coloca en el Currículum Vitae. Te doy un ejemplo: María es Selectora de RRHH&hellip;"
 ---
 

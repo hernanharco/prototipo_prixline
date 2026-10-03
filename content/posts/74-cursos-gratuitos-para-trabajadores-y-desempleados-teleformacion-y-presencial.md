@@ -2,25 +2,25 @@
 id: 2969
 title: "74 Cursos Gratuitos para trabajadores y desempleados. (Teleformación y&nbsp;presencial)"
 date: 2013-03-01T06:48:12
-slug: 74-cursos-gratuitos-para-trabajadores-y-desempleados-teleformacion-y-presencial
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/2969
-originUrl: https://prixline.blog/2013/03/01/74-cursos-gratuitos-para-trabajadores-y-desempleados-teleformacion-y-presencial/
+slug: "74-cursos-gratuitos-para-trabajadores-y-desempleados-teleformacion-y-presencial"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/2969"
+originUrl: "https://prixline.blog/2013/03/01/74-cursos-gratuitos-para-trabajadores-y-desempleados-teleformacion-y-presencial/"
 categories:
-  - cursos
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas
-  - curso
-  - cursos
-  - estudiar
-  - formacion
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "becas"
+  - "curso"
+  - "cursos"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "La CEPYME al igual que en años anteriores participa en los planes de formación que mediante convocatoria anual financia el Servicio Público de Empleo Estatal (SEPE). A lo largo de estos últimos años han ido adaptando su oferta formativa a las actuales necesidades empresariales y del mercado laboral. El resultado ha sido ofertar un programa de gran [&hellip;]"
 ---
 

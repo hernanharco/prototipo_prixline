@@ -1,14 +1,14 @@
 ---
 id: 11129
-title: Pacta como puedas
+title: "Pacta como puedas"
 date: 2016-02-29T16:27:36
-slug: pacta-como-puedas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11129
-originUrl: https://prixline.blog/2016/02/29/pacta-como-puedas/
+slug: "pacta-como-puedas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11129"
+originUrl: "https://prixline.blog/2016/02/29/pacta-como-puedas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: Republica.com"
 ---
 

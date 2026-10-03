@@ -2,13 +2,13 @@
 id: 11355
 title: "¡¡La vida es un BREXIT&nbsp;continuo!!"
 date: 2016-06-24T21:38:22
-slug: la-vida-es-un-brexit-continuo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11355
-originUrl: https://prixline.blog/2016/06/24/la-vida-es-un-brexit-continuo/
+slug: "la-vida-es-un-brexit-continuo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11355"
+originUrl: "https://prixline.blog/2016/06/24/la-vida-es-un-brexit-continuo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Eres libre de tomar tus decisiones pero también prisionero de las consecuencias“. Hoy los resultados del Brexit han dicho que Reino Unido, ha decidido que quiere salir de la Unión Europea. ¡¡QUE HORROR!! ¿Qué nos va a pasar? ¿Y con Gibraltar? Son algunas de las expresiones que&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10233
 title: "La vida no es&nbsp;estabilidad"
 date: 2015-03-02T14:26:36
-slug: la-vida-no-es-estabilidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10233
-originUrl: https://prixline.blog/2015/03/02/la-vida-no-es-estabilidad/
+slug: "la-vida-no-es-estabilidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10233"
+originUrl: "https://prixline.blog/2015/03/02/la-vida-no-es-estabilidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -3,12 +3,12 @@ id: 14010
 title: "PRIXLINE ✅ Cambio de Mentalidad&nbsp;🧠"
 date: 2020-04-01T19:48:37
 slug: "prixline-%e2%9c%85-cambio-de-mentalidad-%f0%9f%a7%a0"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14010
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14010"
 originUrl: "https://prixline.blog/2020/04/01/prixline-%e2%9c%85-cambio-de-mentalidad-%f0%9f%a7%a0/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

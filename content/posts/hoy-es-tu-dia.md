@@ -2,13 +2,13 @@
 id: 9516
 title: "Hoy es tu&nbsp;día!"
 date: 2014-09-10T09:29:12
-slug: hoy-es-tu-dia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9516
-originUrl: https://prixline.blog/2014/09/10/hoy-es-tu-dia/
+slug: "hoy-es-tu-dia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9516"
+originUrl: "https://prixline.blog/2014/09/10/hoy-es-tu-dia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

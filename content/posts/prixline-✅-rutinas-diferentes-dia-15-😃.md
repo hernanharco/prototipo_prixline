@@ -3,12 +3,12 @@ id: 13994
 title: "PRIXLINE ✅ Rutinas Diferentes&#8230; (Día 15)&nbsp;😃"
 date: 2020-03-30T14:39:26
 slug: "prixline-%e2%9c%85-rutinas-diferentes-dia-15-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13994
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13994"
 originUrl: "https://prixline.blog/2020/03/30/prixline-%e2%9c%85-rutinas-diferentes-dia-15-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,17 +2,17 @@
 id: 11008
 title: "Carreras con mayor y menor&nbsp;empleo."
 date: 2016-01-08T11:03:20
-slug: carreras-con-mayor-y-menor-empleo-en-2014
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11008
-originUrl: https://prixline.blog/2016/01/08/carreras-con-mayor-y-menor-empleo-en-2014/
+slug: "carreras-con-mayor-y-menor-empleo-en-2014"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11008"
+originUrl: "https://prixline.blog/2016/01/08/carreras-con-mayor-y-menor-empleo-en-2014/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - prixline
+  - "empleo"
+  - "opiniones"
+  - "prixline"
 excerpt: "Para ampliar: Encuesta de Inserción Laboral de Titulados Universitarios 2014 (vía INE 22/12/15). Las carreras con más salida y casi 100% de tasa de empleo (vía Huffington Post 22/12/15). Las carreras mayor tasa de empleo (vía El País 22/12/15). ¿Dónde puedo encontrar trabajo en 2016? (vía El Mundo 26/12/15). Demasiados filólogos, pocos ingenieros (vía El [&hellip;]"
 ---
 

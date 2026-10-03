@@ -2,13 +2,13 @@
 id: 10294
 title: "¿CÓMO HACER UN CV&nbsp;2.0?"
 date: 2015-03-24T13:29:17
-slug: como-hacer-un-cv-2-0
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10294
-originUrl: https://prixline.blog/2015/03/24/como-hacer-un-cv-2-0/
+slug: "como-hacer-un-cv-2-0"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10294"
+originUrl: "https://prixline.blog/2015/03/24/como-hacer-un-cv-2-0/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: ¿Usas el CV de toda la vida? ¿No tienes mucho éxito a la hora de captar la atención y demostrar tu valía con las nuevas tecnologías? ¿Quieres tener un currículum 2.0? Muchos ya estaréis poniendo cara de poker preguntando qué es eso…. pero aquí os aconsejamos sobre las mejores&hellip;"
 ---
 

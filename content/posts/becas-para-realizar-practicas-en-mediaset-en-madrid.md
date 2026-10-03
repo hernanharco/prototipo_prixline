@@ -2,19 +2,19 @@
 id: 10763
 title: "Becas para realizar prácticas en Mediaset en&nbsp;Madrid"
 date: 2015-09-15T15:52:13
-slug: becas-para-realizar-practicas-en-mediaset-en-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10763
-originUrl: https://prixline.blog/2015/09/15/becas-para-realizar-practicas-en-mediaset-en-madrid/
+slug: "becas-para-realizar-practicas-en-mediaset-en-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10763"
+originUrl: "https://prixline.blog/2015/09/15/becas-para-realizar-practicas-en-mediaset-en-madrid/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas y practicas
-  - empleo
-  - prixline
+  - "aprender"
+  - "becas y practicas"
+  - "empleo"
+  - "prixline"
 excerpt: "Mediaset, la empresa de comunicación televisiva italiana que cuenta con canales en España como Telecinco, Cuatro, Factoría de Ficción, Boing, Divinity, Energy, Telecinco HD y Cuatro HD ha lanzado la convocatoria de 9 becas para realizar prácticas en diferentes áreas. Esta convocatoria puede ser una oportunidad única para optar a un trabajo en Mediaset con [&hellip;]"
 ---
 

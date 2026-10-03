@@ -2,13 +2,13 @@
 id: 10465
 title: "Más de 100 enlaces de empresas a los que enviar el currículum&nbsp;online"
 date: 2015-06-04T18:53:19
-slug: mas-de-100-enlaces-de-empresas-a-los-que-enviar-el-curriculum-online
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10465
-originUrl: https://prixline.blog/2015/06/04/mas-de-100-enlaces-de-empresas-a-los-que-enviar-el-curriculum-online/
+slug: "mas-de-100-enlaces-de-empresas-a-los-que-enviar-el-curriculum-online"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10465"
+originUrl: "https://prixline.blog/2015/06/04/mas-de-100-enlaces-de-empresas-a-los-que-enviar-el-curriculum-online/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Cada vez más son las empresas que gestionan sus ofertas de empleo por internet. Eso nos permite enviar el currículum sin tener que acudir a sus instalaciones e incluso ver las ofertas de trabajo que tienen publicadas. Más de 100 enlaces de empresas a los que enviar el currículum, pincha&hellip;"
 ---
 

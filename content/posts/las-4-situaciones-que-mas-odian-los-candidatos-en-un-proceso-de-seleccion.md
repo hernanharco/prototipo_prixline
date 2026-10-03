@@ -2,13 +2,13 @@
 id: 11545
 title: "Las 4 situaciones que más odian los candidatos en un proceso de&nbsp;selección"
 date: 2016-10-03T19:59:14
-slug: las-4-situaciones-que-mas-odian-los-candidatos-en-un-proceso-de-seleccion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11545
-originUrl: https://prixline.blog/2016/10/03/las-4-situaciones-que-mas-odian-los-candidatos-en-un-proceso-de-seleccion/
+slug: "las-4-situaciones-que-mas-odian-los-candidatos-en-un-proceso-de-seleccion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11545"
+originUrl: "https://prixline.blog/2016/10/03/las-4-situaciones-que-mas-odian-los-candidatos-en-un-proceso-de-seleccion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: A lo largo de todos los años que llevo trabajando en Recursos Humanos, he tenido ocasión de hacer múltiples entrevistas. Muchas de ellas como entrevistadora pero también he realizado unas cuantas como candidata. Lo cierto que para mi hacer entrevistas como candidata tenía una doble función: A veces era porque&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 12477
 title: "Lo que 2018 me ha enseñado sobre Recursos&nbsp;Humanos"
 date: 2019-01-02T15:47:18
-slug: lo-que-2018-me-ha-ensenado-sobre-recursos-humanos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12477
-originUrl: https://prixline.blog/2019/01/02/lo-que-2018-me-ha-ensenado-sobre-recursos-humanos/
+slug: "lo-que-2018-me-ha-ensenado-sobre-recursos-humanos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12477"
+originUrl: "https://prixline.blog/2019/01/02/lo-que-2018-me-ha-ensenado-sobre-recursos-humanos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "El 2018 va llegando a su fin y es hora de hacer balance de lo vivido. Cientos de experiencias que me han llevado por toda España en este bonito oficio de acompañar personas y hacer crecer el negocio a través de ellas. Nunca un año había dado para tanto, profesionalmente hablando. Estoy convencido que en&hellip;"
 ---
 

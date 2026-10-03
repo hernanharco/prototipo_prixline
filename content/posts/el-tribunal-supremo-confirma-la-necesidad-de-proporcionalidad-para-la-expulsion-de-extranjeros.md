@@ -2,13 +2,13 @@
 id: 19606
 title: "El Tribunal Supremo confirma la necesidad de proporcionalidad para la expulsión de&nbsp;extranjeros"
 date: 2021-03-19T11:42:25
-slug: el-tribunal-supremo-confirma-la-necesidad-de-proporcionalidad-para-la-expulsion-de-extranjeros
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/19606
-originUrl: https://prixline.blog/2021/03/19/el-tribunal-supremo-confirma-la-necesidad-de-proporcionalidad-para-la-expulsion-de-extranjeros/
+slug: "el-tribunal-supremo-confirma-la-necesidad-de-proporcionalidad-para-la-expulsion-de-extranjeros"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/19606"
+originUrl: "https://prixline.blog/2021/03/19/el-tribunal-supremo-confirma-la-necesidad-de-proporcionalidad-para-la-expulsion-de-extranjeros/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Por fin, una sentencia de la Sala contencioso-administrativa del Tribunal Supremo, dictada ayer, 17 de marzo de 2021, estabiliza el criterio en … El Tribunal Supremo confirma la necesidad de proporcionalidad para la expulsión de extranjeros Por lo expuesto, se incrementan las garantías de una decisión tan gravosa como es la expulsión. Las garantías del [&hellip;]"
 ---
 

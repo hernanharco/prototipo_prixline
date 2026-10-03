@@ -2,13 +2,13 @@
 id: 11683
 title: "Por más consejos que te&nbsp;den"
 date: 2017-01-11T15:26:53
-slug: por-mas-consejos-que-te-den
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11683
-originUrl: https://prixline.blog/2017/01/11/por-mas-consejos-que-te-den/
+slug: "por-mas-consejos-que-te-den"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11683"
+originUrl: "https://prixline.blog/2017/01/11/por-mas-consejos-que-te-den/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

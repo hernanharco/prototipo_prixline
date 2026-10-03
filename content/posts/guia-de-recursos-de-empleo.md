@@ -2,22 +2,22 @@
 id: 9556
 title: "Guía de Recursos de&nbsp;Empleo"
 date: 2014-09-15T09:51:48
-slug: guia-de-recursos-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9556
-originUrl: https://prixline.blog/2014/09/15/guia-de-recursos-de-empleo/
+slug: "guia-de-recursos-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9556"
+originUrl: "https://prixline.blog/2014/09/15/guia-de-recursos-de-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: La Diputación de Almería ha publicado una GUÍA DE RECURSOS DE EMPLEO muy interesante y completa en la que se puede acceder a enlaces de todo tipo, Orientación, Formación y Búsqueda activa de empleo Pincha en aquí para abrir la GUÍA DE RECURSOS DE EMPLEO_2014 Consiste, básicamente, en un directorio&hellip;"
 ---
 

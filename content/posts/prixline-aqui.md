@@ -2,27 +2,27 @@
 id: 1838
 title: "Estar presente aquí y&nbsp;ahora"
 date: 2012-12-22T20:31:14
-slug: prixline-aqui
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1838
-originUrl: https://prixline.blog/2012/12/22/prixline-aqui/
+slug: "prixline-aqui"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1838"
+originUrl: "https://prixline.blog/2012/12/22/prixline-aqui/"
 categories:
-  - cursos
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - b83066696
-  - cursos
-  - estudiar
-  - gratis
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "autoaprendizaje"
+  - "b83066696"
+  - "cursos"
+  - "estudiar"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Sencillo es mejor: El título de esta entrada es una máxima que se trata actualmente en muchas disciplinas de tipo psicológico. Es algo así como ser consciente de dónde estoy (entorno físico) y como me siento (entorno psíquico) en un momento determinado que es el “ahora” (momento presente). Se trata de que&hellip;"
 ---
 

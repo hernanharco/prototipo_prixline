@@ -2,13 +2,13 @@
 id: 12093
 title: "Entrevista: ¿cuál es la relación entre oficinas y Recursos&nbsp;Humanos?"
 date: 2017-11-25T11:54:04
-slug: entrevista-cual-es-la-relacion-entre-oficinas-y-recursos-humanos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12093
-originUrl: https://prixline.blog/2017/11/25/entrevista-cual-es-la-relacion-entre-oficinas-y-recursos-humanos/
+slug: "entrevista-cual-es-la-relacion-entre-oficinas-y-recursos-humanos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12093"
+originUrl: "https://prixline.blog/2017/11/25/entrevista-cual-es-la-relacion-entre-oficinas-y-recursos-humanos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Desde que inicié esta aventura de tener un blog, allá por febrero de 2010, siempre tuve claro que tenía que ser accesible y permeable a cualquier tipo de colaboración. Y esa ha sido una de las señas de identidad de esta casa, el tener siempre&hellip;"
 ---
 

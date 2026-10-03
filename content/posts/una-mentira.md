@@ -1,14 +1,14 @@
 ---
 id: 10682
-title: Una mentira
+title: "Una mentira"
 date: 2015-08-08T14:29:54
-slug: una-mentira
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10682
-originUrl: https://prixline.blog/2015/08/08/una-mentira/
+slug: "una-mentira"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10682"
+originUrl: "https://prixline.blog/2015/08/08/una-mentira/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

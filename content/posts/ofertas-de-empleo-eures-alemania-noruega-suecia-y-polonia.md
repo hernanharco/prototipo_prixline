@@ -2,24 +2,24 @@
 id: 9004
 title: "Ofertas de empleo EURES. Alemania, Noruega, Suecia y&nbsp;Polonia"
 date: 2014-05-21T13:13:54
-slug: ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9004
-originUrl: https://prixline.blog/2014/05/21/ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia/
+slug: "ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9004"
+originUrl: "https://prixline.blog/2014/05/21/ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - estudiar
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "estudiar"
   - "Prácticas"
-  - prix-line
-  - prixline
+  - "prix-line"
+  - "prixline"
 excerpt: "El Servicio Público de Empleo Estatal (SEPE), a través de la Red EURES, informa de diferentes ofertas de empleo en Europa: Alemania Proceso de seleccion Hostelería. Recepción de CVS hasta el 10 de octubre de 2014 (Entrevistas en Málaga y Palma de Mallorca 22-24 octubre 2014). SAP-Basisbetreuer (w/m). Fecha límite: 1 de julio de 2014. Prozessorganisator SAP Produktion / [&hellip;]"
 ---
 

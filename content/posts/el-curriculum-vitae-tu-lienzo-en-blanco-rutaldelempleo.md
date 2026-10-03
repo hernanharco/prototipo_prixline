@@ -2,17 +2,17 @@
 id: 11073
 title: "El curriculum vitae, tu lienzo en blanco&nbsp;#RutalDelEmpleo"
 date: 2016-02-02T16:23:53
-slug: el-curriculum-vitae-tu-lienzo-en-blanco-rutaldelempleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11073
-originUrl: https://prixline.blog/2016/02/02/el-curriculum-vitae-tu-lienzo-en-blanco-rutaldelempleo/
+slug: "el-curriculum-vitae-tu-lienzo-en-blanco-rutaldelempleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11073"
+originUrl: "https://prixline.blog/2016/02/02/el-curriculum-vitae-tu-lienzo-en-blanco-rutaldelempleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prixline
-  - recursos
+  - "empleo"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on El Blog de Iñaki González : Y empezamos 2016 de la misma manera que empezábamos 2015, y que no es otra que con la publicación de un ebook colaborativo editado y coordinado por InfoJobs. En La Ruta del Empleo: estrategias para conseguir trabajo en 2016 he tenido el privilegio de colaborar junto&hellip;"
 ---
 

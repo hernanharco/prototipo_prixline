@@ -2,13 +2,13 @@
 id: 12264
 title: "¡¡La Disrupción comienza con el&nbsp;FeedBack!!"
 date: 2018-05-31T22:15:43
-slug: la-disrupcion-comienza-con-el-feedback
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12264
-originUrl: https://prixline.blog/2018/05/31/la-disrupcion-comienza-con-el-feedback/
+slug: "la-disrupcion-comienza-con-el-feedback"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12264"
+originUrl: "https://prixline.blog/2018/05/31/la-disrupcion-comienza-con-el-feedback/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Presta atención al feedback negativo y solicítalo, particularmente el de los amigos. Difícilmente alguien hace eso y es de mucha ayuda” dice Elon Musk Se define FeedBack, como “ Capacidad de un emisor para recoger reacciones de los receptores y modificar su mensaje de acuerdo con lo&hellip;"
 ---
 

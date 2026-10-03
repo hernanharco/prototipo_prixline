@@ -2,13 +2,13 @@
 id: 9799
 title: "Quiénes son los&nbsp;difuntos?"
 date: 2014-11-01T12:57:20
-slug: quienes-son-los-difuntos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9799
-originUrl: https://prixline.blog/2014/11/01/quienes-son-los-difuntos/
+slug: "quienes-son-los-difuntos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9799"
+originUrl: "https://prixline.blog/2014/11/01/quienes-son-los-difuntos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: En estos días de transición entre octubre y noviembre celebramos en la mayoría de culturas del mundo un dia un tanto “especial” en el que invitamos a los difuntos a volver a caminar entre nosotros. Es el día de los santos difuntos que en España&hellip;"
 ---
 

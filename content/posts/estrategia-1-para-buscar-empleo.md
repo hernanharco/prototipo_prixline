@@ -2,20 +2,20 @@
 id: 8037
 title: "Estrategia 1 para buscar&nbsp;empleo"
 date: 2014-01-14T16:00:52
-slug: estrategia-1-para-buscar-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8037
-originUrl: https://prixline.blog/2014/01/14/estrategia-1-para-buscar-empleo/
+slug: "estrategia-1-para-buscar-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8037"
+originUrl: "https://prixline.blog/2014/01/14/estrategia-1-para-buscar-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - empleo
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
+  - "806514296"
+  - "empleo"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: Si quieres estar al día en la Búsqueda Activa de Empleo ya no sirve mirar una sola web de empleo para conocer las ofertas que se publican en nuestro sector ya que han proliferado multitud de páginas que publican ofertas de empleo y las empresas que lanzan ofertas no&hellip;"
 ---
 

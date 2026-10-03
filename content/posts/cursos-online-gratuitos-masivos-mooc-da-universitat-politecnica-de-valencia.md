@@ -2,20 +2,20 @@
 id: 8258
 title: "Cursos Online gratuitos masivos (MOOC) da Universitat Politècnica de&nbsp;València."
 date: 2014-02-05T12:43:38
-slug: cursos-online-gratuitos-masivos-mooc-da-universitat-politecnica-de-valencia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8258
-originUrl: https://prixline.blog/2014/02/05/cursos-online-gratuitos-masivos-mooc-da-universitat-politecnica-de-valencia/
+slug: "cursos-online-gratuitos-masivos-mooc-da-universitat-politecnica-de-valencia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8258"
+originUrl: "https://prixline.blog/2014/02/05/cursos-online-gratuitos-masivos-mooc-da-universitat-politecnica-de-valencia/"
 categories:
-  - cursos
-  - formacion
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - aprender
-  - autoaprendizaje
-  - becas
-  - cursos
-  - prixline
+  - "806514296"
+  - "aprender"
+  - "autoaprendizaje"
+  - "becas"
+  - "cursos"
+  - "prixline"
 excerpt: "Originally posted on Emprego Viveiro: cursos online gratuitos masivos (MOOC) da Universitat Politècnica de València, aos que podes acceder en http://www.upvx.es. Listado de cursos Buscar en Internet 7 semanas 18/02/14 Valoración de Futbolistas 3 semanas 18/02/14 Tecnologías Educativas 11 semanas 18/02/14 Der. civil foral valenciano 6 semanas 18/02/14 Bases matemáticas 4 semanas 18/02/14 Mecánica para&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 9701
 title: "El trabajo fijo no&nbsp;existe"
 date: 2014-10-09T17:00:59
-slug: el-trabajo-fijo-no-existe
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9701
-originUrl: https://prixline.blog/2014/10/09/el-trabajo-fijo-no-existe/
+slug: "el-trabajo-fijo-no-existe"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9701"
+originUrl: "https://prixline.blog/2014/10/09/el-trabajo-fijo-no-existe/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Puede que resulte muy duro el título de esta entrada pero a veces merece más la pena recibir el shock desde el principio y así empezar a digerirlo. Si buscas estabilidad en el empleo, o bien prepara a conciencia unas oposiciones, o borra esa idea de tu cabeza. El mercado laboral&hellip;"
 ---
 

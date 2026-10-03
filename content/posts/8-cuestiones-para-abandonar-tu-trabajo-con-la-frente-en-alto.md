@@ -2,13 +2,13 @@
 id: 11218
 title: "8 cuestiones para abandonar tu trabajo con la frente en&nbsp;alto"
 date: 2016-04-12T10:54:23
-slug: 8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11218
-originUrl: https://prixline.blog/2016/04/12/8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto/
+slug: "8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11218"
+originUrl: "https://prixline.blog/2016/04/12/8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Muchas veces hemos fantaseado con la posiblidad de abandonar nuestro trabajo actual, en los últimos tiempos más si cabe, y siempre nos ponemos en la situación de qué le diríamos a más de uno y una a la cara, esos que se merecen más de una verdad&hellip;"
 ---
 

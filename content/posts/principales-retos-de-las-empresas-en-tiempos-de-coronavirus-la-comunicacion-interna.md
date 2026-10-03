@@ -2,13 +2,13 @@
 id: 14114
 title: "Principales retos de las empresas en tiempos de coronavirus: la comunicación&nbsp;interna."
 date: 2020-04-25T12:42:54
-slug: principales-retos-de-las-empresas-en-tiempos-de-coronavirus-la-comunicacion-interna
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14114
-originUrl: https://prixline.blog/2020/04/25/principales-retos-de-las-empresas-en-tiempos-de-coronavirus-la-comunicacion-interna/
+slug: "principales-retos-de-las-empresas-en-tiempos-de-coronavirus-la-comunicacion-interna"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14114"
+originUrl: "https://prixline.blog/2020/04/25/principales-retos-de-las-empresas-en-tiempos-de-coronavirus-la-comunicacion-interna/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Madrid, 23 de abril de 2020.- En la actualidad, las empresas se enfrentan al reto de mantener motivado, implicado y, sobre todo, informado, a un … Principales retos de las empresas en tiempos de coronavirus: la comunicación interna."
 ---
 

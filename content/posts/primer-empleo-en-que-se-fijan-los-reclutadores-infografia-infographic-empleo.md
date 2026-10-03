@@ -2,20 +2,20 @@
 id: 9612
 title: "Primer empleo: en qué se fijan los reclutadores #infografia #infographic&nbsp;#empleo"
 date: 2014-09-28T13:48:17
-slug: primer-empleo-en-que-se-fijan-los-reclutadores-infografia-infographic-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9612
-originUrl: https://prixline.blog/2014/09/28/primer-empleo-en-que-se-fijan-los-reclutadores-infografia-infographic-empleo/
+slug: "primer-empleo-en-que-se-fijan-los-reclutadores-infografia-infographic-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9612"
+originUrl: "https://prixline.blog/2014/09/28/primer-empleo-en-que-se-fijan-los-reclutadores-infografia-infographic-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - prixline
-  - recursos
-  - Trabajo
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "TICs y Formación Hola: Una infografía sobre Primer empleo: en qué se fijan los reclutadores. Vía Un saludo Primer empleo: en qué se fijan los reclutadores View original post"
 ---
 

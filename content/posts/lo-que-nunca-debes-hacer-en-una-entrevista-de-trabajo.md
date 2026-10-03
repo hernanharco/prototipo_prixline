@@ -2,23 +2,23 @@
 id: 9598
 title: "Lo que nunca debes hacer en una entrevista de&nbsp;trabajo"
 date: 2014-09-22T17:33:36
-slug: lo-que-nunca-debes-hacer-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9598
-originUrl: https://prixline.blog/2014/09/22/lo-que-nunca-debes-hacer-en-una-entrevista-de-trabajo/
+slug: "lo-que-nunca-debes-hacer-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9598"
+originUrl: "https://prixline.blog/2014/09/22/lo-que-nunca-debes-hacer-en-una-entrevista-de-trabajo/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: Aunque hay quien cuestiona el momento de ponerse frente al entrevistador como un episodio fundamental en el proceso de selección, lo cierto es que la búsqueda, el currículo y todo lo que haces mientras rastreas un empleo te conduce a este encuentro definitivo. En esos&hellip;"
 ---
 

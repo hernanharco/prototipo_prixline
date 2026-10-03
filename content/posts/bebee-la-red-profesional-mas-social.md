@@ -2,13 +2,13 @@
 id: 11880
 title: "BeBee, la red profesional más&nbsp;social"
 date: 2017-05-05T01:01:25
-slug: bebee-la-red-profesional-mas-social
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11880
-originUrl: https://prixline.blog/2017/05/05/bebee-la-red-profesional-mas-social/
+slug: "bebee-la-red-profesional-mas-social"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11880"
+originUrl: "https://prixline.blog/2017/05/05/bebee-la-red-profesional-mas-social/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Si te manejas bien en las redes sociales, quieres ampliar tu red de contactos y de paso, acceder a ofertas de empleo, sin duda BeBee puede que sea lo que estás buscando. A la sombra de la red profesional por excelencia, LinkedIn, nació en 2015 BeBee. Y tal y como dicen&hellip;"
 ---
 

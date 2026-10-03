@@ -2,13 +2,13 @@
 id: 8743
 title: "Los cambios ya no son lineales, son exponenciales y&#8230;¿mañana&nbsp;qué?"
 date: 2014-04-05T12:25:36
-slug: los-cambios-ya-no-son-lineales-son-exponenciales-y-manana-que
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8743
-originUrl: https://prixline.blog/2014/04/05/los-cambios-ya-no-son-lineales-son-exponenciales-y-manana-que/
+slug: "los-cambios-ya-no-son-lineales-son-exponenciales-y-manana-que"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8743"
+originUrl: "https://prixline.blog/2014/04/05/los-cambios-ya-no-son-lineales-son-exponenciales-y-manana-que/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Los cambios ya nunca más serán lineales, ahora son exponenciales y mañana…quien sabe…. ¿cómo podemos promover el aprendizaje en todas partes? Estamos utilizando tecnologías móviles todo el tiempo, en todas partes, y esto cambia lo que podemos hacer, ya que podemos mezclar el ocio y el&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11512
 title: "Educar para el&nbsp;empoderamiento"
 date: 2016-09-15T09:49:19
-slug: educar-para-el-empoderamiento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11512
-originUrl: https://prixline.blog/2016/09/15/educar-para-el-empoderamiento/
+slug: "educar-para-el-empoderamiento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11512"
+originUrl: "https://prixline.blog/2016/09/15/educar-para-el-empoderamiento/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "El profesor debe comprometerse en la causa, invirtiendo el proceso educador donde el alumno pasa de ser una caja vacía de contenidos a un ser consciente, fomentando así, mediante la estimulación de la autonomía y la libertad con métodos dialógicos y participativos, el crecimiento individual del estudiante, en un juego dialéctico de acción-reflexión donde el [&hellip;]"
 ---
 

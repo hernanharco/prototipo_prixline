@@ -2,13 +2,13 @@
 id: 12406
 title: "Curriculum Vitae basado en la&nbsp;evidencia."
 date: 2018-10-18T22:44:25
-slug: curriculum-vitae-basado-en-la-evidencia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12406
-originUrl: https://prixline.blog/2018/10/18/curriculum-vitae-basado-en-la-evidencia/
+slug: "curriculum-vitae-basado-en-la-evidencia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12406"
+originUrl: "https://prixline.blog/2018/10/18/curriculum-vitae-basado-en-la-evidencia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ? Será que la cabra tira al monte, y de tanto trabajar en entornos sanitarios y escuchar debate tras debate, jornada tras jornada, congreso tras congreso y leer “cienes y cienes” de publicaciones sobre medicina basada en la evidencia o cuidados basados en la evidencia,&hellip;"
 ---
 

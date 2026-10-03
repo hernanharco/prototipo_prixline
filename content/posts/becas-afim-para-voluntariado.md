@@ -2,13 +2,13 @@
 id: 12083
 title: "Becas AFIM para&nbsp;Voluntariado"
 date: 2017-11-14T13:58:39
-slug: becas-afim-para-voluntariado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12083
-originUrl: https://prixline.blog/2017/11/14/becas-afim-para-voluntariado/
+slug: "becas-afim-para-voluntariado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12083"
+originUrl: "https://prixline.blog/2017/11/14/becas-afim-para-voluntariado/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Eres una persona voluntaria? ¿Quiéres continuar formándote gratis? No dejes de leer… ¡Aquí tienes el primer Programa de becas de la Fundación AFIM para voluntariado! ¿Qué pretende AFIM con ellas? Facilitar los medios necesarios para ampliar la formación de los voluntarios y voluntarias y que así puedan realizar su&hellip;"
 ---
 

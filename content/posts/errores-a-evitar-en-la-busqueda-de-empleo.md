@@ -2,21 +2,21 @@
 id: 9988
 title: "Errores a evitar en la búsqueda de&nbsp;empleo"
 date: 2014-12-17T10:29:25
-slug: errores-a-evitar-en-la-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9988
-originUrl: https://prixline.blog/2014/12/17/errores-a-evitar-en-la-busqueda-de-empleo/
+slug: "errores-a-evitar-en-la-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9988"
+originUrl: "https://prixline.blog/2014/12/17/errores-a-evitar-en-la-busqueda-de-empleo/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - opiniones
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com Hace unos días en CincoDias.com publicaban un más que interesante artículo sobre los Diez errores que se cometen en LinkedIn o Infojobs. Tan interesante y básico que no he podido evitar hacer una revisión del mismo para que no metamos la pata en lo fundamental. Estos errores son habituales y&hellip;"
 ---
 

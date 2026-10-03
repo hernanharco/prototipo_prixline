@@ -2,13 +2,13 @@
 id: 10453
 title: "AUTOEMPLEARSE TAMBIÉN PUEDE SER UNA&nbsp;OPCIÓN"
 date: 2015-05-27T18:43:47
-slug: autoemplearse-tambien-puede-ser-una-opcion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10453
-originUrl: https://prixline.blog/2015/05/27/autoemplearse-tambien-puede-ser-una-opcion/
+slug: "autoemplearse-tambien-puede-ser-una-opcion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10453"
+originUrl: "https://prixline.blog/2015/05/27/autoemplearse-tambien-puede-ser-una-opcion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: “El autoempleo implica realizar una actividad empresarial o profesional por cuenta y riesgo propios. Ligada directamente a este término se encuentra la palabra emprender, que consiste en acometer y comenzar una obra, un negocio o un proyecto.” Si por desgracia has tenido la mala fortuna de quedarte sin empleo,&hellip;"
 ---
 

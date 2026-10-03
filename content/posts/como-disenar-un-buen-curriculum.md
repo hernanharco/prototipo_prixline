@@ -2,21 +2,21 @@
 id: 9137
 title: "Cómo diseñar un buen&nbsp;curriculum"
 date: 2014-06-18T08:20:09
-slug: como-disenar-un-buen-curriculum
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9137
-originUrl: https://prixline.blog/2014/06/18/como-disenar-un-buen-curriculum/
+slug: "como-disenar-un-buen-curriculum"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9137"
+originUrl: "https://prixline.blog/2014/06/18/como-disenar-un-buen-curriculum/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - gratis
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com El curriculum sigue siendo la herramienta fundamental para la búsqueda de empleo y por ello tener un buen curriculum es básico para poder llegar a la tan ansiada entrevista. Lo que ocurre es que a veces no le damos la importancia que tiene o no lo cuidamos en exceso, y&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11632
 title: "Como camines por la&nbsp;vida&#8230;"
 date: 2016-11-30T15:20:38
-slug: como-camines-por-la-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11632
-originUrl: https://prixline.blog/2016/11/30/como-camines-por-la-vida/
+slug: "como-camines-por-la-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11632"
+originUrl: "https://prixline.blog/2016/11/30/como-camines-por-la-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

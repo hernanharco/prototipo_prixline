@@ -2,13 +2,13 @@
 id: 11990
 title: "La orientación en un mercado sin&nbsp;ofertas"
 date: 2017-07-18T20:31:29
-slug: la-orientacion-en-un-mercado-sin-ofertas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11990
-originUrl: https://prixline.blog/2017/07/18/la-orientacion-en-un-mercado-sin-ofertas/
+slug: "la-orientacion-en-un-mercado-sin-ofertas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11990"
+originUrl: "https://prixline.blog/2017/07/18/la-orientacion-en-un-mercado-sin-ofertas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Esta entrada no es de orientación, no es de ayuda, no sirve para las personas que están sufriendo el desempleo. Esta entrada nace un poco desde de la frustración y de la impotencia. Y es que el mercado laboral actual es muy puñetero y se está llevando a mucha gente por&hellip;"
 ---
 

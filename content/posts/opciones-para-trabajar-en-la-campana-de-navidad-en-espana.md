@@ -2,23 +2,23 @@
 id: 9931
 title: "Opciones para trabajar en la Campaña de Navidad en&nbsp;España"
 date: 2014-11-26T17:14:47
-slug: opciones-para-trabajar-en-la-campana-de-navidad-en-espana
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9931
-originUrl: https://prixline.blog/2014/11/26/opciones-para-trabajar-en-la-campana-de-navidad-en-espana/
+slug: "opciones-para-trabajar-en-la-campana-de-navidad-en-espana"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9931"
+originUrl: "https://prixline.blog/2014/11/26/opciones-para-trabajar-en-la-campana-de-navidad-en-espana/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Como regla general, hay dos épocas al año en las que las opciones de empleo temporales aumentan, estas son en verano y en Navidades, esta última fecha a la que nos referimos en este post.Hoy queremos mostrarte alguna de las opciones donde puedes buscar trabajo en Navidades. Desde centros&hellip;"
 ---
 

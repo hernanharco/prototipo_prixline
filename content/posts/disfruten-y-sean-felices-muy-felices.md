@@ -2,13 +2,13 @@
 id: 12107
 title: "¡¡Disfruten y sean felices, muy&nbsp;felices!!"
 date: 2017-12-20T09:52:00
-slug: disfruten-y-sean-felices-muy-felices
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12107
-originUrl: https://prixline.blog/2017/12/20/disfruten-y-sean-felices-muy-felices/
+slug: "disfruten-y-sean-felices-muy-felices"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12107"
+originUrl: "https://prixline.blog/2017/12/20/disfruten-y-sean-felices-muy-felices/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: Ya están aquí esos días en los que la actividad normal decae, la mente se distrae con bastante frecuencia, y apartamos los pensamientos para hacer incursiones en el mundo de las emociones. En estos días de Navidad y de cambio de año, tenemos la excusa perfecta para reunirnos&hellip;"
 ---
 

@@ -2,18 +2,18 @@
 id: 8341
 title: "Becas Fundación Botín de Artes&nbsp;Plásticas"
 date: 2014-02-14T16:40:03
-slug: becas-fundacion-botin-de-artes-plasticas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8341
-originUrl: https://prixline.blog/2014/02/14/becas-fundacion-botin-de-artes-plasticas/
+slug: "becas-fundacion-botin-de-artes-plasticas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8341"
+originUrl: "https://prixline.blog/2014/02/14/becas-fundacion-botin-de-artes-plasticas/"
 categories:
-  - formacion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas
-  - gratis
-  - prixline
+  - "aprender"
+  - "becas"
+  - "gratis"
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación Botín convoca Becas de Artes Plásticas para formación, investigación y realización de proyectos personales en el ámbito de la creación artística, que se cierran con la organización de la exposición Itinerarios y la edición de un catálogo. La convocatoria está abierta a artistas de cualquier nacionalidad. Las referidas a formación&hellip;"
 ---
 

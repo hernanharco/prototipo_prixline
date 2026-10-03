@@ -2,13 +2,13 @@
 id: 11748
 title: "Convocatoria de Acciones formativas.&nbsp;Oviedo"
 date: 2017-02-15T17:54:39
-slug: convocatoria-de-acciones-formativas-oviedo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11748
-originUrl: https://prixline.blog/2017/02/15/convocatoria-de-acciones-formativas-oviedo/
+slug: "convocatoria-de-acciones-formativas-oviedo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11748"
+originUrl: "https://prixline.blog/2017/02/15/convocatoria-de-acciones-formativas-oviedo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Cruz Roja Juventud abre la convocatoria dirigida a entidades sin ánimo de lucro, para impartir acciones formativas dirigidas preferentemente a jóvenes entre 18 y 35 años. Podrán optar a la participación en el desarrollo de actividades formativas 2017 en el Hotel de Asociaciones Santullano todas aquellas entidades sin ánimo de&hellip;"
 ---
 

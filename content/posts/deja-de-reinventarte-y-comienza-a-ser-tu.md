@@ -2,13 +2,13 @@
 id: 12612
 title: "¡¡Deja de reinventarte y comienza a ser&nbsp;tú!!"
 date: 2019-04-21T12:38:00
-slug: deja-de-reinventarte-y-comienza-a-ser-tu
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12612
-originUrl: https://prixline.blog/2019/04/21/deja-de-reinventarte-y-comienza-a-ser-tu/
+slug: "deja-de-reinventarte-y-comienza-a-ser-tu"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12612"
+originUrl: "https://prixline.blog/2019/04/21/deja-de-reinventarte-y-comienza-a-ser-tu/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: La R.A.E, dice que la palabra REINVENTAR, no se encuentra en el Diccionario. En cambio, si vamos a la palabra Inventar, dice: “Fingir hechos falsos“. Por lo tanto si uniéramos el prefijo re- a la palabra inventar, podríamos definir reinventar como ” volver a fingir hechos falsos”.&hellip;"
 ---
 

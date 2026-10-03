@@ -2,19 +2,19 @@
 id: 8617
 title: "Buscando el océano&nbsp;azul"
 date: 2014-03-16T20:17:37
-slug: buscando-el-oceano-azul
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8617
-originUrl: https://prixline.blog/2014/03/16/buscando-el-oceano-azul/
+slug: "buscando-el-oceano-azul"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8617"
+originUrl: "https://prixline.blog/2014/03/16/buscando-el-oceano-azul/"
 categories:
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - autoaprendizaje
-  - prixline
-  - recursos
-  - Trabajo
+  - "autoaprendizaje"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "40 años. Esos son exactamente los años que mi padre estuvo ejerciendo su profesión en su empresa. Toda una vida vinculado profesionalmente e incluso me atrevería a decir emocionalmente. Jamás se le habría ocurrido pensar en cambiar de empresa a menos que las circunstancias le hubieran obligado y no fue el caso. Además en sus&hellip;"
 ---
 

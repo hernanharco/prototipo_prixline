@@ -3,14 +3,14 @@ id: 14032
 title: "PRIXLINE ✅ ¿Estado de EXCEPCIÓN “de Facto” en España? 🇪🇸&nbsp;🧐"
 date: 2020-04-06T19:06:34
 slug: "prixline-%e2%9c%85-estado-de-excepcion-de-facto-en-espana-%f0%9f%87%aa%f0%9f%87%b8-%f0%9f%a7%90"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14032
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14032"
 originUrl: "https://prixline.blog/2020/04/06/prixline-%e2%9c%85-estado-de-excepcion-de-facto-en-espana-%f0%9f%87%aa%f0%9f%87%b8-%f0%9f%a7%90/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - prixline
+  - "opinion"
+  - "prixline"
 excerpt: ""
 ---
 

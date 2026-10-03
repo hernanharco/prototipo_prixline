@@ -2,13 +2,13 @@
 id: 14698
 title: "Teletrabajo: ¡acelerón!"
 date: 2020-08-25T19:09:43
-slug: teletrabajo-aceleron
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14698
-originUrl: https://prixline.blog/2020/08/25/teletrabajo-aceleron/
+slug: "teletrabajo-aceleron"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14698"
+originUrl: "https://prixline.blog/2020/08/25/teletrabajo-aceleron/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Aunque hasta hace pocos meses se veía un ritmo de aumento de la utilización de la tecnología en el trabajo, quizás muchos lo centraban en robots, … Teletrabajo: ¡acelerón! Y, como se está viendo, no sólo es cuestión de tecnología, no es sólo hacer lo mismo “desde casa”, sino que también implica una nueva forma [&hellip;]"
 ---
 

@@ -2,13 +2,13 @@
 id: 14859
 title: "Transitando por la formación hacia un ecosistema digital de aprendizaje&nbsp;permanente"
 date: 2020-09-19T09:11:34
-slug: transitando-por-la-formacion-hacia-un-ecosistema-digital-de-aprendizaje-permanente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14859
-originUrl: https://prixline.blog/2020/09/19/transitando-por-la-formacion-hacia-un-ecosistema-digital-de-aprendizaje-permanente/
+slug: "transitando-por-la-formacion-hacia-un-ecosistema-digital-de-aprendizaje-permanente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14859"
+originUrl: "https://prixline.blog/2020/09/19/transitando-por-la-formacion-hacia-un-ecosistema-digital-de-aprendizaje-permanente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Juan Domingo Farnos Hacer lo que siempre hiciste no funcionará más. Cuestionar todo, es un buen hábito para la agilidad, tanto mental como real. -… Transitando por la formación hacia un ecosistema digital de aprendizaje permanente El potencial digital en el sector de la educación y la formación es muy amplio y apunta a la [&hellip;]"
 ---
 

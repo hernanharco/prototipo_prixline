@@ -2,13 +2,13 @@
 id: 11425
 title: "¿Qué buscas, alimentar tu ego o tu&nbsp;felicidad?"
 date: 2016-07-22T14:08:14
-slug: que-buscas-alimentar-tu-ego-o-tu-felicidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11425
-originUrl: https://prixline.blog/2016/07/22/que-buscas-alimentar-tu-ego-o-tu-felicidad/
+slug: "que-buscas-alimentar-tu-ego-o-tu-felicidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11425"
+originUrl: "https://prixline.blog/2016/07/22/que-buscas-alimentar-tu-ego-o-tu-felicidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Se avecina fin de semana largo. En Navarra (donde vivo) ya estamos acostumbrados a que el día de Santiago sea festivo, pero en La Rioja (donde trabajo) no suele serlo, así que hay que aprovechar que el lunes no hay que trabajar para realizar una mini&hellip;"
 ---
 

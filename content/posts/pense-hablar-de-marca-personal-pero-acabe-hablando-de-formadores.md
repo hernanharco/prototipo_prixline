@@ -2,13 +2,13 @@
 id: 11897
 title: "Pensé hablar de Marca Personal pero acabé hablando de Formadores&#8230;"
 date: 2017-05-26T18:26:21
-slug: pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11897
-originUrl: https://prixline.blog/2017/05/26/pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores/
+slug: "pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11897"
+originUrl: "https://prixline.blog/2017/05/26/pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Si, lo admito, me tienta hablaros de Marca Personal para Formadores de FPE, pero me voy a quedar con las ganas y no voy a hacerlo… No voy a hablar aquí de qué es la Marca Personal ni por qué tendrías que trabajarla para dar la&hellip;"
 ---
 

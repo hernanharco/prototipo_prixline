@@ -2,13 +2,13 @@
 id: 12217
 title: "Plazas acceso libre Cuerpo de Farmacéuticos/as y Veterinarios/as&nbsp;Titulares"
 date: 2018-04-11T09:39:19
-slug: plazas-acceso-libre-cuerpo-de-farmaceuticos-as-y-veterinarios-as-titulares
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12217
-originUrl: https://prixline.blog/2018/04/11/plazas-acceso-libre-cuerpo-de-farmaceuticos-as-y-veterinarios-as-titulares/
+slug: "plazas-acceso-libre-cuerpo-de-farmaceuticos-as-y-veterinarios-as-titulares"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12217"
+originUrl: "https://prixline.blog/2018/04/11/plazas-acceso-libre-cuerpo-de-farmaceuticos-as-y-veterinarios-as-titulares/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Desde el Ministerio de Sanidad, Servicios Sociales e Igualdad se convocan las siguientes plazas de acceso libre en el Cuerpo de Farmaceúticos/as y Veterinarios/as Titulares 42 plazas acceso libre Cuerpo de Farmacéuticos/as Titulares: Se trata de 42 plazas mediante acceso libre y 1 plaza por el sistema de&hellip;"
 ---
 

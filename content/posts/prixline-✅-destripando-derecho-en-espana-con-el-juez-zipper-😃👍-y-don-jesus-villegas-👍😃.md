@@ -3,12 +3,12 @@ id: 41198
 title: "PRIXLINE ✅ &#8220;Destripando&#8221; Derecho en España (con el juez ZIPPER) 😃👍 y don Jesús Villegas&nbsp;👍😃"
 date: 2023-09-26T13:25:14
 slug: "prixline-%e2%9c%85-destripando-derecho-en-espana-con-el-juez-zipper-%f0%9f%98%83%f0%9f%91%8d-y-don-jesus-villegas-%f0%9f%91%8d%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/41198
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/41198"
 originUrl: "https://prixline.blog/2023/09/26/prixline-%e2%9c%85-destripando-derecho-en-espana-con-el-juez-zipper-%f0%9f%98%83%f0%9f%91%8d-y-don-jesus-villegas-%f0%9f%91%8d%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

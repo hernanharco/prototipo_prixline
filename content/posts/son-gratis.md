@@ -1,14 +1,14 @@
 ---
 id: 12497
-title: Son gratis
+title: "Son gratis"
 date: 2019-01-20T11:10:13
-slug: son-gratis
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12497
-originUrl: https://prixline.blog/2019/01/20/son-gratis/
+slug: "son-gratis"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12497"
+originUrl: "https://prixline.blog/2019/01/20/son-gratis/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

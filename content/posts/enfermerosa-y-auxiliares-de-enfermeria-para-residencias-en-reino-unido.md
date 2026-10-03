@@ -2,17 +2,17 @@
 id: 10882
 title: "Enfermeros/a y auxiliares de enfermería para Residencias en Reino&nbsp;Unido"
 date: 2015-11-07T14:29:12
-slug: enfermerosa-y-auxiliares-de-enfermeria-para-residencias-en-reino-unido
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10882
-originUrl: https://prixline.blog/2015/11/07/enfermerosa-y-auxiliares-de-enfermeria-para-residencias-en-reino-unido/
+slug: "enfermerosa-y-auxiliares-de-enfermeria-para-residencias-en-reino-unido"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10882"
+originUrl: "https://prixline.blog/2015/11/07/enfermerosa-y-auxiliares-de-enfermeria-para-residencias-en-reino-unido/"
 categories:
-  - empleo
-  - practicas
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - practicas
-  - prixline
-  - trabajo
+  - "practicas"
+  - "prixline"
+  - "trabajo"
 excerpt: "La Empres Roche Healthcare Ltd realiza selección de enfermeros/as y auxiliares de enfermería para residencias geriátricas ubicadas en Norte y Oeste de Yorkshire en Reino Unido. Requisitos: Auxiliares de Enfermería: – Técnico/a de Cuidados Auxiliares de Enfermería, Técnico/a en Atención Sociosanitaria, Técnico/a en Atención a Personas en situación de Dependencia. – Experiencia de al menso [&hellip;]"
 ---
 

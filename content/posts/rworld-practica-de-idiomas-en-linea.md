@@ -2,32 +2,32 @@
 id: 984
 title: "RWorld: práctica de idiomas en&nbsp;línea"
 date: 2012-10-16T12:36:52
-slug: rworld-practica-de-idiomas-en-linea
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/984
-originUrl: https://prixline.blog/2012/10/16/rworld-practica-de-idiomas-en-linea/
+slug: "rworld-practica-de-idiomas-en-linea"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/984"
+originUrl: "https://prixline.blog/2012/10/16/rworld-practica-de-idiomas-en-linea/"
 categories:
-  - cursos
-  - formacion
-  - migracion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "migracion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - becas y practicas
-  - curso
-  - cursos
-  - estudiar
-  - formacion
-  - gratis
-  - Homologacion
-  - Idiomas
-  - practicas
+  - "aprender"
+  - "autoaprendizaje"
+  - "becas y practicas"
+  - "curso"
+  - "cursos"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "Homologacion"
+  - "Idiomas"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
+  - "prix-line"
+  - "prixline"
+  - "recursos"
   - "vídeos"
 excerpt: "RWorld es una comunidad en línea donde se pueden practicar habilidades lingüísticas. Encontramos un entorno social lleno de actividades interactivas. Permite comunicarse y relacionarse con hablantes nativos y de nivel avanzado para mejorar las habilidades conversacionales en el idioma que se prefiera. Idiomas disponibles Pueden seleccionarse entre 24 idiomas para practicar: alemán, árabe, coreano, chino [&hellip;]"
 ---

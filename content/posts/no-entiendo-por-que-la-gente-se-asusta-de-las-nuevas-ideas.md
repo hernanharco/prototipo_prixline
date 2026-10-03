@@ -2,13 +2,13 @@
 id: 10458
 title: "No entiendo por que la gente se asusta de las nuevas&nbsp;ideas&#8230;."
 date: 2015-05-31T10:15:22
-slug: no-entiendo-por-que-la-gente-se-asusta-de-las-nuevas-ideas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10458
-originUrl: https://prixline.blog/2015/05/31/no-entiendo-por-que-la-gente-se-asusta-de-las-nuevas-ideas/
+slug: "no-entiendo-por-que-la-gente-se-asusta-de-las-nuevas-ideas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10458"
+originUrl: "https://prixline.blog/2015/05/31/no-entiendo-por-que-la-gente-se-asusta-de-las-nuevas-ideas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

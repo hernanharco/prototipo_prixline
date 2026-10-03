@@ -2,13 +2,13 @@
 id: 8349
 title: "Los límites"
 date: 2014-02-15T12:21:59
-slug: los-limites
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8349
-originUrl: https://prixline.blog/2014/02/15/los-limites/
+slug: "los-limites"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8349"
+originUrl: "https://prixline.blog/2014/02/15/los-limites/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

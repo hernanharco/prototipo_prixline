@@ -2,13 +2,13 @@
 id: 10190
 title: "El 60% de las empresas consulta las redes sociales en sus procesos de&nbsp;selección"
 date: 2015-02-13T09:59:00
-slug: el-60-de-las-empresas-consulta-las-redes-sociales-en-sus-procesos-de-seleccion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10190
-originUrl: https://prixline.blog/2015/02/13/el-60-de-las-empresas-consulta-las-redes-sociales-en-sus-procesos-de-seleccion/
+slug: "el-60-de-las-empresas-consulta-las-redes-sociales-en-sus-procesos-de-seleccion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10190"
+originUrl: "https://prixline.blog/2015/02/13/el-60-de-las-empresas-consulta-las-redes-sociales-en-sus-procesos-de-seleccion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: • El 23% de las empresas contratan a sus empleados a través de redes sociales y un 62%, otros canales on line, como los portales • En 1 de cada 3 procesos de selección se ha descartado al candidato por su actividad en medios sociales Barcelona 6 de&hellip;"
 ---
 

@@ -2,20 +2,20 @@
 id: 8601
 title: "Cursos de Tiempo Libre + Manipulador de&nbsp;Alimentos"
 date: 2014-03-14T12:30:21
-slug: cursos-de-tiempo-libre-manipulador-de-alimentos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8601
-originUrl: https://prixline.blog/2014/03/14/cursos-de-tiempo-libre-manipulador-de-alimentos/
+slug: "cursos-de-tiempo-libre-manipulador-de-alimentos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8601"
+originUrl: "https://prixline.blog/2014/03/14/cursos-de-tiempo-libre-manipulador-de-alimentos/"
 categories:
-  - cursos
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - curso
-  - Curso de Monitor de Ocio y Tiempo Libre
-  - prix-line
-  - prixline
-  - recursos
-  - tiempo-libre
+  - "curso"
+  - "Curso de Monitor de Ocio y Tiempo Libre"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "tiempo-libre"
 excerpt: "Originally posted on Mocedastur Blog: La Escuela de Animación Infantil y Juvenil Concepción Arenal organiza los siguientes cursos de Tiempo Libre: Curso de Monitor/a de Actividades de Tiempo Libre + Certificado de Manipulador de Alimentos Consta de una parte teórica de 150 horas de duración, y de una parte práctica de 80 horas y el desarrollo de&hellip;"
 ---
 

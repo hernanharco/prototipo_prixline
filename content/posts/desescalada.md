@@ -1,15 +1,15 @@
 ---
 id: 14131
-title: Desescalada
+title: "Desescalada"
 date: 2020-05-01T08:04:52
-slug: desescalada
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14131
-originUrl: https://prixline.blog/2020/05/01/desescalada/
+slug: "desescalada"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14131"
+originUrl: "https://prixline.blog/2020/05/01/desescalada/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
-excerpt: Desescalada
+  - "prixline"
+excerpt: "Desescalada"
 ---
 
 # Desescalada

@@ -2,13 +2,13 @@
 id: 11158
 title: "5 sencillos tips para mejorar tu imagen en redes&nbsp;sociales."
 date: 2016-03-11T15:49:23
-slug: 5-sencillos-tips-para-mejorar-tu-imagen-en-redes-sociales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11158
-originUrl: https://prixline.blog/2016/03/11/5-sencillos-tips-para-mejorar-tu-imagen-en-redes-sociales/
+slug: "5-sencillos-tips-para-mejorar-tu-imagen-en-redes-sociales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11158"
+originUrl: "https://prixline.blog/2016/03/11/5-sencillos-tips-para-mejorar-tu-imagen-en-redes-sociales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Publiteísta: ¿Quién no ha publicado un disparate en redes sociales? La verdad todos hemos sido victimas de las circunstancias, modas y sentimientos y hemos dejado que uno que otro desliz nos atrape incautos causando incómodas manchas dentro de nuestra impecable imagen pública. Hay qué recordar que nuestras redes sociales son&hellip;"
 ---
 

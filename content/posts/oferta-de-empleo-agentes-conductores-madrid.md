@@ -2,13 +2,13 @@
 id: 10846
 title: "OFERTA DE EMPLEO: AGENTES CONDUCTORES.&nbsp;MADRID"
 date: 2015-10-23T09:41:07
-slug: oferta-de-empleo-agentes-conductores-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10846
-originUrl: https://prixline.blog/2015/10/23/oferta-de-empleo-agentes-conductores-madrid/
+slug: "oferta-de-empleo-agentes-conductores-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10846"
+originUrl: "https://prixline.blog/2015/10/23/oferta-de-empleo-agentes-conductores-madrid/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: AGENTES CONDUCTORES Empresa dedicada al servicio de aparcamiento en Madrid, solicita incorporar personal con el siguiente perfil: REQUISITOS • Edad: 25 a 45 años. • Poseer carnet de conducir B: mínimo 3 años. • Competencias: Proactivos, dinámicos y Trabajo en equipo. FUNCIONES • Recoger y Trasladar vehículos de&hellip;"
 ---
 

@@ -2,21 +2,21 @@
 id: 9849
 title: "Cómo hacer una buena&nbsp;autocandidatura"
 date: 2014-11-11T17:23:12
-slug: como-hacer-una-buena-autocandidatura
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9849
-originUrl: https://prixline.blog/2014/11/11/como-hacer-una-buena-autocandidatura/
+slug: "como-hacer-una-buena-autocandidatura"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9849"
+originUrl: "https://prixline.blog/2014/11/11/como-hacer-una-buena-autocandidatura/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: En la búsqueda de empleo nos encontramos con múltiples opciones y alternativas. Aparte de inscribirnos a ofertas como medio tradicional para buscar, podemos optar por ser más proactivos y hacer llegar nuestro curriculum a una empresa mediante la autocandidatura. La autocandidatura es un procedimiento por medio del cual intentamos acceder a&hellip;"
 ---
 

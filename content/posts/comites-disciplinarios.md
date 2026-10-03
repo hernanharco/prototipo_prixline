@@ -2,17 +2,17 @@
 id: 8409
 title: "Comités disciplinarios"
 date: 2014-02-21T15:21:50
-slug: comites-disciplinarios
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8409
-originUrl: https://prixline.blog/2014/02/21/comites-disciplinarios/
+slug: "comites-disciplinarios"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8409"
+originUrl: "https://prixline.blog/2014/02/21/comites-disciplinarios/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - opiniones
-  - prixline
-  - Solidaridad
+  - "opinion"
+  - "opiniones"
+  - "prixline"
+  - "Solidaridad"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

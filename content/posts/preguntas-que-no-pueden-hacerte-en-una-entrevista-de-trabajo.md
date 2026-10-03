@@ -2,13 +2,13 @@
 id: 12565
 title: "Preguntas que no pueden hacerte en una entrevista de&nbsp;trabajo."
 date: 2019-03-12T13:52:45
-slug: preguntas-que-no-pueden-hacerte-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12565
-originUrl: https://prixline.blog/2019/03/12/preguntas-que-no-pueden-hacerte-en-una-entrevista-de-trabajo/
+slug: "preguntas-que-no-pueden-hacerte-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12565"
+originUrl: "https://prixline.blog/2019/03/12/preguntas-que-no-pueden-hacerte-en-una-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Son muchas las ocasiones en que no nos sentimos tranquilos ante ciertas preguntas en una entrevista de trabajo, muchas veces no sabemos si es sensación nuestra, que al estar inmersos en la presión de un proceso de este tipo, en el que se puede estar&hellip;"
 ---
 

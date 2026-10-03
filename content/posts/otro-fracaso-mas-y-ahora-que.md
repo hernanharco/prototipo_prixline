@@ -2,25 +2,25 @@
 id: 9105
 title: "Otro fracaso más&#8230;¿Y ahora&nbsp;qué?"
 date: 2014-06-13T16:03:00
-slug: otro-fracaso-mas-y-ahora-que
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9105
-originUrl: https://prixline.blog/2014/06/13/otro-fracaso-mas-y-ahora-que/
+slug: "otro-fracaso-mas-y-ahora-que"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9105"
+originUrl: "https://prixline.blog/2014/06/13/otro-fracaso-mas-y-ahora-que/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - autoaprendizaje
-  - opinion
-  - opiniones
-  - prixline
-  - Solidaridad
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "autoaprendizaje"
+  - "opinion"
+  - "opiniones"
+  - "prixline"
+  - "Solidaridad"
 excerpt: "Originally posted on El Principio de un Comienzo: “Cuando la derrota viene, acéptelo como una señal, de que sus planes no son sólidos, reconstruya esos planes y embárquese otra vez hacia su meta codiciada. Si se rinde antes que su meta haya sido alcanzada, usted es un “PERDEDOR” decía Napoleón Hill. Otra vez. Otro fracaso&hellip;"
 ---
 

@@ -2,21 +2,21 @@
 id: 9403
 title: "Recursos más humanos que nunca con&nbsp;Omanuh"
 date: 2014-08-26T10:57:12
-slug: recursos-mas-humanos-que-nunca-con-omanuh
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9403
-originUrl: https://prixline.blog/2014/08/26/recursos-mas-humanos-que-nunca-con-omanuh/
+slug: "recursos-mas-humanos-que-nunca-con-omanuh"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9403"
+originUrl: "https://prixline.blog/2014/08/26/recursos-mas-humanos-que-nunca-con-omanuh/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - opinion
-  - opiniones
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "opinion"
+  - "opiniones"
+  - "prixline"
 excerpt: "Originally posted on plandempleo: http://www.omanuh.com Volvemos de las vacaciones con las pilas más que cargadas y con ganas de difundir iniciativas, eventos y organizaciones que hagan de la búsqueda de empleo un camino un poco más fácil. Omanuh es una plataforma web que nace con la intención de dar la vuelta al proceso de selección&hellip;"
 ---
 

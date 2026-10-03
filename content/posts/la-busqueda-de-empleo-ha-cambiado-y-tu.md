@@ -2,13 +2,13 @@
 id: 10265
 title: "La búsqueda de empleo ha cambiado, ¿y&nbsp;tú?"
 date: 2015-03-12T10:11:34
-slug: la-busqueda-de-empleo-ha-cambiado-y-tu
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10265
-originUrl: https://prixline.blog/2015/03/12/la-busqueda-de-empleo-ha-cambiado-y-tu/
+slug: "la-busqueda-de-empleo-ha-cambiado-y-tu"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10265"
+originUrl: "https://prixline.blog/2015/03/12/la-busqueda-de-empleo-ha-cambiado-y-tu/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: A raíz del post “3 razones por las que no encontrarás trabajo en las redes sociales“, he recibido bastantes comentarios relacionados con la búsqueda de empleo en general. Algo que me ha llamado la atención es que hay gente que todavía tiene una alta resistencia a valorar siquiera las redes&hellip;"
 ---
 

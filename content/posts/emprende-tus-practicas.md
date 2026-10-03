@@ -2,13 +2,13 @@
 id: 11303
 title: "Emprende tus prácticas"
 date: 2016-05-27T12:56:01
-slug: emprende-tus-practicas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11303
-originUrl: https://prixline.blog/2016/05/27/emprende-tus-practicas/
+slug: "emprende-tus-practicas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11303"
+originUrl: "https://prixline.blog/2016/05/27/emprende-tus-practicas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: 45 plazas de prácticas de verano, con una dotación de 800 €/mes en el Programa “Emprende tus Prácticas” 10ª edición de Emprende tus Prácticas dirigido a estudiantes interesados en realizar prácticas en startups de base tecnológica repartidas en distintas ciudades españolas ( Ávila, Barcelona, La Rioja, Madrid, Orense&hellip;"
 ---
 

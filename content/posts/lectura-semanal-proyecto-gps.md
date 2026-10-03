@@ -2,21 +2,21 @@
 id: 6562
 title: "Lectura Semanal: Proyecto&nbsp;GPS."
 date: 2013-09-29T01:12:15
-slug: lectura-semanal-proyecto-gps
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6562
-originUrl: https://prixline.blog/2013/09/29/lectura-semanal-proyecto-gps/
+slug: "lectura-semanal-proyecto-gps"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6562"
+originUrl: "https://prixline.blog/2013/09/29/lectura-semanal-proyecto-gps/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "opinion"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on MarcaEmpleo: El Proyecto GPS es un conjunto de recursos de orientación académica y laboral, dirigida a jóvenes estudiantes con el objetivo de favorecer en el alumnado una toma de decisiones respecto a su futuro profesional centrada en sus capacidades, gustos, posibilidades de inserción laboral y libre de sesgos de género. El Proyecto&hellip;"
 ---
 

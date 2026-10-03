@@ -2,13 +2,13 @@
 id: 27199
 title: "Programa «Generación Docentes» de formación y prácticas en escuelas&nbsp;rurales"
 date: 2022-02-01T09:53:02
-slug: programa-generacion-docentes-de-formacion-y-practicas-en-escuelas-rurales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/27199
-originUrl: https://prixline.blog/2022/02/01/programa-generacion-docentes-de-formacion-y-practicas-en-escuelas-rurales/
+slug: "programa-generacion-docentes-de-formacion-y-practicas-en-escuelas-rurales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/27199"
+originUrl: "https://prixline.blog/2022/02/01/programa-generacion-docentes-de-formacion-y-practicas-en-escuelas-rurales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Periodo de inscripción Del 17/01/2022 al 31/03/2022 Fecha de celebración Cuatro meses de prácticas curriculares entre 1 de enero y 30 de junio de … Programa «Generación Docentes» de formación y prácticas en escuelas rurales La Fundación Princesa de Girona selecciona a 30 jóvenes estudiantes de Educación Infantil o Primaria para formar parte de la tercera edición [&hellip;]"
 ---
 

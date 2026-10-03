@@ -1,14 +1,14 @@
 ---
 id: 12334
-title: TRIUNFOS
+title: "TRIUNFOS"
 date: 2018-08-20T10:23:38
-slug: triunfos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12334
-originUrl: https://prixline.blog/2018/08/20/triunfos/
+slug: "triunfos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12334"
+originUrl: "https://prixline.blog/2018/08/20/triunfos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

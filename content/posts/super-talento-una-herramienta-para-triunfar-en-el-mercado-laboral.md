@@ -2,13 +2,13 @@
 id: 12628
 title: "Súper talento, una herramienta para triunfar en el mercado&nbsp;laboral."
 date: 2019-05-17T17:38:25
-slug: super-talento-una-herramienta-para-triunfar-en-el-mercado-laboral
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12628
-originUrl: https://prixline.blog/2019/05/17/super-talento-una-herramienta-para-triunfar-en-el-mercado-laboral/
+slug: "super-talento-una-herramienta-para-triunfar-en-el-mercado-laboral"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12628"
+originUrl: "https://prixline.blog/2019/05/17/super-talento-una-herramienta-para-triunfar-en-el-mercado-laboral/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Madrid, 6 de mayo de 2019.- Son muchas las preguntas que asaltan a los candidatos en el mercado laboral, pero hay una que se repite en todas las cabezas: ¿Tendré lo que buscan? Estudios y talento son las materias primas de un buen candidato, pero,&hellip;"
 ---
 

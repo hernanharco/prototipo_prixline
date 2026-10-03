@@ -3,12 +3,12 @@ id: 14016
 title: "PRIXLINE ✅ ¿Dónde Protejo Mis Ahorros?&nbsp;💰😃"
 date: 2020-04-02T20:15:35
 slug: "prixline-%e2%9c%85-donde-protejo-mis-ahorros-%f0%9f%92%b0%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14016
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14016"
 originUrl: "https://prixline.blog/2020/04/02/prixline-%e2%9c%85-donde-protejo-mis-ahorros-%f0%9f%92%b0%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

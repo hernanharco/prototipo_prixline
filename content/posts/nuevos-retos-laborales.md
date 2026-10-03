@@ -1,14 +1,14 @@
 ---
 id: 14060
-title: NUEVOS RETOS LABORALES
+title: "NUEVOS RETOS LABORALES"
 date: 2020-04-10T16:02:06
-slug: nuevos-retos-laborales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14060
-originUrl: https://prixline.blog/2020/04/10/nuevos-retos-laborales/
+slug: "nuevos-retos-laborales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14060"
+originUrl: "https://prixline.blog/2020/04/10/nuevos-retos-laborales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "La pandemia va a suponer un terremoto en en nuestras vidas, en lo personal, en lo social y también en lo profesional y no, no soy apocalíptico, soy … NUEVOS RETOS LABORALES"
 ---
 

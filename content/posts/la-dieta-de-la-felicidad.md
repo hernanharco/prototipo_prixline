@@ -2,13 +2,13 @@
 id: 10377
 title: "La dieta de la&nbsp;Felicidad"
 date: 2015-05-01T13:20:47
-slug: la-dieta-de-la-felicidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10377
-originUrl: https://prixline.blog/2015/05/01/la-dieta-de-la-felicidad/
+slug: "la-dieta-de-la-felicidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10377"
+originUrl: "https://prixline.blog/2015/05/01/la-dieta-de-la-felicidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

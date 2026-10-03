@@ -2,13 +2,13 @@
 id: 10556
 title: "Certificado de Profesionalidad: dónde lo solicito y qué&nbsp;presento"
 date: 2015-07-10T21:08:10
-slug: certificado-de-profesionalidad-donde-lo-solicito-y-que-presento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10556
-originUrl: https://prixline.blog/2015/07/10/certificado-de-profesionalidad-donde-lo-solicito-y-que-presento/
+slug: "certificado-de-profesionalidad-donde-lo-solicito-y-que-presento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10556"
+originUrl: "https://prixline.blog/2015/07/10/certificado-de-profesionalidad-donde-lo-solicito-y-que-presento/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: Yo tengo como véiis un Certificado de Profesionalidad muy especial que me lo expidió un alumno/amigo del último curso que impartí de Docencia de la Formación Profesional para el Empleo y que me hizo mucha ilusión. Pero hoy no voy a hablar de lo Fantástica y Maravillosa que&hellip;"
 ---
 

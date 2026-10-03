@@ -2,18 +2,18 @@
 id: 7678
 title: "Nuestra alumna Nerea&nbsp;García"
 date: 2013-12-05T11:44:04
-slug: nuestra-alumna-nerea-garcia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7678
-originUrl: https://prixline.blog/2013/12/05/nuestra-alumna-nerea-garcia/
+slug: "nuestra-alumna-nerea-garcia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7678"
+originUrl: "https://prixline.blog/2013/12/05/nuestra-alumna-nerea-garcia/"
 categories:
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - educadores
-  - gratis
-  - prixline
-  - Solidaridad
+  - "educadores"
+  - "gratis"
+  - "prixline"
+  - "Solidaridad"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Campaña solidaria de recogida de juguetes La chica que veis en la foto se llama Nerea y está estudiando 1º CFGS Administración y Finanzas en TEIDE Quintana (TEIDE IV). Pertenece al Colectivo de Voluntarios del Atlético de Madrid. Este año están colaborando en una campaña solidaria de recogida&hellip;"
 ---
 

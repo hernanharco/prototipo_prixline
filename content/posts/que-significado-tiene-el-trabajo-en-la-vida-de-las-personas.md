@@ -2,22 +2,22 @@
 id: 4752
 title: "¿ Qué significado tiene el trabajo en la vida de las personas&nbsp;?"
 date: 2013-06-17T01:10:02
-slug: que-significado-tiene-el-trabajo-en-la-vida-de-las-personas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4752
-originUrl: https://prixline.blog/2013/06/17/que-significado-tiene-el-trabajo-en-la-vida-de-las-personas/
+slug: "que-significado-tiene-el-trabajo-en-la-vida-de-las-personas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4752"
+originUrl: "https://prixline.blog/2013/06/17/que-significado-tiene-el-trabajo-en-la-vida-de-las-personas/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - trabajo
+  - "aprender"
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Partimos de la idea de que el trabajo es la manera en que los individuos obtienen unos ingresos económicos para poder sobrevivir . Esta afirmación es cierta pero no debería ser esta nuestra única visión porque no refleja el valor que realmente aporta en la vida de cada personas&hellip;"
 ---
 

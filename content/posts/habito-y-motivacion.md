@@ -2,13 +2,13 @@
 id: 12434
 title: "Hábito  y Motivación"
 date: 2018-11-18T12:24:16
-slug: habito-y-motivacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12434
-originUrl: https://prixline.blog/2018/11/18/habito-y-motivacion/
+slug: "habito-y-motivacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12434"
+originUrl: "https://prixline.blog/2018/11/18/habito-y-motivacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

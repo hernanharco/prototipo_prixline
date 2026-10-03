@@ -2,13 +2,13 @@
 id: 10353
 title: "7 cosas a tener en cuenta cuando nos sentimos desanimados y&nbsp;derrotados"
 date: 2015-04-22T09:23:56
-slug: 7-cosas-a-tener-en-cuenta-cuando-nos-sentimos-desanimados-y-derrotados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10353
-originUrl: https://prixline.blog/2015/04/22/7-cosas-a-tener-en-cuenta-cuando-nos-sentimos-desanimados-y-derrotados/
+slug: "7-cosas-a-tener-en-cuenta-cuando-nos-sentimos-desanimados-y-derrotados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10353"
+originUrl: "https://prixline.blog/2015/04/22/7-cosas-a-tener-en-cuenta-cuando-nos-sentimos-desanimados-y-derrotados/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: (Aviso a los navegantes, es un poco largo de leer, tiempo estimado 4:00min.) Esta mañana, como podría ser cualquier mañana vivida con anterioridad, no tenía ganas de hacer nada. Es una combinación de agotamiento de unos días de duro trabajo, y&hellip;"
 ---
 

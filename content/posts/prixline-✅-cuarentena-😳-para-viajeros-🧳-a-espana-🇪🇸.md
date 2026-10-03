@@ -3,14 +3,14 @@ id: 14167
 title: "PRIXLINE ✅ Cuarentena 😳 para Viajeros 🧳 a España&nbsp;🇪🇸"
 date: 2020-05-13T20:06:27
 slug: "prixline-%e2%9c%85-cuarentena-%f0%9f%98%b3-para-viajeros-%f0%9f%a7%b3-a-espana-%f0%9f%87%aa%f0%9f%87%b8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14167
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14167"
 originUrl: "https://prixline.blog/2020/05/13/prixline-%e2%9c%85-cuarentena-%f0%9f%98%b3-para-viajeros-%f0%9f%a7%b3-a-espana-%f0%9f%87%aa%f0%9f%87%b8/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

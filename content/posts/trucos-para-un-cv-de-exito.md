@@ -2,13 +2,13 @@
 id: 14725
 title: "Trucos para un CV de&nbsp;éxito."
 date: 2020-08-30T11:08:46
-slug: trucos-para-un-cv-de-exito
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14725
-originUrl: https://prixline.blog/2020/08/30/trucos-para-un-cv-de-exito/
+slug: "trucos-para-un-cv-de-exito"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14725"
+originUrl: "https://prixline.blog/2020/08/30/trucos-para-un-cv-de-exito/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "El curriculum vitae se ha convertido en una de las herramientas más importantes para encontrar el trabajo deseado. La redacción de este documento … Trucos para un CV de éxito. Analiza cada oferta y busca cada una de esas palabras clave para añadirlas en tu curriculum siempre que coincidan con tu perfil de puesto."
 ---
 

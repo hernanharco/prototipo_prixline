@@ -2,17 +2,17 @@
 id: 11170
 title: "Curso de Monitor Ciclo Indoor&nbsp;Spinning"
 date: 2016-03-11T17:52:06
-slug: curso-de-monitor-ciclo-indoor-spinning
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11170
-originUrl: https://prixline.blog/2016/03/11/curso-de-monitor-ciclo-indoor-spinning/
+slug: "curso-de-monitor-ciclo-indoor-spinning"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11170"
+originUrl: "https://prixline.blog/2016/03/11/curso-de-monitor-ciclo-indoor-spinning/"
 categories:
-  - empleo
-  - formacion
-  - recursos
+  - "empleo"
+  - "formacion"
+  - "recursos"
 originCategories:
-  - formacion
-  - recursos
-  - Trabajo
+  - "formacion"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Con este curso se te abrirán las puertas a un mundo laboral con una gran salida, como monitor de Ciclo Indoor. Además con las prácticas incluidas pondrás en práctica todos los conocimientos adquiridos en el curso. En nuestra academia de formación te ofrecemos, en el curso de ciclo indoor, las nociones básicas en lo referente [&hellip;]"
 ---
 

@@ -2,13 +2,13 @@
 id: 11458
 title: "Tú eres Empleo"
 date: 2016-08-20T20:55:25
-slug: tu-eres-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11458
-originUrl: https://prixline.blog/2016/08/20/tu-eres-empleo/
+slug: "tu-eres-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11458"
+originUrl: "https://prixline.blog/2016/08/20/tu-eres-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on PSICOLOGIA EDUARDO ORTEGA: En el gran juego del empleo, la que juega es sobre todo la empresa. Tú no eres más que un peón, y el empleo que te reservan es un regalo que te hacen. Lo que tienes que hacer es dar las gracias por el contrato que te han ofrecido,&hellip;"
 ---
 

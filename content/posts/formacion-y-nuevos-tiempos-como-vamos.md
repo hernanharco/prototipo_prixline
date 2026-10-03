@@ -2,13 +2,13 @@
 id: 13168
 title: "Formación y nuevos tiempos: ¿Cómo&nbsp;vamos?"
 date: 2019-10-23T13:56:19
-slug: formacion-y-nuevos-tiempos-como-vamos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13168
-originUrl: https://prixline.blog/2019/10/23/formacion-y-nuevos-tiempos-como-vamos/
+slug: "formacion-y-nuevos-tiempos-como-vamos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13168"
+originUrl: "https://prixline.blog/2019/10/23/formacion-y-nuevos-tiempos-como-vamos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: En algunas de mis entradas anteriores he tratado el tema de la formación que está siendo, y será, necesaria para los requerimientos de la cuarta revolución industrial (Industria 4.0) a la que estamos asistiendo. Seguimos hablando sobre el empleo que destruirán los robots y la Inteligencia artificial (IA),&hellip;"
 ---
 

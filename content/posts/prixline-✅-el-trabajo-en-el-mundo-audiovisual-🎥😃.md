@@ -3,12 +3,12 @@ id: 12675
 title: "PRIXLINE ✅ El Trabajo en el Mundo Audiovisual&nbsp;🎥😃"
 date: 2019-06-18T11:37:17
 slug: "prixline-%e2%9c%85-el-trabajo-en-el-mundo-audiovisual-%f0%9f%8e%a5%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12675
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12675"
 originUrl: "https://prixline.blog/2019/06/18/prixline-%e2%9c%85-el-trabajo-en-el-mundo-audiovisual-%f0%9f%8e%a5%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

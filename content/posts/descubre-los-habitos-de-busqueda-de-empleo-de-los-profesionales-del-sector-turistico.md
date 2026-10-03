@@ -2,13 +2,13 @@
 id: 12031
 title: "Descubre los hábitos de búsqueda de empleo de los profesionales del sector&nbsp;turístico."
 date: 2017-09-06T11:03:26
-slug: descubre-los-habitos-de-busqueda-de-empleo-de-los-profesionales-del-sector-turistico
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12031
-originUrl: https://prixline.blog/2017/09/06/descubre-los-habitos-de-busqueda-de-empleo-de-los-profesionales-del-sector-turistico/
+slug: "descubre-los-habitos-de-busqueda-de-empleo-de-los-profesionales-del-sector-turistico"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12031"
+originUrl: "https://prixline.blog/2017/09/06/descubre-los-habitos-de-busqueda-de-empleo-de-los-profesionales-del-sector-turistico/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Bajo una visión de crecimiento e innovación en el mercado de empleo en el sector turístico, Turijobs ha realizado una encuesta de satisfacción en los países que opera actualmente: España, México y Portugal. La finalidad de este estudio es conocer el comportamiento y las necesidades de los profesionales de&hellip;"
 ---
 

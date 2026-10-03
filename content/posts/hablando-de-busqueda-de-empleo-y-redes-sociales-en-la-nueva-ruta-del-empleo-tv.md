@@ -2,13 +2,13 @@
 id: 10013
 title: "Hablando de búsqueda de empleo y redes sociales en La Nueva Ruta del Empleo&nbsp;TV."
 date: 2014-12-27T14:10:13
-slug: hablando-de-busqueda-de-empleo-y-redes-sociales-en-la-nueva-ruta-del-empleo-tv
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10013
-originUrl: https://prixline.blog/2014/12/27/hablando-de-busqueda-de-empleo-y-redes-sociales-en-la-nueva-ruta-del-empleo-tv/
+slug: "hablando-de-busqueda-de-empleo-y-redes-sociales-en-la-nueva-ruta-del-empleo-tv"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10013"
+originUrl: "https://prixline.blog/2014/12/27/hablando-de-busqueda-de-empleo-y-redes-sociales-en-la-nueva-ruta-del-empleo-tv/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Este viernes 26 de diciembre, así como regalo de Navidad, se ha emitido la entrevista que realizamos para el programa de televisión La Nueva Ruta del Empleo, de TeleRibera. Comparto con vosotros el vídeo porque durante aprox. 15 minutos charlamos junto a José Ramón Villaverde&hellip;"
 ---
 

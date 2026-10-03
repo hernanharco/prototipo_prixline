@@ -3,12 +3,12 @@ id: 12290
 title: "PRIXLINE ✅ La chica nómada&nbsp;🐫🐪"
 date: 2018-06-29T10:05:38
 slug: "prixline-%e2%9c%85-la-chica-nomada-%f0%9f%90%ab%f0%9f%90%aa"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12290
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12290"
 originUrl: "https://prixline.blog/2018/06/29/prixline-%e2%9c%85-la-chica-nomada-%f0%9f%90%ab%f0%9f%90%aa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,21 +2,21 @@
 id: 8511
 title: "Prácticas profesionales no&nbsp;laborales"
 date: 2014-03-05T10:00:38
-slug: practicas-profesionales-no-laborales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8511
-originUrl: https://prixline.blog/2014/03/05/practicas-profesionales-no-laborales/
+slug: "practicas-profesionales-no-laborales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8511"
+originUrl: "https://prixline.blog/2014/03/05/practicas-profesionales-no-laborales/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - becas y practicas
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
+  - "b83066696"
+  - "becas y practicas"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : TEIDE-HEASE, Centros colaboradores en la Formación para el Empleo Como Centro colaborador en la Formación para el Empleo ofrecemos la posibilidad de mediar para proporcionar alumnos en prácticas no laborales. Este programa de prácticas permitirá contactar a posibles trabajadores y verificar sus capacidades y rendimiento profesional. Los alumnos&hellip;"
 ---
 

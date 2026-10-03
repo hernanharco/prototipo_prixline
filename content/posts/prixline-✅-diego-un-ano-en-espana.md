@@ -3,12 +3,12 @@ id: 19118
 title: "PRIXLINE ✅ Diego, Un Año en&nbsp;España&#8230;"
 date: 2021-02-21T15:18:47
 slug: "prixline-%e2%9c%85-diego-un-ano-en-espana"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/19118
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/19118"
 originUrl: "https://prixline.blog/2021/02/21/prixline-%e2%9c%85-diego-un-ano-en-espana/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

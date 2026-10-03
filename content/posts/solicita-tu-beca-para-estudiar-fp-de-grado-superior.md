@@ -2,13 +2,13 @@
 id: 10336
 title: "Solicita tu beca para estudiar FP de Grado&nbsp;Superior"
 date: 2015-04-12T16:37:12
-slug: solicita-tu-beca-para-estudiar-fp-de-grado-superior
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10336
-originUrl: https://prixline.blog/2015/04/12/solicita-tu-beca-para-estudiar-fp-de-grado-superior/
+slug: "solicita-tu-beca-para-estudiar-fp-de-grado-superior"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10336"
+originUrl: "https://prixline.blog/2015/04/12/solicita-tu-beca-para-estudiar-fp-de-grado-superior/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Desde tu móvil Fotografía este código BiDi y reserva tu plaza para estudiar con beca un FP Grado Superior, y disfruta del fin de semana. ¡Solo hasta el 20 de abril!"
 ---
 

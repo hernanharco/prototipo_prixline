@@ -2,18 +2,18 @@
 id: 10814
 title: "Todo en uno: Contrato para la formación y el&nbsp;aprendizaje"
 date: 2015-10-08T01:43:44
-slug: todo-en-uno-contrato-para-la-formacion-y-el-aprendizaje
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10814
-originUrl: https://prixline.blog/2015/10/08/todo-en-uno-contrato-para-la-formacion-y-el-aprendizaje/
+slug: "todo-en-uno-contrato-para-la-formacion-y-el-aprendizaje"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10814"
+originUrl: "https://prixline.blog/2015/10/08/todo-en-uno-contrato-para-la-formacion-y-el-aprendizaje/"
 categories:
-  - formacion
-  - practicas
-  - sin-categoria
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas y practicas
-  - Certificado de Profesionalidad
-  - prixline
+  - "aprender"
+  - "becas y practicas"
+  - "Certificado de Profesionalidad"
+  - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Te imaginas que te contratasen durante al menos un año mientras te preparas para ejercer esa profesión? Suena bien ¿verdad? Poder obtener una titulación que te cualifique profesionalmente y a la vez sumar meses de experiencia remunerada. Pues ya está inventado. Se llama contrato para la formación y el aprendizaje&hellip;"
 ---
 

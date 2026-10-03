@@ -1,14 +1,14 @@
 ---
 id: 10856
-title: Recuerda
+title: "Recuerda"
 date: 2015-10-27T10:50:00
-slug: recuerda
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10856
-originUrl: https://prixline.blog/2015/10/27/recuerda/
+slug: "recuerda"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10856"
+originUrl: "https://prixline.blog/2015/10/27/recuerda/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

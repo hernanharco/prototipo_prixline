@@ -2,13 +2,13 @@
 id: 12182
 title: "¿Qué podemos aprender de la comunidad de&nbsp;YouTube?"
 date: 2018-03-03T17:15:16
-slug: que-podemos-aprender-de-la-comunidad-de-youtube
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12182
-originUrl: https://prixline.blog/2018/03/03/que-podemos-aprender-de-la-comunidad-de-youtube/
+slug: "que-podemos-aprender-de-la-comunidad-de-youtube"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12182"
+originUrl: "https://prixline.blog/2018/03/03/que-podemos-aprender-de-la-comunidad-de-youtube/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

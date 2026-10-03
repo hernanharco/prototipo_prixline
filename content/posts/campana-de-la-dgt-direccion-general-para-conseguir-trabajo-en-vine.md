@@ -2,20 +2,20 @@
 id: 5407
 title: "Campaña de la DGT (Dirección General para conseguir #Trabajo) en&nbsp;Vine"
 date: 2013-08-09T18:06:48
-slug: campana-de-la-dgt-direccion-general-para-conseguir-trabajo-en-vine
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5407
-originUrl: https://prixline.blog/2013/08/09/campana-de-la-dgt-direccion-general-para-conseguir-trabajo-en-vine/
+slug: "campana-de-la-dgt-direccion-general-para-conseguir-trabajo-en-vine"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5407"
+originUrl: "https://prixline.blog/2013/08/09/campana-de-la-dgt-direccion-general-para-conseguir-trabajo-en-vine/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on Dial 2.0: Hay veces que necesitamos leer un libro, escuchar música o salir a correr para encontrar inspiración. Fue así como se me ocurrió que debía viralizar (intentarlo al menos) mi marca personal. Vi un cartel en la autopista y una cosa llevó a la otra. Pensé que en vez de poner Majadahonda,&hellip;"
 ---
 

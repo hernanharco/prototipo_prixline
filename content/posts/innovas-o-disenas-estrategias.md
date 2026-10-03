@@ -2,17 +2,17 @@
 id: 11113
 title: "¿Innovas o diseñas&nbsp;estrategias?"
 date: 2016-02-19T15:04:11
-slug: innovas-o-disenas-estrategias
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11113
-originUrl: https://prixline.blog/2016/02/19/innovas-o-disenas-estrategias/
+slug: "innovas-o-disenas-estrategias"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11113"
+originUrl: "https://prixline.blog/2016/02/19/innovas-o-disenas-estrategias/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
-  - Trabajo
+  - "opiniones"
+  - "prixline"
+  - "Trabajo"
 excerpt: "Es hora de tomar la innovación en serio, porque los números no engañan -muchas personas empiezan a estar fuera de los márgenes de la empleabilidad y muchas otras lo estarán a corto plazo- y los cambios se imponen sin tener en cuenta si nuestra sociedad está laboralmente preparada para asumirlos. Innovar es crear oportunidades, unir [&hellip;]"
 ---
 

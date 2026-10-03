@@ -2,23 +2,23 @@
 id: 8879
 title: "El Joven que queria ser&nbsp;Gerente."
 date: 2014-05-03T09:41:06
-slug: el-joven-que-queria-ser-gerente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8879
-originUrl: https://prixline.blog/2014/05/03/el-joven-que-queria-ser-gerente/
+slug: "el-joven-que-queria-ser-gerente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8879"
+originUrl: "https://prixline.blog/2014/05/03/el-joven-que-queria-ser-gerente/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - autoaprendizaje
-  - opinion
-  - prixline
-  - Trabajo
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "autoaprendizaje"
+  - "opinion"
+  - "prixline"
+  - "Trabajo"
 excerpt: "Originally posted on Attack Mars by NeuroMars: Un joven fue a solicitar un puesto gerencial en una empresa grande. Pasó la entrevista inicial y ahora iba a conocer al director para la entrevista final. El director vio en su CV sus logros académicos y eran excelentes. Y le preguntó: ” ¿Recibió alguna beca en la&hellip;"
 ---
 

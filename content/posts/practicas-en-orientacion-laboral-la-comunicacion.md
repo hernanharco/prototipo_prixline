@@ -2,13 +2,13 @@
 id: 11890
 title: "Prácticas en orientación laboral: La&nbsp;comunicación."
 date: 2017-05-16T13:42:06
-slug: practicas-en-orientacion-laboral-la-comunicacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11890
-originUrl: https://prixline.blog/2017/05/16/practicas-en-orientacion-laboral-la-comunicacion/
+slug: "practicas-en-orientacion-laboral-la-comunicacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11890"
+originUrl: "https://prixline.blog/2017/05/16/practicas-en-orientacion-laboral-la-comunicacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,23 +2,23 @@
 id: 8424
 title: "Vídeo de Mike Rowe en TED: ¡celebrando al trabajo, cualquier tipo de&nbsp;trabajo!"
 date: 2014-02-23T10:53:24
-slug: video-de-mike-rowe-en-ted-celebrando-al-trabajo-cualquier-tipo-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8424
-originUrl: https://prixline.blog/2014/02/23/video-de-mike-rowe-en-ted-celebrando-al-trabajo-cualquier-tipo-de-trabajo/
+slug: "video-de-mike-rowe-en-ted-celebrando-al-trabajo-cualquier-tipo-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8424"
+originUrl: "https://prixline.blog/2014/02/23/video-de-mike-rowe-en-ted-celebrando-al-trabajo-cualquier-tipo-de-trabajo/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
   - "vídeos"
 excerpt: "Originally posted on Transform The World Artistically: ¡Hola! Acabo de llegar de trabajar…son las 3 am hora de España, y como no puedo dormirme sin relajarme un rato…me he puesto a ver vídeos de TED (http://www.ted.com/; charlas de 20 minutos que dan personas significativas con experiencias y conocimiento muy interesantes de todo el mundo). Y&hellip;"
 ---

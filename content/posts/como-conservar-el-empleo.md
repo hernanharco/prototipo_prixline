@@ -2,13 +2,13 @@
 id: 10351
 title: "Como conservar el&nbsp;empleo"
 date: 2015-04-20T15:26:34
-slug: como-conservar-el-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10351
-originUrl: https://prixline.blog/2015/04/20/como-conservar-el-empleo/
+slug: "como-conservar-el-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10351"
+originUrl: "https://prixline.blog/2015/04/20/como-conservar-el-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: Dado la situación que nos encontramos poder conservar o conseguir ese empleo que tanto queremos puede resultar ser una auténtica pesadilla. Muchas personas les es difícil conservar el empleo ya sea por la situación o porque sencillamente no supieron como conservarlo por no adaptarse a los cambios, clima laboral,&hellip;"
 ---
 

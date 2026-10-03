@@ -2,21 +2,21 @@
 id: 9901
 title: "Olalla y María&nbsp;José"
 date: 2014-11-23T12:41:28
-slug: olalla-y-maria-jose
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9901
-originUrl: https://prixline.blog/2014/11/23/olalla-y-maria-jose/
+slug: "olalla-y-maria-jose"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9901"
+originUrl: "https://prixline.blog/2014/11/23/olalla-y-maria-jose/"
 categories:
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - formacion
-  - opiniones
-  - Premios
-  - prix-line
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "formacion"
+  - "opiniones"
+  - "Premios"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on Arcilla y fuego: Las creaciones de mis alumnos Selección de piezas realizadas por los alumnos de cerámica creativa y alfarería durante los cursos Poseidón Diseño y creación de Olalla El beso Diseño y creación de María José Jugando con arcilla … modelando ideas Iniciándose en el apasionante mundo de la cerámica. Belén&hellip;"
 ---
 

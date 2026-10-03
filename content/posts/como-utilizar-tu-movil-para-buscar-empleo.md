@@ -2,13 +2,13 @@
 id: 10516
 title: "Cómo utilizar tu móvil para buscar&nbsp;empleo"
 date: 2015-06-30T16:31:15
-slug: como-utilizar-tu-movil-para-buscar-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10516
-originUrl: https://prixline.blog/2015/06/30/como-utilizar-tu-movil-para-buscar-empleo/
+slug: "como-utilizar-tu-movil-para-buscar-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10516"
+originUrl: "https://prixline.blog/2015/06/30/como-utilizar-tu-movil-para-buscar-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: La mayoría de nosotros/as tenemos un teléfono móvil con internet, un smartphone que casi lo utilizamos más para hacer fotos y jugar que para hablar, que era su función original. Asociamos el uso del móvil a algo lúdico y de ocio, en general, pero también podemos utilizar nuestro smartphone para buscar empleo. De hecho, muchas&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11648
 title: "Bejob, cursos de Marketing Digital online a precios&nbsp;«mini»"
 date: 2016-12-15T15:29:45
-slug: bejob-cursos-de-marketing-digital-online-a-precios-mini
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11648
-originUrl: https://prixline.blog/2016/12/15/bejob-cursos-de-marketing-digital-online-a-precios-mini/
+slug: "bejob-cursos-de-marketing-digital-online-a-precios-mini"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11648"
+originUrl: "https://prixline.blog/2016/12/15/bejob-cursos-de-marketing-digital-online-a-precios-mini/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Luces y Sombras de las Marcas: Los profesionales del marketing necesitamos estar en formación continua, ya que los cambios que se producen a diario en el sector, sobre todo desde la llegada de las nuevas tecnologías, hacen que nuestros conocimientos se tengan que ir adaptando a las novedades y aprender nuevas técnicas&hellip;"
 ---
 

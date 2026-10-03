@@ -2,19 +2,19 @@
 id: 5448
 title: "¿ Y TÚ QUÉ TIENES ? ¿ SUERTE O TALENTO&nbsp;?"
 date: 2013-08-12T14:35:28
-slug: y-tu-que-tienes-suerte-o-talento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5448
-originUrl: https://prixline.blog/2013/08/12/y-tu-que-tienes-suerte-o-talento/
+slug: "y-tu-que-tienes-suerte-o-talento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5448"
+originUrl: "https://prixline.blog/2013/08/12/y-tu-que-tienes-suerte-o-talento/"
 categories:
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on BLOG ENTREVISTARTE: ¿ Las personas con talento nacen, o se hacen? Esta es una pregunta a la que seguro te has enfrentado en algún momento de tu vida…Lo que parece claro, es que el talento puede desarrollarse y además, no sólo poseemos un único talento, sino muchos. Para desarrollar nuestros talentos es&hellip;"
 ---
 

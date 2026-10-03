@@ -3,12 +3,12 @@ id: 11506
 title: "Excelente, esto SÍ es ¡actitud!&nbsp;👏👏👍"
 date: 2016-09-12T11:05:59
 slug: "excelente-esto-si-es-actitud-%f0%9f%91%8f%f0%9f%91%8f%f0%9f%91%8d"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11506
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11506"
 originUrl: "https://prixline.blog/2016/09/12/excelente-esto-si-es-actitud-%f0%9f%91%8f%f0%9f%91%8f%f0%9f%91%8d/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

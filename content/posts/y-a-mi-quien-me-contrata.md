@@ -2,21 +2,21 @@
 id: 8004
 title: "¿Y a mí quién me&nbsp;contrata?"
 date: 2014-01-07T16:18:18
-slug: y-a-mi-quien-me-contrata
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8004
-originUrl: https://prixline.blog/2014/01/07/y-a-mi-quien-me-contrata/
+slug: "y-a-mi-quien-me-contrata"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8004"
+originUrl: "https://prixline.blog/2014/01/07/y-a-mi-quien-me-contrata/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - educadores
-  - empleo
-  - formacion
-  - opinion
-  - prixline
+  - "educadores"
+  - "empleo"
+  - "formacion"
+  - "opinion"
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: Hace varias semanas estuve orientando a una persona con respecto a un cambio profesional que quería hacer. Tenía bastantes dudas de cómo reorientar su carrera profesional. Se encontraba en una encrucijada entre dos opciones: seguir su carrerra profesional tal cual la había estado desarrollando hasta ahora, o por el contrario&hellip;"
 ---
 

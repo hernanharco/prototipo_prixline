@@ -2,13 +2,13 @@
 id: 12293
 title: "¿Qué es Agile RRHH?&nbsp;(I)"
 date: 2018-06-30T19:05:34
-slug: que-es-agile-rrhh-i
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12293
-originUrl: https://prixline.blog/2018/06/30/que-es-agile-rrhh-i/
+slug: "que-es-agile-rrhh-i"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12293"
+originUrl: "https://prixline.blog/2018/06/30/que-es-agile-rrhh-i/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : En los últimos tiempos leía mucho sobre este concepto aunque tenía una idea de en que consistía por artículos como los que elaboran Marc Vigilante, Andrés Ortega, Virginio Gallardo etc he decidido investigar por mi cuenta y porque no decir que yo también tengo que seguir aprendiendo cosas en este mundillo&hellip;"
 ---
 

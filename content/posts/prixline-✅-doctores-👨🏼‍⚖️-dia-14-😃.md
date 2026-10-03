@@ -3,12 +3,12 @@ id: 13990
 title: "PRIXLINE ✅ Doctores 👨🏼‍⚖️ (Día 14)&nbsp;😃"
 date: 2020-03-30T09:56:03
 slug: "prixline-%e2%9c%85-doctores-%f0%9f%91%a8%f0%9f%8f%bc%e2%80%8d%e2%9a%96%ef%b8%8f-dia-14-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13990
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13990"
 originUrl: "https://prixline.blog/2020/03/30/prixline-%e2%9c%85-doctores-%f0%9f%91%a8%f0%9f%8f%bc%e2%80%8d%e2%9a%96%ef%b8%8f-dia-14-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

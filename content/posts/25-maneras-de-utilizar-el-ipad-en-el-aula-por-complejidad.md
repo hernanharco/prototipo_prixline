@@ -2,13 +2,13 @@
 id: 10279
 title: "25 Maneras de Utilizar el iPad en el Aula por&nbsp;Complejidad"
 date: 2015-03-15T11:36:42
-slug: 25-maneras-de-utilizar-el-ipad-en-el-aula-por-complejidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10279
-originUrl: https://prixline.blog/2015/03/15/25-maneras-de-utilizar-el-ipad-en-el-aula-por-complejidad/
+slug: "25-maneras-de-utilizar-el-ipad-en-el-aula-por-complejidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10279"
+originUrl: "https://prixline.blog/2015/03/15/25-maneras-de-utilizar-el-ipad-en-el-aula-por-complejidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Eduarea's Blog: El uso del iPad en entornos de aprendizaje formal, a decir de muchos, está en alza. Debido a las formas casi mágicas que promueve la interacción, eso tiene sentido. Pero cuando los alumnos están utilizando el iPad, ¿qué están haciendo? ¿Qué es exactamente? A menudo la novedad de la&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11847
 title: "Las redes sociales en la búsqueda de&nbsp;empleo."
 date: 2017-04-12T13:53:46
-slug: las-redes-sociales-en-la-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11847
-originUrl: https://prixline.blog/2017/04/12/las-redes-sociales-en-la-busqueda-de-empleo/
+slug: "las-redes-sociales-en-la-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11847"
+originUrl: "https://prixline.blog/2017/04/12/las-redes-sociales-en-la-busqueda-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hace unos meses repasábamos los 10 mandamientos de la búsqueda de empleo en redes sociales. En primer lugar, señalábamos que nunca debemos abandonar los canales tradicionales a favor de las mismas. De hecho, un gran error es apostar todas nuestras cartas a las populares redes, ya&hellip;"
 ---
 

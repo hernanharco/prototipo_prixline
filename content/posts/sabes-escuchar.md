@@ -2,13 +2,13 @@
 id: 11582
 title: "¿Sabes escuchar?"
 date: 2016-10-18T00:16:52
-slug: sabes-escuchar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11582
-originUrl: https://prixline.blog/2016/10/18/sabes-escuchar/
+slug: "sabes-escuchar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11582"
+originUrl: "https://prixline.blog/2016/10/18/sabes-escuchar/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on merceroura: Si eres de esas personas que cuando alguien te cuenta su historia está pensando qué va a contestar o interrumpe no sabes escuchar. La escucha activa se practica con todo el cuerpo. Con los ojos, los pies, las manos y la actitud con la que te mueves. Es una forma de&hellip;"
 ---
 

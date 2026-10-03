@@ -2,19 +2,19 @@
 id: 11127
 title: "La opinión y el comentario de Rosa sobre el Curso de&nbsp;PRIXLINE"
 date: 2016-02-28T12:18:36
-slug: la-opinion-y-el-comentario-de-rosa-sobre-el-curso-de-prixline
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11127
-originUrl: https://prixline.blog/2016/02/28/la-opinion-y-el-comentario-de-rosa-sobre-el-curso-de-prixline/
+slug: "la-opinion-y-el-comentario-de-rosa-sobre-el-curso-de-prixline"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11127"
+originUrl: "https://prixline.blog/2016/02/28/la-opinion-y-el-comentario-de-rosa-sobre-el-curso-de-prixline/"
 categories:
-  - cursos
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
   - "Curso Auxiliar Geriatría"
-  - opinion
-  - prixline
-  - semipresencial
+  - "opinion"
+  - "prixline"
+  - "semipresencial"
 excerpt: ""
 ---
 

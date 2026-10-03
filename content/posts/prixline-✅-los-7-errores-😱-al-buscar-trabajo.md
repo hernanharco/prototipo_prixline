@@ -3,12 +3,12 @@ id: 12603
 title: "PRIXLINE ✅ Los 7 ERRORES 😱 al buscar&nbsp;TRABAJO"
 date: 2019-04-10T12:48:35
 slug: "prixline-%e2%9c%85-los-7-errores-%f0%9f%98%b1-al-buscar-trabajo"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12603
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12603"
 originUrl: "https://prixline.blog/2019/04/10/prixline-%e2%9c%85-los-7-errores-%f0%9f%98%b1-al-buscar-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

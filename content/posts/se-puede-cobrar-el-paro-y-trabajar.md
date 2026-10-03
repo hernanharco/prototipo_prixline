@@ -2,13 +2,13 @@
 id: 9484
 title: "¿ SE PUEDE COBRAR EL PARO Y&nbsp;TRABAJAR?"
 date: 2014-09-06T14:05:48
-slug: se-puede-cobrar-el-paro-y-trabajar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9484
-originUrl: https://prixline.blog/2014/09/06/se-puede-cobrar-el-paro-y-trabajar/
+slug: "se-puede-cobrar-el-paro-y-trabajar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9484"
+originUrl: "https://prixline.blog/2014/09/06/se-puede-cobrar-el-paro-y-trabajar/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on APRENDE LA LEY: ¿ SE PUEDE COBRAR EL PARO Y TRABAJAR ? En un mercado laboral donde hay tan pocas oportunidades como gran competencia para un mismo puesto, recibir una oferta de trabajo con pocas horas de trabajo a la semana nos puede levantar dudas. Imagine que cobra 800 euros de&hellip;"
 ---
 

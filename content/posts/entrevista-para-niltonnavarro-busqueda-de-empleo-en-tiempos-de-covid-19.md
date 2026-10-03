@@ -2,13 +2,13 @@
 id: 14743
 title: "Entrevista para @NiltonNavarro: búsqueda de empleo en tiempos de&nbsp;Covid-19."
 date: 2020-09-03T10:46:17
-slug: entrevista-para-niltonnavarro-busqueda-de-empleo-en-tiempos-de-covid-19
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14743
-originUrl: https://prixline.blog/2020/09/03/entrevista-para-niltonnavarro-busqueda-de-empleo-en-tiempos-de-covid-19/
+slug: "entrevista-para-niltonnavarro-busqueda-de-empleo-en-tiempos-de-covid-19"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14743"
+originUrl: "https://prixline.blog/2020/09/03/entrevista-para-niltonnavarro-busqueda-de-empleo-en-tiempos-de-covid-19/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Otra de las sorpresas de este verano ha sido el volver a colaborar con Nilton Navarro, Project Manager y #SocialMedia Manager de @InfoJobs, viejo … Entrevista para @NiltonNavarro: búsqueda de empleo en tiempos de Covid-19. Aquí os dejo las preguntas: 1. ¿Cuáles crees que serán las habilidades más importantes para encontrar trabajo en época post [&hellip;]"
 ---
 

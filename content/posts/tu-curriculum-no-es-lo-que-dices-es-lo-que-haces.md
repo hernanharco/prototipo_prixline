@@ -2,13 +2,13 @@
 id: 10326
 title: "Tu curriculum no es lo que dices, es lo que&nbsp;haces"
 date: 2015-04-07T16:46:14
-slug: tu-curriculum-no-es-lo-que-dices-es-lo-que-haces
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10326
-originUrl: https://prixline.blog/2015/04/07/tu-curriculum-no-es-lo-que-dices-es-lo-que-haces/
+slug: "tu-curriculum-no-es-lo-que-dices-es-lo-que-haces"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10326"
+originUrl: "https://prixline.blog/2015/04/07/tu-curriculum-no-es-lo-que-dices-es-lo-que-haces/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Esta es una de las frases estrella del libro Superprofesional de Alfonso Alcántara, y la verdad es que no puede ser más acertada. Nos preocupamos demasiado de si poner o no foto, de cómo organizar el curriculum y a veces nos dejamos lo más importante, las tareas que has hecho en&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10449
 title: "Hoteles a los que enviar el currículum (2ª&nbsp;parte)"
 date: 2015-05-26T08:58:27
-slug: hoteles-a-los-que-enviar-el-curriculum-2a-parte
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10449
-originUrl: https://prixline.blog/2015/05/26/hoteles-a-los-que-enviar-el-curriculum-2a-parte/
+slug: "hoteles-a-los-que-enviar-el-curriculum-2a-parte"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10449"
+originUrl: "https://prixline.blog/2015/05/26/hoteles-a-los-que-enviar-el-curriculum-2a-parte/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Esta es la SEGUNDA parte de la serie de posts relacionados con el empleo en Hoteles y la época estival. Recuerda que si quieres consultar la primera está en este enlace, picha aquí ? ANDILANA HOTELS http://www.grupandilana.com/es/trabaja-con-nosotros ? BlueBay – Bluebay Hotels & Resorts http://www.bluebayresorts.com/es/trabaja-con-nosotros.html Hotel Bestprice Diagonal –&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10346
 title: "¿Sabes qué es un ELEVATOR&nbsp;PITCH?"
 date: 2015-04-18T08:44:07
-slug: sabes-que-es-un-elevator-pitch
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10346
-originUrl: https://prixline.blog/2015/04/18/sabes-que-es-un-elevator-pitch/
+slug: "sabes-que-es-un-elevator-pitch"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10346"
+originUrl: "https://prixline.blog/2015/04/18/sabes-que-es-un-elevator-pitch/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: ¿Te has imaginado alguna vez encontrarte a un director/a de Recursos Humanos en un ascensor? Este viaje tiene una duración como máximo de 2 minutos. Eso significa que en ese tiempo tienes que darte a conocer y si fuera el caso, vender tu proyecto. El tiempo es fundamental, se&hellip;"
 ---
 

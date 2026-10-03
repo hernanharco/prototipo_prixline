@@ -2,13 +2,13 @@
 id: 10940
 title: "Los 10 Problemas en la gestión del Cambio y cómo&nbsp;solucionarlos."
 date: 2015-11-30T13:01:29
-slug: los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10940
-originUrl: https://prixline.blog/2015/11/30/los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos/
+slug: "los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10940"
+originUrl: "https://prixline.blog/2015/11/30/los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “Nunca olvides que todo comenzó…. cuando dibujé un simple ratón”. – Walt Disney Hace un tiempo atrás me atreví a intentar explicar la gestión del cambio de personal como la del cambio personal, es decir de nosotros mismos. El mundo de&hellip;"
 ---
 

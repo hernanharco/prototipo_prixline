@@ -3,12 +3,12 @@ id: 12580
 title: "PRIXLINE ✅ Los errores 😱a EVITAR para ser más PRODUCTIVO 😃 (Hechos&nbsp;reales)"
 date: 2019-03-21T23:20:16
 slug: "prixline-%e2%9c%85-los-errores-%f0%9f%98%b1a-evitar-para-ser-mas-productivo-%f0%9f%98%83-hechos-reales"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12580
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12580"
 originUrl: "https://prixline.blog/2019/03/21/prixline-%e2%9c%85-los-errores-%f0%9f%98%b1a-evitar-para-ser-mas-productivo-%f0%9f%98%83-hechos-reales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

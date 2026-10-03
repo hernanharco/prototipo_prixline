@@ -2,13 +2,13 @@
 id: 10204
 title: "UN CABALLO EN EL MUNDO DE LA FANTASÍA &#8211; ANDREA, 11&nbsp;AÑOS"
 date: 2015-02-21T09:27:57
-slug: un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10204
-originUrl: https://prixline.blog/2015/02/21/un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos/
+slug: "un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10204"
+originUrl: "https://prixline.blog/2015/02/21/un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on EL ESTUDIO DE CRIS Y SOFIA: En la vida de Andrea existe una personita muy especial, su querida tía Rosa, una enamorada absoluta de los caballos. ¿Y que mejor regalo le podría hacer su sobrina que este maravilloso cuadro? Lo ha realizado en acrílicos, y el intenso contraste de colores se ha&hellip;"
 ---
 

@@ -2,23 +2,23 @@
 id: 7146
 title: "¿Quieres trabajar estas Navidades en Londres? Aquí tienes ofertas de&nbsp;empleo"
 date: 2013-10-27T11:09:36
-slug: quieres-trabajar-estas-navidades-en-londres-aqui-tienes-ofertas-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7146
-originUrl: https://prixline.blog/2013/10/27/quieres-trabajar-estas-navidades-en-londres-aqui-tienes-ofertas-de-empleo/
+slug: "quieres-trabajar-estas-navidades-en-londres-aqui-tienes-ofertas-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7146"
+originUrl: "https://prixline.blog/2013/10/27/quieres-trabajar-estas-navidades-en-londres-aqui-tienes-ofertas-de-empleo/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - Idiomas
-  - practicas
-  - prixline
-  - recursos
-  - Trabajo
+  - "empleo"
+  - "gratis"
+  - "Idiomas"
+  - "practicas"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La campaña de Navidad se acerca y una de las ciudades europeas más populares para ir de compras en estas fechas, Londres, se prepara para la gran ocasión. Distintas empresas ubicadas en la capital británica precisan personal para las fechas más consumistas del año. 24/10/2013&hellip;"
 ---
 

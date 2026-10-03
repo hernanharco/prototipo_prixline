@@ -2,13 +2,13 @@
 id: 11852
 title: "¿Cómo son las nuevas entrevistas de&nbsp;trabajo?"
 date: 2017-04-20T14:02:17
-slug: como-son-las-nuevas-entrevistas-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11852
-originUrl: https://prixline.blog/2017/04/20/como-son-las-nuevas-entrevistas-de-trabajo/
+slug: "como-son-las-nuevas-entrevistas-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11852"
+originUrl: "https://prixline.blog/2017/04/20/como-son-las-nuevas-entrevistas-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Recientemente Tino Fernández hablaba en su artículo ‘Casting’ laborales, las nuevas entrevistas de trabajo sobre los cambios que se están dando en las entrevistas. Incluso señalaba que hay personas que vaticinan que las entrevistas de trabajo van a desaparecer. No creo que se llegue hasta este punto, pues el contacto humano&hellip;"
 ---
 

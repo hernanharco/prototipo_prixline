@@ -2,13 +2,13 @@
 id: 10575
 title: "Pruebas de aptitud para acceso a la profesión de Gestor&nbsp;Administrativo."
 date: 2015-07-16T19:40:01
-slug: pruebas-de-aptitud-para-acceso-a-la-profesion-de-gestor-administrativo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10575
-originUrl: https://prixline.blog/2015/07/16/pruebas-de-aptitud-para-acceso-a-la-profesion-de-gestor-administrativo/
+slug: "pruebas-de-aptitud-para-acceso-a-la-profesion-de-gestor-administrativo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10575"
+originUrl: "https://prixline.blog/2015/07/16/pruebas-de-aptitud-para-acceso-a-la-profesion-de-gestor-administrativo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Ministerio de Hacienda y Administraciones Públicas convoca convocan las pruebas de aptitud para acceso a la profesión de Gestor Administrativo. Será necesario estar en posesión o en condiciones de obtener alguno de los siguientes títulos: Licenciado en Derecho. Licenciado en Ciencias Económicas. Licenciado en Ciencias Empresariales. Licenciado en Ciencias&hellip;"
 ---
 

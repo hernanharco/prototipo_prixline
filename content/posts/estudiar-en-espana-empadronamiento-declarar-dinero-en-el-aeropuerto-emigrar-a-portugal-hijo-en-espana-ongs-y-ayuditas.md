@@ -2,19 +2,19 @@
 id: 26006
 title: "¿Estudiar en España, empadronamiento, declarar dinero en el aeropuerto, emigrar a Portugal, hijo en España, ONGs y ayuditas&#8230;?"
 date: 2022-01-03T14:36:34
-slug: estudiar-en-espana-empadronamiento-declarar-dinero-en-el-aeropuerto-emigrar-a-portugal-hijo-en-espana-ongs-y-ayuditas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/26006
-originUrl: https://prixline.blog/2022/01/03/estudiar-en-espana-empadronamiento-declarar-dinero-en-el-aeropuerto-emigrar-a-portugal-hijo-en-espana-ongs-y-ayuditas/
+slug: "estudiar-en-espana-empadronamiento-declarar-dinero-en-el-aeropuerto-emigrar-a-portugal-hijo-en-espana-ongs-y-ayuditas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/26006"
+originUrl: "https://prixline.blog/2022/01/03/estudiar-en-espana-empadronamiento-declarar-dinero-en-el-aeropuerto-emigrar-a-portugal-hijo-en-espana-ongs-y-ayuditas/"
 categories:
-  - empleo
-  - migracion
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "migracion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
   - "Emigrar a España"
-  - opiniones
-  - prixline
-  - Trabajo
+  - "opiniones"
+  - "prixline"
+  - "Trabajo"
 excerpt: "De esto y más hablamos hoy. Únete al grupo de Telegram https://t.me/prixliners y así aumentamos la “Inteligencia Colectiva”"
 ---
 

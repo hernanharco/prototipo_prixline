@@ -2,13 +2,13 @@
 id: 9960
 title: "Lucha siempre por lo que&nbsp;quieres"
 date: 2014-12-07T14:25:44
-slug: lucha-siempre-por-lo-que-quieres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9960
-originUrl: https://prixline.blog/2014/12/07/lucha-siempre-por-lo-que-quieres/
+slug: "lucha-siempre-por-lo-que-quieres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9960"
+originUrl: "https://prixline.blog/2014/12/07/lucha-siempre-por-lo-que-quieres/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

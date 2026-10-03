@@ -2,13 +2,13 @@
 id: 12501
 title: "¿Tienes un plan para tu&nbsp;vida?"
 date: 2019-01-22T19:04:54
-slug: tienes-un-plan-para-tu-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12501
-originUrl: https://prixline.blog/2019/01/22/tienes-un-plan-para-tu-vida/
+slug: "tienes-un-plan-para-tu-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12501"
+originUrl: "https://prixline.blog/2019/01/22/tienes-un-plan-para-tu-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Planifica tu trabajo y luego trabaja sobre tu plan” decía Robert Baden-Powell “Me encanta que los planes salgan bien“. Frase mítica de la serie del Equipo A, que al oírla recientemente me ha hecho recapacitar. Te lanzo esta pregunta: ¿Tienes un plan para tu vida?. Si es&hellip;"
 ---
 

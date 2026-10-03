@@ -2,13 +2,13 @@
 id: 11745
 title: "FORMACIÓN: CURSO DE CAMARERO/A DE BARRA Y SALA.&nbsp;MADRID"
 date: 2017-02-13T14:58:13
-slug: formacion-curso-de-camareroa-de-barra-y-sala-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11745
-originUrl: https://prixline.blog/2017/02/13/formacion-curso-de-camareroa-de-barra-y-sala-madrid/
+slug: "formacion-curso-de-camareroa-de-barra-y-sala-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11745"
+originUrl: "https://prixline.blog/2017/02/13/formacion-curso-de-camareroa-de-barra-y-sala-madrid/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Desde el Cepi Centro – Arganzuela os informamos del nuevo curso de “Camarera/o de Sala y Barra” que comenzará en el mes de marzo y que se impartirá en horario de mañanas. Tendrá una duración total de 176 horas (teóricas y prácticas). La inscripción y preselección será presencial y&hellip;"
 ---
 

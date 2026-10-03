@@ -2,13 +2,13 @@
 id: 10657
 title: "Traductores de Inglés para la Comisión&nbsp;Europea."
 date: 2015-08-04T23:50:56
-slug: traductores-de-ingles-para-la-comision-europea
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10657
-originUrl: https://prixline.blog/2015/08/04/traductores-de-ingles-para-la-comision-europea/
+slug: "traductores-de-ingles-para-la-comision-europea"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10657"
+originUrl: "https://prixline.blog/2015/08/04/traductores-de-ingles-para-la-comision-europea/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Comisión Europea convoca 25 plazas de traductores al Inglés, para un contrato temporal, a partir de dos idiomas de origen: El primero de los idiomas debe ser uno de los siguientes: búlgaro, croata, checo, danés, holandés, estonio, finlandés, griego, húngaro, letón, lituano, polaco, portugués , rumano, eslovaco, esloveno o sueco. La segunda&hellip;"
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: 8634
-title: La avalancha
+title: "La avalancha"
 date: 2014-03-19T08:21:17
-slug: la-avalancha
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8634
-originUrl: https://prixline.blog/2014/03/19/la-avalancha/
+slug: "la-avalancha"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8634"
+originUrl: "https://prixline.blog/2014/03/19/la-avalancha/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

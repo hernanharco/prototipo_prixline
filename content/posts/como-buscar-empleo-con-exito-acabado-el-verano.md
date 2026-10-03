@@ -2,13 +2,13 @@
 id: 10747
 title: "Cómo buscar empleo con éxito acabado el&nbsp;verano."
 date: 2015-09-06T09:05:27
-slug: como-buscar-empleo-con-exito-acabado-el-verano
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10747
-originUrl: https://prixline.blog/2015/09/06/como-buscar-empleo-con-exito-acabado-el-verano/
+slug: "como-buscar-empleo-con-exito-acabado-el-verano"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10747"
+originUrl: "https://prixline.blog/2015/09/06/como-buscar-empleo-con-exito-acabado-el-verano/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Fuente: 10 tips para retomar con éxito la búsqueda de empleo, después del verano http://fundacionadecco.org/blog/blog/10-tips-para-retomar-con-exito-la-busqueda-de-empleo-despues-del-verano/"
 ---
 

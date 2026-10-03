@@ -2,13 +2,13 @@
 id: 10765
 title: "&#8220;Lo mejor está por&nbsp;venir&#8221;"
 date: 2015-09-17T14:33:32
-slug: lo-mejor-esta-por-venir
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10765
-originUrl: https://prixline.blog/2015/09/17/lo-mejor-esta-por-venir/
+slug: "lo-mejor-esta-por-venir"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10765"
+originUrl: "https://prixline.blog/2015/09/17/lo-mejor-esta-por-venir/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

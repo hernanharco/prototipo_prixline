@@ -2,13 +2,13 @@
 id: 11949
 title: "¿Dónde puedo colocar mi CV en&nbsp;internet?"
 date: 2017-06-13T00:36:55
-slug: donde-puedo-colocar-mi-cv-en-internet
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11949
-originUrl: https://prixline.blog/2017/06/13/donde-puedo-colocar-mi-cv-en-internet/
+slug: "donde-puedo-colocar-mi-cv-en-internet"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11949"
+originUrl: "https://prixline.blog/2017/06/13/donde-puedo-colocar-mi-cv-en-internet/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Siempre es necesario tener a mano un Currículum Vitae, nunca se sabe cuando lo vas a necesitar. Si estás buscando trabajo, seguro que lo tenés actualizado en un archivo pero si no estás buscando trabajo y quisieras tenerlo visible… La pregunta es ¿si no tengo página web ni Blog&hellip;"
 ---
 

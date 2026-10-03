@@ -2,13 +2,13 @@
 id: 10399
 title: "TRABAJANDO EL CARBONCILLO &#8211; PABLO Y VICTOR, 8&nbsp;AÑOS"
 date: 2015-05-09T19:06:17
-slug: trabajando-el-carboncillo-pablo-y-victor-8-anos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10399
-originUrl: https://prixline.blog/2015/05/09/trabajando-el-carboncillo-pablo-y-victor-8-anos/
+slug: "trabajando-el-carboncillo-pablo-y-victor-8-anos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10399"
+originUrl: "https://prixline.blog/2015/05/09/trabajando-el-carboncillo-pablo-y-victor-8-anos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on EL ESTUDIO DE CRIS Y SOFIA: Para mi el carboncillo es una técnica bastante complicada, pero estos dos pequeños artistas se manejan con ella como pez en el agua. Solo hay que ver los resultados… ¡¡MAGNÍFICOS TRABAJOS, VÍCTOR Y PABLO!!"
 ---
 

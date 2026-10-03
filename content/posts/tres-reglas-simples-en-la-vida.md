@@ -2,13 +2,13 @@
 id: 10879
 title: "Tres reglas simples en la&nbsp;vida"
 date: 2015-11-07T14:20:52
-slug: tres-reglas-simples-en-la-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10879
-originUrl: https://prixline.blog/2015/11/07/tres-reglas-simples-en-la-vida/
+slug: "tres-reglas-simples-en-la-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10879"
+originUrl: "https://prixline.blog/2015/11/07/tres-reglas-simples-en-la-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

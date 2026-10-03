@@ -2,13 +2,13 @@
 id: 12572
 title: "Sin Valor&#8230;no hay&nbsp;Paraíso"
 date: 2019-03-17T18:25:54
-slug: sin-valor-no-hay-paraiso
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12572
-originUrl: https://prixline.blog/2019/03/17/sin-valor-no-hay-paraiso/
+slug: "sin-valor-no-hay-paraiso"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12572"
+originUrl: "https://prixline.blog/2019/03/17/sin-valor-no-hay-paraiso/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Ya está! Estás cansadx de buscar empleo de la manera tradicional, es decir, te has dado cuenta de que, además de inscribirte en un montón de webs de empleo, de contarle a tus familiares y amigxs que quieres trabajar o cambiar de empleo, y de patearte la ciudad –y más allá-, vas a hacer algo&hellip;"
 ---
 

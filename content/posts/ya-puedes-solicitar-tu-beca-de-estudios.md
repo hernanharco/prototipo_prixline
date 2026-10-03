@@ -2,13 +2,13 @@
 id: 29406
 title: "¡Ya puedes solicitar tu beca de&nbsp;estudios!"
 date: 2022-03-30T16:04:36
-slug: ya-puedes-solicitar-tu-beca-de-estudios
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/29406
-originUrl: https://prixline.blog/2022/03/30/ya-puedes-solicitar-tu-beca-de-estudios/
+slug: "ya-puedes-solicitar-tu-beca-de-estudios"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/29406"
+originUrl: "https://prixline.blog/2022/03/30/ya-puedes-solicitar-tu-beca-de-estudios/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Del 30 de marzo al 12 de mayo. «Importante: Ya está abierto el plazo para solicitar las becas de estudio del Ministerio de Educación y Formación … ¡Ya puedes solicitar tu beca de estudios! El plazo para solicitar la beca del curso 2022 – 2023 se ha adelantado: es del 30 de marzo al 12 [&hellip;]"
 ---
 

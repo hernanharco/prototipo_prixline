@@ -2,19 +2,19 @@
 id: 10782
 title: "3 becas sobre comunicación institucional relacionada con la actividad oficial del&nbsp;Senado."
 date: 2015-09-25T11:59:30
-slug: 3-becas-sobre-comunicacion-institucional-relacionada-con-la-actividad-oficial-del-senado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10782
-originUrl: https://prixline.blog/2015/09/25/3-becas-sobre-comunicacion-institucional-relacionada-con-la-actividad-oficial-del-senado/
+slug: "3-becas-sobre-comunicacion-institucional-relacionada-con-la-actividad-oficial-del-senado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10782"
+originUrl: "https://prixline.blog/2015/09/25/3-becas-sobre-comunicacion-institucional-relacionada-con-la-actividad-oficial-del-senado/"
 categories:
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
+  - "aprender"
   - "Prácticas"
-  - prixline
-  - recursos
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: Las Cortes Generales convocan 3 becas sobre comunicación institucional, interna y externa, relacionada con la actividad oficial del Senado dirigidas a jóvenes titulados que deseen especializarse en estos campos. Las Cortes Generales convocan 3 becas sobre comunicación institucional, interna y externa, relacionada con la actividad oficial del Senado dirigidas a&hellip;"
 ---
 

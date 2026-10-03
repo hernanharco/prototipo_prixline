@@ -2,23 +2,23 @@
 id: 4085
 title: "9 Pasos para crear tu marca&nbsp;personal"
 date: 2013-05-06T16:55:09
-slug: 9-pasos-para-crear-tu-marca-personal
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4085
-originUrl: https://prixline.blog/2013/05/06/9-pasos-para-crear-tu-marca-personal/
+slug: "9-pasos-para-crear-tu-marca-personal"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4085"
+originUrl: "https://prixline.blog/2013/05/06/9-pasos-para-crear-tu-marca-personal/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "empleo"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Originally posted on Probando MUNDO: ¿Cómo llevas tu marca personal? Si aún no la estás gestionando ponte a ello, es importante sobre todo si buscas empleo! La mayoría de los reclutadores hoy en día te “Googlean” a ver qué encuentran sobre tí en Internet. Una marca personal o personal branding, es nuestra seña de identidad&hellip;"
 ---
 

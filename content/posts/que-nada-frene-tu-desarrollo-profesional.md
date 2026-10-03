@@ -2,13 +2,13 @@
 id: 10841
 title: "Que nada frene tu desarrollo&nbsp;profesional"
 date: 2015-10-21T16:23:15
-slug: que-nada-frene-tu-desarrollo-profesional
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10841
-originUrl: https://prixline.blog/2015/10/21/que-nada-frene-tu-desarrollo-profesional/
+slug: "que-nada-frene-tu-desarrollo-profesional"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10841"
+originUrl: "https://prixline.blog/2015/10/21/que-nada-frene-tu-desarrollo-profesional/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Crees que no haber finalizado la Educación Secundaria Obligatoria te paraliza? Nada de eso. Es cierto que si ya pasas de los 16, hasta que no cumplas los 18 no puedes optar a sacarte el graduado, pero eso no te impide seguir activo. Programas como Garantía Juvenil cuentan con diferentes&hellip;"
 ---
 

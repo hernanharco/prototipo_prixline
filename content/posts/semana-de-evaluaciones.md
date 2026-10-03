@@ -1,14 +1,14 @@
 ---
 id: 11797
-title: Semana de evaluaciones.
+title: "Semana de evaluaciones."
 date: 2017-03-13T14:42:28
-slug: semana-de-evaluaciones
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11797
-originUrl: https://prixline.blog/2017/03/13/semana-de-evaluaciones/
+slug: "semana-de-evaluaciones"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11797"
+originUrl: "https://prixline.blog/2017/03/13/semana-de-evaluaciones/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Consejos para el día del examen. 1. No entres en pánico Para evitar el pánico previo a un examen, sirve mucho dormir una cantidad suficiente de horas la noche anterior. Tienes que estar bien preparado. Las horas de sueño no son negociables. 2. Tomate tiempo para pensar antes&hellip;"
 ---
 

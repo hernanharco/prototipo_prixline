@@ -2,13 +2,13 @@
 id: 10343
 title: "El 90% del éxito se basa simplemente en&nbsp;insistir"
 date: 2015-04-16T09:47:28
-slug: el-90-del-exito-se-basa-simplemente-en-insistir
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10343
-originUrl: https://prixline.blog/2015/04/16/el-90-del-exito-se-basa-simplemente-en-insistir/
+slug: "el-90-del-exito-se-basa-simplemente-en-insistir"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10343"
+originUrl: "https://prixline.blog/2015/04/16/el-90-del-exito-se-basa-simplemente-en-insistir/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

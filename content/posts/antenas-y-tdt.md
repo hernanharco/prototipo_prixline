@@ -2,19 +2,19 @@
 id: 25
 title: "Curso de Instalador de Antenas y&nbsp;TDT"
 date: 2012-03-08T23:51:39
-slug: antenas-y-tdt
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/25
-originUrl: https://prixline.blog/2012/03/08/antenas-y-tdt/
+slug: "antenas-y-tdt"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/25"
+originUrl: "https://prixline.blog/2012/03/08/antenas-y-tdt/"
 categories:
-  - cursos
-  - empleo
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - curso
-  - Curso de Instalador antenas y TDT
-  - prixline
-  - trabajo
+  - "b83066696"
+  - "curso"
+  - "Curso de Instalador antenas y TDT"
+  - "prixline"
+  - "trabajo"
 excerpt: "Mi opinión es que este curso ha sido de gran ayuda para mi formación en cuanto al mundo de las telecomunicaciones. Jo que soy técnico en instalaciones electrotécnicas y no tenía los conocimientos suficientes para realizar instalaciones de antenas. Con la ayuda de este curso creo que he avanzado bastante en mi formación, y lo [&hellip;]"
 ---
 

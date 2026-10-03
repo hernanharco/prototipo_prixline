@@ -2,13 +2,13 @@
 id: 9521
 title: "Como escribir un correo electrónico para enviar tu&nbsp;CV"
 date: 2014-09-10T17:42:15
-slug: como-escribir-un-correo-electronico-para-enviar-tu-cv
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9521
-originUrl: https://prixline.blog/2014/09/10/como-escribir-un-correo-electronico-para-enviar-tu-cv/
+slug: "como-escribir-un-correo-electronico-para-enviar-tu-cv"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9521"
+originUrl: "https://prixline.blog/2014/09/10/como-escribir-un-correo-electronico-para-enviar-tu-cv/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Le hemos dedicado muchas horas por aquí al tema del curriculum vitae en todas sus vertientes posibles. Las más clasicas en papel, las versiones en infografía, y por repasar, hemos repasado hasta los vídeo curriculum. Pero después de haberle dedicado tantas horas al tema, y&hellip;"
 ---
 

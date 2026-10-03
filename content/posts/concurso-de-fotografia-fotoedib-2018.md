@@ -2,13 +2,13 @@
 id: 12283
 title: "Concurso de Fotografía FOTOEDIB&nbsp;2018."
 date: 2018-06-26T12:22:50
-slug: concurso-de-fotografia-fotoedib-2018
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12283
-originUrl: https://prixline.blog/2018/06/26/concurso-de-fotografia-fotoedib-2018/
+slug: "concurso-de-fotografia-fotoedib-2018"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12283"
+originUrl: "https://prixline.blog/2018/06/26/concurso-de-fotografia-fotoedib-2018/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La escuela Edib organiza por séptimo año consecutivo su concurso de fotografía nacional FOTOEDIB 2018 (http://www.fotoedib.com), en el que cada participante podrá presentar su mejor fotografía. La temática del concurso es libre. El jurado valorará la creatividad, el retoque fotográfico, el impacto visual de la imagen y las sensaciones que&hellip;"
 ---
 

@@ -2,21 +2,21 @@
 id: 8621
 title: "10 ¿buenas? excusas para no estar en las redes&nbsp;sociales"
 date: 2014-03-17T11:39:52
-slug: 10-buenas-excusas-para-no-estar-en-las-redes-sociales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8621
-originUrl: https://prixline.blog/2014/03/17/10-buenas-excusas-para-no-estar-en-las-redes-sociales/
+slug: "10-buenas-excusas-para-no-estar-en-las-redes-sociales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8621"
+originUrl: "https://prixline.blog/2014/03/17/10-buenas-excusas-para-no-estar-en-las-redes-sociales/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Originally posted on descubriendo talento: Tras llevar un año de forma activa en las redes sociales y haber escrito algún que otro post relacionado con la búsqueda de empleo en éstas así como la conveniencia o no de estar en ellas, he recopilado las excusas más habituales con las que me he encontrado a lo&hellip;"
 ---
 

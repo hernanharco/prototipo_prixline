@@ -2,13 +2,13 @@
 id: 12005
 title: "250 plazas españoles/as Working Holiday en&nbsp;Japón"
 date: 2017-08-06T10:22:29
-slug: 250-plazas-espanolesas-working-holiday-en-japon
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12005
-originUrl: https://prixline.blog/2017/08/06/250-plazas-espanolesas-working-holiday-en-japon/
+slug: "250-plazas-espanolesas-working-holiday-en-japon"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12005"
+originUrl: "https://prixline.blog/2017/08/06/250-plazas-espanolesas-working-holiday-en-japon/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Te gustaría viajar y pasar una temporada en Japón? Desde la Embajada se ofrece un interesante proyecto de estancia en el país del Sol Naciente:El Gobierno de España y Japón han firmado un acuerdo, denominado Working Holiday Scheme, que permitirá de 250 ciudadanos/as españoles/as permanecer en Japón hasta&hellip;"
 ---
 

@@ -3,14 +3,14 @@ id: 14083
 title: "PRIXLINE ✅ Desvalorización del EURO y el DÓLAR 😳 ¡AHORRAR en BITCOINs!&nbsp;💰"
 date: 2020-04-15T20:22:41
 slug: "prixline-%e2%9c%85-desvalorizacion-del-euro-y-el-dolar-%f0%9f%98%b3-ahorrar-en-bitcoins-%f0%9f%92%b0"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14083
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14083"
 originUrl: "https://prixline.blog/2020/04/15/prixline-%e2%9c%85-desvalorizacion-del-euro-y-el-dolar-%f0%9f%98%b3-ahorrar-en-bitcoins-%f0%9f%92%b0/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

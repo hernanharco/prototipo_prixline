@@ -2,13 +2,13 @@
 id: 12311
 title: "Plazas Enfermeros/as. Comunidad de&nbsp;Madrid"
 date: 2018-07-18T20:22:03
-slug: plazas-enfermeros-as-comunidad-de-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12311
-originUrl: https://prixline.blog/2018/07/18/plazas-enfermeros-as-comunidad-de-madrid/
+slug: "plazas-enfermeros-as-comunidad-de-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12311"
+originUrl: "https://prixline.blog/2018/07/18/plazas-enfermeros-as-comunidad-de-madrid/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Servicio Madrileño de Salud convoca pruebas selectivas para el acceso de 5.266 plazas a la condición de personal estatutario fijo en la categoría de Enfermero/a. Las plazas convocadas se proveerán por el sistema de turno libre, mediante concurso-oposición, y se dividen en dos cupos: Plazas del cupo general: 4.897. Plazas del&hellip;"
 ---
 

@@ -3,14 +3,14 @@ id: 14132
 title: "PRIXLINE ✅ ¿Cómo está ESPAÑA 🇪🇸 en este&nbsp;Momento?"
 date: 2020-05-01T12:09:04
 slug: "prixline-%e2%9c%85-como-esta-espana-%f0%9f%87%aa%f0%9f%87%b8-en-este-momento"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14132
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14132"
 originUrl: "https://prixline.blog/2020/05/01/prixline-%e2%9c%85-como-esta-espana-%f0%9f%87%aa%f0%9f%87%b8-en-este-momento/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

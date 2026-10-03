@@ -2,13 +2,13 @@
 id: 10952
 title: "Todos tenemos una llave que abre la puerta de los&nbsp;sueños"
 date: 2015-12-06T13:25:16
-slug: todos-tenemos-una-llave-que-abre-la-puerta-de-los-suenos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10952
-originUrl: https://prixline.blog/2015/12/06/todos-tenemos-una-llave-que-abre-la-puerta-de-los-suenos/
+slug: "todos-tenemos-una-llave-que-abre-la-puerta-de-los-suenos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10952"
+originUrl: "https://prixline.blog/2015/12/06/todos-tenemos-una-llave-que-abre-la-puerta-de-los-suenos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

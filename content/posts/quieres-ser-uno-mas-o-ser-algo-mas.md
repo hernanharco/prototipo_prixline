@@ -2,21 +2,21 @@
 id: 5311
 title: "¿Quieres ser uno más ó ser algo&nbsp;más?"
 date: 2013-08-03T19:45:26
-slug: quieres-ser-uno-mas-o-ser-algo-mas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5311
-originUrl: https://prixline.blog/2013/08/03/quieres-ser-uno-mas-o-ser-algo-mas/
+slug: "quieres-ser-uno-mas-o-ser-algo-mas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5311"
+originUrl: "https://prixline.blog/2013/08/03/quieres-ser-uno-mas-o-ser-algo-mas/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on descubriendo talento: En alguna ocasión he comentado que suelo ver con bastante frecuencia a Bob Esponja. Lo cierto es que esta esponja amarilla da mucho juego a la hora de escribir sobre situaciones reales en el entorno laboral. En uno de los últimos capítulos que he visto, Bob Esponja, agobiado por los&hellip;"
 ---
 

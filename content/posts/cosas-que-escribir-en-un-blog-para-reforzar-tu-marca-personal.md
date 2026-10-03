@@ -2,13 +2,13 @@
 id: 11403
 title: "Cosas que escribir en un blog para reforzar tu marca&nbsp;personal"
 date: 2016-07-19T12:35:25
-slug: cosas-que-escribir-en-un-blog-para-reforzar-tu-marca-personal
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11403
-originUrl: https://prixline.blog/2016/07/19/cosas-que-escribir-en-un-blog-para-reforzar-tu-marca-personal/
+slug: "cosas-que-escribir-en-un-blog-para-reforzar-tu-marca-personal"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11403"
+originUrl: "https://prixline.blog/2016/07/19/cosas-que-escribir-en-un-blog-para-reforzar-tu-marca-personal/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Cada vez que me enfrento a un artículo o a una charla o taller sobre búsqueda de empleo y utilización de redes sociales, el blog ha sido uno de los instrumentos que más he ensalzado para eso que venimos en llamar “marca personal“. Los que bebemos de grandes&hellip;"
 ---
 

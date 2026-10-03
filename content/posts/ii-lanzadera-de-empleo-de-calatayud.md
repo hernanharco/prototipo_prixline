@@ -2,13 +2,13 @@
 id: 10572
 title: "II Lanzadera de Empleo de&nbsp;Calatayud"
 date: 2015-07-16T09:44:42
-slug: ii-lanzadera-de-empleo-de-calatayud
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10572
-originUrl: https://prixline.blog/2015/07/16/ii-lanzadera-de-empleo-de-calatayud/
+slug: "ii-lanzadera-de-empleo-de-calatayud"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10572"
+originUrl: "https://prixline.blog/2015/07/16/ii-lanzadera-de-empleo-de-calatayud/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Seguimos dando difusión y visibilidad a uno de mis proyectos favoritos: las Lanzaderas de Empleo y Emprendimiento Solidario. ¿No sabes lo que son? Una lanzadera es un equipo heterogéneo de personas desempleadas con espíritu dinámico, comprometido y solidario que acceden de forma voluntaria a esta iniciativa y que, coordinadas por un&hellip;"
 ---
 

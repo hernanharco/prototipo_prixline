@@ -3,12 +3,12 @@ id: 49565
 title: "PRIXLINE ✅ ¿Qué haré al terminar el&nbsp;CAP?"
 date: 2025-09-06T15:10:36
 slug: "prixline-%e2%9c%85-que-hare-al-terminar-el-cap"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/49565
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/49565"
 originUrl: "https://prixline.blog/2025/09/06/prixline-%e2%9c%85-que-hare-al-terminar-el-cap/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

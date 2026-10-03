@@ -3,14 +3,14 @@ id: 14230
 title: "PRIXLINE ✅ Marlaska y el Coronel. La INDEPENDENCIA Judicial En España&nbsp;🇪🇸"
 date: 2020-06-02T13:07:40
 slug: "prixline-%e2%9c%85-marlaska-y-el-coronel-la-independencia-judicial-en-espana-%f0%9f%87%aa%f0%9f%87%b8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14230
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14230"
 originUrl: "https://prixline.blog/2020/06/02/prixline-%e2%9c%85-marlaska-y-el-coronel-la-independencia-judicial-en-espana-%f0%9f%87%aa%f0%9f%87%b8/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

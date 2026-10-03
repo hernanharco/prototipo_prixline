@@ -2,24 +2,24 @@
 id: 3710
 title: "Ser rebelde no son unos vaqueros&nbsp;rotos."
 date: 2013-04-08T12:04:34
-slug: ser-rebelde-no-son-unos-vaqueros-rotos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3710
-originUrl: https://prixline.blog/2013/04/08/ser-rebelde-no-son-unos-vaqueros-rotos/
+slug: "ser-rebelde-no-son-unos-vaqueros-rotos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3710"
+originUrl: "https://prixline.blog/2013/04/08/ser-rebelde-no-son-unos-vaqueros-rotos/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "aprender"
+  - "autoaprendizaje"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
   - "vídeos"
 excerpt: "Originally posted on El Blog de Iñaki González : Vamos a empezar la semana con un vídeo impactante, de esos con mensaje cargado de optimismo, y en el que sus personajes, nos animan a coger el toro por los cuernos, a no rendirse. Fracasar es no intentarlo, ser rebelde no son unos vaqueros rotos…&hellip;"
 ---

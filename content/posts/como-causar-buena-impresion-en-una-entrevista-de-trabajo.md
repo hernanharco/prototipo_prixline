@@ -2,13 +2,13 @@
 id: 11701
 title: "Cómo causar buena impresión en una entrevista de&nbsp;trabajo."
 date: 2017-01-20T14:35:34
-slug: como-causar-buena-impresion-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11701
-originUrl: https://prixline.blog/2017/01/20/como-causar-buena-impresion-en-una-entrevista-de-trabajo/
+slug: "como-causar-buena-impresion-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11701"
+originUrl: "https://prixline.blog/2017/01/20/como-causar-buena-impresion-en-una-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Siempre se ha dicho que una imagen vale más que mil palabras, que la primera impresión es la que queda, etc., etc… Por eso, cuando encuentras una infografía como ésta, poco más se puede añadir… Fuente: Alfredo Vela."
 ---
 

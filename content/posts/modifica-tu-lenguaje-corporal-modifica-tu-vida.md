@@ -2,13 +2,13 @@
 id: 11603
 title: "Modifica tu lenguaje corporal, modifica tu&nbsp;vida"
 date: 2016-11-07T10:24:35
-slug: modifica-tu-lenguaje-corporal-modifica-tu-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11603
-originUrl: https://prixline.blog/2016/11/07/modifica-tu-lenguaje-corporal-modifica-tu-vida/
+slug: "modifica-tu-lenguaje-corporal-modifica-tu-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11603"
+originUrl: "https://prixline.blog/2016/11/07/modifica-tu-lenguaje-corporal-modifica-tu-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on merceroura: ¿Pareces más encorvado de la cuenta o tienes una postura corporal cerrada? ¿Bajas la cabeza? Todo eso no solo te muestra antes los demás como una persona hundida y poco amigable y por tanto te cierra puertas en el ámbito laboral y el personal sino que te hace sentir mal a&hellip;"
 ---
 

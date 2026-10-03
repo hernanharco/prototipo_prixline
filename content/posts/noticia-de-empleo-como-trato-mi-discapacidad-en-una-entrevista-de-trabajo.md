@@ -2,13 +2,13 @@
 id: 13793
 title: "NOTICIA DE EMPLEO: ¿CÓMO TRATO MI DISCAPACIDAD EN UNA ENTREVISTA DE&nbsp;TRABAJO?"
 date: 2020-02-17T21:11:46
-slug: noticia-de-empleo-como-trato-mi-discapacidad-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13793
-originUrl: https://prixline.blog/2020/02/17/noticia-de-empleo-como-trato-mi-discapacidad-en-una-entrevista-de-trabajo/
+slug: "noticia-de-empleo-como-trato-mi-discapacidad-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13793"
+originUrl: "https://prixline.blog/2020/02/17/noticia-de-empleo-como-trato-mi-discapacidad-en-una-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: Cuando buscamos EMPLEO y tenemos DISCAPACIDAD, es frecuente que nos surjan muchas dudas a la hora de abordar la tarea: ¿lo indico en el currículo?,¿saco el tema en la entrevista?, ¿cómo lo explico?, etc… Aquí os dejamos unas RECOMENDACIONES que, esperamos, os resulten de utilidad. ANTES DE LA&hellip;"
 ---
 

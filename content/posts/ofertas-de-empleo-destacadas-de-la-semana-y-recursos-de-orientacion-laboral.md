@@ -2,13 +2,13 @@
 id: 14511
 title: "Ofertas de Empleo destacadas de la semana y recursos de orientación&nbsp;laboral"
 date: 2020-08-05T22:51:25
-slug: ofertas-de-empleo-destacadas-de-la-semana-y-recursos-de-orientacion-laboral
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14511
-originUrl: https://prixline.blog/2020/08/05/ofertas-de-empleo-destacadas-de-la-semana-y-recursos-de-orientacion-laboral/
+slug: "ofertas-de-empleo-destacadas-de-la-semana-y-recursos-de-orientacion-laboral"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14511"
+originUrl: "https://prixline.blog/2020/08/05/ofertas-de-empleo-destacadas-de-la-semana-y-recursos-de-orientacion-laboral/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Estas son las ofertas de empleo que destacamos esta semana y diferentes recursos que puedan mejorar tus posibilidades de inserción laboral. Hoy te … Ofertas de Empleo destacadas de la semana y recursos de orientación laboral"
 ---
 

@@ -2,13 +2,13 @@
 id: 11524
 title: "Por tu cara bonita. "
 date: 2016-09-20T11:27:04
-slug: por-tu-cara-bonita
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11524
-originUrl: https://prixline.blog/2016/09/20/por-tu-cara-bonita/
+slug: "por-tu-cara-bonita"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11524"
+originUrl: "https://prixline.blog/2016/09/20/por-tu-cara-bonita/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Por fin se han despejado todas mis dudas. Después de años y años dejándome los cuernos en el trabajo, y ver cómo hasta el más tonto subía hasta lo más alto y era ascendido e incluso recompensado con despachos propios y cargos vacios de contenido sólo&hellip;"
 ---
 

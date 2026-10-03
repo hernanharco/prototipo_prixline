@@ -2,13 +2,13 @@
 id: 14090
 title: "Qué hacer durante el confinamiento para encontrar trabajo&nbsp;después"
 date: 2020-04-16T15:55:10
-slug: que-hacer-durante-el-confinamiento-para-encontrar-trabajo-despues
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14090
-originUrl: https://prixline.blog/2020/04/16/que-hacer-durante-el-confinamiento-para-encontrar-trabajo-despues/
+slug: "que-hacer-durante-el-confinamiento-para-encontrar-trabajo-despues"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14090"
+originUrl: "https://prixline.blog/2020/04/16/que-hacer-durante-el-confinamiento-para-encontrar-trabajo-despues/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Seguro que mientras dura el confinamiento, muchas personas no tienen ganas ahora de buscar trabajo… pero puede que en breve se tengan que poner las … Qué hacer durante el confinamiento para encontrar trabajo después"
 ---
 

@@ -3,12 +3,12 @@ id: 12428
 title: "PRIXLINE ✅ Cómo hablar bien 🗣en público&nbsp;🤗"
 date: 2018-11-16T17:27:14
 slug: "prixline-%e2%9c%85-como-hablar-bien-%f0%9f%97%a3en-publico-%f0%9f%a4%97"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12428
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12428"
 originUrl: "https://prixline.blog/2018/11/16/prixline-%e2%9c%85-como-hablar-bien-%f0%9f%97%a3en-publico-%f0%9f%a4%97/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

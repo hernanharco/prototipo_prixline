@@ -2,23 +2,23 @@
 id: 9223
 title: "Plan de Garantía Juvenil de&nbsp;Empleo"
 date: 2014-07-12T14:20:45
-slug: plan-de-garantia-juvenil-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9223
-originUrl: https://prixline.blog/2014/07/12/plan-de-garantia-juvenil-de-empleo/
+slug: "plan-de-garantia-juvenil-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9223"
+originUrl: "https://prixline.blog/2014/07/12/plan-de-garantia-juvenil-de-empleo/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - becas y practicas
-  - empleo
-  - gratis
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "becas y practicas"
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: El Gobierno la Garantía Juvenil de Empleo, un programa para jóvenes menores de 25 años que no estudien ni trabajen. OBJETIVOS: Desde el lunes 7 de julio el Ministerio Empleo y Seguridad Social ha habilitado un servicio de información telefónica (060) para informar al respecto. Información sobre la Garantía Juvenil:&hellip;"
 ---
 

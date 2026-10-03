@@ -2,25 +2,25 @@
 id: 3828
 title: "¿Qué es un&nbsp;maestro?"
 date: 2013-04-16T16:28:47
-slug: que-es-un-maestro
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3828
-originUrl: https://prixline.blog/2013/04/16/que-es-un-maestro/
+slug: "que-es-un-maestro"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3828"
+originUrl: "https://prixline.blog/2013/04/16/que-es-un-maestro/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - educadores
-  - estudiar
-  - formacion
-  - gratis
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "educadores"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
 excerpt: "Exigen a un sabio que estaba de paso por un pueblo que diera una conferencia en la plaza. El sabio pregunta: ¿Saben algo? El público responde que no, entonces el maestro contestó que no hablaba con ignorantes y siguió su camino. Años después, la presencia del sabio en ese mismo pueblo volvió a provocar la [&hellip;]"
 ---
 

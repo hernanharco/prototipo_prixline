@@ -2,27 +2,27 @@
 id: 9536
 title: "Becas para los alumnos de Formación Profesional de Grado&nbsp;Superior"
 date: 2014-09-12T09:44:42
-slug: becas-para-los-alumnos-de-formacion-profesional-de-grado-superior
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9536
-originUrl: https://prixline.blog/2014/09/12/becas-para-los-alumnos-de-formacion-profesional-de-grado-superior/
+slug: "becas-para-los-alumnos-de-formacion-profesional-de-grado-superior"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9536"
+originUrl: "https://prixline.blog/2014/09/12/becas-para-los-alumnos-de-formacion-profesional-de-grado-superior/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - becas
-  - becas y practicas
-  - Certificado de Profesionalidad
-  - gratis
-  - planes de estudio
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "becas"
+  - "becas y practicas"
+  - "Certificado de Profesionalidad"
+  - "gratis"
+  - "planes de estudio"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Del 1 de septiembre al 17 de octubre Desde el 1 de septiembre y hasta el 17 de octubre se encuentra abierto el segundo plazo de solicitud de becas para alumnos de Formación Profesional de Grado Superior. Podrá optar a estas becas los alumnos que cumplan los siguientes&hellip;"
 ---
 

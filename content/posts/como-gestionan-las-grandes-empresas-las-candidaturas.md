@@ -2,13 +2,13 @@
 id: 11780
 title: "¿Cómo gestionan las grandes empresas las&nbsp;candidaturas?"
 date: 2017-03-02T17:09:46
-slug: como-gestionan-las-grandes-empresas-las-candidaturas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11780
-originUrl: https://prixline.blog/2017/03/02/como-gestionan-las-grandes-empresas-las-candidaturas/
+slug: "como-gestionan-las-grandes-empresas-las-candidaturas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11780"
+originUrl: "https://prixline.blog/2017/03/02/como-gestionan-las-grandes-empresas-las-candidaturas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Una de las grandes preguntas de todas las personas que nos encontramos en búsqueda de empleo es ¿cómo gestionan las grandes empresas las candidaturas? Ésta es una de las claves que pocas veces conocemos y que más determinante puede llegar a ser para conseguir la tan ansiada oportunidad profesional. Echemos un&hellip;"
 ---
 

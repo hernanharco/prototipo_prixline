@@ -3,12 +3,12 @@ id: 12381
 title: "PRIXLINE ✅ Trabajar en Gibraltar 🇬🇮&nbsp;⛰"
 date: 2018-09-29T13:20:11
 slug: "prixline-%e2%9c%85-trabajar-en-gibraltar-%f0%9f%87%ac%f0%9f%87%ae-%e2%9b%b0"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12381
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12381"
 originUrl: "https://prixline.blog/2018/09/29/prixline-%e2%9c%85-trabajar-en-gibraltar-%f0%9f%87%ac%f0%9f%87%ae-%e2%9b%b0/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

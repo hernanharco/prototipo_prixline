@@ -2,13 +2,13 @@
 id: 12167
 title: "Los mejores consejos que he recibido a lo largo de mi carrera profesional.¿Cuáles has recibido tú? – Observatorio de&nbsp;Empleo"
 date: 2018-02-17T09:07:53
-slug: los-mejores-consejos-que-he-recibido-a-lo-largo-de-mi-carrera-profesional-cuales-has-recibido-tu-observatorio-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12167
-originUrl: https://prixline.blog/2018/02/17/los-mejores-consejos-que-he-recibido-a-lo-largo-de-mi-carrera-profesional-cuales-has-recibido-tu-observatorio-de-empleo/
+slug: "los-mejores-consejos-que-he-recibido-a-lo-largo-de-mi-carrera-profesional-cuales-has-recibido-tu-observatorio-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12167"
+originUrl: "https://prixline.blog/2018/02/17/los-mejores-consejos-que-he-recibido-a-lo-largo-de-mi-carrera-profesional-cuales-has-recibido-tu-observatorio-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Seguro que tú querido lector como yo hemos pronunciado las estupendas palabras de “Eso no está entre mis cometidos ” o “Las funciones para las que me habéis contratado no son estas”, “Esto no estaba en la descripción del puesto al que he optado”. Los reveses en las carreras profesionales son aguardados. Es muy raro… [&hellip;]"
 ---
 

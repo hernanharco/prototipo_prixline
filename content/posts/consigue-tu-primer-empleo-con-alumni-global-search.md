@@ -2,24 +2,24 @@
 id: 9580
 title: "Consigue tu primer empleo con Alumni Global&nbsp;Search"
 date: 2014-09-17T09:49:53
-slug: consigue-tu-primer-empleo-con-alumni-global-search
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9580
-originUrl: https://prixline.blog/2014/09/17/consigue-tu-primer-empleo-con-alumni-global-search/
+slug: "consigue-tu-primer-empleo-con-alumni-global-search"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9580"
+originUrl: "https://prixline.blog/2014/09/17/consigue-tu-primer-empleo-con-alumni-global-search/"
 categories:
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - gratis
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "gratis"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: Si eres un/a joven recién licenciado universitario y te enfrentas por primera vez a la búsqueda de empleo, seguro que te surgen un montón de dudas y probablemente te des cuenta de que buscar trabajo no es algo tan aparentemente sencillo como parece, o al menos buscar BIEN trabajo. Porque enviar&hellip;"
 ---
 

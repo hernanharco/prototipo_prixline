@@ -3,12 +3,12 @@ id: 33562
 title: "PRIXLINE ✅ ¿Corrupción en España?&nbsp;🤷🏻‍♂️"
 date: 2022-09-14T15:05:44
 slug: "prixline-%e2%9c%85-corrupcion-en-espana-%f0%9f%a4%b7%f0%9f%8f%bb%e2%99%82%ef%b8%8f"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/33562
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/33562"
 originUrl: "https://prixline.blog/2022/09/14/prixline-%e2%9c%85-corrupcion-en-espana-%f0%9f%a4%b7%f0%9f%8f%bb%e2%99%82%ef%b8%8f/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Con Don Jesús Villegas (Magistrado en ejercicio) y con Don Salvador Viada (Fiscal en el Tribunal Supremo) hablando sobre la corrupción en España. Síguenos en Telegram https://t.me/prixliners aumentamos la “Inteligencia Colectiva” y desde allí te ayudamos 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España: http://PRIX.com/contacto 00:00 Intro 03:15 Don Jesús Villegas (Magistrado) [&hellip;]"
 ---
 

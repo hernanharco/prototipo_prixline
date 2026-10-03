@@ -2,13 +2,13 @@
 id: 10019
 title: "Lo que no sabías de la Navidad (España) #infografia #infographic&nbsp;#marketing"
 date: 2014-12-31T08:51:55
-slug: lo-que-no-sabias-de-la-navidad-espana-infografia-infographic-marketing
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10019
-originUrl: https://prixline.blog/2014/12/31/lo-que-no-sabias-de-la-navidad-espana-infografia-infographic-marketing/
+slug: "lo-que-no-sabias-de-la-navidad-espana-infografia-infographic-marketing"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10019"
+originUrl: "https://prixline.blog/2014/12/31/lo-que-no-sabias-de-la-navidad-espana-infografia-infographic-marketing/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con Lo que no sabías de la Navidad (España). Un saludo Lo que no sabías de la Navidad (España) View original post"
 ---
 

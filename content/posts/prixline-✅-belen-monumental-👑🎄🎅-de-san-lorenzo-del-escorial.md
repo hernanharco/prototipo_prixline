@@ -3,12 +3,12 @@ id: 12474
 title: "PRIXLINE ✅ Belén Monumental 👑🎄🎅 de San Lorenzo del&nbsp;Escorial"
 date: 2018-12-28T19:10:56
 slug: "prixline-%e2%9c%85-belen-monumental-%f0%9f%91%91%f0%9f%8e%84%f0%9f%8e%85-de-san-lorenzo-del-escorial"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12474
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12474"
 originUrl: "https://prixline.blog/2018/12/28/prixline-%e2%9c%85-belen-monumental-%f0%9f%91%91%f0%9f%8e%84%f0%9f%8e%85-de-san-lorenzo-del-escorial/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

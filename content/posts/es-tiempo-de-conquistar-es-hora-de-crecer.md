@@ -2,20 +2,20 @@
 id: 4053
 title: "Es tiempo de conquistar, es hora de&nbsp;crecer"
 date: 2013-05-04T06:45:45
-slug: es-tiempo-de-conquistar-es-hora-de-crecer
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4053
-originUrl: https://prixline.blog/2013/05/04/es-tiempo-de-conquistar-es-hora-de-crecer/
+slug: "es-tiempo-de-conquistar-es-hora-de-crecer"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4053"
+originUrl: "https://prixline.blog/2013/05/04/es-tiempo-de-conquistar-es-hora-de-crecer/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "Originally posted on Lo que de verdad importa: “La primera vez que saliste de tu zona de confort, y posiblemente la más dura, fue nada más nacer” Si en algún momento has estado interesado en mejorar tu vida en alguna de las áreas que la componen, seguro que has escuchado o leído con bastante&hellip;"
 ---
 

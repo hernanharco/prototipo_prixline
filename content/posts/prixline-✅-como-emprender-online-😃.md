@@ -3,14 +3,14 @@ id: 14126
 title: "PRIXLINE ✅ Como emprender OnLine&nbsp;😃"
 date: 2020-04-29T14:39:46
 slug: "prixline-%e2%9c%85-como-emprender-online-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14126
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14126"
 originUrl: "https://prixline.blog/2020/04/29/prixline-%e2%9c%85-como-emprender-online-%f0%9f%98%83/"
 categories:
-  - empleo
-  - sin-categoria
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - Trabajo
+  - "prixline"
+  - "Trabajo"
 excerpt: ""
 ---
 

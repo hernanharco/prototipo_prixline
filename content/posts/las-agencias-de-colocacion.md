@@ -2,13 +2,13 @@
 id: 9631
 title: "Las agencias de&nbsp;colocación"
 date: 2014-10-01T01:09:17
-slug: las-agencias-de-colocacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9631
-originUrl: https://prixline.blog/2014/10/01/las-agencias-de-colocacion/
+slug: "las-agencias-de-colocacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9631"
+originUrl: "https://prixline.blog/2014/10/01/las-agencias-de-colocacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Buscar trabajo implica moverse mucho y estar al tanto de las nuevas herramientas y recursos que van surgiendo con el fin de poder facilitar esa búsqueda de trabajo o, al menos, poder hacer que sea más efectiva dentro de las posibilidades. Una de las opciones más interesantes en la actualidad son&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11651
 title: "Cómo utilizar Twitter para encontrar trabajo. "
 date: 2016-12-18T14:23:51
-slug: como-utilizar-twitter-para-encontrar-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11651
-originUrl: https://prixline.blog/2016/12/18/como-utilizar-twitter-para-encontrar-trabajo/
+slug: "como-utilizar-twitter-para-encontrar-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11651"
+originUrl: "https://prixline.blog/2016/12/18/como-utilizar-twitter-para-encontrar-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : A veces se nos llena la boca, y a mí el primero, de las bondades de las redes sociales para encontrar empleo. Muchas veces hablamos de cómo twitter, por ejemplo, nos puede ayudar a conseguir ese empleo soñado, y pensamos que con abrirnos una cuenta&hellip;"
 ---
 

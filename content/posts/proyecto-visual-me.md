@@ -2,13 +2,13 @@
 id: 12179
 title: "Proyecto &#8220;Visual Me&#8221;"
 date: 2018-03-02T11:42:04
-slug: proyecto-visual-me
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12179
-originUrl: https://prixline.blog/2018/03/02/proyecto-visual-me/
+slug: "proyecto-visual-me"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12179"
+originUrl: "https://prixline.blog/2018/03/02/proyecto-visual-me/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Este proyecto tiene como base el acercamiento de los profesionales a la realidad empresarial, a través de diferentes actividades de mentoring individual, formación grupal y eventos de networking. “Visual Me” es un proyecto realizado en colaboración entre la Asociación de Jóvenes Empresarios de Asturias (AJE) y la Agencia&hellip;"
 ---
 

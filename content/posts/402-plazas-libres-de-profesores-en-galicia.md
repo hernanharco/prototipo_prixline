@@ -2,13 +2,13 @@
 id: 10300
 title: "402 plazas libres de Profesores en&nbsp;Galicia"
 date: 2015-03-26T19:14:55
-slug: 402-plazas-libres-de-profesores-en-galicia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10300
-originUrl: https://prixline.blog/2015/03/26/402-plazas-libres-de-profesores-en-galicia/
+slug: "402-plazas-libres-de-profesores-en-galicia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10300"
+originUrl: "https://prixline.blog/2015/03/26/402-plazas-libres-de-profesores-en-galicia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convocan procedimientos selectivos, mediante el sistema de concurso-oposición, para cubrir 446 plazas, 14 para el Cuerpo de Inspectores de Educación y 432 para el Cuerpo de Maestros, situadosen Galicia. Cuerpo de Inspectores Docentes: 13 plazas libres + 1 reserva discapacitados Se requiere experiencia previa como funcionario de&hellip;"
 ---
 

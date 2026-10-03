@@ -2,13 +2,13 @@
 id: 14040
 title: "La cuarentena como periodo de formación y preparación para la reanudación del sector turístico y&nbsp;hostelero."
 date: 2020-04-07T20:08:17
-slug: la-cuarentena-como-periodo-de-formacion-y-preparacion-para-la-reanudacion-del-sector-turistico-y-hostelero
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14040
-originUrl: https://prixline.blog/2020/04/07/la-cuarentena-como-periodo-de-formacion-y-preparacion-para-la-reanudacion-del-sector-turistico-y-hostelero/
+slug: "la-cuarentena-como-periodo-de-formacion-y-preparacion-para-la-reanudacion-del-sector-turistico-y-hostelero"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14040"
+originUrl: "https://prixline.blog/2020/04/07/la-cuarentena-como-periodo-de-formacion-y-preparacion-para-la-reanudacion-del-sector-turistico-y-hostelero/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Barcelona, 7 abril 2020 – El sector turístico, el que más aporta a la economía española, ha experimentado un frenazo en seco con motivo de la crisis … La cuarentena como periodo de formación y preparación para la reanudación del sector turístico y hostelero. Junto con su colaborador eMagister, han lanzado una gran variedad de [&hellip;]"
 ---
 

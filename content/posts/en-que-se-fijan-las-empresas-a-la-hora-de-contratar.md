@@ -2,13 +2,13 @@
 id: 11184
 title: "¿En qué se fijan las empresas a la hora de&nbsp;contratar?"
 date: 2016-03-21T21:56:25
-slug: en-que-se-fijan-las-empresas-a-la-hora-de-contratar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11184
-originUrl: https://prixline.blog/2016/03/21/en-que-se-fijan-las-empresas-a-la-hora-de-contratar/
+slug: "en-que-se-fijan-las-empresas-a-la-hora-de-contratar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11184"
+originUrl: "https://prixline.blog/2016/03/21/en-que-se-fijan-las-empresas-a-la-hora-de-contratar/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ¿Sabes los detalles que las empresas miran a la hora de contratar? Es importante conocer qué buscan para poder planificar una entrevista de trabajo y lograr que tu perfil llame la atención. No hay que olvidar que no dejan de ser singulares “citas a ciegas”,&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11327
 title: "El futuro de la&nbsp;educación"
 date: 2016-06-06T17:21:49
-slug: el-futuro-de-la-educacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11327
-originUrl: https://prixline.blog/2016/06/06/el-futuro-de-la-educacion/
+slug: "el-futuro-de-la-educacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11327"
+originUrl: "https://prixline.blog/2016/06/06/el-futuro-de-la-educacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : “Para sobrevivir, un sistema educativo debe aprender al menos a la misma velocidad con la que cambia su entorno” (Ley de Revans). Así empezaba su artículo, el filósofo y pedagogo José Antonio Marina, publicado hace unos días en la prensa. “Todos los países están en estado de emergencia&hellip;"
 ---
 

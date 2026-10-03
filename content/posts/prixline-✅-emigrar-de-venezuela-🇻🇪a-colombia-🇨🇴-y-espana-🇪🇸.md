@@ -3,12 +3,12 @@ id: 13090
 title: "PRIXLINE ✅ Emigrar de Venezuela 🇻🇪a Colombia 🇨🇴 y España&nbsp;🇪🇸"
 date: 2019-10-11T16:06:35
 slug: "prixline-%e2%9c%85-emigrar-de-venezuela-%f0%9f%87%bb%f0%9f%87%aaa-colombia-%f0%9f%87%a8%f0%9f%87%b4-y-espana-%f0%9f%87%aa%f0%9f%87%b8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13090
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13090"
 originUrl: "https://prixline.blog/2019/10/11/prixline-%e2%9c%85-emigrar-de-venezuela-%f0%9f%87%bb%f0%9f%87%aaa-colombia-%f0%9f%87%a8%f0%9f%87%b4-y-espana-%f0%9f%87%aa%f0%9f%87%b8/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,13 +2,13 @@
 id: 11481
 title: "El aprendizaje informal representa a los aprendices y trabajadores de hoy! Educación&nbsp;Disruptiva)"
 date: 2016-08-29T19:10:20
-slug: el-aprendizaje-informal-representa-a-los-aprendices-y-trabajadores-de-hoy-educacion-disruptiva
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11481
-originUrl: https://prixline.blog/2016/08/29/el-aprendizaje-informal-representa-a-los-aprendices-y-trabajadores-de-hoy-educacion-disruptiva/
+slug: "el-aprendizaje-informal-representa-a-los-aprendices-y-trabajadores-de-hoy-educacion-disruptiva"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11481"
+originUrl: "https://prixline.blog/2016/08/29/el-aprendizaje-informal-representa-a-los-aprendices-y-trabajadores-de-hoy-educacion-disruptiva/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Imagen via (AlexandraLeperq) Hoy ya no es posible solo hablar de educación, bueno si es posible si actuamos des de o posiciones reduccionistas o no queremos entender la complejidad de nuestra sociedad, hacerlo así significa trabajar y darnos solo una “oportunidad” en aspectos muy concretos dejando&hellip;"
 ---
 

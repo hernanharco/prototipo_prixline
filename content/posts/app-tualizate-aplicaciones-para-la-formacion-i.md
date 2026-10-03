@@ -2,13 +2,13 @@
 id: 10959
 title: "App-tualízate: Aplicaciones para la formación&nbsp;I"
 date: 2015-12-11T20:16:11
-slug: app-tualizate-aplicaciones-para-la-formacion-i
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10959
-originUrl: https://prixline.blog/2015/12/11/app-tualizate-aplicaciones-para-la-formacion-i/
+slug: "app-tualizate-aplicaciones-para-la-formacion-i"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10959"
+originUrl: "https://prixline.blog/2015/12/11/app-tualizate-aplicaciones-para-la-formacion-i/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Me Impulso: Hoy en día las nuevas tecnologías se alían con nosotros para facilitarnos un montón de tareas. Y eso lo saben muy bien los estudiantes cada vez más inclinados a utilizar el smartphone o la tablet como herramientas de trabajo con aplicaciones que hacen su día a día más sencillo. Se&hellip;"
 ---
 

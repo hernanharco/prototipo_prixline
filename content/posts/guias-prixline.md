@@ -2,30 +2,30 @@
 id: 1548
 title: "Guías de Ocupaciones&nbsp;Profesionales"
 date: 2012-11-24T13:07:38
-slug: guias-prixline
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1548
-originUrl: https://prixline.blog/2012/11/24/guias-prixline/
+slug: "guias-prixline"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1548"
+originUrl: "https://prixline.blog/2012/11/24/guias-prixline/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - practicas
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas y practicas
-  - Certificado de Profesionalidad
-  - cursos
-  - empleo
-  - estudiar
-  - formacion
-  - planes de estudio
-  - practicas
+  - "aprender"
+  - "becas y practicas"
+  - "Certificado de Profesionalidad"
+  - "cursos"
+  - "empleo"
+  - "estudiar"
+  - "formacion"
+  - "planes de estudio"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Conocer el mercado laboral en el que nos moveremos es de vital inportancia para nuestra futura inserción laboral. El conocimiento de ocupaciones emergentes puede ser nuestro gran aliado en la lucha contra el desempleo. 1.- Guía de nuevas profesiones. Te ofrecemos un diccionario-guía de nuevas ocupaciones organizadas por sectores. Se trata de ocupaciones emergentes provocadas [&hellip;]"
 ---
 

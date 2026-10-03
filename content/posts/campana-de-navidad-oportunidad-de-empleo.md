@@ -2,13 +2,13 @@
 id: 11620
 title: "Campaña de Navidad = Oportunidad de&nbsp;empleo"
 date: 2016-11-21T11:20:43
-slug: campana-de-navidad-oportunidad-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11620
-originUrl: https://prixline.blog/2016/11/21/campana-de-navidad-oportunidad-de-empleo/
+slug: "campana-de-navidad-oportunidad-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11620"
+originUrl: "https://prixline.blog/2016/11/21/campana-de-navidad-oportunidad-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Llegan las navidades y con ello la época en la que los comercios refuerzan sus plantillas. Si tienes un perfil comercial esta es una buena época para enviar tu CV a las empresas que en pocas semanas contratarán personal para la campaña de navidad. Recuerda que buena parte de ese&hellip;"
 ---
 

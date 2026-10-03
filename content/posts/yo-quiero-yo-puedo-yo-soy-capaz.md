@@ -2,18 +2,18 @@
 id: 10753
 title: "¡Yo Quiero, Yo Puedo, Yo soy&nbsp;Capaz!"
 date: 2015-09-08T11:01:50
-slug: yo-quiero-yo-puedo-yo-soy-capaz
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10753
-originUrl: https://prixline.blog/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/
+slug: "yo-quiero-yo-puedo-yo-soy-capaz"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10753"
+originUrl: "https://prixline.blog/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/"
 categories:
-  - empleo
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - Solidaridad
-  - Trabajo
-excerpt: https://reflexionesconcitas.wordpress.com/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/
+  - "prixline"
+  - "Solidaridad"
+  - "Trabajo"
+excerpt: "https://reflexionesconcitas.wordpress.com/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/"
 ---
 
 # ¡Yo Quiero, Yo Puedo, Yo soy&nbsp;Capaz!

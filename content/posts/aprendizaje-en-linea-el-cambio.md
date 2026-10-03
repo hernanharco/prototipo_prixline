@@ -2,13 +2,13 @@
 id: 11395
 title: "Aprendizaje en línea: el&nbsp;cambio!"
 date: 2016-07-15T15:05:30
-slug: aprendizaje-en-linea-el-cambio
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11395
-originUrl: https://prixline.blog/2016/07/15/aprendizaje-en-linea-el-cambio/
+slug: "aprendizaje-en-linea-el-cambio"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11395"
+originUrl: "https://prixline.blog/2016/07/15/aprendizaje-en-linea-el-cambio/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Una experiencia gratificante y eficaz de aprendizaje en línea implica algo más que objetos de aprendizaje, los plug-ins e interfaces. Sin embargo, es fácil de involucrarse en lo que averiguar cómo utilizar la tecnología para ofrecer la información, para que a corto plazo cambiar el desarrollo&hellip;"
 ---
 

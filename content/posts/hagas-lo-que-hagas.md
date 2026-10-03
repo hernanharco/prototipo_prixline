@@ -2,13 +2,13 @@
 id: 11475
 title: "Hagas lo que&nbsp;hagas&#8230;"
 date: 2016-08-24T14:03:53
-slug: hagas-lo-que-hagas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11475
-originUrl: https://prixline.blog/2016/08/24/hagas-lo-que-hagas/
+slug: "hagas-lo-que-hagas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11475"
+originUrl: "https://prixline.blog/2016/08/24/hagas-lo-que-hagas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

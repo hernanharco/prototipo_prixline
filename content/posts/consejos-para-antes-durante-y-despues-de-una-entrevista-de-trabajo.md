@@ -2,13 +2,13 @@
 id: 12145
 title: "Consejos para antes, durante y después de una entrevista de&nbsp;trabajo"
 date: 2018-02-01T14:07:49
-slug: consejos-para-antes-durante-y-despues-de-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12145
-originUrl: https://prixline.blog/2018/02/01/consejos-para-antes-durante-y-despues-de-una-entrevista-de-trabajo/
+slug: "consejos-para-antes-durante-y-despues-de-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12145"
+originUrl: "https://prixline.blog/2018/02/01/consejos-para-antes-durante-y-despues-de-una-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hoy quiero compartir con todos vosotros esta infografía en la que nos dejan bien reflejados consejos para afrontar con éxito una entrevista de trabajo. Pero no sólo eso, sino que diferencia claramente los momentos cruciales en los que tendrás que prestar especial atención: Los momentos previos&hellip;"
 ---
 

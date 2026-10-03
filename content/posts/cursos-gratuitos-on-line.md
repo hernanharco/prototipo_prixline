@@ -1,14 +1,14 @@
 ---
 id: 12332
-title: Cursos gratuitos on-line
+title: "Cursos gratuitos on-line"
 date: 2018-08-17T20:25:01
-slug: cursos-gratuitos-on-line
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12332
-originUrl: https://prixline.blog/2018/08/17/cursos-gratuitos-on-line/
+slug: "cursos-gratuitos-on-line"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12332"
+originUrl: "https://prixline.blog/2018/08/17/cursos-gratuitos-on-line/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Grupo FEMXA organiza cursos subvencionados por el Servicio Público de Empleo Estatal dirigidos a trabajadores de microempresas (de menos de 10 empleados), jóvenes emprendedores y autónomos a nivel estatal. Los cursos son totalmente gratuitos. Los cursos se imparten en modalidad on-line, con contenido disponible las 24 horas al día&hellip;"
 ---
 

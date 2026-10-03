@@ -1,14 +1,14 @@
 ---
 id: 12316
-title: Lecturas de verano
+title: "Lecturas de verano"
 date: 2018-07-25T14:23:56
-slug: lecturas-de-verano
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12316
-originUrl: https://prixline.blog/2018/07/25/lecturas-de-verano/
+slug: "lecturas-de-verano"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12316"
+originUrl: "https://prixline.blog/2018/07/25/lecturas-de-verano/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: El verano es un tiempo perfecto para retomar eso que vamos acumulando a lo largo del año. Gracias a Pocket y Keep me voy guardando artículos, posts, que leo por encima pero no digiero. Y ahora es el momento perfecto para recuperarlos. Os comparto una lista de lecturas de verano llenas&hellip;"
 ---
 

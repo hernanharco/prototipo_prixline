@@ -2,13 +2,13 @@
 id: 12695
 title: "¡¡13 cosas que me hubiera gustado saber hace 10&nbsp;años!!"
 date: 2019-07-15T13:06:45
-slug: 13-cosas-que-me-hubiera-gustado-saber-hace-10-anos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12695
-originUrl: https://prixline.blog/2019/07/15/13-cosas-que-me-hubiera-gustado-saber-hace-10-anos/
+slug: "13-cosas-que-me-hubiera-gustado-saber-hace-10-anos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12695"
+originUrl: "https://prixline.blog/2019/07/15/13-cosas-que-me-hubiera-gustado-saber-hace-10-anos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Lo maravilloso de aprender algo, es que nadie puede arrebatárnoslo” decía B.B.King “Eso nunca me lo habían dicho mis padres”. Frase lapidaria que tras pronunciarla dejaba al chico que tenía delante de mí, blanco y a su amigo preguntándole cómo estaba. Nos creemos que lo sabemos todo.&hellip;"
 ---
 

@@ -2,23 +2,23 @@
 id: 6022
 title: "Buscar trabajo&#8230; ¡y&nbsp;punto!"
 date: 2013-09-10T10:55:51
-slug: buscar-trabajo-y-punto
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6022
-originUrl: https://prixline.blog/2013/09/10/buscar-trabajo-y-punto/
+slug: "buscar-trabajo-y-punto"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6022"
+originUrl: "https://prixline.blog/2013/09/10/buscar-trabajo-y-punto/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on plandempleo: photopin.com Revisando cómo llegan las personas a leer este blog, una de las búsquedas correspondía a ésto, a cómo buscar trabajo sin internet. Esto me hizo reflexionar, y es que es verdad, parece imposible hoy en día buscar trabajo de otra forma. Yo misma lo digo muchas veces, que si no&hellip;"
 ---
 

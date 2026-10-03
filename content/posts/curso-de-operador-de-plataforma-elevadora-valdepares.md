@@ -2,13 +2,13 @@
 id: 10664
 title: "Curso de operador de plataforma elevadora.&nbsp;Valdepares"
 date: 2015-08-05T21:40:04
-slug: curso-de-operador-de-plataforma-elevadora-valdepares
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10664
-originUrl: https://prixline.blog/2015/08/05/curso-de-operador-de-plataforma-elevadora-valdepares/
+slug: "curso-de-operador-de-plataforma-elevadora-valdepares"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10664"
+originUrl: "https://prixline.blog/2015/08/05/curso-de-operador-de-plataforma-elevadora-valdepares/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Eleforma Asturias organiza el curso de operador de plataforma elevadora móvil de personal en el Centro de Empresas de Novales, de Valdepares (El Franco) Se trata de un curso teórico-práctico. Tendrá lugar el sábado 22 de agosto de 2015, de 10:00 a 14:00 y de 16:00 a 20:00 horas. Precio: 110 euros Más información, inscripciones y&hellip;"
 ---
 

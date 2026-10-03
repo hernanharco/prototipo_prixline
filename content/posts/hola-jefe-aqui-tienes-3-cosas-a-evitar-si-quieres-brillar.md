@@ -2,13 +2,13 @@
 id: 11615
 title: "Hola jefe, aquí tienes 3 cosas a evitar si quieres&nbsp;brillar."
 date: 2016-11-16T12:47:42
-slug: hola-jefe-aqui-tienes-3-cosas-a-evitar-si-quieres-brillar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11615
-originUrl: https://prixline.blog/2016/11/16/hola-jefe-aqui-tienes-3-cosas-a-evitar-si-quieres-brillar/
+slug: "hola-jefe-aqui-tienes-3-cosas-a-evitar-si-quieres-brillar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11615"
+originUrl: "https://prixline.blog/2016/11/16/hola-jefe-aqui-tienes-3-cosas-a-evitar-si-quieres-brillar/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Ser jefe no es fácil, igual que no es fácil ser entrenador de fútbol, ni árbitro, ni seleccionador, ni cualquier puesto en el que tengas que tomar decisiones, a veces sin disponer de toda la información, otras veces sin apenas tiempo para hacerlo. Porque todo&hellip;"
 ---
 

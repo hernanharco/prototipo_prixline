@@ -2,13 +2,13 @@
 id: 12341
 title: "¿Por qué HYPATIA? Parte&nbsp;I"
 date: 2018-08-25T15:20:18
-slug: por-que-hypatia-parte-i
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12341
-originUrl: https://prixline.blog/2018/08/25/por-que-hypatia-parte-i/
+slug: "por-que-hypatia-parte-i"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12341"
+originUrl: "https://prixline.blog/2018/08/25/por-que-hypatia-parte-i/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: FOTO: Caminos de Pirané (Formosa) Voy a comenzar contándote que he realizado varios cursos a través de internet (online/e-learning), todos fueron productivos porque algo aprendí, actualicé conocimientos, conocí otros autores, otras personas, otras formas de ver las cosas y todo eso me permitió y me permite hacer un ”&hellip;"
 ---
 

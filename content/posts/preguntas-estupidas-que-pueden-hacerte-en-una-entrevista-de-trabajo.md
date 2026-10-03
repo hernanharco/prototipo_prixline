@@ -2,13 +2,13 @@
 id: 10118
 title: "Preguntas estúpidas que pueden hacerte en una entrevista de&nbsp;trabajo"
 date: 2015-01-23T09:24:12
-slug: preguntas-estupidas-que-pueden-hacerte-en-una-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10118
-originUrl: https://prixline.blog/2015/01/23/preguntas-estupidas-que-pueden-hacerte-en-una-entrevista-de-trabajo/
+slug: "preguntas-estupidas-que-pueden-hacerte-en-una-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10118"
+originUrl: "https://prixline.blog/2015/01/23/preguntas-estupidas-que-pueden-hacerte-en-una-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: A lo largo de los años que llevo trabajando he tenido la oportunidad de asistir a unos cuantos procesos de selección como candidata con la perspectiva de reclutadora, lo cual me ha facilitado poder tener una visión crítica de la función de RRHH. Cada entrevista de trabajo que hacía como&hellip;"
 ---
 

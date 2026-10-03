@@ -2,13 +2,13 @@
 id: 10034
 title: "200 becas 2015 desempleados Fundacion&nbsp;Mapfre"
 date: 2015-01-03T16:50:07
-slug: 200-becas-2015-desempleados-fundacion-mapfre
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10034
-originUrl: https://prixline.blog/2015/01/03/200-becas-2015-desempleados-fundacion-mapfre/
+slug: "200-becas-2015-desempleados-fundacion-mapfre"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10034"
+originUrl: "https://prixline.blog/2015/01/03/200-becas-2015-desempleados-fundacion-mapfre/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Fundación MAPFRE realiza una convocatoria extraordinaria de 200 becas para facilitar el acceso a personas desempleadas en España que deseen incorporarse a los cursos e-learning que oferta el Área de Seguro y Previsión Social en la promoción de febrero de 2015. Hasta el 20 de enero, Requisitos: Personas&hellip;"
 ---
 

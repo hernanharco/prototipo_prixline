@@ -3,12 +3,12 @@ id: 12583
 title: "La profesión de Juez&nbsp;👩‍⚖️"
 date: 2019-03-25T16:06:56
 slug: "la-profesion-de-juez-%f0%9f%91%a9%e2%80%8d%e2%9a%96%ef%b8%8f"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12583
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12583"
 originUrl: "https://prixline.blog/2019/03/25/la-profesion-de-juez-%f0%9f%91%a9%e2%80%8d%e2%9a%96%ef%b8%8f/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,13 +2,13 @@
 id: 10488
 title: "Qué tengo que tener claro al firmar el&nbsp;contrato"
 date: 2015-06-17T14:01:24
-slug: que-tengo-que-tener-claro-al-firmar-el-contrato
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10488
-originUrl: https://prixline.blog/2015/06/17/que-tengo-que-tener-claro-al-firmar-el-contrato/
+slug: "que-tengo-que-tener-claro-al-firmar-el-contrato"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10488"
+originUrl: "https://prixline.blog/2015/06/17/que-tengo-que-tener-claro-al-firmar-el-contrato/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Hay personas que todavía firman sin leer antes el contrato. Los motivos suelen ser variados, desde la prisa por firmar hasta el miedo a parecer desconfiado/a si nos paramos a leerlo. Pero tenemos que tener clara una cosa: lo que firmes, no tendrá vuelta atrás, y no es que no nos&hellip;"
 ---
 

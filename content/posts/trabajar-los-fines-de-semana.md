@@ -2,13 +2,13 @@
 id: 12261
 title: "Trabajar los fines de&nbsp;semana"
 date: 2018-05-26T20:01:39
-slug: trabajar-los-fines-de-semana
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12261
-originUrl: https://prixline.blog/2018/05/26/trabajar-los-fines-de-semana/
+slug: "trabajar-los-fines-de-semana"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12261"
+originUrl: "https://prixline.blog/2018/05/26/trabajar-los-fines-de-semana/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

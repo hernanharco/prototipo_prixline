@@ -2,13 +2,13 @@
 id: 13906
 title: "El teletrabajo en tiempos del&nbsp;coronavirus"
 date: 2020-03-12T14:59:12
-slug: el-teletrabajo-en-tiempos-del-coronavirus
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13906
-originUrl: https://prixline.blog/2020/03/12/el-teletrabajo-en-tiempos-del-coronavirus/
+slug: "el-teletrabajo-en-tiempos-del-coronavirus"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13906"
+originUrl: "https://prixline.blog/2020/03/12/el-teletrabajo-en-tiempos-del-coronavirus/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "En esta situación de emergencia sanitaria y alarma social, se está produciendo un experimento global: muchas compañías han optado (precipitadamente) … El teletrabajo en tiempos del coronavirus Sea como sea, resulta curioso que haya tenido que llegar un virus de estas características para que las compañías comiencen a plantearse la posibilidad de implantar una modalidad [&hellip;]"
 ---
 

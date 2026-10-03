@@ -2,13 +2,13 @@
 id: 10360
 title: "10 libros imprescindibles para la lengua castellana #infografia&nbsp;#infographic"
 date: 2015-04-24T22:41:15
-slug: 10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10360
-originUrl: https://prixline.blog/2015/04/24/10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic/
+slug: "10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10360"
+originUrl: "https://prixline.blog/2015/04/24/10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con 10 libros imprescindibles para la lengua castellana. Vía Un saludo 10 libros imprescindibles para la lengua castellana View original post"
 ---
 

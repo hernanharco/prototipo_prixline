@@ -2,13 +2,13 @@
 id: 12398
 title: "Ideas para redactar una carta de&nbsp;presentación"
 date: 2018-10-08T21:46:49
-slug: ideas-para-redactar-una-carta-de-presentacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12398
-originUrl: https://prixline.blog/2018/10/08/ideas-para-redactar-una-carta-de-presentacion/
+slug: "ideas-para-redactar-una-carta-de-presentacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12398"
+originUrl: "https://prixline.blog/2018/10/08/ideas-para-redactar-una-carta-de-presentacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Siguiendo un poco con la temática del post anterior, vamos a trabajar con la idea de mejorar nuestra autocandidatura. Si hace unas semanas veíamos recursos para hacer una autocandidatura eficaz, ahora vamos a ver ideas para redactar una carta de presentación para autocandidatura efectiva. Desde luego no existe una sola clave&hellip;"
 ---
 

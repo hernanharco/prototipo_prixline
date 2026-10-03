@@ -2,24 +2,24 @@
 id: 9924
 title: "Curso de Dinamizadores/as en ocio&nbsp;juvenil."
 date: 2014-11-25T20:16:44
-slug: curso-de-dinamizadoresas-en-ocio-juvenil
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9924
-originUrl: https://prixline.blog/2014/11/25/curso-de-dinamizadoresas-en-ocio-juvenil/
+slug: "curso-de-dinamizadoresas-en-ocio-juvenil"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9924"
+originUrl: "https://prixline.blog/2014/11/25/curso-de-dinamizadoresas-en-ocio-juvenil/"
 categories:
-  - cursos
-  - empleo
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - b83066696
-  - becas y practicas
-  - gratis
-  - Monitor de Ocio
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "b83066696"
+  - "becas y practicas"
+  - "gratis"
+  - "Monitor de Ocio"
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Asociación Abierto Hasta el Amanecer, AHA, organiza un curso de Dinamizadores/as en ocio juvenil. El objetivo es formar a los/as jóvenes para la iniciativa, la participación y la movilización social y dotarlos de las herramientas básicas que les permitan participar en su comunidad. Posteriormente, pondrán en práctica todo lo&hellip;"
 ---
 

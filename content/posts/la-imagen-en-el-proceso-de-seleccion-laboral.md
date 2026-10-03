@@ -2,13 +2,13 @@
 id: 12415
 title: "La imagen en el proceso de selección&nbsp;laboral"
 date: 2018-11-02T13:30:19
-slug: la-imagen-en-el-proceso-de-seleccion-laboral
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12415
-originUrl: https://prixline.blog/2018/11/02/la-imagen-en-el-proceso-de-seleccion-laboral/
+slug: "la-imagen-en-el-proceso-de-seleccion-laboral"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12415"
+originUrl: "https://prixline.blog/2018/11/02/la-imagen-en-el-proceso-de-seleccion-laboral/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : La comunicación no verbal, la actitud y la vestimenta son aspectos tremendamente influyentes en nuestra posición social, y por supuesto nos guste o no, en la profesional. Y es que además del desarrollo y nuestras habilidades propiamente profesionales, la manera en la que nos presentamos&hellip;"
 ---
 

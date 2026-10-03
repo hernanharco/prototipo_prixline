@@ -2,13 +2,13 @@
 id: 26368
 title: "VIVES EMPRENDE: Ayudas LEADER del Programa de Desarrollo Rural en el Principado de&nbsp;Asturias"
 date: 2022-01-12T07:46:04
-slug: vives-emprende-ayudas-leader-del-programa-de-desarrollo-rural-en-el-principado-de-asturias
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/26368
-originUrl: https://prixline.blog/2022/01/12/vives-emprende-ayudas-leader-del-programa-de-desarrollo-rural-en-el-principado-de-asturias/
+slug: "vives-emprende-ayudas-leader-del-programa-de-desarrollo-rural-en-el-principado-de-asturias"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/26368"
+originUrl: "https://prixline.blog/2022/01/12/vives-emprende-ayudas-leader-del-programa-de-desarrollo-rural-en-el-principado-de-asturias/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Asesoramiento gratuito para personas emprendedoras y en desempleo que quieran desarrollar su iniciativa económica en el medio rural asturiano. La … VIVES EMPRENDE: Ayudas LEADER del Programa de Desarrollo Rural en el Principado de Asturias"
 ---
 

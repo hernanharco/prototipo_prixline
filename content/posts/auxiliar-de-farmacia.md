@@ -2,21 +2,21 @@
 id: 101
 title: "Auxiliar de farmacia: qué aprende y qué&nbsp;hace"
 date: 2012-06-06T16:58:05
-slug: auxiliar-de-farmacia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/101
-originUrl: https://prixline.blog/2012/06/06/auxiliar-de-farmacia/
+slug: "auxiliar-de-farmacia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/101"
+originUrl: "https://prixline.blog/2012/06/06/auxiliar-de-farmacia/"
 categories:
-  - cursos
-  - empleo
-  - practicas
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - Curso de Auxiliar de Farmacia
-  - practicas
+  - "Curso de Auxiliar de Farmacia"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - trabajo
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "La capacitación que se obtiene realizando un curso de Auxiliar de Farmacia permite conocer nociones básicas de física y química, estar al tanto de las principales operaciones galénicas utilizadas en la elaboración farmacéutica, aprender la terminología básica, obtener nociones de farmacología y aplicación de medicamentos y familiarizarse con el funcionamiento de establecimientos de farmacia. Los [&hellip;]"
 ---
 

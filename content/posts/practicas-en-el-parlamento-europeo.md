@@ -2,21 +2,21 @@
 id: 8648
 title: "Prácticas en el Parlamento&nbsp;Europeo"
 date: 2014-03-21T15:03:01
-slug: practicas-en-el-parlamento-europeo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8648
-originUrl: https://prixline.blog/2014/03/21/practicas-en-el-parlamento-europeo/
+slug: "practicas-en-el-parlamento-europeo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8648"
+originUrl: "https://prixline.blog/2014/03/21/practicas-en-el-parlamento-europeo/"
 categories:
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - becas
-  - becas y practicas
+  - "b83066696"
+  - "becas"
+  - "becas y practicas"
   - "Prácticas"
-  - prixline
-  - recursos
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: El Parlamento Europeo ofrece varias modalidades de períodos de prácticas. Los períodos de prácticas incluyen: Becas Robert Schuman, opción general. Becas Robert Schuman, opción periodismo. Las prácticas para los titulados universitarios tienen por objeto permitirles completar los conocimientos adquiridos durante sus estudios y familiarizarse con la actividad de la Unión&hellip;"
 ---
 

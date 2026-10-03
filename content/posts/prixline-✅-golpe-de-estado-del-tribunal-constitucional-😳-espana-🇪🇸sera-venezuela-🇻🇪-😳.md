@@ -3,12 +3,12 @@ id: 36470
 title: "PRIXLINE ✅ ¿Golpe de Estado del Tribunal Constitucional 😳? ¿España 🇪🇸será Venezuela 🇻🇪 ?…&nbsp;😳"
 date: 2023-01-01T15:04:32
 slug: "prixline-%e2%9c%85-golpe-de-estado-del-tribunal-constitucional-%f0%9f%98%b3-espana-%f0%9f%87%aa%f0%9f%87%b8sera-venezuela-%f0%9f%87%bb%f0%9f%87%aa-%f0%9f%98%b3"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/36470
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/36470"
 originUrl: "https://prixline.blog/2023/01/01/prixline-%e2%9c%85-golpe-de-estado-del-tribunal-constitucional-%f0%9f%98%b3-espana-%f0%9f%87%aa%f0%9f%87%b8sera-venezuela-%f0%9f%87%bb%f0%9f%87%aa-%f0%9f%98%b3/"
 categories:
-  - opiniones
+  - "opiniones"
 originCategories:
-  - opinion
+  - "opinion"
 excerpt: "Don Jesús Villegas, magistrado, nos comenta la situación que se ha creado en estos momentos en España … Síguenos en Telegram https://t.me/prixliners aumentamos la Inteligencia Colectiva y desde allí te ayudamos 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España http://PRIX.com/contacto 💚 Spotify: http://bit.ly/prixline"
 ---
 

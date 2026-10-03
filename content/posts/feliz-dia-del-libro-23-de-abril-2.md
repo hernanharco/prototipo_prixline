@@ -2,21 +2,21 @@
 id: 3904
 title: "FELIZ DÍA DEL LIBRO! 23 de&nbsp;Abril"
 date: 2013-04-23T18:27:40
-slug: feliz-dia-del-libro-23-de-abril-2
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3904
-originUrl: https://prixline.blog/2013/04/23/feliz-dia-del-libro-23-de-abril-2/
+slug: "feliz-dia-del-libro-23-de-abril-2"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3904"
+originUrl: "https://prixline.blog/2013/04/23/feliz-dia-del-libro-23-de-abril-2/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Mamaniaca!: …si, lo confieso, soy adicta a ellos, me encantan, amo como se ven en mi pequeña biblioteca, esa que he ido formando en todos estos años, me gusta verlos en las tiendas, o como se ven en las bibliotecas todos ordenados, lo juro, amo leer, recuerdo que cuando tenia 13 lo&hellip;"
 ---
 

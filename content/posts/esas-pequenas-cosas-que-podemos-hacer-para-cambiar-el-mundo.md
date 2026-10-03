@@ -2,13 +2,13 @@
 id: 10470
 title: "Esas pequeñas cosas que podemos hacer para cambiar el&nbsp;mundo."
 date: 2015-06-06T13:34:21
-slug: esas-pequenas-cosas-que-podemos-hacer-para-cambiar-el-mundo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10470
-originUrl: https://prixline.blog/2015/06/06/esas-pequenas-cosas-que-podemos-hacer-para-cambiar-el-mundo/
+slug: "esas-pequenas-cosas-que-podemos-hacer-para-cambiar-el-mundo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10470"
+originUrl: "https://prixline.blog/2015/06/06/esas-pequenas-cosas-que-podemos-hacer-para-cambiar-el-mundo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Pues sí, tengo 40 añazos y ya peino alguna cana (sobre todo en la barba) pero hay cosas que no dejan de emocionarme cuando las veo, y este vídeo, que descubrí en el muro de facebook de la gran Mónica López Ventoso, es una de&hellip;"
 ---
 

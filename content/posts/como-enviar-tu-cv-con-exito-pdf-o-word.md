@@ -2,24 +2,24 @@
 id: 5300
 title: "Cómo enviar tu CV con éxito: ¿PDF o&nbsp;Word?"
 date: 2013-08-02T08:55:40
-slug: como-enviar-tu-cv-con-exito-pdf-o-word
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5300
-originUrl: https://prixline.blog/2013/08/02/como-enviar-tu-cv-con-exito-pdf-o-word/
+slug: "como-enviar-tu-cv-con-exito-pdf-o-word"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5300"
+originUrl: "https://prixline.blog/2013/08/02/como-enviar-tu-cv-con-exito-pdf-o-word/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
   - "vídeos"
 excerpt: "Originally posted on OrientaPalencia: See on Scoop.it – Empleo Palencia Hola, soy Sabina Serrano de http://mejorartucv.com y en este v&iacute;deo te explico qu&eacute; formato pienso que es el m&aacute;s indicado para enviar tu CV por email, si es me… See on http://www.youtube.com"
 ---

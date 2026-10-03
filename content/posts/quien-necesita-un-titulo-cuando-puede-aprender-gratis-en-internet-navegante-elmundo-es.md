@@ -2,20 +2,20 @@
 id: 85
 title: "¿Quién necesita un título cuando puede aprender gratis (o casi gratis) en Internet? | Navegante |&nbsp;elmundo.es"
 date: 2012-05-22T10:15:38
-slug: quien-necesita-un-titulo-cuando-puede-aprender-gratis-en-internet-navegante-elmundo-es
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/85
-originUrl: https://prixline.blog/2012/05/22/quien-necesita-un-titulo-cuando-puede-aprender-gratis-en-internet-navegante-elmundo-es/
+slug: "quien-necesita-un-titulo-cuando-puede-aprender-gratis-en-internet-navegante-elmundo-es"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/85"
+originUrl: "https://prixline.blog/2012/05/22/quien-necesita-un-titulo-cuando-puede-aprender-gratis-en-internet-navegante-elmundo-es/"
 categories:
-  - cursos
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - cursos
-  - formacion
-  - gratis
-  - prix-line
+  - "aprender"
+  - "cursos"
+  - "formacion"
+  - "gratis"
+  - "prix-line"
 excerpt: "¿Quién necesita un título cuando puede aprender gratis en Internet? | Navegante | elmundo.es. Estudiar por el placer de aprender es la diferencia entre seguir una enseñanza reglada y formarse por iniciativa propia sin el objetivo de obtener un título a cambio. En el primer caso basta con ir a un centro educativo y pasar [&hellip;]"
 ---
 

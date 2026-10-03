@@ -2,13 +2,13 @@
 id: 13011
 title: "#PonleFinAlParo, una guía de Adecco para luchar contra el paro de larga&nbsp;duración"
 date: 2019-09-27T08:11:29
-slug: ponlefinalparo-una-guia-de-adecco-para-luchar-contra-el-paro-de-larga-duracion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13011
-originUrl: https://prixline.blog/2019/09/27/ponlefinalparo-una-guia-de-adecco-para-luchar-contra-el-paro-de-larga-duracion/
+slug: "ponlefinalparo-una-guia-de-adecco-para-luchar-contra-el-paro-de-larga-duracion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13011"
+originUrl: "https://prixline.blog/2019/09/27/ponlefinalparo-una-guia-de-adecco-para-luchar-contra-el-paro-de-larga-duracion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Asociación Observatorio del Trabajo Senior 45+: La Fundación Adecco ha publicado una guía de empleo para desempleados de larga duración. En ella recoge algunos consejos y recomendaciones en el proceso de búsqueda de empleo que pueden resultar útiles y que a continuación resumimos. Mantén una actitud positiva. El primer paso que la&hellip;"
 ---
 

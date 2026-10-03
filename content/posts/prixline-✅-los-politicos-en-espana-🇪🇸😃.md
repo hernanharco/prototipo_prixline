@@ -3,14 +3,14 @@ id: 14109
 title: "PRIXLINE ✅ Los Políticos en ESPAÑA&nbsp;🇪🇸😃"
 date: 2020-04-23T20:26:54
 slug: "prixline-%e2%9c%85-los-politicos-en-espana-%f0%9f%87%aa%f0%9f%87%b8%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14109
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14109"
 originUrl: "https://prixline.blog/2020/04/23/prixline-%e2%9c%85-los-politicos-en-espana-%f0%9f%87%aa%f0%9f%87%b8%f0%9f%98%83/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

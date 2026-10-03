@@ -2,13 +2,13 @@
 id: 10289
 title: "Por qué quiero tener en mi red de contactos a alguien que me&nbsp;critique"
 date: 2015-03-23T16:18:04
-slug: por-que-quiero-tener-en-mi-red-de-contactos-a-alguien-que-me-critique
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10289
-originUrl: https://prixline.blog/2015/03/23/por-que-quiero-tener-en-mi-red-de-contactos-a-alguien-que-me-critique/
+slug: "por-que-quiero-tener-en-mi-red-de-contactos-a-alguien-que-me-critique"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10289"
+originUrl: "https://prixline.blog/2015/03/23/por-que-quiero-tener-en-mi-red-de-contactos-a-alguien-que-me-critique/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: Hace unas semanas tuve un encontronazo bastante fuerte con una persona en un debate de LinkedIn. No se trataba de un troll, personajes que pululan por tus perfiles sociales tratando de desacreditarte sin más, sino de alguien que se había mostrado contrario a mi punto de vista. Su comentario sobre&hellip;"
 ---
 

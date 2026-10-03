@@ -2,13 +2,13 @@
 id: 12270
 title: "¿Y tú de mayor qué quieres&nbsp;ser?"
 date: 2018-06-13T09:02:28
-slug: y-tu-de-mayor-que-quieres-ser
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12270
-originUrl: https://prixline.blog/2018/06/13/y-tu-de-mayor-que-quieres-ser/
+slug: "y-tu-de-mayor-que-quieres-ser"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12270"
+originUrl: "https://prixline.blog/2018/06/13/y-tu-de-mayor-que-quieres-ser/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hay veces que los proyectos se caen, es algo bastante habitual, por eso siempre hay que tener varios ases guardados en la manga. Bueno, realmente esto no era un proyecto como tal, era algo más especial, porque aunque haya impartido conferencias de inauguración y/o de&hellip;"
 ---
 

@@ -1,19 +1,19 @@
 ---
 id: 8692
-title: I Premios Cepyme
+title: "I Premios Cepyme"
 date: 2014-03-28T10:31:26
-slug: i-premios-cepyme
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8692
-originUrl: https://prixline.blog/2014/03/28/i-premios-cepyme/
+slug: "i-premios-cepyme"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8692"
+originUrl: "https://prixline.blog/2014/03/28/i-premios-cepyme/"
 categories:
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - gratis
-  - Premios
-  - prixline
-  - recursos
+  - "gratis"
+  - "Premios"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Emprego Viveiro: I Premios Cepyme La Confederación Española de la Pequeña y Mediana Empresa (CEPYME) y la Federación Española de Autónomos-CEAT han convocado la primera edición de los Premios CEPYME, con la que quieren reconocer y divulgar el protagonismo de las pymes y los autónomos en la sociedad, así como la importante&hellip;"
 ---
 

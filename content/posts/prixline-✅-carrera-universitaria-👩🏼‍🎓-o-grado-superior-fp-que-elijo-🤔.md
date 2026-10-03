@@ -3,12 +3,12 @@ id: 12514
 title: "PRIXLINE ✅ Carrera Universitaria 👩🏼‍🎓 o Grado Superior (FP) ¿Qué elijo?&nbsp;🤔"
 date: 2019-01-30T00:07:13
 slug: "prixline-%e2%9c%85-carrera-universitaria-%f0%9f%91%a9%f0%9f%8f%bc%e2%80%8d%f0%9f%8e%93-o-grado-superior-fp-que-elijo-%f0%9f%a4%94"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12514
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12514"
 originUrl: "https://prixline.blog/2019/01/30/prixline-%e2%9c%85-carrera-universitaria-%f0%9f%91%a9%f0%9f%8f%bc%e2%80%8d%f0%9f%8e%93-o-grado-superior-fp-que-elijo-%f0%9f%a4%94/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

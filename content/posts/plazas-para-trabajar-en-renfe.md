@@ -2,17 +2,17 @@
 id: 10714
 title: "Plazas para Trabajar en&nbsp;RENFE."
 date: 2015-08-19T20:10:11
-slug: plazas-para-trabajar-en-renfe
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10714
-originUrl: https://prixline.blog/2015/08/19/plazas-para-trabajar-en-renfe/
+slug: "plazas-para-trabajar-en-renfe"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10714"
+originUrl: "https://prixline.blog/2015/08/19/plazas-para-trabajar-en-renfe/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - recursos
-  - Trabajo
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Podrás consultar las características y requisitos de cada una de las plazas ofertadas, en el apartado Empleo y Formación de la web de RENFE. Las inscripciones se realizarán a través del formulario online de la página web. El plazo de presentación de solicitudes, para todas ellas, finalizará el día 4 de septiembre de 2015. RENFE [&hellip;]"
 ---
 

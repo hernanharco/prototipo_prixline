@@ -3,12 +3,12 @@ id: 13364
 title: "¿Por qué Fátima NO encuentra Trabajo?&nbsp;🧐"
 date: 2019-12-08T15:59:40
 slug: "por-que-fatima-no-encuentra-trabajo-%f0%9f%a7%90"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13364
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13364"
 originUrl: "https://prixline.blog/2019/12/08/por-que-fatima-no-encuentra-trabajo-%f0%9f%a7%90/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

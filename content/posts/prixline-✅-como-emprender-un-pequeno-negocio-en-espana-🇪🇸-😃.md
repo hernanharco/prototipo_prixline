@@ -3,15 +3,15 @@ id: 14164
 title: "PRIXLINE ✅ Como EMPRENDER un PEQUEÑO NEGOCIO en España 🇪🇸&nbsp;😃"
 date: 2020-05-11T20:37:25
 slug: "prixline-%e2%9c%85-como-emprender-un-pequeno-negocio-en-espana-%f0%9f%87%aa%f0%9f%87%b8-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14164
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14164"
 originUrl: "https://prixline.blog/2020/05/11/prixline-%e2%9c%85-como-emprender-un-pequeno-negocio-en-espana-%f0%9f%87%aa%f0%9f%87%b8-%f0%9f%98%83/"
 categories:
-  - empleo
-  - sin-categoria
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prixline
-  - Trabajo
+  - "empleo"
+  - "prixline"
+  - "Trabajo"
 excerpt: ""
 ---
 

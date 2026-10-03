@@ -2,13 +2,13 @@
 id: 11055
 title: "¿Qué significa saber trabajar en&nbsp;equipo?"
 date: 2016-01-26T10:07:55
-slug: que-significa-saber-trabajar-en-equipo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11055
-originUrl: https://prixline.blog/2016/01/26/que-significa-saber-trabajar-en-equipo/
+slug: "que-significa-saber-trabajar-en-equipo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11055"
+originUrl: "https://prixline.blog/2016/01/26/que-significa-saber-trabajar-en-equipo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: El 99,99% de los avisos laborales contiene la frase como requisito de competencias personales el “trabajo en equipo”. Aunque las tareas se realicen en forma individual, hoy más que nunca, es casi imposible que TODO el trabajo sea totalmente individual. Entonces ¿qué significa saber trabajar en equipo? ¿No es,&hellip;"
 ---
 

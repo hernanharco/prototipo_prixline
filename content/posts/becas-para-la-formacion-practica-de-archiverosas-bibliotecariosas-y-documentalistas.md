@@ -2,13 +2,13 @@
 id: 10853
 title: "Becas para la formación práctica de Archiveros/as, Bibliotecarios/as y&nbsp;Documentalistas"
 date: 2015-10-26T19:23:38
-slug: becas-para-la-formacion-practica-de-archiverosas-bibliotecariosas-y-documentalistas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10853
-originUrl: https://prixline.blog/2015/10/26/becas-para-la-formacion-practica-de-archiverosas-bibliotecariosas-y-documentalistas/
+slug: "becas-para-la-formacion-practica-de-archiverosas-bibliotecariosas-y-documentalistas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10853"
+originUrl: "https://prixline.blog/2015/10/26/becas-para-la-formacion-practica-de-archiverosas-bibliotecariosas-y-documentalistas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: El Congreso de los Diputados convoca doce becas individuales para la formación práctica de licenciados/as o graduados/as en actividades archivísticas, bibliográficas y documentales de la Cámara. El desarrollo de las becas estará dirigido por la Dirección de Documentación, Biblioteca y Archivo, por la Dirección de Estudios, Análisis y&hellip;"
 ---
 

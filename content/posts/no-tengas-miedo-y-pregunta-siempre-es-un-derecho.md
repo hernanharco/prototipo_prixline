@@ -2,13 +2,13 @@
 id: 11674
 title: "No tengas miedo y pregunta siempre, es un&nbsp;derecho"
 date: 2017-01-07T00:32:20
-slug: no-tengas-miedo-y-pregunta-siempre-es-un-derecho
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11674
-originUrl: https://prixline.blog/2017/01/07/no-tengas-miedo-y-pregunta-siempre-es-un-derecho/
+slug: "no-tengas-miedo-y-pregunta-siempre-es-un-derecho"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11674"
+originUrl: "https://prixline.blog/2017/01/07/no-tengas-miedo-y-pregunta-siempre-es-un-derecho/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Canal Youtube para suscribirse si lo desean ? https://youtu.be/0fXoH4FW9Xs ? Recuerda, si te gustó la entrada y el video del canal los puedes recomendar, comentar, compartir y si te gusta el blog te puedes suscribir. ¡Muchas gracias por leerme!"
 ---
 

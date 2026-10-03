@@ -2,13 +2,13 @@
 id: 13126
 title: "El currículum social"
 date: 2019-10-18T13:53:12
-slug: el-curriculum-social
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13126
-originUrl: https://prixline.blog/2019/10/18/el-curriculum-social/
+slug: "el-curriculum-social"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13126"
+originUrl: "https://prixline.blog/2019/10/18/el-curriculum-social/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "¿Currículum vitae, sí?, ¿currículum vitae, no?, ¿ya no se utiliza? ¿El currículum ha muerto? ¿Cuántas páginas ha de tener?, ¿qué apartados son recomendables?, ¿incluyo la edad?, ¿y el sexo?, ¿pongo foto? Éstas y otras dudas nos asaltan cada vez que nos ponemos delante del folio en blanco o, mucho peor, cuando echamos mano de una&hellip;"
 ---
 

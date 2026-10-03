@@ -2,13 +2,13 @@
 id: 10863
 title: "Desmontando falsos mitos del&nbsp;emprendimiento"
 date: 2015-11-04T13:36:47
-slug: desmontando-falsos-mitos-del-emprendimiento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10863
-originUrl: https://prixline.blog/2015/11/04/desmontando-falsos-mitos-del-emprendimiento/
+slug: "desmontando-falsos-mitos-del-emprendimiento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10863"
+originUrl: "https://prixline.blog/2015/11/04/desmontando-falsos-mitos-del-emprendimiento/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Me Impulso: ¿Qué imagen se te viene a la cabeza cuando oyes hablar de emprender? ¿El interior de un garaje en California? ¿Un par de chavales con pinta de genios en vaqueros y camiseta? ¿Un producto revolucionario y supertecnológico? ¿Una empresa donde la gente se mueve en monopatín y juega al futbolín?&hellip;"
 ---
 

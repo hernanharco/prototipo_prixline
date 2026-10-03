@@ -3,12 +3,12 @@ id: 46313
 title: "PRIXLINE ✅ Cuidado🚨 España 🇪🇸 ¿Pasará con la Justicia lo mismo que en México y&nbsp;Venezuela?"
 date: 2024-11-11T22:28:46
 slug: "prixline-%e2%9c%85-cuidado%f0%9f%9a%a8-espana-%f0%9f%87%aa%f0%9f%87%b8-pasara-con-la-justicia-lo-mismo-que-en-mexico-y-venezuela"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/46313
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/46313"
 originUrl: "https://prixline.blog/2024/11/11/prixline-%e2%9c%85-cuidado%f0%9f%9a%a8-espana-%f0%9f%87%aa%f0%9f%87%b8-pasara-con-la-justicia-lo-mismo-que-en-mexico-y-venezuela/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

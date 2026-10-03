@@ -3,12 +3,12 @@ id: 13743
 title: "PRIXLINE ✅ Reunión en Madrid de los Prixliners&nbsp;😃"
 date: 2020-02-09T12:09:44
 slug: "prixline-%e2%9c%85-reunion-en-madrid-de-los-prixliners-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13743
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13743"
 originUrl: "https://prixline.blog/2020/02/09/prixline-%e2%9c%85-reunion-en-madrid-de-los-prixliners-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

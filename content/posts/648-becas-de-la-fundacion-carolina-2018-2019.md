@@ -2,13 +2,13 @@
 id: 12123
 title: "648 Becas de la Fundación Carolina&nbsp;2018/2019"
 date: 2018-01-11T12:08:35
-slug: 648-becas-de-la-fundacion-carolina-2018-2019
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12123
-originUrl: https://prixline.blog/2018/01/11/648-becas-de-la-fundacion-carolina-2018-2019/
+slug: "648-becas-de-la-fundacion-carolina-2018-2019"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12123"
+originUrl: "https://prixline.blog/2018/01/11/648-becas-de-la-fundacion-carolina-2018-2019/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Conoces las becas de postgrado, doctorado y de estancias cortas de la Fundación Carolina? Pues ya está abierta la nueva convocatoria La Fundación Carolina ha abierto una nueva edición de su convocatoria de becas, correspondiente al curso académico 2018-2019. El Programa de Formación de la Fundación Carolina tiene&hellip;"
 ---
 

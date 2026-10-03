@@ -2,13 +2,13 @@
 id: 9807
 title: "Prepara el turrón, los villancicos y el curriculum&nbsp;vitae."
 date: 2014-11-03T10:58:47
-slug: prepara-el-turron-los-villancicos-y-el-curriculum-vitae
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9807
-originUrl: https://prixline.blog/2014/11/03/prepara-el-turron-los-villancicos-y-el-curriculum-vitae/
+slug: "prepara-el-turron-los-villancicos-y-el-curriculum-vitae"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9807"
+originUrl: "https://prixline.blog/2014/11/03/prepara-el-turron-los-villancicos-y-el-curriculum-vitae/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : El tiempo no se detiene, nos van llegando señales de que esto va hacia delante, queramos o no, y que no vale quejarse ni regodearse en pensamientos del pasado. Ayer cambiamos la hora, las razones y la idoneidad de esta práctica, no la vamos a&hellip;"
 ---
 

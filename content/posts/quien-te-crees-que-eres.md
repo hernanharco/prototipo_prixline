@@ -2,25 +2,25 @@
 id: 5084
 title: "¿Quién te crees que&nbsp;eres?"
 date: 2013-07-10T09:11:37
-slug: quien-te-crees-que-eres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5084
-originUrl: https://prixline.blog/2013/07/10/quien-te-crees-que-eres/
+slug: "quien-te-crees-que-eres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5084"
+originUrl: "https://prixline.blog/2013/07/10/quien-te-crees-que-eres/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "aprender"
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on plandempleo: No, no va con mala leche ni estoy ofuscada (bueno, igual el calor tiene algo que ver, sí…) Independientemente, la pregunta es directa y simple, sin ningún tono amenazante, llanamente, ¿quién te crees que eres? Si piensas y te preguntas eso sin darle una connotación negativa ni de reproche es probable&hellip;"
 ---
 

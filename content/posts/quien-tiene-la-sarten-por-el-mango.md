@@ -2,13 +2,13 @@
 id: 11995
 title: "¿Quién tiene la sartén por el&nbsp;mango?"
 date: 2017-07-27T17:55:44
-slug: quien-tiene-la-sarten-por-el-mango
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11995
-originUrl: https://prixline.blog/2017/07/27/quien-tiene-la-sarten-por-el-mango/
+slug: "quien-tiene-la-sarten-por-el-mango"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11995"
+originUrl: "https://prixline.blog/2017/07/27/quien-tiene-la-sarten-por-el-mango/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: visto en http://refranenmano.blogspot.com.ar Es habitual leer avisos laborales donde SOLO se especifican los REQUISITOS y TAREAS/RESPONSABILIDADES para el postulante. Nada de lo que se le OFRECE, con qué se lo va a atraer…total el que lo necesita es el potencial postulante/candidato. Es bastante habitual leer RECOMENDACIONES para el CANDIDATO&hellip;"
 ---
 

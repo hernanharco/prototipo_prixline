@@ -2,18 +2,18 @@
 id: 8328
 title: "Becas Fundación Ramón Areces para Estudios de&nbsp;Postgrado"
 date: 2014-02-13T14:22:26
-slug: becas-fundacion-ramon-areces-para-estudios-de-postgrado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8328
-originUrl: https://prixline.blog/2014/02/13/becas-fundacion-ramon-areces-para-estudios-de-postgrado/
+slug: "becas-fundacion-ramon-areces-para-estudios-de-postgrado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8328"
+originUrl: "https://prixline.blog/2014/02/13/becas-fundacion-ramon-areces-para-estudios-de-postgrado/"
 categories:
-  - practicas
-  - recursos
-  - sin-categoria
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - becas y practicas
-  - prix-line
-  - prixline
-  - recursos
+  - "becas y practicas"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación Ramón Areces convoca 22 becas para la realización de estudios en universidades y centros de investigación en el extranjero, durante el curso 2014/2015, en Ciencias Sociales, sobre temas de: Economía. En las áreas de: Economía pública Historia económica Política económica Economía de la empresa Distribución comercial Economía internacional Economía de la educación&hellip;"
 ---
 

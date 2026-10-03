@@ -2,13 +2,13 @@
 id: 11232
 title: "TALLER “COMO SUPERAR UNA ENTREVISTA DE TRABAJO”.&nbsp;MADRID"
 date: 2016-04-24T09:20:11
-slug: taller-como-superar-una-entrevista-de-trabajo-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11232
-originUrl: https://prixline.blog/2016/04/24/taller-como-superar-una-entrevista-de-trabajo-madrid/
+slug: "taller-como-superar-una-entrevista-de-trabajo-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11232"
+originUrl: "https://prixline.blog/2016/04/24/taller-como-superar-una-entrevista-de-trabajo-madrid/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: TALLER “COMO SUPERAR UNA ENTREVISTA DE TRABAJO”. MADRID La entrevista de trabajo, comienza desde el momento en que un candidato, es citado para acudir a entrevista y el éxito dependerá en gran parte del grado de preparación que tenga para la misma. La preparación concienzuda de la entrevista, debe&hellip;"
 ---
 

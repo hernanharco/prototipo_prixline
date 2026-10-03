@@ -2,13 +2,13 @@
 id: 13407
 title: "¿Por qué una buena incorporación no depende sólo de las&nbsp;organizaciones?"
 date: 2019-12-23T18:44:25
-slug: por-que-una-buena-incorporacion-no-depende-solo-de-las-organizaciones
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13407
-originUrl: https://prixline.blog/2019/12/23/por-que-una-buena-incorporacion-no-depende-solo-de-las-organizaciones/
+slug: "por-que-una-buena-incorporacion-no-depende-solo-de-las-organizaciones"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13407"
+originUrl: "https://prixline.blog/2019/12/23/por-que-una-buena-incorporacion-no-depende-solo-de-las-organizaciones/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : En cualquier sitio siempre decimos que la primera impresión cuenta en el mundo de las empresas no iba a ser menos. La etapa de incorporación expone en qué medida la información y los ofrecimientos que la organización ha hecho al candidato son ciertas y si el nuevo empleado verá&hellip;"
 ---
 

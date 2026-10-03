@@ -2,13 +2,13 @@
 id: 11834
 title: "Cuando te digan que no&nbsp;puedes"
 date: 2017-03-30T10:11:27
-slug: cuando-te-digan-que-no-puedes
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11834
-originUrl: https://prixline.blog/2017/03/30/cuando-te-digan-que-no-puedes/
+slug: "cuando-te-digan-que-no-puedes"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11834"
+originUrl: "https://prixline.blog/2017/03/30/cuando-te-digan-que-no-puedes/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: 11270
-title: Ten Cuidado.
+title: "Ten Cuidado."
 date: 2016-05-11T10:00:07
-slug: ten-cuidado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11270
-originUrl: https://prixline.blog/2016/05/11/ten-cuidado/
+slug: "ten-cuidado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11270"
+originUrl: "https://prixline.blog/2016/05/11/ten-cuidado/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

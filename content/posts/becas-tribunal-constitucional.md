@@ -1,14 +1,14 @@
 ---
 id: 10405
-title: Becas Tribunal Constitucional
+title: "Becas Tribunal Constitucional"
 date: 2015-05-11T14:44:58
-slug: becas-tribunal-constitucional
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10405
-originUrl: https://prixline.blog/2015/05/11/becas-tribunal-constitucional/
+slug: "becas-tribunal-constitucional"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10405"
+originUrl: "https://prixline.blog/2015/05/11/becas-tribunal-constitucional/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convocan varias becas en el Tribunal Constitucional Beca de formación en biblioteconomía y documentación en el Tribunal Constitucional: Duración: Tendrá una duración de 12 meses prorrogables por otro plazo igual. Dotación: 1.100 euros brutos mensuales. Entre los requisitos de los beneficiarios/as: Estar en posesión de alguno de&hellip;"
 ---
 

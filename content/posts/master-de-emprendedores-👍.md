@@ -3,12 +3,12 @@ id: 12037
 title: "Máster de emprendedores&nbsp;👍"
 date: 2017-09-10T10:58:38
 slug: "master-de-emprendedores-%f0%9f%91%8d"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12037
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12037"
 originUrl: "https://prixline.blog/2017/09/10/master-de-emprendedores-%f0%9f%91%8d/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,13 +2,13 @@
 id: 12078
 title: "¿De verdad estás en la fase del Reclutamiento&nbsp;2.0?"
 date: 2017-11-02T18:33:00
-slug: de-verdad-estas-en-la-fase-del-reclutamiento-2-0
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12078
-originUrl: https://prixline.blog/2017/11/02/de-verdad-estas-en-la-fase-del-reclutamiento-2-0/
+slug: "de-verdad-estas-en-la-fase-del-reclutamiento-2-0"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12078"
+originUrl: "https://prixline.blog/2017/11/02/de-verdad-estas-en-la-fase-del-reclutamiento-2-0/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Se habla todo del tiempo que el Reclutamiento 1.0 ha dado paso al “Reclutamiento 2.0”, que ahora las interacciones empresa/Consultora- Postulante/Candidato son más fluidas, que el Reclutador busca y mantiene un diálogo con sus posibles candidatos, que buscan atraerlos mostrando las ventajas que tendría trabajar en su empresa tanto&hellip;"
 ---
 

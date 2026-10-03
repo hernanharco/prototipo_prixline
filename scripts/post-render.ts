@@ -36,11 +36,21 @@ export function htmlToPlainText(html: string): string {
     .trim();
 }
 
-/** YAML plain-scalar guard: quote when unsafe (mirrors extract-courses.ts). */
+/**
+ * YAML string emitter: always JSON-quote string values.
+ *
+ * `JSON.stringify(s)` output is valid YAML double-quoted style, and quoting is
+ * what keeps js-yaml 4 (the parser Astro uses) from rejecting or re-typing
+ * values: unquoted `@Foo` scalars are YAML 1.1 reserved indicators (hard
+ * parse error), and unquoted numeric lookalikes like `83066696` silently
+ * become numbers. Parent decision (T5): every string value this renderer
+ * writes — frontmatter scalars AND list items — is emitted quoted.
+ *
+ * Exception: `id` (number) and `date` (ISO timestamp) are emitted raw in
+ * renderPost(), not through this function.
+ */
 export function yamlScalar(value: string): string {
-  const plainSafe =
-    /^[\w ./:@+-]+$/.test(value) && !value.includes(": ") && !value.includes(" #");
-  return plainSafe ? value : JSON.stringify(value);
+  return JSON.stringify(value);
 }
 
 /** Emit a YAML list field with `key:` + `  - item` lines. */
@@ -83,7 +93,7 @@ export function renderPost(
     `title: ${yamlScalar(title)}`,
     `date: ${post.date}`,
     `slug: ${yamlScalar(post.slug)}`,
-    `sourceUrl: ${yamlScalar(POSTS_API_BASE)}/${post.id}`,
+    `sourceUrl: ${yamlScalar(`${POSTS_API_BASE}/${post.id}`)}`,
     `originUrl: ${yamlScalar(post.link)}`,
     ...yamlList("categories", clean),
     ...yamlList("originCategories", originCategoryNames),

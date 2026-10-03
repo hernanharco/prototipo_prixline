@@ -2,13 +2,13 @@
 id: 12652
 title: "¡¡10 leyes de las personas que piensan&nbsp;diferente!!"
 date: 2019-06-03T10:44:29
-slug: 10-leyes-de-las-personas-que-piensan-diferente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12652
-originUrl: https://prixline.blog/2019/06/03/10-leyes-de-las-personas-que-piensan-diferente/
+slug: "10-leyes-de-las-personas-que-piensan-diferente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12652"
+originUrl: "https://prixline.blog/2019/06/03/10-leyes-de-las-personas-que-piensan-diferente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La persona que sigue a la multitud normalmente no irá más allá de la multitud. La persona que camina sola probablemente se encontrará en lugares donde nadie ha estado antes” decía Albert Einstein. Cada día, el “Desarrollo personal Low cost” que se encuentra en medios de comunicación&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11389
 title: "¡Salta!"
 date: 2016-07-11T21:19:21
-slug: salta
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11389
-originUrl: https://prixline.blog/2016/07/11/salta/
+slug: "salta"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11389"
+originUrl: "https://prixline.blog/2016/07/11/salta/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -2,13 +2,13 @@
 id: 10313
 title: "La resignación laboral"
 date: 2015-03-30T16:20:49
-slug: la-resignacion-laboral
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10313
-originUrl: https://prixline.blog/2015/03/30/la-resignacion-laboral/
+slug: "la-resignacion-laboral"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10313"
+originUrl: "https://prixline.blog/2015/03/30/la-resignacion-laboral/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: Una carrera profesional tiene un camino en el que hay que asumir riesgos y tomar decisiones. La mayoría de personas por no decir todo el mundo ha tenido en algún momento de su vida un trabajo que le ha sido insatisfactorio. Todos deseamos y ansiamos conseguir ese trabajo que&hellip;"
 ---
 

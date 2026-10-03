@@ -2,13 +2,13 @@
 id: 10044
 title: "Los Reyes Magos son los&nbsp;padres"
 date: 2015-01-05T20:22:49
-slug: los-reyes-magos-son-los-padres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10044
-originUrl: https://prixline.blog/2015/01/05/los-reyes-magos-son-los-padres/
+slug: "los-reyes-magos-son-los-padres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10044"
+originUrl: "https://prixline.blog/2015/01/05/los-reyes-magos-son-los-padres/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Lo que de verdad importa: Presupongo que mi blog, entre sus lectores, no cuenta con niños o adultos que sigan creyendo en sus Majestades los Reyes Melchor, Gaspar y Baltasar. Y si me equivoco, pido sinceras disculpas porque no es mi intención acabar con las ilusiones de nadie. Pero sí, los Reyes&hellip;"
 ---
 

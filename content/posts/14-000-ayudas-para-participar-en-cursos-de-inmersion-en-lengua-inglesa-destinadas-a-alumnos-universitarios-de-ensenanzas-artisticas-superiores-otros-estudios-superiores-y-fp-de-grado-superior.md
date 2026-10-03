@@ -2,13 +2,13 @@
 id: 12193
 title: "14.000 ayudas para participar en cursos de inmersión en lengua inglesa, destinadas a alumnos universitarios, de Enseñanzas Artísticas Superiores, Otros Estudios Superiores y FP de Grado&nbsp;Superior"
 date: 2018-03-14T08:34:37
-slug: 14-000-ayudas-para-participar-en-cursos-de-inmersion-en-lengua-inglesa-destinadas-a-alumnos-universitarios-de-ensenanzas-artisticas-superiores-otros-estudios-superiores-y-fp-de-grado-superior
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12193
-originUrl: https://prixline.blog/2018/03/14/14-000-ayudas-para-participar-en-cursos-de-inmersion-en-lengua-inglesa-destinadas-a-alumnos-universitarios-de-ensenanzas-artisticas-superiores-otros-estudios-superiores-y-fp-de-grado-superior/
+slug: "14-000-ayudas-para-participar-en-cursos-de-inmersion-en-lengua-inglesa-destinadas-a-alumnos-universitarios-de-ensenanzas-artisticas-superiores-otros-estudios-superiores-y-fp-de-grado-superior"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12193"
+originUrl: "https://prixline.blog/2018/03/14/14-000-ayudas-para-participar-en-cursos-de-inmersion-en-lengua-inglesa-destinadas-a-alumnos-universitarios-de-ensenanzas-artisticas-superiores-otros-estudios-superiores-y-fp-de-grado-superior/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Ministerio de Educación, Cultura y Deporte, convoca: 14.000 ayudas para seguir un curso de inmersión lingüística en inglés organizado por la Universidad Internacional Menéndez Pelayo. Podrán solicitar estas ayudas los jóvenes que no hayan cumplido 30 años a 31 de diciembre de 2018 y que hayan obtenido la condición&hellip;"
 ---
 

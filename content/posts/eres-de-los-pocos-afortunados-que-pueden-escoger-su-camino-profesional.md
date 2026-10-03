@@ -2,16 +2,16 @@
 id: 10743
 title: "¿Eres de los pocos afortunados que pueden “escoger” su camino&nbsp;profesional?"
 date: 2015-09-03T14:32:42
-slug: eres-de-los-pocos-afortunados-que-pueden-escoger-su-camino-profesional
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10743
-originUrl: https://prixline.blog/2015/09/03/eres-de-los-pocos-afortunados-que-pueden-escoger-su-camino-profesional/
+slug: "eres-de-los-pocos-afortunados-que-pueden-escoger-su-camino-profesional"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10743"
+originUrl: "https://prixline.blog/2015/09/03/eres-de-los-pocos-afortunados-que-pueden-escoger-su-camino-profesional/"
 categories:
-  - empleo
-  - sin-categoria
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prixline
-  - Trabajo
+  - "empleo"
+  - "prixline"
+  - "Trabajo"
 excerpt: "Estoy contenta. Estoy feliz. Me he dado cuenta que puedo “escoger”… ¡qué lujo! Hoy he pensado escribir sobre la oportunidad de “escoger”, algo que puede parecer trivial pero no lo es. Hay personas que no pueden escoger. Tienen que irse de su país a buscar una vida mejor. No hay elección. Es el único camino, [&hellip;]"
 ---
 

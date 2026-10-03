@@ -2,13 +2,13 @@
 id: 10818
 title: "¿Cómo puedo hacer frente a una entrevista sin sentir&nbsp;pánico?"
 date: 2015-10-08T23:19:37
-slug: como-puedo-hacer-frente-a-una-entrevista-sin-sentir-panico
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10818
-originUrl: https://prixline.blog/2015/10/08/como-puedo-hacer-frente-a-una-entrevista-sin-sentir-panico/
+slug: "como-puedo-hacer-frente-a-una-entrevista-sin-sentir-panico"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10818"
+originUrl: "https://prixline.blog/2015/10/08/como-puedo-hacer-frente-a-una-entrevista-sin-sentir-panico/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Es un tema recurrente en los últimos tiempos que tantos a las personas que asesoro como algunos correos que llegan al blog me cuenten esta historia por lo que esta semana he decidido dar una respuesta y dedicarle una entrada en el mismo. Me produce pavor hacer frente a&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 12102
 title: "Cursos gratuitos Escuela Virtual de&nbsp;Igualdad"
 date: 2017-12-15T16:40:19
-slug: cursos-gratuitos-escuela-virtual-de-igualdad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12102
-originUrl: https://prixline.blog/2017/12/15/cursos-gratuitos-escuela-virtual-de-igualdad/
+slug: "cursos-gratuitos-escuela-virtual-de-igualdad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12102"
+originUrl: "https://prixline.blog/2017/12/15/cursos-gratuitos-escuela-virtual-de-igualdad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Te interesa la formación en Igualdad de Género? Puedes inscribirte los siguientes cursos online de carácter gratuito: Desde La Escuela Virtual de Igualdad del Organismo Instituto de la Mujer y para la Igualdad de Oportunidades se establece una programación de cursos de Igualdad a través de una plataforma&hellip;"
 ---
 

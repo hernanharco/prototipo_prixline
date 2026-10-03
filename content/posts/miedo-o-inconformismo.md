@@ -2,13 +2,13 @@
 id: 11439
 title: "¿Miedo o Inconformismo?"
 date: 2016-08-03T23:53:28
-slug: miedo-o-inconformismo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11439
-originUrl: https://prixline.blog/2016/08/03/miedo-o-inconformismo/
+slug: "miedo-o-inconformismo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11439"
+originUrl: "https://prixline.blog/2016/08/03/miedo-o-inconformismo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Si estamos creciendo, siempre estaremos fuera de nuestra zona de comodidad” dice John Maxwell. ¿Estás preparado para lo que te voy a decir? ¿De verdad? La zona de confort NUNCA existió. Lo único que existe es la ZONA DE LA INSATISFACCIÓN. ¿Por qué digo esto? Porque si&hellip;"
 ---
 

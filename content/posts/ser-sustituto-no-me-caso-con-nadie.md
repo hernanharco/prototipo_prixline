@@ -2,13 +2,13 @@
 id: 11535
 title: "Ser sustituto, no me caso con&nbsp;nadie."
 date: 2016-09-26T13:35:47
-slug: ser-sustituto-no-me-caso-con-nadie
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11535
-originUrl: https://prixline.blog/2016/09/26/ser-sustituto-no-me-caso-con-nadie/
+slug: "ser-sustituto-no-me-caso-con-nadie"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11535"
+originUrl: "https://prixline.blog/2016/09/26/ser-sustituto-no-me-caso-con-nadie/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Hace ya un tiempo que quería reflexionar lo que supone ser un trabajador de sustitución, como que no podía ordenar mis ideas pues no quiero que el texto suponga matices de queja. Los pros de ser sustituto veraniego, te dictan como lo tienes que hacer el trabajo el jefe y&hellip;"
 ---
 

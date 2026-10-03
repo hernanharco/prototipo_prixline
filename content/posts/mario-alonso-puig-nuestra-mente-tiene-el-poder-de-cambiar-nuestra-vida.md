@@ -2,13 +2,13 @@
 id: 10379
 title: "Mario Alonso Puig: &#8220;Nuestra mente tiene el poder de cambiar nuestra vida&nbsp;..&#8221;"
 date: 2015-05-04T09:49:49
-slug: mario-alonso-puig-nuestra-mente-tiene-el-poder-de-cambiar-nuestra-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10379
-originUrl: https://prixline.blog/2015/05/04/mario-alonso-puig-nuestra-mente-tiene-el-poder-de-cambiar-nuestra-vida/
+slug: "mario-alonso-puig-nuestra-mente-tiene-el-poder-de-cambiar-nuestra-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10379"
+originUrl: "https://prixline.blog/2015/05/04/mario-alonso-puig-nuestra-mente-tiene-el-poder-de-cambiar-nuestra-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: Hoy dentro de la Sección ” Conversaciones con…” es un placer presentar a Mario Alonso Puig “Madera de Lider“, fue uno de los primeros libros que cayeron en mis manos, cuando vivía en un mundo ideal, como en Walt Disney. En él, se decía que tenía que&hellip;"
 ---
 

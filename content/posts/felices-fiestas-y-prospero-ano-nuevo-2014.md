@@ -2,13 +2,13 @@
 id: 7886
 title: "Felices Fiestas y Próspero Año Nuevo&nbsp;2014"
 date: 2013-12-23T15:27:56
-slug: felices-fiestas-y-prospero-ano-nuevo-2014
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7886
-originUrl: https://prixline.blog/2013/12/23/felices-fiestas-y-prospero-ano-nuevo-2014/
+slug: "felices-fiestas-y-prospero-ano-nuevo-2014"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7886"
+originUrl: "https://prixline.blog/2013/12/23/felices-fiestas-y-prospero-ano-nuevo-2014/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Quería desearos unas Felices Fiestas en compañia de vuestros amigos , familia y seres queridos . Que estas sean unas fiestas en el que penséis que la felicidad está en las pequeñas cosas del día a día y que compartidas las cosas siempre se viven mejor . Espero&hellip;"
 ---
 

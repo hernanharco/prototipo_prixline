@@ -2,13 +2,13 @@
 id: 28101
 title: "Historias de… teletrabajo, tecnologías disruptivas y retribución&nbsp;flexible."
 date: 2022-02-20T22:06:24
-slug: historias-de-teletrabajo-tecnologias-disruptivas-y-retribucion-flexible
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/28101
-originUrl: https://prixline.blog/2022/02/20/historias-de-teletrabajo-tecnologias-disruptivas-y-retribucion-flexible/
+slug: "historias-de-teletrabajo-tecnologias-disruptivas-y-retribucion-flexible"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/28101"
+originUrl: "https://prixline.blog/2022/02/20/historias-de-teletrabajo-tecnologias-disruptivas-y-retribucion-flexible/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Esta semana, los links que más han llamado la atención de los muchos que he compartido, nos llevan a reflexiones sobre el teletrabajo y la … Historias de… teletrabajo, tecnologías disruptivas y retribución flexible. Al buscar trabajo hay muchas cosas que considerar, como dónde buscar, con qué frecuencia y para qué. A veces tienes suerte [&hellip;]"
 ---
 

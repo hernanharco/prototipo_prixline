@@ -2,26 +2,26 @@
 id: 3261
 title: "Estudiar y trabajar en Europa, Guía de&nbsp;Recursos"
 date: 2013-03-13T07:40:11
-slug: estudiar-y-trabajar-en-europa-guia-de-recursos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3261
-originUrl: https://prixline.blog/2013/03/13/estudiar-y-trabajar-en-europa-guia-de-recursos/
+slug: "estudiar-y-trabajar-en-europa-guia-de-recursos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3261"
+originUrl: "https://prixline.blog/2013/03/13/estudiar-y-trabajar-en-europa-guia-de-recursos/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - estudiar
-  - formacion
-  - gratis
-  - practicas
+  - "empleo"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Esta edición del Injuve, es una introducción a recursos que proporcionan información para preparar un viaje con destino a los países de la Unión Europea y el Espacio Económico Europeo para aquellos jóvenes que busquen trabajo o formación académica. Ante todo, la guía pretende responder de forma sencilla y ordenada a tres cuestiones: 1. Quiero [&hellip;]"
 ---
 

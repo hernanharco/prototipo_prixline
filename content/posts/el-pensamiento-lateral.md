@@ -1,23 +1,23 @@
 ---
 id: 3722
-title: El pensamiento lateral
+title: "El pensamiento lateral"
 date: 2013-04-09T09:38:54
-slug: el-pensamiento-lateral
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3722
-originUrl: https://prixline.blog/2013/04/09/el-pensamiento-lateral/
+slug: "el-pensamiento-lateral"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3722"
+originUrl: "https://prixline.blog/2013/04/09/el-pensamiento-lateral/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Originally posted on plandempleo: Imaginemos: Marco Antonio y Cleopatra yacen muertos en el suelo de una habitación en Egipto. Ésta se encuentra cerrada por dentro, las ventanas están cerradas, no hay signos de violencia ni sangre en el suelo, ni armas u objetos que hayan podido ser usados para producir la muerte, y tampoco han&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 14166
 title: "Entorno Personal de Aprendizaje ¿Qué es y cómo&nbsp;ayuda?"
 date: 2020-05-13T20:01:56
-slug: entorno-personal-de-aprendizaje-que-es-y-como-ayuda
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14166
-originUrl: https://prixline.blog/2020/05/13/entorno-personal-de-aprendizaje-que-es-y-como-ayuda/
+slug: "entorno-personal-de-aprendizaje-que-es-y-como-ayuda"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14166"
+originUrl: "https://prixline.blog/2020/05/13/entorno-personal-de-aprendizaje-que-es-y-como-ayuda/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "El aprendizaje es un proceso que varía de un profesional a otro y hoy aprender es lo único que te mantendrá profesionalmente empleable. Por eso … Entorno Personal de Aprendizaje ¿Qué es y cómo ayuda? 3 pasos para crear un entorno personal de aprendizaje (EPA – PLE) Decide el enfoque. Establecer áreas de aprendizaje y metas. [&hellip;]"
 ---
 

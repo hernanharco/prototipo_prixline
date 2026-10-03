@@ -2,13 +2,13 @@
 id: 10703
 title: "Empleabilidad: cómo evitar que tu CV se descarte en las primeras&nbsp;fases&#8230;"
 date: 2015-08-16T10:00:22
-slug: empleabilidad-como-evitar-que-tu-cv-se-descarte-en-las-primeras-fases
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10703
-originUrl: https://prixline.blog/2015/08/16/empleabilidad-como-evitar-que-tu-cv-se-descarte-en-las-primeras-fases/
+slug: "empleabilidad-como-evitar-que-tu-cv-se-descarte-en-las-primeras-fases"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10703"
+originUrl: "https://prixline.blog/2015/08/16/empleabilidad-como-evitar-que-tu-cv-se-descarte-en-las-primeras-fases/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Resulta paradójico que contando con un excedente de profesionales disponibles se pueda tener, a simultáneo, la percepción de la existencia de una carestía de talento. De nada sirve “valer” si no se acierta a comunicarlo ante el supuesto de tener encontrar una oportunidad para emplearse o para crecer profesionalmente. La empleabilidad no es un concepto [&hellip;]"
 ---
 

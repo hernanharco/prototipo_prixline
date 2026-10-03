@@ -2,13 +2,13 @@
 id: 9823
 title: "Valiente no es la persona que no tiene miedo, sino la que a pesar de sentir miedo sigue&nbsp;adelante."
 date: 2014-11-06T15:30:19
-slug: valiente-no-es-la-persona-que-no-tiene-miedo-sino-la-que-a-pesar-de-sentir-miedo-sigue-adelante
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9823
-originUrl: https://prixline.blog/2014/11/06/valiente-no-es-la-persona-que-no-tiene-miedo-sino-la-que-a-pesar-de-sentir-miedo-sigue-adelante/
+slug: "valiente-no-es-la-persona-que-no-tiene-miedo-sino-la-que-a-pesar-de-sentir-miedo-sigue-adelante"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9823"
+originUrl: "https://prixline.blog/2014/11/06/valiente-no-es-la-persona-que-no-tiene-miedo-sino-la-que-a-pesar-de-sentir-miedo-sigue-adelante/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

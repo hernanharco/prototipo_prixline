@@ -2,22 +2,22 @@
 id: 3745
 title: "La libertad &#8230; ¿una puerta&nbsp;imaginaria?"
 date: 2013-04-10T13:42:54
-slug: la-libertad-una-puerta-imaginaria
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3745
-originUrl: https://prixline.blog/2013/04/10/la-libertad-una-puerta-imaginaria/
+slug: "la-libertad-una-puerta-imaginaria"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/3745"
+originUrl: "https://prixline.blog/2013/04/10/la-libertad-una-puerta-imaginaria/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - gratis
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
   - "vídeos"
 excerpt: "Originally posted on Habilidades directivas 2.0: Recuerdo, hace unos meses, un vuelo Barcelona – Madrid. En el mismo, tuve oportunidad <permitirme el eufemismo> de “gozar” de un viajero tóxico. Al principio, me hizo gracia y lo encontré hasta divertido. Cuando ya estaba a la altura de Tarragona, empezaba a estar cansado. A la altura de Zaragoza,&hellip;"
 ---

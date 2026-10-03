@@ -1,14 +1,14 @@
 ---
 id: 11371
-title: Cambios.
+title: "Cambios."
 date: 2016-06-28T12:07:01
-slug: cambios
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11371
-originUrl: https://prixline.blog/2016/06/28/cambios/
+slug: "cambios"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11371"
+originUrl: "https://prixline.blog/2016/06/28/cambios/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

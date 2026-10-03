@@ -2,13 +2,13 @@
 id: 11352
 title: "Hablamos de Formación?"
 date: 2016-06-23T15:37:24
-slug: hablamos-de-formacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11352
-originUrl: https://prixline.blog/2016/06/23/hablamos-de-formacion/
+slug: "hablamos-de-formacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11352"
+originUrl: "https://prixline.blog/2016/06/23/hablamos-de-formacion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? La semana pasada Silvia Saucedo me invitó de nuevo a participar en su programa SilviaTeOrienta en Radio Guadalquivir (por cierto, os animo a seguir este programa que cada semana entrevista a gente muy muy interesante). ¿De qué hablamos? Pues de qué va a ser… De Formación. &hellip;"
 ---
 

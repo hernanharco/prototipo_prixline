@@ -2,13 +2,13 @@
 id: 9092
 title: "El violinista del&nbsp;Titanic"
 date: 2014-06-10T09:02:22
-slug: el-violinista-del-titanic
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9092
-originUrl: https://prixline.blog/2014/06/10/el-violinista-del-titanic/
+slug: "el-violinista-del-titanic"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9092"
+originUrl: "https://prixline.blog/2014/06/10/el-violinista-del-titanic/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Para contextualizar una respuesta que no ha sido nada fácil, permitidme una breve entrada. Llevo colaborando con la revista semanal El Jueves apenas desde hace un año. Llegué a la revista tras haber consolidado una trayectoria personal en diversos medios, pero básicamente algunos conoceréis mi trabajo en el digital La Información. Allá fuimos&hellip;"
 ---
 

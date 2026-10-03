@@ -2,15 +2,15 @@
 id: 8537
 title: "Día de la mujer&nbsp;trabajadora"
 date: 2014-03-08T13:21:56
-slug: dia-de-la-mujer-trabajadora
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8537
-originUrl: https://prixline.blog/2014/03/08/dia-de-la-mujer-trabajadora/
+slug: "dia-de-la-mujer-trabajadora"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8537"
+originUrl: "https://prixline.blog/2014/03/08/dia-de-la-mujer-trabajadora/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - prixline
+  - "opinion"
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

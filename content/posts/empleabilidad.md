@@ -2,16 +2,16 @@
 id: 10938
 title: "Manuel Coloma &#8211; El éxito en la&nbsp;empleabilidad"
 date: 2015-11-28T10:45:24
-slug: empleabilidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10938
-originUrl: https://prixline.blog/2015/11/28/empleabilidad/
+slug: "empleabilidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10938"
+originUrl: "https://prixline.blog/2015/11/28/empleabilidad/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - Trabajo
+  - "prixline"
+  - "Trabajo"
   - "vídeos"
 excerpt: "Adaptarte a los nuevos tiempos, tener una actitud positiva, ser constante, continuar con tu formación, centrarte en la solución y no en el problema… Manuel Coloma, ex-seleccionador nacional de baloncesto femenino, te explica en esta píldora formativa algunas ideas motivadoras para que tu búsqueda de empleo sea efectiva."
 ---

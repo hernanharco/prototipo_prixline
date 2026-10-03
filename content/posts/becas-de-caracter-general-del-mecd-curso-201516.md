@@ -2,13 +2,13 @@
 id: 10673
 title: "Becas de carácter general del MECD curso&nbsp;2015/16"
 date: 2015-08-06T17:27:29
-slug: becas-de-caracter-general-del-mecd-curso-201516
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10673
-originUrl: https://prixline.blog/2015/08/06/becas-de-caracter-general-del-mecd-curso-201516/
+slug: "becas-de-caracter-general-del-mecd-curso-201516"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10673"
+originUrl: "https://prixline.blog/2015/08/06/becas-de-caracter-general-del-mecd-curso-201516/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: En el BOE del 6 de agosto aparecen las bases de las becas para estudios posobligatorios: anteriores a la universidad cuyo plazo finaliza el dia 30 de septiembre y universitarios, con plazo hasta el 15 de octubre. Enseñanzas posobligatorias y superirores no universitarias. Plazo: 30/09/2015 1º y 2º&hellip;"
 ---
 

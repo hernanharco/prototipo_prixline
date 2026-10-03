@@ -2,31 +2,31 @@
 id: 369
 title: "Portales para estudiar: los recursos más útiles de la&nbsp;Red"
 date: 2012-08-20T19:54:27
-slug: portales-para-estudiar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/369
-originUrl: https://prixline.blog/2012/08/20/portales-para-estudiar/
+slug: "portales-para-estudiar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/369"
+originUrl: "https://prixline.blog/2012/08/20/portales-para-estudiar/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - autoaprendizaje
-  - becas
-  - becas y practicas
-  - cursos
-  - educadores
-  - empleo
-  - estudiar
-  - formacion
-  - planes de estudio
+  - "autoaprendizaje"
+  - "becas"
+  - "becas y practicas"
+  - "cursos"
+  - "educadores"
+  - "empleo"
+  - "estudiar"
+  - "formacion"
+  - "planes de estudio"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Dentro de las posibilidades que ofrece Internet para favorecer la formación y el conocimiento no se puede obviar el OpenCourseWare (OCW) del que es pionero el Instituto Tecnológico de Masachussets (MIT), que permite que los “materiales de los cursos del MIT que se utilizan en la enseñanza estén disponibles casi en su totalidad de forma gratuita para [&hellip;]"
 ---
 

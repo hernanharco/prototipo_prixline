@@ -2,13 +2,13 @@
 id: 10922
 title: "Buscar trabajo para la campaña de&nbsp;Navidad"
 date: 2015-11-18T11:07:34
-slug: buscar-trabajo-para-la-campana-de-navidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10922
-originUrl: https://prixline.blog/2015/11/18/buscar-trabajo-para-la-campana-de-navidad/
+slug: "buscar-trabajo-para-la-campana-de-navidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10922"
+originUrl: "https://prixline.blog/2015/11/18/buscar-trabajo-para-la-campana-de-navidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: La campaña de Navidad está a la vuelta de la esquina y es un momento perfecto para buscar ofertas de trabajo, sobre todo en los sectores relacionados con la logística, el comercio, la hostelería, en fin, la atención al cliente en general. Por eso vamos a hacer un repaso de aquellos&hellip;"
 ---
 

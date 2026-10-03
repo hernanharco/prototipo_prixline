@@ -2,13 +2,13 @@
 id: 12154
 title: "Análisis de necesidades formativas: escenarios&nbsp;diversificados."
 date: 2018-02-09T18:44:20
-slug: analisis-de-necesidades-formativas-escenarios-diversificados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12154
-originUrl: https://prixline.blog/2018/02/09/analisis-de-necesidades-formativas-escenarios-diversificados/
+slug: "analisis-de-necesidades-formativas-escenarios-diversificados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12154"
+originUrl: "https://prixline.blog/2018/02/09/analisis-de-necesidades-formativas-escenarios-diversificados/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Si pretendemos crear escenarios de aprendizaje no predecibles, es decir, abiertos, y si son masivos, las proporciones de complejidad irán aumentando ya que el “control” deja de estar en manos de la “organización” para pasar a formar parte de la ecología de los aprendices… Realizamos análisis&hellip;"
 ---
 

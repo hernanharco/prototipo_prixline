@@ -2,27 +2,27 @@
 id: 1
 title: "¡ Hola a TODOS&nbsp;!"
 date: 2012-03-03T15:01:36
-slug: hola-a-todos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1
-originUrl: https://prixline.blog/2012/03/03/hola-a-todos/
+slug: "hola-a-todos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1"
+originUrl: "https://prixline.blog/2012/03/03/hola-a-todos/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - 83066696
-  - aprender
-  - autoaprendizaje
-  - b83066696
-  - becas
-  - curso
-  - mascurso.com
-  - opiniones
-  - prixline
-  - semipresencial
-  - trabajo
+  - "83066696"
+  - "aprender"
+  - "autoaprendizaje"
+  - "b83066696"
+  - "becas"
+  - "curso"
+  - "mascurso.com"
+  - "opiniones"
+  - "prixline"
+  - "semipresencial"
+  - "trabajo"
 excerpt: "Bienvenidos al Blog oficial de PRIXLINE. Lo creamos para que podais saber quienes somos, de forma directa!. Desde aquí podéis comentar y se os responderá de forma segura a cualquier tema. Para comenzar os diré que acabo de terminar de leer el libro de Enrique Dans titulado “Todo va a cambiar” http://www.todovaacambiar.com/ lo recomiendo, he aquí algunos párrafos que [&hellip;]"
 ---
 

@@ -2,22 +2,22 @@
 id: 7780
 title: "Empresas de Trabajo Temporal (ETT´s): qué son, cómo funcionan, mitos, inconvenientes,&nbsp;etc."
 date: 2013-12-11T15:36:46
-slug: empresas-de-trabajo-temporal-etts-que-son-como-funcionan-mitos-inconvenientes-etc
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7780
-originUrl: https://prixline.blog/2013/12/11/empresas-de-trabajo-temporal-etts-que-son-como-funcionan-mitos-inconvenientes-etc/
+slug: "empresas-de-trabajo-temporal-etts-que-son-como-funcionan-mitos-inconvenientes-etc"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7780"
+originUrl: "https://prixline.blog/2013/12/11/empresas-de-trabajo-temporal-etts-que-son-como-funcionan-mitos-inconvenientes-etc/"
 categories:
-  - empleo
-  - opiniones
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - practicas
-  - prix-line
-  - prixline
-  - recursos
+  - "empleo"
+  - "opiniones"
+  - "practicas"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Orientadores Palencia: Se acercan las navidades y muchas de las personas que están teniendo serias dificultades para encontrar un empleo, o tan siquiera poder acudir a hacer una simple entrevista, ven en estas fechas una pequeña luz en el largo túnel del desempleo. Encontrarnos un trabajo de Navidad, facilitarnos una oportunidad de demostrar lo&hellip;"
 ---
 

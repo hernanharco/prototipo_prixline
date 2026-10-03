@@ -2,13 +2,13 @@
 id: 11407
 title: "Becas de primeras prácticas profesionales (y&nbsp;más)"
 date: 2016-07-20T16:35:30
-slug: becas-de-primeras-practicas-profesionales-y-mas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11407
-originUrl: https://prixline.blog/2016/07/20/becas-de-primeras-practicas-profesionales-y-mas/
+slug: "becas-de-primeras-practicas-profesionales-y-mas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11407"
+originUrl: "https://prixline.blog/2016/07/20/becas-de-primeras-practicas-profesionales-y-mas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: El verano puede ser un buen momento para buscar esa beca que te ayude con tus estudios o a adquirir experiencia. Aprovechamos las últimas convocatorias de becas para hacer un resumen y sugerirte dónde puedes seguir buscando. En estas últimas semanas hemos ido publicando en nuestro blog, o&hellip;"
 ---
 

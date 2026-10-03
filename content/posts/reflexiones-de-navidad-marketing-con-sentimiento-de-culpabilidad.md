@@ -2,13 +2,13 @@
 id: 10977
 title: "Reflexiones de Navidad&#8230; ¿marketing con sentimiento de&nbsp;culpabilidad?"
 date: 2015-12-25T22:01:38
-slug: reflexiones-de-navidad-marketing-con-sentimiento-de-culpabilidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10977
-originUrl: https://prixline.blog/2015/12/25/reflexiones-de-navidad-marketing-con-sentimiento-de-culpabilidad/
+slug: "reflexiones-de-navidad-marketing-con-sentimiento-de-culpabilidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10977"
+originUrl: "https://prixline.blog/2015/12/25/reflexiones-de-navidad-marketing-con-sentimiento-de-culpabilidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hasta ahora era este blog o el de Osenseis el que había servido de inspiración para el blog que Lola escribe para sus alumnos de quinto de primaria, pero esta vez ha sido al revés. Esta vez ha sido nuestra querida Lola la que nos&hellip;"
 ---
 

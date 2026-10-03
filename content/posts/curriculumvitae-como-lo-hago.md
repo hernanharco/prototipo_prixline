@@ -2,23 +2,23 @@
 id: 7351
 title: "#CurriculumVitae ¿Cómo lo&nbsp;hago?"
 date: 2013-11-11T17:38:08
-slug: curriculumvitae-como-lo-hago
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7351
-originUrl: https://prixline.blog/2013/11/11/curriculumvitae-como-lo-hago/
+slug: "curriculumvitae-como-lo-hago"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7351"
+originUrl: "https://prixline.blog/2013/11/11/curriculumvitae-como-lo-hago/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - b83066696
-  - empleo
-  - gratis
-  - opinion
-  - prixline
-  - recursos
-  - trabajo
+  - "806514296"
+  - "b83066696"
+  - "empleo"
+  - "gratis"
+  - "opinion"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "El curriculum vitae es lo esencial para la búsqueda de empleo, eso todos lo sabemos. Pero… ¿Sabes cómo hacer un buen CV? Los expertos en recursos humanos dicen que lo mejor es la clásica clasificación en bloques. Por ejemplo: Datos personales Datos de formación Otros estudios Conocimientos informáticos e idiomas Concernientes a la experiencia laboral&hellip;"
 ---
 

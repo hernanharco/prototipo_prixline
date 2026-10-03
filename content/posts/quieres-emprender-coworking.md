@@ -2,13 +2,13 @@
 id: 10254
 title: "¿Quieres emprender? Coworking"
 date: 2015-03-10T16:17:30
-slug: quieres-emprender-coworking
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10254
-originUrl: https://prixline.blog/2015/03/10/quieres-emprender-coworking/
+slug: "quieres-emprender-coworking"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10254"
+originUrl: "https://prixline.blog/2015/03/10/quieres-emprender-coworking/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com En la situación actual se nos ha vendido un poco la idea de que emprender es una buena solución a la situación de desempleo. No vamos a valorar si es o no una alternativa para todo y para todos, pero sí vamos a conocer una de las tendencias que está marcando&hellip;"
 ---
 

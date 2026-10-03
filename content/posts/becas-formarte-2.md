@@ -1,14 +1,14 @@
 ---
 id: 10225
-title: Becas FormARTE
+title: "Becas FormARTE"
 date: 2015-02-27T15:28:12
-slug: becas-formarte-2
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10225
-originUrl: https://prixline.blog/2015/02/27/becas-formarte-2/
+slug: "becas-formarte-2"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10225"
+originUrl: "https://prixline.blog/2015/02/27/becas-formarte-2/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Secretaría de Estado de Cultura convoca las Becas FormARTE de formación y especialización en materias artísticas, gestión cultural, archivos, conservación y restauración, museología y biblioteconomía, en organismos públicos del Ministerio de Educación, Cultura y Deporte. Modalidades: A) Becas de Conservación y Restauración de Bienes Culturales: 14 becas. B) Becas&hellip;"
 ---
 

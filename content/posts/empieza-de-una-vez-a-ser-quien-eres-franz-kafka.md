@@ -2,13 +2,13 @@
 id: 11772
 title: "&#8220;Empieza de una vez a ser quien eres&#8230;&#8221; (Franz&nbsp;Kafka)"
 date: 2017-02-28T08:34:08
-slug: empieza-de-una-vez-a-ser-quien-eres-franz-kafka
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11772
-originUrl: https://prixline.blog/2017/02/28/empieza-de-una-vez-a-ser-quien-eres-franz-kafka/
+slug: "empieza-de-una-vez-a-ser-quien-eres-franz-kafka"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11772"
+originUrl: "https://prixline.blog/2017/02/28/empieza-de-una-vez-a-ser-quien-eres-franz-kafka/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

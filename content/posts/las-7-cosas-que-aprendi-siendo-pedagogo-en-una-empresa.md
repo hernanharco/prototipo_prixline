@@ -2,13 +2,13 @@
 id: 11899
 title: "LAS 7 COSAS QUE APRENDÍ SIENDO PEDAGOGO EN UNA&nbsp;EMPRESA"
 date: 2017-05-30T15:15:10
-slug: las-7-cosas-que-aprendi-siendo-pedagogo-en-una-empresa
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11899
-originUrl: https://prixline.blog/2017/05/30/las-7-cosas-que-aprendi-siendo-pedagogo-en-una-empresa/
+slug: "las-7-cosas-que-aprendi-siendo-pedagogo-en-una-empresa"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11899"
+originUrl: "https://prixline.blog/2017/05/30/las-7-cosas-que-aprendi-siendo-pedagogo-en-una-empresa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on EnLaReAndo.com: La formación continua es imprescindible, cuando acabé la carrera no existía los youtubers, hoy mi vida se mueve entre wismichus, dulceidas y LunasDangelis… pero hoy las pedagogas, profes y expertas en Educación y TIC están en twitter, facebook o instagram y me permite hacer redes, conversar, aprender y networkear con&hellip;"
 ---
 

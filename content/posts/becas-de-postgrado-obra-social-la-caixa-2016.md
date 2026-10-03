@@ -2,18 +2,18 @@
 id: 10972
 title: "Becas de Postgrado Obra Social &#8220;la Caixa&#8221;&nbsp;2016"
 date: 2015-12-22T15:48:44
-slug: becas-de-postgrado-obra-social-la-caixa-2016
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10972
-originUrl: https://prixline.blog/2015/12/22/becas-de-postgrado-obra-social-la-caixa-2016/
+slug: "becas-de-postgrado-obra-social-la-caixa-2016"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10972"
+originUrl: "https://prixline.blog/2015/12/22/becas-de-postgrado-obra-social-la-caixa-2016/"
 categories:
-  - practicas
-  - recursos
-  - sin-categoria
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - becas y practicas
-  - gratis
-  - prixline
-  - recursos
+  - "becas y practicas"
+  - "gratis"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Blog Juventud Gijón: La Obra Social “La Caixa” convoca 140 becas internacionales y nacionales ¿Te gustaría cursar estudios de posgrado en el Estado español, Europa, América del Norte o en la zona Asia – Pacífico? ¡Esta podría ser tu oportunidad! Destinos: EUROPA. 65 becas para que curses estudios de posgrado en&hellip;"
 ---
 

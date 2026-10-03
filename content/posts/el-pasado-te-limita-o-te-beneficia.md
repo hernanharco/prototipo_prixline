@@ -2,13 +2,13 @@
 id: 11192
 title: "El pasado ¿Te limita o te&nbsp;beneficia?"
 date: 2016-03-27T13:28:21
-slug: el-pasado-te-limita-o-te-beneficia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11192
-originUrl: https://prixline.blog/2016/03/27/el-pasado-te-limita-o-te-beneficia/
+slug: "el-pasado-te-limita-o-te-beneficia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11192"
+originUrl: "https://prixline.blog/2016/03/27/el-pasado-te-limita-o-te-beneficia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “El pasado muere. El presente vive, el recuerdo queda. Y la vida sigue“. Estaba viendo una película cuando de repente, surgió una pregunta que me lleva tiempo en mi cabeza: “Conocer el pasado, ¿Nos limita o nos beneficia?”. Si el pasado, según la Real Academia de la&hellip;"
 ---
 

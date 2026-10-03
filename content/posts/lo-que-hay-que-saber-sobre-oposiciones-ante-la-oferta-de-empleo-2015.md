@@ -2,13 +2,13 @@
 id: 10329
 title: "Lo que hay que saber sobre oposiciones ante la Oferta de empleo&nbsp;2015"
 date: 2015-04-08T04:00:14
-slug: lo-que-hay-que-saber-sobre-oposiciones-ante-la-oferta-de-empleo-2015
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10329
-originUrl: https://prixline.blog/2015/04/08/lo-que-hay-que-saber-sobre-oposiciones-ante-la-oferta-de-empleo-2015/
+slug: "lo-que-hay-que-saber-sobre-oposiciones-ante-la-oferta-de-empleo-2015"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10329"
+originUrl: "https://prixline.blog/2015/04/08/lo-que-hay-que-saber-sobre-oposiciones-ante-la-oferta-de-empleo-2015/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "En fin, lo importante es tener ilusión y estar dispuesto al sacrificio. Como enseña Virgilio en “La Eneida”, “la fortuna favorece a los valientes”. delaJusticia.com Acaba de publicarse el R.D. 196/2015, de 22 de Marzo (BOE del 23), por el que se aprueba la oferta de empleo público para el año 2015. ¡Por fin parece que [&hellip;]"
 ---
 

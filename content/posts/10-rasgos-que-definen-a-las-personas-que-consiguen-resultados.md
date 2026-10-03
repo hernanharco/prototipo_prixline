@@ -2,31 +2,31 @@
 id: 1486
 title: "10 rasgos que definen a las personas que consiguen&nbsp;resultados"
 date: 2012-11-18T12:22:57
-slug: 10-rasgos-que-definen-a-las-personas-que-consiguen-resultados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1486
-originUrl: https://prixline.blog/2012/11/18/10-rasgos-que-definen-a-las-personas-que-consiguen-resultados/
+slug: "10-rasgos-que-definen-a-las-personas-que-consiguen-resultados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1486"
+originUrl: "https://prixline.blog/2012/11/18/10-rasgos-que-definen-a-las-personas-que-consiguen-resultados/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - opiniones
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - b83066696
-  - cursos
-  - empleo
-  - formacion
-  - gratis
-  - opinion
-  - opiniones
+  - "aprender"
+  - "b83066696"
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "1. Son personas que saben lo que quieren. La principal causa por la que las personas no consiguen lo que quieren es que no saben lo que quieren. Muchas personas funcionan por inercia, dejándose llevar, en piloto automático; y como decía Séneca: “No hay buen viento para quien no sabe a dónde va”. Cuanto más [&hellip;]"
 ---
 

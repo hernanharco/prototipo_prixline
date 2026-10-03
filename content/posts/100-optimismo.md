@@ -2,13 +2,13 @@
 id: 9578
 title: "100% Optimismo"
 date: 2014-09-17T09:47:06
-slug: 100-optimismo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9578
-originUrl: https://prixline.blog/2014/09/17/100-optimismo/
+slug: "100-optimismo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9578"
+originUrl: "https://prixline.blog/2014/09/17/100-optimismo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

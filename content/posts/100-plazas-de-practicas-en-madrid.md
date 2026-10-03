@@ -2,13 +2,13 @@
 id: 10263
 title: "100 Plazas de prácticas en&nbsp;Madrid."
 date: 2015-03-11T15:27:29
-slug: 100-plazas-de-practicas-en-madrid
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10263
-originUrl: https://prixline.blog/2015/03/11/100-plazas-de-practicas-en-madrid/
+slug: "100-plazas-de-practicas-en-madrid"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10263"
+originUrl: "https://prixline.blog/2015/03/11/100-plazas-de-practicas-en-madrid/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Banco Santander ofrece 100 puestos de prácticas profesionales en sus servicios centrales de Madrid. Se trata de prácticas remuneradas de seis meses de duración en Áreas de Servicios Centrales como Inteligencia Comercial, Medios de Pago, Marketing, Banca Mayorista, Banca Privada, Control de Gestión, Open Bank, Tecnología. Requisitos mínimos: Estudiantes&hellip;"
 ---
 

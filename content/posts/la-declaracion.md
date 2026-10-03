@@ -2,13 +2,13 @@
 id: 8287
 title: "La declaración"
 date: 2014-02-09T10:10:30
-slug: la-declaracion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8287
-originUrl: https://prixline.blog/2014/02/09/la-declaracion/
+slug: "la-declaracion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8287"
+originUrl: "https://prixline.blog/2014/02/09/la-declaracion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Excelente @ferranmartin @FerranMartín View original post"
 ---
 

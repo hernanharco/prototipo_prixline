@@ -1,14 +1,14 @@
 ---
 id: 14003
-title: Aplauso
+title: "Aplauso"
 date: 2020-03-31T10:46:24
-slug: aplauso
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14003
-originUrl: https://prixline.blog/2020/03/31/aplauso/
+slug: "aplauso"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14003"
+originUrl: "https://prixline.blog/2020/03/31/aplauso/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Sigue todas las viñetas más virales del Coronavirus en Patreon: http://patreon.com/ferranmartin"
 ---
 

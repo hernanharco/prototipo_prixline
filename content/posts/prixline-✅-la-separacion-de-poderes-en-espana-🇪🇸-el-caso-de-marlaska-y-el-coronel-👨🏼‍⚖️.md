@@ -3,12 +3,12 @@ id: 20938
 title: "PRIXLINE ✅ La Separación de Poderes en ESPAÑA 🇪🇸 El caso de Marlaska y el Coronel&nbsp;👨🏼‍⚖️"
 date: 2021-05-25T15:33:08
 slug: "prixline-%e2%9c%85-la-separacion-de-poderes-en-espana-%f0%9f%87%aa%f0%9f%87%b8-el-caso-de-marlaska-y-el-coronel-%f0%9f%91%a8%f0%9f%8f%bc%e2%80%8d%e2%9a%96%ef%b8%8f"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/20938
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/20938"
 originUrl: "https://prixline.blog/2021/05/25/prixline-%e2%9c%85-la-separacion-de-poderes-en-espana-%f0%9f%87%aa%f0%9f%87%b8-el-caso-de-marlaska-y-el-coronel-%f0%9f%91%a8%f0%9f%8f%bc%e2%80%8d%e2%9a%96%ef%b8%8f/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

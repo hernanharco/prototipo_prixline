@@ -2,13 +2,13 @@
 id: 9496
 title: "España es mucho más que fútbol, playa y&nbsp;corrupción"
 date: 2014-09-09T08:43:30
-slug: espana-es-mucho-mas-que-futbol-playa-y-corrupcion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9496
-originUrl: https://prixline.blog/2014/09/09/espana-es-mucho-mas-que-futbol-playa-y-corrupcion/
+slug: "espana-es-mucho-mas-que-futbol-playa-y-corrupcion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9496"
+originUrl: "https://prixline.blog/2014/09/09/espana-es-mucho-mas-que-futbol-playa-y-corrupcion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Abogacía a tu alcance: España: un país de fútbol, playa, corrupción y mucho más ¿Puede decirse que España ha salido de lo peor en cuanto a la crisis económica? Los indicadores económicos dicen que sí, las economías familiares todavía no lo pueden confirmar. Lo grave de todo ésto no es si&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10004
 title: "¡Enfócate en la solución, no en el&nbsp;problema!"
 date: 2014-12-21T13:34:01
-slug: enfocate-en-la-solucion-no-en-el-problema
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10004
-originUrl: https://prixline.blog/2014/12/21/enfocate-en-la-solucion-no-en-el-problema/
+slug: "enfocate-en-la-solucion-no-en-el-problema"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10004"
+originUrl: "https://prixline.blog/2014/12/21/enfocate-en-la-solucion-no-en-el-problema/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Eficacia personal: Enfócate en la solución y no en los problemas"
 ---
 

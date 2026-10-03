@@ -3,14 +3,14 @@ id: 13799
 title: "PRIXLINE ✅ Unos Meses en España como Emigrante&nbsp;😃"
 date: 2020-02-17T21:59:19
 slug: "prixline-%e2%9c%85-unos-meses-en-espana-como-emigrante-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13799
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13799"
 originUrl: "https://prixline.blog/2020/02/17/prixline-%e2%9c%85-unos-meses-en-espana-como-emigrante-%f0%9f%98%83/"
 categories:
-  - empleo
-  - sin-categoria
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - trabajo
+  - "prixline"
+  - "trabajo"
 excerpt: ""
 ---
 

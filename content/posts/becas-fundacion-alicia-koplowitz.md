@@ -2,25 +2,25 @@
 id: 9949
 title: "Becas Fundación Alicia&nbsp;Koplowitz"
 date: 2014-12-04T10:28:23
-slug: becas-fundacion-alicia-koplowitz
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9949
-originUrl: https://prixline.blog/2014/12/04/becas-fundacion-alicia-koplowitz/
+slug: "becas-fundacion-alicia-koplowitz"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9949"
+originUrl: "https://prixline.blog/2014/12/04/becas-fundacion-alicia-koplowitz/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - becas y practicas
-  - Certificado de Profesionalidad
-  - estudiar
-  - formacion
-  - gratis
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "becas y practicas"
+  - "Certificado de Profesionalidad"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: La Fundación Alicia Koplowitz convoca varias becas y ayudas para el 2015: 4 becas de Formación Avanzada en Psiquiatría o Psicología del Niño y Adolescentes: 2 años Para realizar estudios de posgrado en Psiquiatría y Psicología del Niño y el Adolescente, con especial dedicación a la Investigación clínica,&hellip;"
 ---
 

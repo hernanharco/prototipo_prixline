@@ -2,13 +2,13 @@
 id: 5700
 title: "¿Qué tal de&nbsp;inglés?"
 date: 2013-08-25T14:06:57
-slug: que-tal-de-ingles
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5700
-originUrl: https://prixline.blog/2013/08/25/que-tal-de-ingles/
+slug: "que-tal-de-ingles"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/5700"
+originUrl: "https://prixline.blog/2013/08/25/que-tal-de-ingles/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Un poco de humor mientras preparamos la vuelta de las vacaciones…"
 ---
 

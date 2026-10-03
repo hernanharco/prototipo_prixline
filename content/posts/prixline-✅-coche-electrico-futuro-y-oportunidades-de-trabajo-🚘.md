@@ -3,16 +3,16 @@ id: 12585
 title: "PRIXLINE ✅ Coche eléctrico: futuro y oportunidades de trabajo&nbsp;🚘"
 date: 2019-03-26T00:14:55
 slug: "prixline-%e2%9c%85-coche-electrico-futuro-y-oportunidades-de-trabajo-%f0%9f%9a%98"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12585
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12585"
 originUrl: "https://prixline.blog/2019/03/26/prixline-%e2%9c%85-coche-electrico-futuro-y-oportunidades-de-trabajo-%f0%9f%9a%98/"
 categories:
-  - cursos
-  - formacion
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - MasterClass
-  - prixline
+  - "aprender"
+  - "MasterClass"
+  - "prixline"
 excerpt: ""
 ---
 

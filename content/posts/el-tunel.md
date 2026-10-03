@@ -1,14 +1,14 @@
 ---
 id: 14014
-title: EL TUNEL
+title: "EL TUNEL"
 date: 2020-04-02T20:13:26
-slug: el-tunel
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14014
-originUrl: https://prixline.blog/2020/04/02/el-tunel/
+slug: "el-tunel"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14014"
+originUrl: "https://prixline.blog/2020/04/02/el-tunel/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Eficacia personal: Cuando se ha entrado en un túnel, hay que tener la seguridad de que siempre se sale. Siempre hay una salida, Si se entra, se sale. Si hay voluntad para ello. A veces la salida está en el otro lado. Otras veces se vuelve por donde hemos entrado. Toda crisis&hellip;"
 ---
 

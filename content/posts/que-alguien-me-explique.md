@@ -2,13 +2,13 @@
 id: 10918
 title: "Que alguien me&nbsp;explique&#8230;"
 date: 2015-11-15T10:25:20
-slug: que-alguien-me-explique
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10918
-originUrl: https://prixline.blog/2015/11/15/que-alguien-me-explique/
+slug: "que-alguien-me-explique"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10918"
+originUrl: "https://prixline.blog/2015/11/15/que-alguien-me-explique/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: Qué difícil escribir este fin de semana, qué difícil encontrar las palabras…de hecho esta es la enésima vez que me siento frente al ordenador, no hay palabras que expresen este dolor y sin embargo no lo podemos dejar en silencio, en un silencio que se&hellip;"
 ---
 

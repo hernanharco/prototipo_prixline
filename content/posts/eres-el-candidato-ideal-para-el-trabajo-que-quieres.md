@@ -2,20 +2,20 @@
 id: 7815
 title: "¿Eres el candidato ideal para el trabajo que&nbsp;quieres?"
 date: 2013-12-13T17:59:38
-slug: eres-el-candidato-ideal-para-el-trabajo-que-quieres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7815
-originUrl: https://prixline.blog/2013/12/13/eres-el-candidato-ideal-para-el-trabajo-que-quieres/
+slug: "eres-el-candidato-ideal-para-el-trabajo-que-quieres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7815"
+originUrl: "https://prixline.blog/2013/12/13/eres-el-candidato-ideal-para-el-trabajo-que-quieres/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - b83066696
-  - empleo
-  - gratis
-  - prix-line
-  - prixline
+  - "806514296"
+  - "b83066696"
+  - "empleo"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
   - "vídeos"
 excerpt: "Originally posted on Yovijob: Buscar empleo es una tarea dura, por eso os ayudamos a destacar. Queremos que mostréis que sois el candidato más valioso para la empresa en las ofertas de empleo que os inscribáis. Conseguir que en Recursos Humanos se fijen en vosotros y no en otro candidato es difícil pero no imposible. A veces dos&hellip;"
 ---

@@ -3,12 +3,12 @@ id: 12111
 title: "Os deseamos una Feliz Navidad 🎄 y un próspero 2018&nbsp;🤗"
 date: 2017-12-25T17:25:56
 slug: "os-deseamos-una-feliz-navidad-%f0%9f%8e%84-y-un-prospero-2018-%f0%9f%a4%97"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12111
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12111"
 originUrl: "https://prixline.blog/2017/12/25/os-deseamos-una-feliz-navidad-%f0%9f%8e%84-y-un-prospero-2018-%f0%9f%a4%97/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

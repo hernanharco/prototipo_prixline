@@ -2,31 +2,31 @@
 id: 1110
 title: "Diez cosas que debemos exigirle a una buena formación&nbsp;e-learning"
 date: 2012-10-18T19:03:26
-slug: prixline-e-learning
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1110
-originUrl: https://prixline.blog/2012/10/18/prixline-e-learning/
+slug: "prixline-e-learning"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1110"
+originUrl: "https://prixline.blog/2012/10/18/prixline-e-learning/"
 categories:
-  - cursos
-  - formacion
-  - migracion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "migracion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - b83066696
-  - Certificado de Profesionalidad
-  - curso
-  - cursos
-  - estudiar
-  - formacion
-  - gratis
-  - Homologacion
-  - planes de estudio
-  - prix-line
-  - prixline
-  - recursos
-  - semipresencial
+  - "aprender"
+  - "autoaprendizaje"
+  - "b83066696"
+  - "Certificado de Profesionalidad"
+  - "curso"
+  - "cursos"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "Homologacion"
+  - "planes de estudio"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "semipresencial"
 excerpt: "¿Alguna vez os habéis planteado qué hay que exigirle a la formación on-line para que sea de calidad? ¡Te damos algunas guías de lo que es imprescindible! Ayuda a la hora de definir los objetivos y que estos sean acordes con el contenido y la metodología de la formación que se va a impartir. Flexibilidad horaria: la mayoría de [&hellip;]"
 ---
 

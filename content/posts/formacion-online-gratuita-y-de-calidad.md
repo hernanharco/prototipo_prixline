@@ -2,20 +2,20 @@
 id: 9328
 title: "Formación online gratuita y de&nbsp;calidad"
 date: 2014-08-06T08:18:29
-slug: formacion-online-gratuita-y-de-calidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9328
-originUrl: https://prixline.blog/2014/08/06/formacion-online-gratuita-y-de-calidad/
+slug: "formacion-online-gratuita-y-de-calidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9328"
+originUrl: "https://prixline.blog/2014/08/06/formacion-online-gratuita-y-de-calidad/"
 categories:
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "prixline"
 excerpt: "Actívate, de Google: Hace unas semanas os hablamos de esta iniciativa del gigante Google, que tiene por objeto facilitar el acceso de jóvenes y no tan jóvenes, al conocimiento, formación, emprendimiento y mundo profesional, en general, centrándose sobre todo en el manejo de herramientas digitales. ¿Habéis probado ya alguna de estas plataformas? De ser así, [&hellip;]"
 ---
 

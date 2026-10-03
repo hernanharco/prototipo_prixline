@@ -2,13 +2,13 @@
 id: 11495
 title: "10 Maneras de amargarse la&nbsp;vida."
 date: 2016-09-07T19:14:59
-slug: 10-maneras-de-amargarse-la-vida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11495
-originUrl: https://prixline.blog/2016/09/07/10-maneras-de-amargarse-la-vida/
+slug: "10-maneras-de-amargarse-la-vida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11495"
+originUrl: "https://prixline.blog/2016/09/07/10-maneras-de-amargarse-la-vida/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

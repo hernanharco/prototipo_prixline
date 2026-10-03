@@ -2,13 +2,13 @@
 id: 12256
 title: "No te quedan excusas para no&nbsp;aprender"
 date: 2018-05-22T17:29:56
-slug: no-te-quedan-excusas-para-no-aprender
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12256
-originUrl: https://prixline.blog/2018/05/22/no-te-quedan-excusas-para-no-aprender/
+slug: "no-te-quedan-excusas-para-no-aprender"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12256"
+originUrl: "https://prixline.blog/2018/05/22/no-te-quedan-excusas-para-no-aprender/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Bienvenidos a la era del aprendizaje continuo El paradigma laboral en el que nos encontramos inmersos nada tiene que ver con lo que conocimos. Un mundo digitalizado, con profesiones y oportunidades laborales que no existían hace apenas 6-8 años, con una competencia global (ya no importa donde vivas, el trabajo es universal y puedes colaborar&hellip;"
 ---
 

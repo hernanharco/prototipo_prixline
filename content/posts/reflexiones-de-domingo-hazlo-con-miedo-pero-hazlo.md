@@ -2,13 +2,13 @@
 id: 11337
 title: "Reflexiones de domingo: hazlo, con miedo, pero&nbsp;hazlo!"
 date: 2016-06-12T12:05:45
-slug: reflexiones-de-domingo-hazlo-con-miedo-pero-hazlo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11337
-originUrl: https://prixline.blog/2016/06/12/reflexiones-de-domingo-hazlo-con-miedo-pero-hazlo/
+slug: "reflexiones-de-domingo-hazlo-con-miedo-pero-hazlo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11337"
+originUrl: "https://prixline.blog/2016/06/12/reflexiones-de-domingo-hazlo-con-miedo-pero-hazlo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : El Blog de Iñaki González View original post"
 ---
 

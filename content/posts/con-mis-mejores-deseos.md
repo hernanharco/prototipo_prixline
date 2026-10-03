@@ -2,13 +2,13 @@
 id: 11656
 title: "Con mis mejores&nbsp;deseos:"
 date: 2016-12-23T12:48:52
-slug: con-mis-mejores-deseos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11656
-originUrl: https://prixline.blog/2016/12/23/con-mis-mejores-deseos/
+slug: "con-mis-mejores-deseos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11656"
+originUrl: "https://prixline.blog/2016/12/23/con-mis-mejores-deseos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

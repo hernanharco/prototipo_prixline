@@ -2,13 +2,13 @@
 id: 9887
 title: "¿Te apetece ser&nbsp;egoísta?"
 date: 2014-11-20T15:23:22
-slug: te-apetece-ser-egoista
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9887
-originUrl: https://prixline.blog/2014/11/20/te-apetece-ser-egoista/
+slug: "te-apetece-ser-egoista"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9887"
+originUrl: "https://prixline.blog/2014/11/20/te-apetece-ser-egoista/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Teoría del Vaso Lleno: Cuando escuchamos la palabra egoísmo se nos viene a la cabeza esa persona altanera que mira por encima de sus hombros a los demás y que se quiere mucho a sí mismo sin tener en cuenta lo que pisotea a su paso. Ahora te hago la siguiente&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10148
 title: "Se FAN de ti&nbsp;mismo"
 date: 2015-01-29T15:21:04
-slug: se-fan-de-ti-mismo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10148
-originUrl: https://prixline.blog/2015/01/29/se-fan-de-ti-mismo/
+slug: "se-fan-de-ti-mismo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10148"
+originUrl: "https://prixline.blog/2015/01/29/se-fan-de-ti-mismo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

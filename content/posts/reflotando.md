@@ -1,21 +1,21 @@
 ---
 id: 9285
-title: Reflotando
+title: "Reflotando"
 date: 2014-07-25T12:32:04
-slug: reflotando
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9285
-originUrl: https://prixline.blog/2014/07/25/reflotando/
+slug: "reflotando"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9285"
+originUrl: "https://prixline.blog/2014/07/25/reflotando/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - opiniones
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "opiniones"
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

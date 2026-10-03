@@ -2,21 +2,21 @@
 id: 10066
 title: "Buscar trabajo en el sector&nbsp;público"
 date: 2015-01-13T16:32:30
-slug: buscar-trabajo-en-el-sector-publico
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10066
-originUrl: https://prixline.blog/2015/01/13/buscar-trabajo-en-el-sector-publico/
+slug: "buscar-trabajo-en-el-sector-publico"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10066"
+originUrl: "https://prixline.blog/2015/01/13/buscar-trabajo-en-el-sector-publico/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - prix-line
-  - prixline
-  - recursos
-  - Trabajo
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on plandempleo: photopin.com Cuando pensamos en buscar trabajo en el sector público nos vemos enseguida pensado en las oposiciones, pero no es la única vía. El sector público hace referencia al conjunto de administraciones, organismos y empresas públicas que son de titularidad estatal. Es decir, el ámbito de la economía que controlan directamente&hellip;"
 ---
 

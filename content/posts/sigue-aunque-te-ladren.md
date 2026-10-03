@@ -2,13 +2,13 @@
 id: 11252
 title: "¡¡Sigue, aunque te&nbsp;ladren&#8230;!!"
 date: 2016-05-05T08:13:13
-slug: sigue-aunque-te-ladren
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11252
-originUrl: https://prixline.blog/2016/05/05/sigue-aunque-te-ladren/
+slug: "sigue-aunque-te-ladren"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11252"
+originUrl: "https://prixline.blog/2016/05/05/sigue-aunque-te-ladren/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Tu vida irá hacia adelante cuando te apartes de las personas que te llevan hacia atrás“. ¡¡Que ladre lo que quiera, digan lo que digan, voy a conseguirlo…!!. Es una frase que me han dicho hoy durante una conversación y que la voy a unir a mi&hellip;"
 ---
 

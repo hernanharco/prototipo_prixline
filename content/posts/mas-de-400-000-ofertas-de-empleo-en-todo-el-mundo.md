@@ -2,20 +2,20 @@
 id: 8127
 title: "Más de 400.000 ofertas de empleo en todo el&nbsp;mundo."
 date: 2014-01-24T10:34:43
-slug: mas-de-400-000-ofertas-de-empleo-en-todo-el-mundo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8127
-originUrl: https://prixline.blog/2014/01/24/mas-de-400-000-ofertas-de-empleo-en-todo-el-mundo/
+slug: "mas-de-400-000-ofertas-de-empleo-en-todo-el-mundo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8127"
+originUrl: "https://prixline.blog/2014/01/24/mas-de-400-000-ofertas-de-empleo-en-todo-el-mundo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - empleo
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
+  - "806514296"
+  - "empleo"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Yovijob: Cada día mejoramos nuestro metabuscador para ayudaros a encontrar empleo en cualquier país. Los metabuscadores son una herramienta muy útil para encontrar resultados a nuestra búsqueda ya que buscan en toda la Red sin necesidad de buscar en cada página web, y trae todos los resultados a una misma web. En&hellip;"
 ---
 

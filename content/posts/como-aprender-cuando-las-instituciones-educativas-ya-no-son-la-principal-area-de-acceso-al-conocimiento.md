@@ -2,13 +2,13 @@
 id: 13537
 title: "¿Cómo aprender cuando las instituciones educativas ya no son la principal área de acceso al&nbsp;conocimiento?"
 date: 2020-01-15T13:28:54
-slug: como-aprender-cuando-las-instituciones-educativas-ya-no-son-la-principal-area-de-acceso-al-conocimiento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13537
-originUrl: https://prixline.blog/2020/01/15/como-aprender-cuando-las-instituciones-educativas-ya-no-son-la-principal-area-de-acceso-al-conocimiento/
+slug: "como-aprender-cuando-las-instituciones-educativas-ya-no-son-la-principal-area-de-acceso-al-conocimiento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13537"
+originUrl: "https://prixline.blog/2020/01/15/como-aprender-cuando-las-instituciones-educativas-ya-no-son-la-principal-area-de-acceso-al-conocimiento/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: Juan Domingo Farnos Miro ? ¿Cómo aprender cuando las instituciones educativas ya no son la principal área de acceso al conocimiento? Por fin estamos llegando a la escuela de la sociedad, comunidades de aprendizaje de auto-organización son las que están cobrando vida, no sólo CON LOS MOOCs, en YouTube,&hellip;"
 ---
 

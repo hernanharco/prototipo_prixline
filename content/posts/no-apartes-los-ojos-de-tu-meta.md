@@ -2,13 +2,13 @@
 id: 9979
 title: "No apartes los ojos de tu&nbsp;meta"
 date: 2014-12-15T09:17:06
-slug: no-apartes-los-ojos-de-tu-meta
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9979
-originUrl: https://prixline.blog/2014/12/15/no-apartes-los-ojos-de-tu-meta/
+slug: "no-apartes-los-ojos-de-tu-meta"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9979"
+originUrl: "https://prixline.blog/2014/12/15/no-apartes-los-ojos-de-tu-meta/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

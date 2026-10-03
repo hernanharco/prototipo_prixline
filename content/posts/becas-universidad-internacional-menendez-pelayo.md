@@ -2,13 +2,13 @@
 id: 11243
 title: "Becas Universidad Internacional Menéndez&nbsp;Pelayo"
 date: 2016-04-29T15:37:01
-slug: becas-universidad-internacional-menendez-pelayo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11243
-originUrl: https://prixline.blog/2016/04/29/becas-universidad-internacional-menendez-pelayo/
+slug: "becas-universidad-internacional-menendez-pelayo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11243"
+originUrl: "https://prixline.blog/2016/04/29/becas-universidad-internacional-menendez-pelayo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Tal vez te interese optar a alguna de estas becas para actividades académicas en las sedes de la Universidad Internacional Menéndez Pelayo Se convocan en régimen de concurrencia competitiva becas completas y becas de matrícula para la asistencia a las actividades académicas que se celebrarán en las sedes&hellip;"
 ---
 

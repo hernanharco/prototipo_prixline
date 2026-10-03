@@ -1,14 +1,14 @@
 ---
 id: 12362
-title: CAMBIA DE LIBRO
+title: "CAMBIA DE LIBRO"
 date: 2018-09-15T21:39:26
-slug: cambia-de-libro
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12362
-originUrl: https://prixline.blog/2018/09/15/cambia-de-libro/
+slug: "cambia-de-libro"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12362"
+originUrl: "https://prixline.blog/2018/09/15/cambia-de-libro/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

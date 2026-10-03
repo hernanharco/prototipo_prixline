@@ -2,13 +2,13 @@
 id: 11120
 title: "12 Reglas del&nbsp;éxito."
 date: 2016-02-25T15:39:06
-slug: 12-reglas-del-exito
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11120
-originUrl: https://prixline.blog/2016/02/25/12-reglas-del-exito/
+slug: "12-reglas-del-exito"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11120"
+originUrl: "https://prixline.blog/2016/02/25/12-reglas-del-exito/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

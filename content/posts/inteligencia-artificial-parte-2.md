@@ -2,13 +2,13 @@
 id: 12299
 title: "Inteligencia Artificial (parte&nbsp;2)"
 date: 2018-07-01T16:39:10
-slug: inteligencia-artificial-parte-2
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12299
-originUrl: https://prixline.blog/2018/07/01/inteligencia-artificial-parte-2/
+slug: "inteligencia-artificial-parte-2"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12299"
+originUrl: "https://prixline.blog/2018/07/01/inteligencia-artificial-parte-2/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,21 +2,21 @@
 id: 7667
 title: "Entrevista a Risto Mejide &#8221; El miedo es el peor paralizante&#8221;."
 date: 2013-12-04T13:29:26
-slug: entrevista-a-risto-mejide-el-miedo-es-el-peor-paralizante
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7667
-originUrl: https://prixline.blog/2013/12/04/entrevista-a-risto-mejide-el-miedo-es-el-peor-paralizante/
+slug: "entrevista-a-risto-mejide-el-miedo-es-el-peor-paralizante"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7667"
+originUrl: "https://prixline.blog/2013/12/04/entrevista-a-risto-mejide-el-miedo-es-el-peor-paralizante/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - autoaprendizaje
-  - empleo
-  - opiniones
-  - prix-line
-  - prixline
+  - "806514296"
+  - "autoaprendizaje"
+  - "empleo"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
 excerpt: "Para autoemplearse, ¿cuál es la mejor cualidad que tenemos los españoles? Creo que es el optimismo. Somos un país que, pese a todo, nos echamos todo a la espalda, y la semana que viene nos habremos olvidado del problema de hoy. Eso es una gran cualidad, de verdad. No arrastramos, no somos rencorosos con nuestros [&hellip;]"
 ---
 

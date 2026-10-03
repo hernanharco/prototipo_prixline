@@ -2,13 +2,13 @@
 id: 11295
 title: "500 plazas de profesores para&nbsp;Canarias"
 date: 2016-05-18T20:24:19
-slug: 500-plazas-de-profesores-para-canarias
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11295
-originUrl: https://prixline.blog/2016/05/18/500-plazas-de-profesores-para-canarias/
+slug: "500-plazas-de-profesores-para-canarias"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11295"
+originUrl: "https://prixline.blog/2016/05/18/500-plazas-de-profesores-para-canarias/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Consejería de Educación y Universidades de Canarias convoca un procedimiento selectivo para el ingreso en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Profesores de Escuelas Oficiales de Idiomas y Profesores Técnicos de Formación Profesional. Se convocan 500 plazas en las siguientes especialidades: Profesores de Enseñanza&hellip;"
 ---
 

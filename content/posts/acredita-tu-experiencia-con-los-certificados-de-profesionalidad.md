@@ -2,13 +2,13 @@
 id: 10462
 title: "Acredita tu experiencia con los certificados de&nbsp;profesionalidad"
 date: 2015-06-03T16:31:58
-slug: acredita-tu-experiencia-con-los-certificados-de-profesionalidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10462
-originUrl: https://prixline.blog/2015/06/03/acredita-tu-experiencia-con-los-certificados-de-profesionalidad/
+slug: "acredita-tu-experiencia-con-los-certificados-de-profesionalidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10462"
+originUrl: "https://prixline.blog/2015/06/03/acredita-tu-experiencia-con-los-certificados-de-profesionalidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Hoy en día para poder optar a un puesto de trabajo la criba que se realiza viene marcada por cuatro elementos: la formación reglada, la disponibilidad de carnet de conducir y coche, la experiencia y el nivel de idiomas. La combinación de los cuatro favorece que puedas llegar a la tan&hellip;"
 ---
 

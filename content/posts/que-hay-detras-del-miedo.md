@@ -2,13 +2,13 @@
 id: 11488
 title: "¿Qué hay detrás del&nbsp;miedo?"
 date: 2016-09-04T15:22:57
-slug: que-hay-detras-del-miedo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11488
-originUrl: https://prixline.blog/2016/09/04/que-hay-detras-del-miedo/
+slug: "que-hay-detras-del-miedo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11488"
+originUrl: "https://prixline.blog/2016/09/04/que-hay-detras-del-miedo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Porque detrás de cada persona se esconde otra. Quizás más bella, quizás más nueva, quizás la tuya” dice Federico Moccia. “Siento miedo pero no quiero saber por qué. Veremos si tapándonos los ojos se pasa“. Es una frase que nos repetimos una y otra vez, de alguna&hellip;"
 ---
 

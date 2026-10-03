@@ -3,12 +3,12 @@ id: 14098
 title: "PRIXLINE ✅ TRABAJAR en un 🛒 SUPERMERCADO&nbsp;🛒😃"
 date: 2020-04-18T23:39:52
 slug: "prixline-%e2%9c%85-trabajar-en-un-%f0%9f%9b%92-supermercado-%f0%9f%9b%92%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14098
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14098"
 originUrl: "https://prixline.blog/2020/04/18/prixline-%e2%9c%85-trabajar-en-un-%f0%9f%9b%92-supermercado-%f0%9f%9b%92%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

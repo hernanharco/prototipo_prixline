@@ -3,12 +3,12 @@ id: 42203
 title: "PRIXLINE ✅ Prepárate para Trabajar en España 🇪🇸 [en&nbsp;2024]"
 date: 2023-12-18T11:14:46
 slug: "prixline-%e2%9c%85-preparate-para-trabajar-en-espana-%f0%9f%87%aa%f0%9f%87%b8-en-2024"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/42203
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/42203"
 originUrl: "https://prixline.blog/2023/12/18/prixline-%e2%9c%85-preparate-para-trabajar-en-espana-%f0%9f%87%aa%f0%9f%87%b8-en-2024/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

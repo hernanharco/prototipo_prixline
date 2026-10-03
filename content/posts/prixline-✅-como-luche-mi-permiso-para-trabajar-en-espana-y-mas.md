@@ -3,12 +3,12 @@ id: 38404
 title: "PRIXLINE ✅ ¿Cómo luché mi permiso para trabajar en España? y&nbsp;más…"
 date: 2023-03-25T14:00:22
 slug: "prixline-%e2%9c%85-como-luche-mi-permiso-para-trabajar-en-espana-y-mas"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/38404
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/38404"
 originUrl: "https://prixline.blog/2023/03/25/prixline-%e2%9c%85-como-luche-mi-permiso-para-trabajar-en-espana-y-mas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "En este episodio: Cómo luché mi permiso para trabajar en España y mucho más. Síguenos en Telegram 👉 https://t.me/prixliners aumentamos la Inteligencia Colectiva y desde allí te ayudamos gratuitamente 📝 Información de los Cursos PRIXLINE ✅ para trabajar en España 👉 http://PRIX.com/contacto https://open.spotify.com/episode/0CsMleG1GKWGy8QWX4ipR8?si=HwtJTYvxTF2cHg0aS6pxVA Encuentras más contenido en: 📲YouTube: https://bit.ly/2OO6b7z 💚 Spotify: http://bit.ly/prixline 🌋 Instagram: http://instagram.com/prixline/ [&hellip;]"
 ---
 

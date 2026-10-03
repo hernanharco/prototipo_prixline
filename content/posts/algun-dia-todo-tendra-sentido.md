@@ -2,13 +2,13 @@
 id: 10202
 title: "Algún día todo tendrá&nbsp;sentido"
 date: 2015-02-20T13:17:23
-slug: algun-dia-todo-tendra-sentido
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10202
-originUrl: https://prixline.blog/2015/02/20/algun-dia-todo-tendra-sentido/
+slug: "algun-dia-todo-tendra-sentido"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10202"
+originUrl: "https://prixline.blog/2015/02/20/algun-dia-todo-tendra-sentido/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

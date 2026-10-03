@@ -1,14 +1,14 @@
 ---
 id: 8862
-title: EPA
+title: "EPA"
 date: 2014-04-29T12:43:46
-slug: epa
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8862
-originUrl: https://prixline.blog/2014/04/29/epa/
+slug: "epa"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8862"
+originUrl: "https://prixline.blog/2014/04/29/epa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Excelente! @FerranMartín View original post"
 ---
 

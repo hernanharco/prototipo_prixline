@@ -2,13 +2,13 @@
 id: 11629
 title: "Programa Joven Emprende Cámaras de&nbsp;Comercio"
 date: 2016-11-28T13:10:04
-slug: programa-joven-emprende-camaras-de-comercio
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11629
-originUrl: https://prixline.blog/2016/11/28/programa-joven-emprende-camaras-de-comercio/
+slug: "programa-joven-emprende-camaras-de-comercio"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11629"
+originUrl: "https://prixline.blog/2016/11/28/programa-joven-emprende-camaras-de-comercio/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¡Ey Joven¡ ¿Te gustaría emprender tu propio negocio? Ahora puedes obtener ayuda en tu idea empresarial porque desde las Cámaras de Comercio se organiza el Programa Joven Emprende.Se trata de un proyecto formativo promovido por la Cámara de Comercio de Oviedo y la Fundación Incyde enmarcado en el&hellip;"
 ---
 

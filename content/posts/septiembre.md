@@ -1,14 +1,14 @@
 ---
 id: 9453
-title: Septiembre
+title: "Septiembre"
 date: 2014-09-02T23:02:36
-slug: septiembre
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9453
-originUrl: https://prixline.blog/2014/09/02/septiembre/
+slug: "septiembre"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9453"
+originUrl: "https://prixline.blog/2014/09/02/septiembre/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Siempre me ha gustado este mes, y creo que algo de culpa tienen Los Enemigos. Aunque su canción sea bastante triste, tengo que decir que este mes lo he considerado siempre como un segundo enero: volvemos a empezar, aparecen nuevas oportunidades y es como si todo comenzara de nuevo. Después de un&hellip;"
 ---
 

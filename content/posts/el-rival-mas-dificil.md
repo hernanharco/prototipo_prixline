@@ -2,13 +2,13 @@
 id: 11140
 title: "El rival más&nbsp;difícil."
 date: 2016-03-05T10:32:26
-slug: el-rival-mas-dificil
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11140
-originUrl: https://prixline.blog/2016/03/05/el-rival-mas-dificil/
+slug: "el-rival-mas-dificil"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11140"
+originUrl: "https://prixline.blog/2016/03/05/el-rival-mas-dificil/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

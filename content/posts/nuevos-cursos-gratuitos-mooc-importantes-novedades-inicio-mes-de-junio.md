@@ -2,25 +2,25 @@
 id: 8970
 title: "Nuevos cursos gratuitos MOOC, importantes novedades. Inicio mes de&nbsp;Junio."
 date: 2014-05-18T09:17:08
-slug: nuevos-cursos-gratuitos-mooc-importantes-novedades-inicio-mes-de-junio
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8970
-originUrl: https://prixline.blog/2014/05/18/nuevos-cursos-gratuitos-mooc-importantes-novedades-inicio-mes-de-junio/
+slug: "nuevos-cursos-gratuitos-mooc-importantes-novedades-inicio-mes-de-junio"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8970"
+originUrl: "https://prixline.blog/2014/05/18/nuevos-cursos-gratuitos-mooc-importantes-novedades-inicio-mes-de-junio/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - autoaprendizaje
-  - b83066696
-  - cursos
-  - gratis
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "autoaprendizaje"
+  - "b83066696"
+  - "cursos"
+  - "gratis"
+  - "prixline"
 excerpt: "Nuevos cursos: + Gobernanza y Gestión democrática en el S. XXI + Balanced Business ScoreCard: Un Sistema de Control de Gestión. + Comunicación global e identidad corporativa. Branding. + El coaching como herramienta de liderazgo. Para más información podeis consultar y descargar la solicitud en la pagina: http://efiaulaopenschool.org/cursos-mooc/ El plazo está abierto hasta el 10 [&hellip;]"
 ---
 

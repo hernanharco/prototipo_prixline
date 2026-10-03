@@ -2,13 +2,13 @@
 id: 11521
 title: "Un pensamiento negativo puede quemar todos los pensamientos&nbsp;positivos."
 date: 2016-09-19T09:49:31
-slug: un-pensamiento-negativo-puede-quemar-todos-los-pensamientos-positivos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11521
-originUrl: https://prixline.blog/2016/09/19/un-pensamiento-negativo-puede-quemar-todos-los-pensamientos-positivos/
+slug: "un-pensamiento-negativo-puede-quemar-todos-los-pensamientos-positivos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11521"
+originUrl: "https://prixline.blog/2016/09/19/un-pensamiento-negativo-puede-quemar-todos-los-pensamientos-positivos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -2,13 +2,13 @@
 id: 13711
 title: "Participantes para Voluntariado Europeo en&nbsp;Rumanía"
 date: 2020-02-05T13:20:02
-slug: participantes-para-voluntariado-europeo-en-rumania
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13711
-originUrl: https://prixline.blog/2020/02/05/participantes-para-voluntariado-europeo-en-rumania/
+slug: "participantes-para-voluntariado-europeo-en-rumania"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13711"
+originUrl: "https://prixline.blog/2020/02/05/participantes-para-voluntariado-europeo-en-rumania/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Si quieres participar en un proyecto de voluntariado europeo del Cuerpo Europeo de Solidaridad (CES), es tu oportunidad. ¿Te apetece hacer un proyecto de voluntariado en el extranjero? EIVA, organización de Rumanía, busca a jóvenes entre 18 y 30 años, para el proyecto ‘Educación a través de juegos’ que se&hellip;"
 ---
 

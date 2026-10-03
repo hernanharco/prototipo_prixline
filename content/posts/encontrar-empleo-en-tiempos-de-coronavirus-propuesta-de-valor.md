@@ -2,13 +2,13 @@
 id: 14792
 title: "Encontrar empleo en tiempos de coronavirus: propuesta de&nbsp;valor."
 date: 2020-09-11T10:38:56
-slug: encontrar-empleo-en-tiempos-de-coronavirus-propuesta-de-valor
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14792
-originUrl: https://prixline.blog/2020/09/11/encontrar-empleo-en-tiempos-de-coronavirus-propuesta-de-valor/
+slug: "encontrar-empleo-en-tiempos-de-coronavirus-propuesta-de-valor"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14792"
+originUrl: "https://prixline.blog/2020/09/11/encontrar-empleo-en-tiempos-de-coronavirus-propuesta-de-valor/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Como ya os anunciaba en el episodio 12×2, seguimos desgranando el artículo diez consejos para encontrar empleo en tiempos de coronavirus. Si el lunes… Encontrar empleo en tiempos de coronavirus: propuesta de valor. En definitiva, poner EN VALOR la información que queremos destacar, la experiencia laboral que pueda aportar más puntos en el proceso, la [&hellip;]"
 ---
 

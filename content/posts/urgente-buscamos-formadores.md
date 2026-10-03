@@ -2,13 +2,13 @@
 id: 10501
 title: "¡Urgente¡ Buscamos formadores"
 date: 2015-06-22T10:21:53
-slug: urgente-buscamos-formadores
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10501
-originUrl: https://prixline.blog/2015/06/22/urgente-buscamos-formadores/
+slug: "urgente-buscamos-formadores"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10501"
+originUrl: "https://prixline.blog/2015/06/22/urgente-buscamos-formadores/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para Certificado de Profesionalidad de Seguridad Informática. ¡URGENTE! BUSCAMOS FORMADORES Formadores para impartir Certificado de Profesionalidad – Seguridad Informática. • Ingenieros o Licenciados. • Un año de experiencia profesional en el sector. • Capacitación docente documentada (CAP, Master o certificado de haber impartido más de 1.000 h. de&hellip;"
 ---
 

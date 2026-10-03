@@ -2,27 +2,27 @@
 id: 199
 title: "Llegan los estudiantes de prácticas a las&nbsp;empresas."
 date: 2012-06-27T22:19:44
-slug: llegan-los-estudiantes-de-practicas-a-las-empresas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/199
-originUrl: https://prixline.blog/2012/06/27/llegan-los-estudiantes-de-practicas-a-las-empresas/
+slug: "llegan-los-estudiantes-de-practicas-a-las-empresas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/199"
+originUrl: "https://prixline.blog/2012/06/27/llegan-los-estudiantes-de-practicas-a-las-empresas/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - opiniones
-  - practicas
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - cursos
-  - empleo
-  - formacion
-  - opiniones
-  - practicas
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Llega el verano, llegan los estudiantes de prácticas a las empresas. Una colaboración en la que salen ganando todas las partes si se aprovecha al máximo. El becario gana experiencia y pone en uso sus conocimientos, e incluso, puede ganar un contrato. Mientras, la empresa identifica talento y delega ciertas tareas. De julio a septiembre, [&hellip;]"
 ---
 

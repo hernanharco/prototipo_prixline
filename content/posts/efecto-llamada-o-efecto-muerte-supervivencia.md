@@ -2,13 +2,13 @@
 id: 13004
 title: "Efecto llamada o efecto muerte.&nbsp;Supervivencia"
 date: 2019-09-26T08:45:54
-slug: efecto-llamada-o-efecto-muerte-supervivencia
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13004
-originUrl: https://prixline.blog/2019/09/26/efecto-llamada-o-efecto-muerte-supervivencia/
+slug: "efecto-llamada-o-efecto-muerte-supervivencia"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13004"
+originUrl: "https://prixline.blog/2019/09/26/efecto-llamada-o-efecto-muerte-supervivencia/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on La Memoria del Escorpión: A veces no hay derrota mayor que aceptar el marco del enemigo aunque sea para desmontarlo. Se habla constantemente de efecto llamada. Efecto llamada. Efecto llamada. Efecto llamada. El propio efecto llamada es una víctima de si mismo y acaba llamando a que se hable constantemente de&hellip;"
 ---
 

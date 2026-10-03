@@ -3,14 +3,14 @@ id: 14041
 title: "PRIXLINE ✅ Consultas Al Letrado en VIVO&nbsp;😃"
 date: 2020-04-07T20:17:06
 slug: "prixline-%e2%9c%85-consultas-al-letrado-en-vivo-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14041
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14041"
 originUrl: "https://prixline.blog/2020/04/07/prixline-%e2%9c%85-consultas-al-letrado-en-vivo-%f0%9f%98%83/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

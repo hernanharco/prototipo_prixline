@@ -3,12 +3,12 @@ id: 12403
 title: "Las pruebas 😱en las ENTREVISTAS de trabajo&nbsp;😳"
 date: 2018-10-15T09:30:06
 slug: "las-pruebas-%f0%9f%98%b1en-las-entrevistas-de-trabajo-%f0%9f%98%b3"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12403
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12403"
 originUrl: "https://prixline.blog/2018/10/15/las-pruebas-%f0%9f%98%b1en-las-entrevistas-de-trabajo-%f0%9f%98%b3/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

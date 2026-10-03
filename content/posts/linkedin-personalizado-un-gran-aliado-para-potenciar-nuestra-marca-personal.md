@@ -2,13 +2,13 @@
 id: 9080
 title: "Linkedin personalizado, un gran aliado para potenciar nuestra marca&nbsp;personal"
 date: 2014-06-06T13:11:48
-slug: linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9080
-originUrl: https://prixline.blog/2014/06/06/linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal/
+slug: "linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9080"
+originUrl: "https://prixline.blog/2014/06/06/linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Luces y Sombras de las Marcas: Aunque ya hemos repetido una y otra vez la importancia de cuidar nuestra imagen en todos los medios sociales y, no solo lo que publicamos, si no la estética de las imágenes y descripciones que acompañan nuestros perfiles, en el caso de Linkedin esta recomendación se vuelve primordial. Linkedin&hellip;"
 ---
 

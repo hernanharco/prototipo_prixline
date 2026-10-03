@@ -2,23 +2,23 @@
 id: 38
 title: "¿Cómo buscamos las prácticas en&nbsp;prixline?"
 date: 2012-03-10T13:48:27
-slug: practicas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/38
-originUrl: https://prixline.blog/2012/03/10/practicas/
+slug: "practicas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/38"
+originUrl: "https://prixline.blog/2012/03/10/practicas/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - practicas
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - practicas
+  - "b83066696"
+  - "practicas"
   - "Prácticas"
-  - prixline
-  - semipresencial
-  - Tanatoestetica
-  - trabajo
+  - "prixline"
+  - "semipresencial"
+  - "Tanatoestetica"
+  - "trabajo"
 excerpt: "En la mayoría de los cursos podrás optar por realizar prácticas, con el objetivo de aplicar los conocimientos adquiridos en entidades y centros especializados. De este modo, tienes la oportunidad de entrar en contacto directo con tu futura profesión y adquirir un aprendizaje práctico, imprescindible para incorporarte con éxito al mercado laboral. El coordinador de [&hellip;]"
 ---
 

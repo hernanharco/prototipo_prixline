@@ -3,12 +3,12 @@ id: 12965
 title: "PRIXLINE ✅ Trabajar y Residir en un Pueblo en España 😃 (parte&nbsp;3)"
 date: 2019-09-19T14:59:40
 slug: "prixline-%e2%9c%85-trabajar-y-residir-en-un-pueblo-en-espana-%f0%9f%98%83-parte-3"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12965
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12965"
 originUrl: "https://prixline.blog/2019/09/19/prixline-%e2%9c%85-trabajar-y-residir-en-un-pueblo-en-espana-%f0%9f%98%83-parte-3/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

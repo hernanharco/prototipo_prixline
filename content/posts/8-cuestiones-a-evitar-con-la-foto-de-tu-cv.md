@@ -2,13 +2,13 @@
 id: 11317
 title: "8 cuestiones a evitar con la foto de tu&nbsp;CV"
 date: 2016-06-01T10:16:44
-slug: 8-cuestiones-a-evitar-con-la-foto-de-tu-cv
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11317
-originUrl: https://prixline.blog/2016/06/01/8-cuestiones-a-evitar-con-la-foto-de-tu-cv/
+slug: "8-cuestiones-a-evitar-con-la-foto-de-tu-cv"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11317"
+originUrl: "https://prixline.blog/2016/06/01/8-cuestiones-a-evitar-con-la-foto-de-tu-cv/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Aunque hay gente que plantea el debate sobre foto sí o foto no en tu CV, yo soy de la opinión de los que hoy en día sigue siendo válida la foto en un CV, porque una imagen vale más que mil palabras. Pero ojo,&hellip;"
 ---
 

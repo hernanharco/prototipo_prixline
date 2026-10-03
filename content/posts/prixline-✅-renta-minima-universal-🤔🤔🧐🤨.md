@@ -3,12 +3,12 @@ id: 14074
 title: "PRIXLINE ✅ ¿Renta Mínima Universal?&nbsp;🤔🤔🧐🤨"
 date: 2020-04-13T20:31:37
 slug: "prixline-%e2%9c%85-renta-minima-universal-%f0%9f%a4%94%f0%9f%a4%94%f0%9f%a7%90%f0%9f%a4%a8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14074
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14074"
 originUrl: "https://prixline.blog/2020/04/13/prixline-%e2%9c%85-renta-minima-universal-%f0%9f%a4%94%f0%9f%a4%94%f0%9f%a7%90%f0%9f%a4%a8/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

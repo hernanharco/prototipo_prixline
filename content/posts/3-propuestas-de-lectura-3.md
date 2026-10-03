@@ -2,13 +2,13 @@
 id: 12687
 title: "3 propuestas de lectura&nbsp;3"
 date: 2019-07-04T13:31:25
-slug: 3-propuestas-de-lectura-3
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12687
-originUrl: https://prixline.blog/2019/07/04/3-propuestas-de-lectura-3/
+slug: "3-propuestas-de-lectura-3"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12687"
+originUrl: "https://prixline.blog/2019/07/04/3-propuestas-de-lectura-3/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Opinión y actualidad: Empezamos el mes de Julio en breve y, junto al calor, ya se dejan notar en el ambiente las ganas de relajarse, de salir del “mundanal ruido” y perderse en algún lugar desconocido, y mejor si está fresquito. Seguro que much@s estáis a punto de comenzar las ansiadas&hellip;"
 ---
 

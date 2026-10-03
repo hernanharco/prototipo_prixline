@@ -2,13 +2,13 @@
 id: 12130
 title: "¿Por qué no encuentras&nbsp;trabajo?"
 date: 2018-01-15T17:42:18
-slug: por-que-no-encuentras-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12130
-originUrl: https://prixline.blog/2018/01/15/por-que-no-encuentras-trabajo/
+slug: "por-que-no-encuentras-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12130"
+originUrl: "https://prixline.blog/2018/01/15/por-que-no-encuentras-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Comenzamos temporada 2018 en el blog y he decidido hacerlo con un tema que me apasiona y que no es otro que asesorar y orientar a las personas para que encuentren trabajo. Lo sé, sé que se han escrito miles de artículos y post sobre este tema pero necesitaba compartir contigo mi experiencia y mi&hellip;"
 ---
 

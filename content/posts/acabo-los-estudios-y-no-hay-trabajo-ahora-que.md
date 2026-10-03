@@ -2,33 +2,33 @@
 id: 1951
 title: "¡Acabo los estudios y no hay trabajo! ¿Ahora&nbsp;qué?"
 date: 2013-01-02T13:38:49
-slug: acabo-los-estudios-y-no-hay-trabajo-ahora-que
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1951
-originUrl: https://prixline.blog/2013/01/02/acabo-los-estudios-y-no-hay-trabajo-ahora-que/
+slug: "acabo-los-estudios-y-no-hay-trabajo-ahora-que"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1951"
+originUrl: "https://prixline.blog/2013/01/02/acabo-los-estudios-y-no-hay-trabajo-ahora-que/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - opiniones
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - autoaprendizaje
-  - b83066696
-  - becas y practicas
-  - cursos
-  - empleo
-  - estudiar
-  - formacion
-  - gratis
-  - opinion
-  - opiniones
-  - practicas
+  - "autoaprendizaje"
+  - "b83066696"
+  - "becas y practicas"
+  - "cursos"
+  - "empleo"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - trabajo
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "La tasa de desempleo juvenil en España es de casi el 49%, es decir uno de cada dos jóvenes de entre 16 y 29 años está sin trabajo. Es una situación trágica para todos los jóvenes pero especialmente para aquellos que acaban sus estudios y ven que tienen prácticamente imposible acceder al mercado laboral sin [&hellip;]"
 ---
 

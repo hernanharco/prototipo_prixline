@@ -2,13 +2,13 @@
 id: 11400
 title: "Mezcla: el ocaso del curriculo y el nacimiento del aprendizaje! (Ed.&nbsp;Disruptiva)"
 date: 2016-07-18T13:35:13
-slug: mezcla-el-ocaso-del-curriculo-y-el-nacimiento-del-aprendizaje-ed-disruptiva
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11400
-originUrl: https://prixline.blog/2016/07/18/mezcla-el-ocaso-del-curriculo-y-el-nacimiento-del-aprendizaje-ed-disruptiva/
+slug: "mezcla-el-ocaso-del-curriculo-y-el-nacimiento-del-aprendizaje-ed-disruptiva"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11400"
+originUrl: "https://prixline.blog/2016/07/18/mezcla-el-ocaso-del-curriculo-y-el-nacimiento-del-aprendizaje-ed-disruptiva/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon La Universidad, la escuela…son una máquina de estandarizar perfectamente engrasadas. Pero su población es extremadamente heterogénea, y cada vez mas lo es en zonas marginales, en zonas de inmigración masiva, en zonas de caída espectacular de los ingresos, y de movilidad social descendente. Estandarizar lo heterogéneo&hellip;"
 ---
 

@@ -2,29 +2,29 @@
 id: 299
 title: "40 enlaces para buscar becas y&nbsp;prácticas"
 date: 2012-08-05T11:18:30
-slug: becas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/299
-originUrl: https://prixline.blog/2012/08/05/becas/
+slug: "becas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/299"
+originUrl: "https://prixline.blog/2012/08/05/becas/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - becas
-  - becas y practicas
-  - curso
-  - empleo
-  - formacion
-  - gratis
-  - practicas
+  - "becas"
+  - "becas y practicas"
+  - "curso"
+  - "empleo"
+  - "formacion"
+  - "gratis"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Dos de las cosas que más se valoran en el momento de contratar a alguien para un nuevo empleo, son la Formación y la Experiencia. Respecto a la formación, os dejamos nuestro catálogo de cursos para que elijáis los que más os gusten. Hemos recopilado 40 webs donde podéis solicitar prácticas y becas para aumentar vuestra experiencia [&hellip;]"
 ---
 

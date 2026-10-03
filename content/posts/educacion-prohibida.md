@@ -2,26 +2,26 @@
 id: 638
 title: "Película: La Educación Prohibida&nbsp;(completa)"
 date: 2012-09-15T13:46:19
-slug: educacion-prohibida
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/638
-originUrl: https://prixline.blog/2012/09/15/educacion-prohibida/
+slug: "educacion-prohibida"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/638"
+originUrl: "https://prixline.blog/2012/09/15/educacion-prohibida/"
 categories:
-  - cursos
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - curso
-  - educadores
-  - estudiar
-  - formacion
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "curso"
+  - "educadores"
+  - "estudiar"
+  - "formacion"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
   - "vídeos"
 excerpt: "La escuela ha cumplido ya más de 200 años de existencia y es aun considerada la principal forma de acceso a la educación. Hoy en día, la escuela y la educación son conceptos ampliamente discutidos en foros académicos, políticas públicas, instituciones educativas, medios de comunicación y espacios de la sociedad civil. Desde su origen, la [&hellip;]"
 ---

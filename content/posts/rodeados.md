@@ -1,14 +1,14 @@
 ---
 id: 8785
-title: Rodeados
+title: "Rodeados"
 date: 2014-04-11T14:43:03
-slug: rodeados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8785
-originUrl: https://prixline.blog/2014/04/11/rodeados/
+slug: "rodeados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8785"
+originUrl: "https://prixline.blog/2014/04/11/rodeados/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

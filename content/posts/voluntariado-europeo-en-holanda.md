@@ -2,13 +2,13 @@
 id: 12458
 title: "Voluntariado Europeo en&nbsp;Holanda"
 date: 2018-12-17T17:27:29
-slug: voluntariado-europeo-en-holanda
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12458
-originUrl: https://prixline.blog/2018/12/17/voluntariado-europeo-en-holanda/
+slug: "voluntariado-europeo-en-holanda"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12458"
+originUrl: "https://prixline.blog/2018/12/17/voluntariado-europeo-en-holanda/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: ¿Eres una chica o chico entre 18 y 30 años y te apetece colaboraren un centro educativo de Holanda y no tienes planes para los próximos meses? ¿Te gusta viajar? ¿Te apetece aprender y practicar otros idiomas? ¡Pues no dejes escapar esta oportunidad! Desde la organización Stichting IJSiq foundation ofrecen realizar varios proyectos de voluntariado en Vlijmen&hellip;"
 ---
 

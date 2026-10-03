@@ -2,13 +2,13 @@
 id: 12235
 title: "¿Cómo afrontar el primer día de trabajo en una&nbsp;empresa?"
 date: 2018-05-01T14:23:54
-slug: como-afrontar-el-primer-dia-de-trabajo-en-una-empresa
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12235
-originUrl: https://prixline.blog/2018/05/01/como-afrontar-el-primer-dia-de-trabajo-en-una-empresa/
+slug: "como-afrontar-el-primer-dia-de-trabajo-en-una-empresa"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12235"
+originUrl: "https://prixline.blog/2018/05/01/como-afrontar-el-primer-dia-de-trabajo-en-una-empresa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

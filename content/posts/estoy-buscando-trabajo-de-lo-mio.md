@@ -2,20 +2,20 @@
 id: 7462
 title: "Estoy buscando trabajo de lo&nbsp;mío"
 date: 2013-11-19T10:01:20
-slug: estoy-buscando-trabajo-de-lo-mio
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7462
-originUrl: https://prixline.blog/2013/11/19/estoy-buscando-trabajo-de-lo-mio/
+slug: "estoy-buscando-trabajo-de-lo-mio"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7462"
+originUrl: "https://prixline.blog/2013/11/19/estoy-buscando-trabajo-de-lo-mio/"
 categories:
-  - empleo
-  - opiniones
-  - practicas
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - empleo
-  - opiniones
+  - "806514296"
+  - "empleo"
+  - "opiniones"
   - "Prácticas"
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com Creo que no somos conscientes de qué poca información da esta frase dicha a una persona que no te conoce de nada. Generalmente todos buscamos trabajo dentro de lo que sería nuestro perfil, según nuestra formación o experiencia o cualidades y competencias profesionales, elaboramos (o al menos deberíamos elaborar) una&hellip;"
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: 12527
-title: Webs para autocandidatura
+title: "Webs para autocandidatura"
 date: 2019-02-19T20:02:42
-slug: webs-para-autocandidatura
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12527
-originUrl: https://prixline.blog/2019/02/19/webs-para-autocandidatura/
+slug: "webs-para-autocandidatura"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12527"
+originUrl: "https://prixline.blog/2019/02/19/webs-para-autocandidatura/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Si buscas hacer autocandidatura, es decir, enviar tu curriculum o datos para futuras ofertas a una empresa, seguro que a veces te ha visto con dificultades. En la web existen múltiples recursos con mucha información pero a veces seleccionar los más interesantes o adecuados no es una tarea fácil. Echemos un&hellip;"
 ---
 

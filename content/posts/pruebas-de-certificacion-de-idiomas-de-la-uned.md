@@ -2,21 +2,21 @@
 id: 8681
 title: "Pruebas de certificación de idiomas de la&nbsp;UNED"
 date: 2014-03-26T17:52:49
-slug: pruebas-de-certificacion-de-idiomas-de-la-uned
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8681
-originUrl: https://prixline.blog/2014/03/26/pruebas-de-certificacion-de-idiomas-de-la-uned/
+slug: "pruebas-de-certificacion-de-idiomas-de-la-uned"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8681"
+originUrl: "https://prixline.blog/2014/03/26/pruebas-de-certificacion-de-idiomas-de-la-uned/"
 categories:
-  - formacion
-  - migracion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "migracion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - gratis
-  - Homologacion
-  - prixline
-  - recursos
+  - "aprender"
+  - "autoaprendizaje"
+  - "gratis"
+  - "Homologacion"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La UNED ofrece la posibilidad de certificar tu nivel de idiomas, de acuerdo con el Marco Europeo, de Inglés (B1, B2) y Francés (B1). Para matricularse del examen libre, se debe entrar en la página principal de la UNED (http://www.uned.es) e identificarse o darse de&hellip;"
 ---
 

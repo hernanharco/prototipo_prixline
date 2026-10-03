@@ -2,13 +2,13 @@
 id: 10472
 title: "Iberia abre convocatoria para seleccionar tripulantes técnicos&nbsp;pilotos"
 date: 2015-06-08T21:14:26
-slug: iberia-abre-convocatoria-para-seleccionar-tripulantes-tecnicos-pilotos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10472
-originUrl: https://prixline.blog/2015/06/08/iberia-abre-convocatoria-para-seleccionar-tripulantes-tecnicos-pilotos/
+slug: "iberia-abre-convocatoria-para-seleccionar-tripulantes-tecnicos-pilotos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10472"
+originUrl: "https://prixline.blog/2015/06/08/iberia-abre-convocatoria-para-seleccionar-tripulantes-tecnicos-pilotos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: La recepción de solicitudes se realizará exclusivamente a través del portal de Iberia Empleo: https://portal.iberia.es/iberiaEmpleo/# hasta las 23:59 horas del 18 de junio. Requisitos Los requisitos básicos para optar como candidato a participar en las pruebas de selección serán: • 1. Nivel mínimo de estudios: Prueba de acceso&hellip;"
 ---
 

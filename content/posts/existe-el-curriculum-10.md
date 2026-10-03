@@ -2,13 +2,13 @@
 id: 20668
 title: "¿Existe el curriculum&nbsp;10?"
 date: 2021-05-17T10:45:09
-slug: existe-el-curriculum-10
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/20668
-originUrl: https://prixline.blog/2021/05/17/existe-el-curriculum-10/
+slug: "existe-el-curriculum-10"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/20668"
+originUrl: "https://prixline.blog/2021/05/17/existe-el-curriculum-10/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Soy consciente que habrás leído multitud de artículos sobre este tema. Estoy segura que habrás investigado y buceado en internet, “por el infinito y … ¿Existe el curriculum 10? “No existen curriculums buenos o malos, no existen herramientas mágicas, a través de las cuales, obtengas un empleo. Solo existen herramientas que te permitan plasmar tu [&hellip;]"
 ---
 

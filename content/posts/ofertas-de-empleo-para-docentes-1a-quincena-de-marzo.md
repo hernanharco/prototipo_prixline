@@ -2,13 +2,13 @@
 id: 10237
 title: "Ofertas de empleo para docentes 1ª quincena de&nbsp;marzo"
 date: 2015-03-04T14:53:21
-slug: ofertas-de-empleo-para-docentes-1a-quincena-de-marzo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10237
-originUrl: https://prixline.blog/2015/03/04/ofertas-de-empleo-para-docentes-1a-quincena-de-marzo/
+slug: "ofertas-de-empleo-para-docentes-1a-quincena-de-marzo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10237"
+originUrl: "https://prixline.blog/2015/03/04/ofertas-de-empleo-para-docentes-1a-quincena-de-marzo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: El tiempo pasa volando… y ya estoy de nuevo aquí inagurando el mes de marzo con nuevas ofertas de empleo para docentes que he encontrado en las redes y varias que me han enviado para que las difunda. Gracias a todos/as!! Me envían a mi correo estas ofertas de&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 12014
 title: "¡¡No todos somos&nbsp;Millennials!!"
 date: 2017-08-17T12:08:40
-slug: no-todos-somos-millennials
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12014
-originUrl: https://prixline.blog/2017/08/17/no-todos-somos-millennials/
+slug: "no-todos-somos-millennials"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12014"
+originUrl: "https://prixline.blog/2017/08/17/no-todos-somos-millennials/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La vida es demasiado corta para tener el trabajo equivocado” Estoy asqueado y con miedo. No es que haya visto el perfil “no bueno” de Julio Iglesias, o haya conocido a la niña de las chuches de Rajoy. Tengo miedo del camino que estamos tomando. Asqueado porque&hellip;"
 ---
 

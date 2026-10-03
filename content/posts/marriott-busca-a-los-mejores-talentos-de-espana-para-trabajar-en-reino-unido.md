@@ -2,13 +2,13 @@
 id: 12048
 title: "Marriott busca a los mejores talentos de España para trabajar en Reino&nbsp;Unido."
 date: 2017-09-26T17:17:41
-slug: marriott-busca-a-los-mejores-talentos-de-espana-para-trabajar-en-reino-unido
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12048
-originUrl: https://prixline.blog/2017/09/26/marriott-busca-a-los-mejores-talentos-de-espana-para-trabajar-en-reino-unido/
+slug: "marriott-busca-a-los-mejores-talentos-de-espana-para-trabajar-en-reino-unido"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12048"
+originUrl: "https://prixline.blog/2017/09/26/marriott-busca-a-los-mejores-talentos-de-espana-para-trabajar-en-reino-unido/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : La cadena de hoteles Marriot, reconocida como una de las mejores empresas multinacionales para trabajar por Great Place to Work®, busca a los mejores profesionales en España y Portugal. El grupo ofrece 54 vacantes para trabajar en las áreas de cocina, sala, recepción, eventos, ocio, decoración, mantenimiento&hellip;"
 ---
 

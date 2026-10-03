@@ -2,13 +2,13 @@
 id: 12957
 title: "Si se ponen los medios, los resultados&nbsp;llegan"
 date: 2019-09-18T14:56:31
-slug: si-se-ponen-los-medios-los-resultados-llegan
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12957
-originUrl: https://prixline.blog/2019/09/18/si-se-ponen-los-medios-los-resultados-llegan/
+slug: "si-se-ponen-los-medios-los-resultados-llegan"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12957"
+originUrl: "https://prixline.blog/2019/09/18/si-se-ponen-los-medios-los-resultados-llegan/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Ya va casi para dos años, ¡cómo pasa el tiempo!, que reflexionaba en este mismo espacio y concretaba “la transformación digital afecta a cómo trabajamos, a cómo y dónde aprendemos pero, sobre todo, a nuestra manera de comunicarnos, ya que requiere del manejo de nuevas herramientas y de nuevos lenguajes. Lo global y lo local&hellip;"
 ---
 

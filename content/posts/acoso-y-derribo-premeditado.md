@@ -2,13 +2,13 @@
 id: 10338
 title: "ACOSO Y DERRIBO&nbsp;PREMEDITADO"
 date: 2015-04-15T13:45:45
-slug: acoso-y-derribo-premeditado
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10338
-originUrl: https://prixline.blog/2015/04/15/acoso-y-derribo-premeditado/
+slug: "acoso-y-derribo-premeditado"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10338"
+originUrl: "https://prixline.blog/2015/04/15/acoso-y-derribo-premeditado/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on MOTIVISMO: Época de crisis, época de llanto o época de oportunidades, en estas últimas semanas la perspectiva que llevaba tiempo recorriendo mi manera de ver el mundo no hace más que afianzarse. Si bien, es cierto que vivimos unos momentos negativos, si hay que tener en cuenta que justo en estos tiempos&hellip;"
 ---
 

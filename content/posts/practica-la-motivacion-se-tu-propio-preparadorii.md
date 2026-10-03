@@ -2,13 +2,13 @@
 id: 11871
 title: "Práctica la motivación. Sé tu propio “preparador”(II)"
 date: 2017-04-27T09:58:14
-slug: practica-la-motivacion-se-tu-propio-preparadorii
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11871
-originUrl: https://prixline.blog/2017/04/27/practica-la-motivacion-se-tu-propio-preparadorii/
+slug: "practica-la-motivacion-se-tu-propio-preparadorii"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11871"
+originUrl: "https://prixline.blog/2017/04/27/practica-la-motivacion-se-tu-propio-preparadorii/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Como comentaba en mi anterior entrada esta semana continuamos hablando de aquellos recursos que poseen las personas que, ocurra lo que ocurra en su vida siempre mantienen una actitud positiva. Si te perdiste el anterior post con las tres primeras te invito a que lo leas aquí Práctica la motivación.&hellip;"
 ---
 

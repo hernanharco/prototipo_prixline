@@ -2,25 +2,25 @@
 id: 9102
 title: "Tiempo de exámenes: comprende, organiza, revisa, corrige&nbsp;y…aprende"
 date: 2014-06-12T10:50:13
-slug: tiempo-de-examenes-comprende-organiza-revisa-corrige-yaprende
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9102
-originUrl: https://prixline.blog/2014/06/12/tiempo-de-examenes-comprende-organiza-revisa-corrige-yaprende/
+slug: "tiempo-de-examenes-comprende-organiza-revisa-corrige-yaprende"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9102"
+originUrl: "https://prixline.blog/2014/06/12/tiempo-de-examenes-comprende-organiza-revisa-corrige-yaprende/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - aprender
-  - estudiar
-  - formacion
-  - opinion
-  - opiniones
-  - prixline
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "aprender"
+  - "estudiar"
+  - "formacion"
+  - "opinion"
+  - "opiniones"
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Pautas para el momento de la verdad Buscando información que os ayude un poco a superar con éxito los exámenes estamos pensando que hay ciertas afirmaciones que habéis oído mil veces y que no hacéis ni caso: “No te des el atracón antes del examen, estudia diariamente, no&hellip;"
 ---
 

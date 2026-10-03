@@ -2,21 +2,21 @@
 id: 8606
 title: "Curso Básico de Mediación en Salud del Conseyu de Mocedá de&nbsp;Xixón"
 date: 2014-03-14T20:06:13
-slug: curso-basico-de-mediacion-en-salud-del-conseyu-de-moceda-de-xixon
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8606
-originUrl: https://prixline.blog/2014/03/14/curso-basico-de-mediacion-en-salud-del-conseyu-de-moceda-de-xixon/
+slug: "curso-basico-de-mediacion-en-salud-del-conseyu-de-moceda-de-xixon"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8606"
+originUrl: "https://prixline.blog/2014/03/14/curso-basico-de-mediacion-en-salud-del-conseyu-de-moceda-de-xixon/"
 categories:
-  - cursos
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - curso
-  - estudiar
-  - gratis
-  - prixline
-  - recursos
+  - "aprender"
+  - "curso"
+  - "estudiar"
+  - "gratis"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: El Conseyu de Mocedá de Xixón (CMX) organiza un Curso Básico de Mediación en Salud que se desarrollará del 24 al 29 de marzo de 2014 en sus locales de la C/ Manuel Llaneza, 68. Es gratuito. Durante esos días se desarrolla la parte teórica del curso, que se complementará&hellip;"
 ---
 

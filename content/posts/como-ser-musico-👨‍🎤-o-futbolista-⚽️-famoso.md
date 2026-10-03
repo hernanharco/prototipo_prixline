@@ -3,12 +3,12 @@ id: 12327
 title: "Como ser músico 👨‍🎤 o futbolista ⚽️&nbsp;famoso"
 date: 2018-08-12T23:57:17
 slug: "como-ser-musico-%f0%9f%91%a8%e2%80%8d%f0%9f%8e%a4-o-futbolista-%e2%9a%bd%ef%b8%8f-famoso"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12327
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12327"
 originUrl: "https://prixline.blog/2018/08/12/como-ser-musico-%f0%9f%91%a8%e2%80%8d%f0%9f%8e%a4-o-futbolista-%e2%9a%bd%ef%b8%8f-famoso/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -3,12 +3,12 @@ id: 12638
 title: "Curso 📚de Atención SocioSanitaria&nbsp;🧓🏻"
 date: 2019-05-21T22:55:43
 slug: "curso-%f0%9f%93%9ade-atencion-sociosanitaria-%f0%9f%a7%93%f0%9f%8f%bb"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12638
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12638"
 originUrl: "https://prixline.blog/2019/05/21/curso-%f0%9f%93%9ade-atencion-sociosanitaria-%f0%9f%a7%93%f0%9f%8f%bb/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

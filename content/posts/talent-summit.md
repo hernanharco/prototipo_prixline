@@ -2,14 +2,14 @@
 id: 12377
 title: "Talent Summit 🤗"
 date: 2018-09-28T09:20:43
-slug: talent-summit
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12377
-originUrl: https://prixline.blog/2018/09/28/talent-summit/
+slug: "talent-summit"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12377"
+originUrl: "https://prixline.blog/2018/09/28/talent-summit/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
-excerpt: https://www.pscp.tv/prixline/1mnGeoaXYdZxX
+  - "prixline"
+excerpt: "https://www.pscp.tv/prixline/1mnGeoaXYdZxX"
 ---
 
 # Talent Summit 🤗

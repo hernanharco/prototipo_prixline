@@ -2,13 +2,13 @@
 id: 12561
 title: "El trabajo de comercial&nbsp;autónomo."
 date: 2019-03-07T13:01:26
-slug: el-trabajo-de-comercial-autonomo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12561
-originUrl: https://prixline.blog/2019/03/07/el-trabajo-de-comercial-autonomo/
+slug: "el-trabajo-de-comercial-autonomo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12561"
+originUrl: "https://prixline.blog/2019/03/07/el-trabajo-de-comercial-autonomo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,22 +2,22 @@
 id: 9211
 title: "¿Se puede orientar a alguien que no quiere&nbsp;orientación?"
 date: 2014-07-08T19:02:51
-slug: se-puede-orientar-a-alguien-que-no-quiere-orientacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9211
-originUrl: https://prixline.blog/2014/07/08/se-puede-orientar-a-alguien-que-no-quiere-orientacion/
+slug: "se-puede-orientar-a-alguien-que-no-quiere-orientacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9211"
+originUrl: "https://prixline.blog/2014/07/08/se-puede-orientar-a-alguien-que-no-quiere-orientacion/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - opiniones
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com Hay personas que acuden a un servicio de orientación sin saber muy bien para qué van. Otras veces las expectativas se nos comen todo lo demás. ¿Qué es un servicio de orientación laboral? Una cosa es clara, lo que NO ES: un lugar para que exclusivamente te llamen de ofertas de&hellip;"
 ---
 

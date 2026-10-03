@@ -3,12 +3,12 @@ id: 14024
 title: "PRIXLINE ✅ Ayudas al Pago Del Alquiler 2020 💰(hasta 900€)&nbsp;😃"
 date: 2020-04-04T00:50:50
 slug: "prixline-%e2%9c%85-ayudas-al-pago-del-alquiler-2020-%f0%9f%92%b0hasta-900e-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14024
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14024"
 originUrl: "https://prixline.blog/2020/04/04/prixline-%e2%9c%85-ayudas-al-pago-del-alquiler-2020-%f0%9f%92%b0hasta-900e-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

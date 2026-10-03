@@ -1,14 +1,14 @@
 ---
 id: 8958
-title: Enrejados
+title: "Enrejados"
 date: 2014-05-15T09:10:32
-slug: enrejados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8958
-originUrl: https://prixline.blog/2014/05/15/enrejados/
+slug: "enrejados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8958"
+originUrl: "https://prixline.blog/2014/05/15/enrejados/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
 ---
 

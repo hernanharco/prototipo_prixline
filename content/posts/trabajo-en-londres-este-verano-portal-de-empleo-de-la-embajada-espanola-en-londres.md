@@ -2,27 +2,27 @@
 id: 4574
 title: "Trabajo en Londres este verano!: Portal de empleo de la Embajada española en&nbsp;Londres"
 date: 2013-06-07T08:28:40
-slug: trabajo-en-londres-este-verano-portal-de-empleo-de-la-embajada-espanola-en-londres
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4574
-originUrl: https://prixline.blog/2013/06/07/trabajo-en-londres-este-verano-portal-de-empleo-de-la-embajada-espanola-en-londres/
+slug: "trabajo-en-londres-este-verano-portal-de-empleo-de-la-embajada-espanola-en-londres"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4574"
+originUrl: "https://prixline.blog/2013/06/07/trabajo-en-londres-este-verano-portal-de-empleo-de-la-embajada-espanola-en-londres/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - empleo
-  - gratis
-  - Idiomas
-  - practicas
+  - "b83066696"
+  - "empleo"
+  - "gratis"
+  - "Idiomas"
+  - "practicas"
   - "Prácticas"
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on Salva Gallego: ¡Me voy a Londres a buscar trabajo! ¡Cómo me suena esta frase! Desde hace años viajar a Londres ha sido la gran escapatoria para quien buscaba nuevos horizontes. Hoy también, y con más motivos. La gran afluencia de españoles a Inglaterra, en busca de trabajo, ha fomentado la creación del&hellip;"
 ---
 

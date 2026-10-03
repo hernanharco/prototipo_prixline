@@ -3,12 +3,12 @@ id: 13550
 title: "PRIXLINERs ✅ Preguntas en Vivo del Chat&nbsp;😃"
 date: 2020-01-16T13:55:04
 slug: "prixliners-%e2%9c%85-preguntas-en-vivo-del-chat-%f0%9f%98%83"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13550
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13550"
 originUrl: "https://prixline.blog/2020/01/16/prixliners-%e2%9c%85-preguntas-en-vivo-del-chat-%f0%9f%98%83/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

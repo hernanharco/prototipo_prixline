@@ -2,13 +2,13 @@
 id: 11214
 title: "&#8220;Que no te parezca mal&nbsp;&#8230;&#8221;"
 date: 2016-04-09T12:02:59
-slug: que-no-te-parezca-mal
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11214
-originUrl: https://prixline.blog/2016/04/09/que-no-te-parezca-mal/
+slug: "que-no-te-parezca-mal"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11214"
+originUrl: "https://prixline.blog/2016/04/09/que-no-te-parezca-mal/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Cuando queremos comunicar alguna cosa a los demás tenemos dos maneras de hacerlo. De manera genuina y positiva Expresando una sentencia. Vigilar nuestros vocablos es básico para que el contrapeso del vínculo éste compensado. Quiero contaros una historia como siempre para ilustrar el post de esta semana. A María&hellip;"
 ---
 

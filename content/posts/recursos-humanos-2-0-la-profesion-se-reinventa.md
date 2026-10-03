@@ -2,13 +2,13 @@
 id: 11200
 title: "Recursos Humanos 2.0. La profesión se&nbsp;reinventa."
 date: 2016-03-29T20:48:10
-slug: recursos-humanos-2-0-la-profesion-se-reinventa
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11200
-originUrl: https://prixline.blog/2016/03/29/recursos-humanos-2-0-la-profesion-se-reinventa/
+slug: "recursos-humanos-2-0-la-profesion-se-reinventa"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11200"
+originUrl: "https://prixline.blog/2016/03/29/recursos-humanos-2-0-la-profesion-se-reinventa/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : En los últimos años, las TIC han cambiado nuestra forma de trabajar, pero también ha conseguido que uno de los departamentos más clásicos del organigrama empresarial haya tenido que reinventarse: el departamento de Recursos Humanos 2.0. Según cuentan ellos mismos, la óptima gestión de los&hellip;"
 ---
 

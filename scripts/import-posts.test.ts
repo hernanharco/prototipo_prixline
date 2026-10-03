@@ -183,3 +183,52 @@ test("unknown id → sin-categoria; empty ids → empty list", async () => {
   assert.deepEqual(mapCategories([], lookup), []);
   assert.deepEqual(mapCategories([51348], new Map()), ["sin-categoria"]);
 });
+
+test("YAML string values are emitted safely (@-values, numeric lookalikes)", () => {
+  // Synthetic render: fixture posts contain no `@` values, so this exercises
+  // the emitter against the exact shapes that broke js-yaml in production
+  // (originCategories like `- @AlertasEmpleo` and `- 83066696`).
+  const post: WpPost = {
+    id: 1054,
+    date: "2012-10-16T22:01:38",
+    slug: "1054",
+    link: "https://prixline.blog/2012/10/16/1054/",
+    title: { rendered: "Webs de empleo&nbsp;sectoriales" },
+    excerpt: { rendered: "Texto de ejemplo&hellip;" },
+    content: { rendered: "<p>cuerpo</p>" },
+    categories: [],
+  };
+  const origin = ["@AlertasEmpleo", "@AyudaExperta", "83066696"];
+  const md = renderPost(post, ["empleo"], origin);
+
+  // Raw emitted form: every YAML-unsafe string must come out quoted.
+  assert.ok(
+    md.includes('  - "@AlertasEmpleo"'),
+    "originCategories item @AlertasEmpleo must be emitted quoted",
+  );
+  assert.ok(
+    md.includes('  - "@AyudaExperta"'),
+    "originCategories item @AyudaExperta must be emitted quoted",
+  );
+  assert.ok(
+    md.includes('  - "83066696"'),
+    "numeric-lookalike category must be emitted as a quoted string",
+  );
+  assert.ok(!/^\s*- @/m.test(md), "emitter must never write an unquoted '- @' list item");
+  // id stays an unquoted number; date keeps its current unquoted behaviour.
+  assert.ok(/^id: 1054$/m.test(md), "id must stay unquoted");
+  assert.ok(
+    /^date: 2012-10-16T22:01:38$/m.test(md),
+    "date keeps its current unquoted behaviour",
+  );
+  // Round-trip: quoted scalars parse back to exactly the source strings.
+  const { fields, lists } = parseFrontmatter(md);
+  assert.deepEqual(lists.originCategories, origin, "originCategories must round-trip exactly");
+  assert.deepEqual(lists.categories, ["empleo"], "clean categories must round-trip");
+  assert.equal(fields.slug, "1054", "numeric-lookalike slug must round-trip as string");
+  assert.equal(
+    fields.title,
+    "Webs de empleo&nbsp;sectoriales",
+    "title must round-trip exactly",
+  );
+});

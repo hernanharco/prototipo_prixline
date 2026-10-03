@@ -2,13 +2,13 @@
 id: 9525
 title: "No te dejes&nbsp;robar!"
 date: 2014-09-11T08:12:27
-slug: no-te-dejes-robar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9525
-originUrl: https://prixline.blog/2014/09/11/no-te-dejes-robar/
+slug: "no-te-dejes-robar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9525"
+originUrl: "https://prixline.blog/2014/09/11/no-te-dejes-robar/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on mayeutika, llegar a ser lo que somos: No sé bien cómo empezar a escribir este post y me perdonaréis si parece algo desordenado, alterado, confuso incluso triste. Seguramente es como me encuentro en estos momentos, sintiendo un mazagote entre el estómago y el esternón a la altura de la garganta. Necesito compartir&hellip;"
 ---
 

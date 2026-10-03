@@ -2,19 +2,19 @@
 id: 10927
 title: "Snapchat y búsqueda de empleo,&nbsp;WTF!"
 date: 2015-11-23T16:50:56
-slug: snapchat-y-busqueda-de-empleo-wtf
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10927
-originUrl: https://prixline.blog/2015/11/23/snapchat-y-busqueda-de-empleo-wtf/
+slug: "snapchat-y-busqueda-de-empleo-wtf"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10927"
+originUrl: "https://prixline.blog/2015/11/23/snapchat-y-busqueda-de-empleo-wtf/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - opinion
-  - prixline
-  - recursos
-  - Trabajo
+  - "opinion"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on El Blog de Iñaki González : No, mira, por ahí ya no paso… Una cosa que es que defendamos el uso de las redes sociales para la búsqueda de empleo, que recomendemos crear y actualizar nuestro propio blog así como el uso de twitter, facebook o LinkedIn para promocionar nuestra marca&hellip;"
 ---
 

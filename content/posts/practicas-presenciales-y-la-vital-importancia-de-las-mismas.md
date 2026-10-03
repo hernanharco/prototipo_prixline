@@ -2,22 +2,22 @@
 id: 7448
 title: "Prácticas presenciales y la vital importancia de las&nbsp;mismas"
 date: 2013-11-18T14:43:20
-slug: practicas-presenciales-y-la-vital-importancia-de-las-mismas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7448
-originUrl: https://prixline.blog/2013/11/18/practicas-presenciales-y-la-vital-importancia-de-las-mismas/
+slug: "practicas-presenciales-y-la-vital-importancia-de-las-mismas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7448"
+originUrl: "https://prixline.blog/2013/11/18/practicas-presenciales-y-la-vital-importancia-de-las-mismas/"
 categories:
-  - empleo
-  - formacion
-  - practicas
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - aprender
-  - b83066696
-  - becas y practicas
-  - Certificado de Profesionalidad
-  - empleo
-  - formacion
+  - "806514296"
+  - "aprender"
+  - "b83066696"
+  - "becas y practicas"
+  - "Certificado de Profesionalidad"
+  - "empleo"
+  - "formacion"
 excerpt: "En este artículo que he decidido escribir quiero contar mi experiencia a la hora de buscar las prácticas profesionales en todo el territorio nacional a todos los alumnos que contratan este servicio a la hora de hacer el curso. Una vez hecha esta breve presentación, me gustaría hacer una mención especial al concepto, la importancia [&hellip;]"
 ---
 

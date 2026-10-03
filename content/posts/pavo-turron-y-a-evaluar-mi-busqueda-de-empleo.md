@@ -2,13 +2,13 @@
 id: 10970
 title: "Pavo, Turrón y a  Evaluar mi Búsqueda de&nbsp;Empleo"
 date: 2015-12-18T18:02:03
-slug: pavo-turron-y-a-evaluar-mi-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10970
-originUrl: https://prixline.blog/2015/12/18/pavo-turron-y-a-evaluar-mi-busqueda-de-empleo/
+slug: "pavo-turron-y-a-evaluar-mi-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10970"
+originUrl: "https://prixline.blog/2015/12/18/pavo-turron-y-a-evaluar-mi-busqueda-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Parece que fue ayer cuando empezamos 2015, pero todo lo que tiene un principio tiene un final y sin apenas darnos cuenta, o quizás, dándonos demasiada cuenta, hemos llegado a la recta final del Año. En estos momentos más que nunca, es momento de hacer balance,&hellip;"
 ---
 

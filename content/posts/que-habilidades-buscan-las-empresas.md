@@ -2,13 +2,13 @@
 id: 12557
 title: "¿Qué habilidades buscan las&nbsp;empresas?"
 date: 2019-03-02T11:29:55
-slug: que-habilidades-buscan-las-empresas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12557
-originUrl: https://prixline.blog/2019/03/02/que-habilidades-buscan-las-empresas/
+slug: "que-habilidades-buscan-las-empresas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12557"
+originUrl: "https://prixline.blog/2019/03/02/que-habilidades-buscan-las-empresas/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Los departamentos de recursos humanos de las empresas tienen el objetivo de contratar al empleado ideal para cada vacante y ello conlleva a un proceso de selección no siempre fácil en muchos casos. Pero, aunque cada empresa tenga una filosofía única y diferente, existen algunas capacidades y características tan demandadas como necesarias a la hora [&hellip;]"
 ---
 

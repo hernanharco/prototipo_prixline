@@ -3,12 +3,12 @@ id: 12372
 title: "¡El currículum PERFECTO!&nbsp;👌🏅"
 date: 2018-09-24T00:55:32
 slug: "el-curriculum-perfecto-%f0%9f%91%8c%f0%9f%8f%85"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12372
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12372"
 originUrl: "https://prixline.blog/2018/09/24/el-curriculum-perfecto-%f0%9f%91%8c%f0%9f%8f%85/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

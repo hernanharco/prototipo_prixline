@@ -2,13 +2,13 @@
 id: 9790
 title: "Ocho cosas que debes hacer si estás buscando&nbsp;trabajo"
 date: 2014-10-29T07:35:07
-slug: ocho-cosas-que-debes-hacer-si-estas-buscando-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9790
-originUrl: https://prixline.blog/2014/10/29/ocho-cosas-que-debes-hacer-si-estas-buscando-trabajo/
+slug: "ocho-cosas-que-debes-hacer-si-estas-buscando-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9790"
+originUrl: "https://prixline.blog/2014/10/29/ocho-cosas-que-debes-hacer-si-estas-buscando-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Hace unos días en la web equiposytalento.com publicaron un interesante artículo donde recogían las Ocho cosas que todo aquél que busque trabajo debería estar haciendo. Estos ocho factores son las conclusiones que se han extraído de Irelaunch, una plataforma que através de conferencias, actividades, seminarios de coaching, etc busca conectar profesionales que&hellip;"
 ---
 

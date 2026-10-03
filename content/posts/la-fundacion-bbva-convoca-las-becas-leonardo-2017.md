@@ -2,13 +2,13 @@
 id: 11769
 title: "La Fundación BBVA convoca las Becas Leonardo&nbsp;2017"
 date: 2017-02-27T16:21:37
-slug: la-fundacion-bbva-convoca-las-becas-leonardo-2017
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11769
-originUrl: https://prixline.blog/2017/02/27/la-fundacion-bbva-convoca-las-becas-leonardo-2017/
+slug: "la-fundacion-bbva-convoca-las-becas-leonardo-2017"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11769"
+originUrl: "https://prixline.blog/2017/02/27/la-fundacion-bbva-convoca-las-becas-leonardo-2017/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¡Jóvenes investigadores y creadores!, llegan las becas Leonardo 2017 Este miércoles 1 de marzo de 2017 se abre el plazo para solicitar las Becas Leonardo 2017 convocadas por la Fundación BBVA. Se trata de la cuarta edición de un programa de ayudas que buscan apoyar proyectos individuales de&hellip;"
 ---
 

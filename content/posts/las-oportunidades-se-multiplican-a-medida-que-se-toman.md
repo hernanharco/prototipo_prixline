@@ -2,13 +2,13 @@
 id: 9670
 title: "Las oportunidades se multiplican a medida que se&nbsp;toman"
 date: 2014-10-04T16:41:27
-slug: las-oportunidades-se-multiplican-a-medida-que-se-toman
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9670
-originUrl: https://prixline.blog/2014/10/04/las-oportunidades-se-multiplican-a-medida-que-se-toman/
+slug: "las-oportunidades-se-multiplican-a-medida-que-se-toman"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9670"
+originUrl: "https://prixline.blog/2014/10/04/las-oportunidades-se-multiplican-a-medida-que-se-toman/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -2,13 +2,13 @@
 id: 14049
 title: "Ofertas de Empleo destacadas de la&nbsp;semana"
 date: 2020-04-08T19:03:23
-slug: ofertas-de-empleo-destacadas-de-la-semana
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14049
-originUrl: https://prixline.blog/2020/04/08/ofertas-de-empleo-destacadas-de-la-semana/
+slug: "ofertas-de-empleo-destacadas-de-la-semana"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14049"
+originUrl: "https://prixline.blog/2020/04/08/ofertas-de-empleo-destacadas-de-la-semana/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Como todas las semanas, compartimos un resumen de las convocatorias de empleo de los últimos días. Dada la situación actual que estamos viviendo, no son muchas las novedades, pero intentamos recoger cada semana las nuevas ofertas. Recuerda que en lo referente a convocatorias de empleo público, actualmente esta&hellip;"
 ---
 

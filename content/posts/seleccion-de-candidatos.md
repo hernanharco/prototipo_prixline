@@ -2,13 +2,13 @@
 id: 12408
 title: "Selección de candidatos&nbsp;&#8230;"
 date: 2018-10-22T23:25:46
-slug: seleccion-de-candidatos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12408
-originUrl: https://prixline.blog/2018/10/22/seleccion-de-candidatos/
+slug: "seleccion-de-candidatos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12408"
+originUrl: "https://prixline.blog/2018/10/22/seleccion-de-candidatos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

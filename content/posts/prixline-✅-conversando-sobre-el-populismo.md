@@ -3,14 +3,14 @@ id: 14079
 title: "PRIXLINE ✅ Conversando sobre el Populismo&#8230;"
 date: 2020-04-14T20:06:15
 slug: "prixline-%e2%9c%85-conversando-sobre-el-populismo"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14079
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14079"
 originUrl: "https://prixline.blog/2020/04/14/prixline-%e2%9c%85-conversando-sobre-el-populismo/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - opiniones
-  - prixline
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,23 +2,23 @@
 id: 9192
 title: "Las Agencias de Colocación ya son una&nbsp;realidad"
 date: 2014-07-03T09:53:19
-slug: las-agencias-de-colocacion-ya-son-una-realidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9192
-originUrl: https://prixline.blog/2014/07/03/las-agencias-de-colocacion-ya-son-una-realidad/
+slug: "las-agencias-de-colocacion-ya-son-una-realidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9192"
+originUrl: "https://prixline.blog/2014/07/03/las-agencias-de-colocacion-ya-son-una-realidad/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - gratis
-  - prixline
-  - recursos
-  - Solidaridad
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
+  - "Solidaridad"
 excerpt: "Podemos encontrar varias entidades en el Principado que funcionan como Agencias de Colocación, como por ejemplo, la Asociación de Jóvenes Empresarios, FUCOMI, FADE, Universidad de Oviedo o Fundación Metal . Podéis consultar el listado completo en la página del SEPE."
 ---
 

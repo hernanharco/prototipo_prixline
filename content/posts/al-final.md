@@ -1,14 +1,14 @@
 ---
 id: 11205
-title: Al Final.
+title: "Al Final."
 date: 2016-04-02T03:35:10
-slug: al-final
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11205
-originUrl: https://prixline.blog/2016/04/02/al-final/
+slug: "al-final"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11205"
+originUrl: "https://prixline.blog/2016/04/02/al-final/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

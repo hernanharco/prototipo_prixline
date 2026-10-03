@@ -2,13 +2,13 @@
 id: 11423
 title: "¿Sabéis que es&nbsp;bonito?"
 date: 2016-07-21T17:21:20
-slug: sabeis-que-es-bonito
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11423
-originUrl: https://prixline.blog/2016/07/21/sabeis-que-es-bonito/
+slug: "sabeis-que-es-bonito"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11423"
+originUrl: "https://prixline.blog/2016/07/21/sabeis-que-es-bonito/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

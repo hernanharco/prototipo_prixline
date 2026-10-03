@@ -2,20 +2,20 @@
 id: 8856
 title: "Curso SALTO en&nbsp;Rumanía"
 date: 2014-04-28T17:37:55
-slug: curso-salto-en-rumania
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8856
-originUrl: https://prixline.blog/2014/04/28/curso-salto-en-rumania/
+slug: "curso-salto-en-rumania"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8856"
+originUrl: "https://prixline.blog/2014/04/28/curso-salto-en-rumania/"
 categories:
-  - formacion
-  - practicas
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - becas y practicas
-  - educadores
-  - gratis
-  - Idiomas
-  - prixline
+  - "becas y practicas"
+  - "educadores"
+  - "gratis"
+  - "Idiomas"
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Agencia Nacional de Rumania del programa Erasmus+ Juventud en Acción, en colaboración con las agencias nacionales de Francia, Suecia y Hugria, organiza el Curso “Get Ready for Social Entrepreneurship”. Objetivos: Informar y sensibilizar a los participantes acerca de las características, beneficios, valores y factores para el éxito del emprendimiento&hellip;"
 ---
 

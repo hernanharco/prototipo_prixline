@@ -2,13 +2,13 @@
 id: 12551
 title: "¿Qué se valora en la entrevista de&nbsp;trabajo?"
 date: 2019-02-27T12:38:07
-slug: que-se-valora-en-la-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12551
-originUrl: https://prixline.blog/2019/02/27/que-se-valora-en-la-entrevista-de-trabajo/
+slug: "que-se-valora-en-la-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12551"
+originUrl: "https://prixline.blog/2019/02/27/que-se-valora-en-la-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

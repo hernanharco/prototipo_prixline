@@ -3,12 +3,12 @@ id: 12619
 title: "Cómo se Gestiona el Miedo&nbsp;😬"
 date: 2019-04-24T10:44:40
 slug: "como-se-gestiona-el-miedo-%f0%9f%98%ac"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12619
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12619"
 originUrl: "https://prixline.blog/2019/04/24/como-se-gestiona-el-miedo-%f0%9f%98%ac/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

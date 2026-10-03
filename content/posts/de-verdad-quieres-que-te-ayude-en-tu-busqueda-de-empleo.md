@@ -2,13 +2,13 @@
 id: 10415
 title: "¿De verdad quieres que te ayude en tu búsqueda de&nbsp;empleo?"
 date: 2015-05-13T12:29:37
-slug: de-verdad-quieres-que-te-ayude-en-tu-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10415
-originUrl: https://prixline.blog/2015/05/13/de-verdad-quieres-que-te-ayude-en-tu-busqueda-de-empleo/
+slug: "de-verdad-quieres-que-te-ayude-en-tu-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10415"
+originUrl: "https://prixline.blog/2015/05/13/de-verdad-quieres-que-te-ayude-en-tu-busqueda-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: Desde hace algún tiempo recibo bastantes correos de gente donde me cuentan su situación actual en la búsqueda de empleo. La mayor parte de ellos me suelen pedir que les eche un vistazo a su perfil en LinkedIn o a su currículum para ver en qué pueden mejorarlo. Desde que&hellip;"
 ---
 

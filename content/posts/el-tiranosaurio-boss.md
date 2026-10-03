@@ -1,14 +1,14 @@
 ---
 id: 12345
-title: El Tiranosaurio Boss
+title: "El Tiranosaurio Boss"
 date: 2018-09-03T12:40:48
-slug: el-tiranosaurio-boss
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12345
-originUrl: https://prixline.blog/2018/09/03/el-tiranosaurio-boss/
+slug: "el-tiranosaurio-boss"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12345"
+originUrl: "https://prixline.blog/2018/09/03/el-tiranosaurio-boss/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on PSICOLOGIA EDUARDO ORTEGA: Los jefes tiranos forman parte de las empresas arqueologías que todavía no se han extinguido y están dominadas y representadas por cargos de la prehistoria. Estos dinosaurios que se merecen un hueco en el museo debido a su actitud cavernicola; son managers poco motivadores, regañones, insensibles, flojos e irrealistas.&hellip;"
 ---
 

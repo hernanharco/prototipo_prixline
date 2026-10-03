@@ -2,19 +2,19 @@
 id: 4317
 title: "10 tweets que marcarán tu&nbsp;CV."
 date: 2013-05-22T09:02:04
-slug: 10-tweets-que-marcaran-tu-cv
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4317
-originUrl: https://prixline.blog/2013/05/22/10-tweets-que-marcaran-tu-cv/
+slug: "10-tweets-que-marcaran-tu-cv"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4317"
+originUrl: "https://prixline.blog/2013/05/22/10-tweets-que-marcaran-tu-cv/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Originally posted on El Blog de Iñaki González : Otra forma curiosa de mover tu currículum por las redes sociales, ni más ni menos que por twitter, la red social de micro blogging por excelencia, y con sólo 10 tweets. Como digo, son sólo 10 tweets, así que asegúrate de hacerlo bien… si te&hellip;"
 ---
 

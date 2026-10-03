@@ -2,21 +2,21 @@
 id: 6263
 title: "2 lugares en los que buscar&nbsp;empleo"
 date: 2013-09-18T08:44:58
-slug: 2-lugares-en-los-que-buscar-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6263
-originUrl: https://prixline.blog/2013/09/18/2-lugares-en-los-que-buscar-empleo/
+slug: "2-lugares-en-los-que-buscar-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6263"
+originUrl: "https://prixline.blog/2013/09/18/2-lugares-en-los-que-buscar-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - prix-line
-  - prixline
-  - recursos
-  - trabajo
-  - Trabajo
+  - "empleo"
+  - "gratis"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
+  - "Trabajo"
 excerpt: "Originally posted on AVANZA LABORAL: Hoy la cosa va de trucos, o más bien de poner la tecnología a nuestro servicio en la búsqueda activa de empleo. En primer lugar Google. Además de buscador, es muchas otras cosas que en ocasiones pasan desapercibidas. En esta ocasión, uno de los elementos que podemos utilizar, (para la&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11382
 title: "Y tú, ¿cómo buscas empleo en las redes&nbsp;sociales?"
 date: 2016-07-04T23:09:25
-slug: y-tu-como-buscas-empleo-en-las-redes-sociales
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11382
-originUrl: https://prixline.blog/2016/07/04/y-tu-como-buscas-empleo-en-las-redes-sociales/
+slug: "y-tu-como-buscas-empleo-en-las-redes-sociales"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11382"
+originUrl: "https://prixline.blog/2016/07/04/y-tu-como-buscas-empleo-en-las-redes-sociales/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on descubriendo talento: Desde hace algún tiempo vengo observando, no sin cierta preocupación, una tendencia que parece que empieza a ganar adeptos a la hora de buscar empleo en las redes sociales, y más concretamente en LinkedIn: se trata de publicar una actualización de estado donde se dice que se está en búsqueda&hellip;"
 ---
 

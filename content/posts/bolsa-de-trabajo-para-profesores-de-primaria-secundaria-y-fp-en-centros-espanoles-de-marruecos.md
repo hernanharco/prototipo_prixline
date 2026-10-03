@@ -2,22 +2,22 @@
 id: 8249
 title: "Bolsa de trabajo para profesores de primaria, secundaria y FP en centros españoles de&nbsp;Marruecos"
 date: 2014-02-04T12:03:30
-slug: bolsa-de-trabajo-para-profesores-de-primaria-secundaria-y-fp-en-centros-espanoles-de-marruecos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8249
-originUrl: https://prixline.blog/2014/02/04/bolsa-de-trabajo-para-profesores-de-primaria-secundaria-y-fp-en-centros-espanoles-de-marruecos/
+slug: "bolsa-de-trabajo-para-profesores-de-primaria-secundaria-y-fp-en-centros-espanoles-de-marruecos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8249"
+originUrl: "https://prixline.blog/2014/02/04/bolsa-de-trabajo-para-profesores-de-primaria-secundaria-y-fp-en-centros-espanoles-de-marruecos/"
 categories:
-  - empleo
-  - formacion
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - 83066696
-  - educadores
-  - empleo
-  - estudiar
-  - gratis
-  - prixline
-  - recursos
+  - "83066696"
+  - "educadores"
+  - "empleo"
+  - "estudiar"
+  - "gratis"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La Consejería de Educación de la Embajada de España en Marruecos ha convocado un proceso de selección para constituir una bolsa de trabajo de profesores de Educación Secundaria en centros españoles en Marruecos para el curso 2014-2015. El plazo de inscripción finaliza el próximo 13&hellip;"
 ---
 

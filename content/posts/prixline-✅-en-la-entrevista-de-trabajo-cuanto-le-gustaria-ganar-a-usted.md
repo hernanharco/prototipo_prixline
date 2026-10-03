@@ -3,12 +3,12 @@ id: 12575
 title: "PRIXLINE ✅ En la entrevista de TRABAJO&#8230; ¿Cuánto le gustaría ganar a&nbsp;usted?"
 date: 2019-03-18T13:57:28
 slug: "prixline-%e2%9c%85-en-la-entrevista-de-trabajo-cuanto-le-gustaria-ganar-a-usted"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12575
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12575"
 originUrl: "https://prixline.blog/2019/03/18/prixline-%e2%9c%85-en-la-entrevista-de-trabajo-cuanto-le-gustaria-ganar-a-usted/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

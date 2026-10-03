@@ -2,13 +2,13 @@
 id: 12481
 title: "Como mejorar la normativa de Start-ups y&nbsp;emprendedores"
 date: 2019-01-04T11:30:35
-slug: como-mejorar-la-normativa-de-start-ups-y-emprendedores
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12481
-originUrl: https://prixline.blog/2019/01/04/como-mejorar-la-normativa-de-start-ups-y-emprendedores/
+slug: "como-mejorar-la-normativa-de-start-ups-y-emprendedores"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12481"
+originUrl: "https://prixline.blog/2019/01/04/como-mejorar-la-normativa-de-start-ups-y-emprendedores/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Todo es electrónico: Hay consenso sobre que la normativa española de impulso a la creación de empresas puede mejorar. Aunque con frecuencia las oportunidades parecen desarrollarse en el ámbito tecnológico, seguro que hay muchas actividades en las que se puede mejorar el hábitat que permita iniciar y desarrollar actividades empresariales. Y&hellip;"
 ---
 

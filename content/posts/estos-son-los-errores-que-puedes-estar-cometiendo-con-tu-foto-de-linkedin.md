@@ -2,23 +2,23 @@
 id: 10062
 title: "Estos son los errores que puedes estar cometiendo con tu foto de&nbsp;Linkedin."
 date: 2015-01-12T12:31:04
-slug: estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10062
-originUrl: https://prixline.blog/2015/01/12/estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin/
+slug: "estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10062"
+originUrl: "https://prixline.blog/2015/01/12/estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - gratis
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "gratis"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on El Blog de Iñaki González : Seguro que has oído más de una vez eso de que el que se mueve no sale en la foto, no? Pues en LinkedIn le damos otra vuelta de tuerca, porque el que no salga en la foto, no se come un rosco… y ya&hellip;"
 ---
 

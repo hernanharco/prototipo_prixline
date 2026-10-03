@@ -2,13 +2,13 @@
 id: 9744
 title: "Vídeos sobre la Zona de Confort: una Justificación&nbsp;perfecta&#8230;"
 date: 2014-10-20T09:19:34
-slug: videos-sobre-la-zona-de-confort-una-justificacion-perfecta
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9744
-originUrl: https://prixline.blog/2014/10/20/videos-sobre-la-zona-de-confort-una-justificacion-perfecta/
+slug: "videos-sobre-la-zona-de-confort-una-justificacion-perfecta"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9744"
+originUrl: "https://prixline.blog/2014/10/20/videos-sobre-la-zona-de-confort-una-justificacion-perfecta/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Social Media's Sensei by Gus: El primer vídeo que os presento hoy está basado en un libro de Matti Hemmi con el mismo titulo “¿Te atreves a soñar?”. Os dejo el enlace: ? Si os interesa descargar en forma gratuita el primer capítulo del libro, por favor, pinchad aquí: ¿Te atreves&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 11840
 title: "El trabajo del futuro&#8230; ¡Perdona!          El trabajo del&nbsp;presente"
 date: 2017-04-07T18:56:22
-slug: el-trabajo-del-futuro-perdona-el-trabajo-del-presente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11840
-originUrl: https://prixline.blog/2017/04/07/el-trabajo-del-futuro-perdona-el-trabajo-del-presente/
+slug: "el-trabajo-del-futuro-perdona-el-trabajo-del-presente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11840"
+originUrl: "https://prixline.blog/2017/04/07/el-trabajo-del-futuro-perdona-el-trabajo-del-presente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Hace meses que quiero hacer esta reflexión y es justo ahora cuando he encontrado el momento. Espero no coger a nadie por sorpresa si por novena vez comento en este blog que el mercado laboral se ha transformado. Que la manera de entender el empleo está en plena revolución y que por supuesto, la forma&hellip;"
 ---
 

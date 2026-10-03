@@ -2,13 +2,13 @@
 id: 12034
 title: "¡Becas de Segunda&nbsp;Oportunidad!"
 date: 2017-09-08T14:34:38
-slug: becas-de-segunda-oportunidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12034
-originUrl: https://prixline.blog/2017/09/08/becas-de-segunda-oportunidad/
+slug: "becas-de-segunda-oportunidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12034"
+originUrl: "https://prixline.blog/2017/09/08/becas-de-segunda-oportunidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para alumnos de entre dieciséis y treinta años. Enlace al BOCM"
 ---
 

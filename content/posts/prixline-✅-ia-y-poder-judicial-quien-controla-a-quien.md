@@ -3,12 +3,12 @@ id: 50343
 title: "#PRIXLINE ✅ IA y Poder Judicial: ¿Quién controla a&nbsp;quién?"
 date: 2025-11-15T13:07:01
 slug: "prixline-%e2%9c%85-ia-y-poder-judicial-quien-controla-a-quien"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/50343
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/50343"
 originUrl: "https://prixline.blog/2025/11/15/prixline-%e2%9c%85-ia-y-poder-judicial-quien-controla-a-quien/"
 categories:
-  - formacion
+  - "formacion"
 originCategories:
-  - aprender
+  - "aprender"
 excerpt: "Análisis claro del impacto real de la inteligencia artificial en la Administración pública española. Se explica cómo la IA puede mejorar trámites, reducir burocracia y aumentar la eficiencia, pero también los riesgos legales, éticos y organizativos que puede generar. Incluye reflexiones sobre justicia automatizada, toma de decisiones públicas, control político, protección de datos y el [&hellip;]"
 ---
 

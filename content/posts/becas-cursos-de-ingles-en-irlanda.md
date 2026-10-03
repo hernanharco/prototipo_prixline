@@ -2,13 +2,13 @@
 id: 11211
 title: "Becas Cursos de Inglés en&nbsp;Irlanda"
 date: 2016-04-07T11:08:52
-slug: becas-cursos-de-ingles-en-irlanda
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11211
-originUrl: https://prixline.blog/2016/04/07/becas-cursos-de-ingles-en-irlanda/
+slug: "becas-cursos-de-ingles-en-irlanda"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11211"
+originUrl: "https://prixline.blog/2016/04/07/becas-cursos-de-ingles-en-irlanda/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Eurolingua Venairlanda anuncia su 4º edición de becas para realizar cursos de inglés en Irlanda durante el mes de agosto de 2016Eurolingua Venairlanda es una empresa de cursos de idiomas en el extranjero que subvenciones el 100% del coste de estos cursos. Entre los requisitos: Becas dirigidas a&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 10798
 title: "Las paradojas de la búsqueda de&nbsp;empleo"
 date: 2015-10-05T09:38:22
-slug: las-paradojas-de-la-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10798
-originUrl: https://prixline.blog/2015/10/05/las-paradojas-de-la-busqueda-de-empleo/
+slug: "las-paradojas-de-la-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10798"
+originUrl: "https://prixline.blog/2015/10/05/las-paradojas-de-la-busqueda-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Conviene pararse a pensar y “afilar el hacha”… Excelente reflexión. 😃"
 ---
 

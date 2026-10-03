@@ -2,13 +2,13 @@
 id: 10251
 title: "Sé paciente"
 date: 2015-03-09T09:30:59
-slug: se-paciente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10251
-originUrl: https://prixline.blog/2015/03/09/se-paciente/
+slug: "se-paciente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10251"
+originUrl: "https://prixline.blog/2015/03/09/se-paciente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

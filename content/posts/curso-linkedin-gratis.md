@@ -1,21 +1,21 @@
 ---
 id: 6861
-title: Curso Linkedin Gratis.
+title: "Curso Linkedin Gratis."
 date: 2013-10-10T14:49:12
-slug: curso-linkedin-gratis
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6861
-originUrl: https://prixline.blog/2013/10/10/curso-linkedin-gratis/
+slug: "curso-linkedin-gratis"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6861"
+originUrl: "https://prixline.blog/2013/10/10/curso-linkedin-gratis/"
 categories:
-  - cursos
-  - formacion
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - curso
-  - gratis
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "curso"
+  - "gratis"
+  - "prixline"
 excerpt: "Originally posted on MarcaEmpleo: Curso Linkedin Gratis 775 inShare Sharebar ¿Sabes cómo usar Linkedin para mejorar tu imagen? ¿Sabes cómo usar Linkedin para encontrar trabajo? ¿Sabes cómo usar Linkedin para vender tus productos y servicios? Con la formación gratuita vas a aprender los siguientes puntos clave: Como salir el primero en las búsquedas de Linkedin&hellip;"
 ---
 

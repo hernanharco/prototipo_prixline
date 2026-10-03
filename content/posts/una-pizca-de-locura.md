@@ -2,13 +2,13 @@
 id: 12162
 title: "Una pizca de&nbsp;locura"
 date: 2018-02-13T13:00:01
-slug: una-pizca-de-locura
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12162
-originUrl: https://prixline.blog/2018/02/13/una-pizca-de-locura/
+slug: "una-pizca-de-locura"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12162"
+originUrl: "https://prixline.blog/2018/02/13/una-pizca-de-locura/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

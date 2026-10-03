@@ -2,13 +2,13 @@
 id: 12000
 title: "¡Feliz Verano!"
 date: 2017-07-31T09:50:37
-slug: feliz-verano
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12000
-originUrl: https://prixline.blog/2017/07/31/feliz-verano/
+slug: "feliz-verano"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12000"
+originUrl: "https://prixline.blog/2017/07/31/feliz-verano/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

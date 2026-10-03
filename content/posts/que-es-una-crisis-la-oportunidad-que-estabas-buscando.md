@@ -2,13 +2,13 @@
 id: 14175
 title: "¿Qué es una crisis? La oportunidad que estabas&nbsp;buscando"
 date: 2020-05-15T11:42:34
-slug: que-es-una-crisis-la-oportunidad-que-estabas-buscando
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14175
-originUrl: https://prixline.blog/2020/05/15/que-es-una-crisis-la-oportunidad-que-estabas-buscando/
+slug: "que-es-una-crisis-la-oportunidad-que-estabas-buscando"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14175"
+originUrl: "https://prixline.blog/2020/05/15/que-es-una-crisis-la-oportunidad-que-estabas-buscando/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "“En las peores crisis están las mejores oportunidades . Y es cuando tu genio y creatividad te llevan al éxito”. Hace semanas que no veo el telediario… ¿Qué es una crisis? La oportunidad que estabas buscando No se ha reinventado, no se ha sumado a ningún club secreto, SÓLO HA EVOLUCIONADO. Sólo ha visto la [&hellip;]"
 ---
 

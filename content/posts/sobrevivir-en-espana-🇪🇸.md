@@ -3,12 +3,12 @@ id: 12318
 title: "Sobrevivir en España&nbsp;🇪🇸"
 date: 2018-07-27T08:55:42
 slug: "sobrevivir-en-espana-%f0%9f%87%aa%f0%9f%87%b8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12318
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12318"
 originUrl: "https://prixline.blog/2018/07/27/sobrevivir-en-espana-%f0%9f%87%aa%f0%9f%87%b8/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,13 +2,13 @@
 id: 11260
 title: "Tormenta en la&nbsp;cabeza."
 date: 2016-05-08T11:07:14
-slug: tormenta-en-la-cabeza
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11260
-originUrl: https://prixline.blog/2016/05/08/tormenta-en-la-cabeza/
+slug: "tormenta-en-la-cabeza"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11260"
+originUrl: "https://prixline.blog/2016/05/08/tormenta-en-la-cabeza/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

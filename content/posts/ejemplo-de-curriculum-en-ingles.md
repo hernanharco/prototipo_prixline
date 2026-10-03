@@ -2,19 +2,19 @@
 id: 7069
 title: "Ejemplo de curriculum en&nbsp;inglés"
 date: 2013-10-21T12:25:03
-slug: ejemplo-de-curriculum-en-ingles
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7069
-originUrl: https://prixline.blog/2013/10/21/ejemplo-de-curriculum-en-ingles/
+slug: "ejemplo-de-curriculum-en-ingles"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7069"
+originUrl: "https://prixline.blog/2013/10/21/ejemplo-de-curriculum-en-ingles/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - prixline
-  - recursos
-  - Trabajo
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
+  - "Trabajo"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: 21/10/2013 ¿Quieres traducir tu CV al inglés? Aquí tienes algunos consejos y un ejemplo que te ayudará El CV anglosajón suele comenzar con una descripción genérica del perfil (profile). En ella se destacan los aspectos más relevantes del perfil profesional (incluyendo funciones, conocimientos y logros). La ventaja&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 9722
 title: "Señor reclutador: Veo, veo&#8230; qué&nbsp;ves!"
 date: 2014-10-13T09:43:08
-slug: senor-reclutador-veo-veo-que-ves
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9722
-originUrl: https://prixline.blog/2014/10/13/senor-reclutador-veo-veo-que-ves/
+slug: "senor-reclutador-veo-veo-que-ves"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9722"
+originUrl: "https://prixline.blog/2014/10/13/senor-reclutador-veo-veo-que-ves/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Que hoy en día está todo interconectado es algo que ya no se puede negar, aunque los de siempre quieran quedarse con el lado negativo de las cosas. Que cualquier cosa que cuelgues en Internet es de acceso público, en mayor o menor medida, dependiendo&hellip;"
 ---
 

@@ -2,13 +2,13 @@
 id: 12127
 title: "Un niño siempre puede enseñar 3 cosas a un&nbsp;adulto"
 date: 2018-01-13T13:32:13
-slug: un-nino-siempre-puede-ensenar-3-cosas-a-un-adulto
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12127
-originUrl: https://prixline.blog/2018/01/13/un-nino-siempre-puede-ensenar-3-cosas-a-un-adulto/
+slug: "un-nino-siempre-puede-ensenar-3-cosas-a-un-adulto"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12127"
+originUrl: "https://prixline.blog/2018/01/13/un-nino-siempre-puede-ensenar-3-cosas-a-un-adulto/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

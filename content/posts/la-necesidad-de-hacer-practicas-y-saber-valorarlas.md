@@ -2,22 +2,22 @@
 id: 7874
 title: "La necesidad de hacer prácticas y saber&nbsp;valorarlas"
 date: 2013-12-21T14:10:50
-slug: la-necesidad-de-hacer-practicas-y-saber-valorarlas
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7874
-originUrl: https://prixline.blog/2013/12/21/la-necesidad-de-hacer-practicas-y-saber-valorarlas/
+slug: "la-necesidad-de-hacer-practicas-y-saber-valorarlas"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7874"
+originUrl: "https://prixline.blog/2013/12/21/la-necesidad-de-hacer-practicas-y-saber-valorarlas/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - practicas
-  - recursos
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "practicas"
+  - "recursos"
 originCategories:
-  - aprender
-  - becas y practicas
-  - empleo
-  - formacion
-  - gratis
-  - opiniones
+  - "aprender"
+  - "becas y practicas"
+  - "empleo"
+  - "formacion"
+  - "gratis"
+  - "opiniones"
 excerpt: "Quiero empezar este artículo, poniendo a continuación las dos preguntas que me suelo hacer últimamente y que os las quiero transmitir a todos vosotros, las cuales me preocupan y mucho: ¿Sabemos realmente hasta qué punto es necesario hacer prácticas presenciales? y ¿estamos dando el valor que realmente se merecen? Pues precisamente, en este artículo quiero [&hellip;]"
 ---
 

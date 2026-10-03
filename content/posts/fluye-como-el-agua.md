@@ -2,13 +2,13 @@
 id: 8666
 title: "Fluye como el&nbsp;agua!"
 date: 2014-03-25T09:08:47
-slug: fluye-como-el-agua
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8666
-originUrl: https://prixline.blog/2014/03/25/fluye-como-el-agua/
+slug: "fluye-como-el-agua"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8666"
+originUrl: "https://prixline.blog/2014/03/25/fluye-como-el-agua/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -2,21 +2,21 @@
 id: 9281
 title: "¿Cómo buscar trabajo? Las 10 mejores webs de&nbsp;empleo"
 date: 2014-07-24T23:18:07
-slug: como-buscar-trabajo-las-10-mejores-webs-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9281
-originUrl: https://prixline.blog/2014/07/24/como-buscar-trabajo-las-10-mejores-webs-de-empleo/
+slug: "como-buscar-trabajo-las-10-mejores-webs-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9281"
+originUrl: "https://prixline.blog/2014/07/24/como-buscar-trabajo-las-10-mejores-webs-de-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on Abogacía a tu alcance: Buscar trabajo es un trabajo en sí, éstas webs de empleo te ayudan a conseguir tu objetivo Una de las actividades a las que debes dedicar más horas si estás buscando trabajo es consultar las webs de empleo más importantes. Ciertamente, en los últimos años, han proliferado&hellip;"
 ---
 

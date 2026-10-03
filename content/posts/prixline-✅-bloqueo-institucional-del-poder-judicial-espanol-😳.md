@@ -3,16 +3,16 @@ id: 14794
 title: "PRIXLINE ✅ Bloqueo Institucional Del Poder Judicial Español&nbsp;😳"
 date: 2020-09-11T17:28:03
 slug: "prixline-%e2%9c%85-bloqueo-institucional-del-poder-judicial-espanol-%f0%9f%98%b3"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14794
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14794"
 originUrl: "https://prixline.blog/2020/09/11/prixline-%e2%9c%85-bloqueo-institucional-del-poder-judicial-espanol-%f0%9f%98%b3/"
 categories:
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - opiniones
-  - prixline
+  - "aprender"
+  - "opiniones"
+  - "prixline"
 excerpt: ""
 ---
 

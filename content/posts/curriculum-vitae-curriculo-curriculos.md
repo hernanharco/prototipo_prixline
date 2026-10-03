@@ -2,13 +2,13 @@
 id: 9065
 title: "Currículum Vítae-Currículo-Currículos"
 date: 2014-06-03T10:19:00
-slug: curriculum-vitae-curriculo-curriculos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9065
-originUrl: https://prixline.blog/2014/06/03/curriculum-vitae-curriculo-curriculos/
+slug: "curriculum-vitae-curriculo-curriculos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9065"
+originUrl: "https://prixline.blog/2014/06/03/curriculum-vitae-curriculo-curriculos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : ¿Cómo se pronuncia “Currículum Vítae”? Son igualmente válidas la pronunciación tal y como se lee (Kurrículum bítae)y la pornunciación en la que el diptongo latino ae se pronuncia como e (Kurrículum bite. No es admisible la pronunciación (Kurrículum bitáe), con el segundo término acentuado en la penúltima sílaba.&hellip;"
 ---
 

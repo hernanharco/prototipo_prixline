@@ -2,13 +2,13 @@
 id: 11207
 title: "6 becas para un curso de inglés de 2 semanas en Cambridge con todos los gastos&nbsp;pagados"
 date: 2016-04-02T03:41:40
-slug: 6-becas-para-un-curso-de-ingles-de-2-semanas-en-cambridge-con-todos-los-gastos-pagados
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11207
-originUrl: https://prixline.blog/2016/04/02/6-becas-para-un-curso-de-ingles-de-2-semanas-en-cambridge-con-todos-los-gastos-pagados/
+slug: "6-becas-para-un-curso-de-ingles-de-2-semanas-en-cambridge-con-todos-los-gastos-pagados"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11207"
+originUrl: "https://prixline.blog/2016/04/02/6-becas-para-un-curso-de-ingles-de-2-semanas-en-cambridge-con-todos-los-gastos-pagados/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: ¿Quieres ganar un curso de inglés de 2 semanas en Cambridge con todos los gastos pagados? Cambridge University Press quiere dar la oportunidad de aprender inglés en Cambridge a 6 alumnos de bachillerato y para ello concede 6 becas “Raymond Murphy Scholarship Award” consistentes en un curso de&hellip;"
 ---
 

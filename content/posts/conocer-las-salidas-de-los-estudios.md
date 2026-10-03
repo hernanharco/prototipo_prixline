@@ -2,13 +2,13 @@
 id: 10700
 title: "Conocer las salidas de los&nbsp;estudios"
 date: 2015-08-13T09:38:35
-slug: conocer-las-salidas-de-los-estudios
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10700
-originUrl: https://prixline.blog/2015/08/13/conocer-las-salidas-de-los-estudios/
+slug: "conocer-las-salidas-de-los-estudios"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10700"
+originUrl: "https://prixline.blog/2015/08/13/conocer-las-salidas-de-los-estudios/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Tanto si se estudia Formación Profesional como si se realizan estudios superiores, conviene saber cuales son las salidas profesionales de los mismos o el nivel de empleabilidad. El Diario El Pais suele publicar artículos interesantes en este sentido. Hoy, por ejemplo ha publicado el artículo FP: Administrativo y&hellip;"
 ---
 

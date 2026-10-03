@@ -2,19 +2,19 @@
 id: 8028
 title: "Los NUEVOS trabajos en la&nbsp;RED!!!"
 date: 2014-01-11T11:56:06
-slug: los-nuevos-trabajos-en-la-red
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8028
-originUrl: https://prixline.blog/2014/01/11/los-nuevos-trabajos-en-la-red/
+slug: "los-nuevos-trabajos-en-la-red"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8028"
+originUrl: "https://prixline.blog/2014/01/11/los-nuevos-trabajos-en-la-red/"
 categories:
-  - empleo
-  - formacion
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - empleo
-  - estudiar
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "empleo"
+  - "estudiar"
+  - "prixline"
 excerpt: "Originally posted on Conect@ y crea : Con estas nuevas tendencias tecnológicas hemos conocido que a raíz del auge de las redes sociales han surgido nuevos puestos de trabajo que hasta hace pocos años eran desconocidos. Hablaremos un poco sobre ellos y de que tratan, comenzando nuestro TOP empezaremos con: 1. Desarrolladores para iOS y Android:&hellip;"
 ---
 

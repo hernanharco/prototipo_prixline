@@ -2,17 +2,17 @@
 id: 10756
 title: "15 Becas de “La Caixa” y Agencia EFE prácticas formativas Periodismo en España y&nbsp;Extranjero"
 date: 2015-09-10T22:22:36
-slug: 15-becas-de-la-caixa-y-agencia-efe-practicas-formativas-periodismo-en-espana-y-extranjero
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10756
-originUrl: https://prixline.blog/2015/09/10/15-becas-de-la-caixa-y-agencia-efe-practicas-formativas-periodismo-en-espana-y-extranjero/
+slug: "15-becas-de-la-caixa-y-agencia-efe-practicas-formativas-periodismo-en-espana-y-extranjero"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10756"
+originUrl: "https://prixline.blog/2015/09/10/15-becas-de-la-caixa-y-agencia-efe-practicas-formativas-periodismo-en-espana-y-extranjero/"
 categories:
-  - formacion
-  - practicas
-  - sin-categoria
+  - "formacion"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - becas y practicas
-  - prixline
+  - "aprender"
+  - "becas y practicas"
+  - "prixline"
 excerpt: "Convocatoria de 15 becas destinadas a alumnos/as del último curso de Grado o Licenciatura en Periodismo y/o Comunicación Audiovisual para realizar 18 meses de prácticas formativas en la Agencia EFE. Los primeros 9 meses, de noviembre de 2015 a julio de 2016, las prácticas se realizarán en las delegaciones de la Agencia EFE en comunidades [&hellip;]"
 ---
 

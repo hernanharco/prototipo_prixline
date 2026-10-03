@@ -2,13 +2,13 @@
 id: 9880
 title: "Cómo librarse de los compañeros tóxicos para la&nbsp;salud."
 date: 2014-11-19T08:59:28
-slug: como-librarse-de-los-companeros-toxicos-para-la-salud
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9880
-originUrl: https://prixline.blog/2014/11/19/como-librarse-de-los-companeros-toxicos-para-la-salud/
+slug: "como-librarse-de-los-companeros-toxicos-para-la-salud"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9880"
+originUrl: "https://prixline.blog/2014/11/19/como-librarse-de-los-companeros-toxicos-para-la-salud/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Recientemente leíamos un artículo en El Mundo que nos hablaba de los compañeros tóxicos para la salud. Todos, tarde o temprano, pasaremos por alguna situación parecida… sin ir más lejos, este blog, y sus orígenes allá por febrero de 2010, fueron la válvula de escape&hellip;"
 ---
 

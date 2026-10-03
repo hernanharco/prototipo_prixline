@@ -2,13 +2,13 @@
 id: 11997
 title: "Mi CV Digital: crea tu propio CV con&nbsp;Canva"
 date: 2017-07-28T17:14:14
-slug: mi-cv-digital-crea-tu-propio-cv-con-canva
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11997
-originUrl: https://prixline.blog/2017/07/28/mi-cv-digital-crea-tu-propio-cv-con-canva/
+slug: "mi-cv-digital-crea-tu-propio-cv-con-canva"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11997"
+originUrl: "https://prixline.blog/2017/07/28/mi-cv-digital-crea-tu-propio-cv-con-canva/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Enfermera de Vocación: Las herramientas digitales nos permiten diseñar, crear e innovar todo tipo de contenidos para hacerlos más atractivos, visuales y sobre todo, que sean digitales, para poder compartirse en todos los medios sociales y a golpe de click. Hace ya tiempo que el tradicional curriculum vitae ( CV) en&hellip;"
 ---
 

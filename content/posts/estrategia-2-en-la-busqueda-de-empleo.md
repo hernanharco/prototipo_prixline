@@ -2,18 +2,18 @@
 id: 8088
 title: "Estrategia 2 en la Búsqueda de&nbsp;Empleo"
 date: 2014-01-20T11:35:30
-slug: estrategia-2-en-la-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8088
-originUrl: https://prixline.blog/2014/01/20/estrategia-2-en-la-busqueda-de-empleo/
+slug: "estrategia-2-en-la-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8088"
+originUrl: "https://prixline.blog/2014/01/20/estrategia-2-en-la-busqueda-de-empleo/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - prix-line
-  - prixline
-  - recursos
+  - "empleo"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on AVANZA LABORAL: En post anterior vimos la estrategia 1 en la Búsqueda de Empleo, la del Cañon. Otra de las estrategias para buscar trabajo es la del “francotirador”. Si la del cañón era buscar a “bulto”, sin mucha precisión para detectar aquello que se nos escapa, la del francotirador es aquella que&hellip;"
 ---
 

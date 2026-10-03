@@ -2,20 +2,20 @@
 id: 8896
 title: "El desgaste de buscar&nbsp;trabajo"
 date: 2014-05-06T10:40:39
-slug: el-desgaste-de-buscar-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8896
-originUrl: https://prixline.blog/2014/05/06/el-desgaste-de-buscar-trabajo/
+slug: "el-desgaste-de-buscar-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8896"
+originUrl: "https://prixline.blog/2014/05/06/el-desgaste-de-buscar-trabajo/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - prixline
-  - recursos
-  - Solidaridad
+  - "empleo"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
+  - "Solidaridad"
 excerpt: "Originally posted on plandempleo: photopin.com El día a día de las personas en búsqueda de empleo tiene los límites desdibujados. Pierdes la noción, todos los días son iguales muchas veces y la diferencia entre lunes, jueves o domingo te la marca el ritmo de vida de los demás en vez del tuyo mismo. La falta&hellip;"
 ---
 

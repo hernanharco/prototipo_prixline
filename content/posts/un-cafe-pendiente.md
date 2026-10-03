@@ -2,13 +2,13 @@
 id: 13991
 title: "Un café pendiente"
 date: 2020-03-30T14:33:39
-slug: un-cafe-pendiente
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13991
-originUrl: https://prixline.blog/2020/03/30/un-cafe-pendiente/
+slug: "un-cafe-pendiente"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/13991"
+originUrl: "https://prixline.blog/2020/03/30/un-cafe-pendiente/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on merceroura: Lo dejamos todo para luego… Y ya ves, ese luego se demora, se escapa, se esfuma o tarda demasiado… ¿Qué sentido tiene ya? ¿A dónde se han ido esos prejuicios y ese temor a fallar o hacer el ridículo? ¿Dónde quedan esos minutos que nunca tuvimos para dedicárselos a algo que&hellip;"
 ---
 

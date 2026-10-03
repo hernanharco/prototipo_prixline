@@ -2,13 +2,13 @@
 id: 14939
 title: "¿Cómo ser un buen compañero de trabajo&nbsp;virtual?"
 date: 2020-09-23T09:59:38
-slug: como-ser-un-buen-companero-de-trabajo-virtual
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14939
-originUrl: https://prixline.blog/2020/09/23/como-ser-un-buen-companero-de-trabajo-virtual/
+slug: "como-ser-un-buen-companero-de-trabajo-virtual"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14939"
+originUrl: "https://prixline.blog/2020/09/23/como-ser-un-buen-companero-de-trabajo-virtual/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Siete consejos clave para ser un buen compañero de trabajo virtual y mejorar la productividad de cualquier empresa que funcione a través del trabajo remoto. El trabajo remoto es uno de los métodos más comunes para laborar en estos días. Para muchas personas resulta increíblemente beneficioso el hecho de … ¿Cómo ser un buen compañero [&hellip;]"
 ---
 

@@ -2,13 +2,13 @@
 id: 16137
 title: "De estudiante a&nbsp;becario."
 date: 2020-11-08T08:03:42
-slug: de-estudiante-a-becario
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16137
-originUrl: https://prixline.blog/2020/11/08/de-estudiante-a-becario/
+slug: "de-estudiante-a-becario"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/16137"
+originUrl: "https://prixline.blog/2020/11/08/de-estudiante-a-becario/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Pautas que te ayudan a lograr un empleo. Hoy recuperamos en el Blog estos consejos para cuando llegue tu periodo de prácticas en la empresa. Actitud … De estudiante a becario. Mantener relación con la empresa. No está de más pasarse por las instalaciones de la compañía de vez en cuando para realizar una visita [&hellip;]"
 ---
 

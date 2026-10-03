@@ -2,13 +2,13 @@
 id: 10297
 title: "Creer que todo tiene solución no es optimismo, es&nbsp;talento"
 date: 2015-03-25T14:52:42
-slug: creer-que-todo-tiene-solucion-no-es-optimismo-es-talento
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10297
-originUrl: https://prixline.blog/2015/03/25/creer-que-todo-tiene-solucion-no-es-optimismo-es-talento/
+slug: "creer-que-todo-tiene-solucion-no-es-optimismo-es-talento"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10297"
+originUrl: "https://prixline.blog/2015/03/25/creer-que-todo-tiene-solucion-no-es-optimismo-es-talento/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

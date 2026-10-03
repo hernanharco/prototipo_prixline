@@ -2,13 +2,13 @@
 id: 11875
 title: "Nunca dejes pasar una&nbsp;oportunidad"
 date: 2017-04-29T10:32:13
-slug: nunca-dejes-pasar-una-oportunidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11875
-originUrl: https://prixline.blog/2017/04/29/nunca-dejes-pasar-una-oportunidad/
+slug: "nunca-dejes-pasar-una-oportunidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11875"
+originUrl: "https://prixline.blog/2017/04/29/nunca-dejes-pasar-una-oportunidad/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

@@ -2,13 +2,13 @@
 id: 11557
 title: "Os presento a Emilio&nbsp;López-Carrasco"
 date: 2016-10-08T14:51:36
-slug: os-presento-a-emilio-lopez-carrasco
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11557
-originUrl: https://prixline.blog/2016/10/08/os-presento-a-emilio-lopez-carrasco/
+slug: "os-presento-a-emilio-lopez-carrasco"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11557"
+originUrl: "https://prixline.blog/2016/10/08/os-presento-a-emilio-lopez-carrasco/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Mi blog a tu servicio y de cualquier persona que busque empleo o quiere que le ayude a una causa solidaria desde la humildad. Perfil Profesional Emilio López-Carrasco Recuerda, si te gustó la entrada la puedes recomendar, comentar, compartir y si te gusta el blog te puedes suscribir. ¡Muchas gracias&hellip;"
 ---
 

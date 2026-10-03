@@ -2,13 +2,13 @@
 id: 10514
 title: "OFERTA DE EMPLEO: 250 DEPENDIENTES/AS PARA TODA ESPAÑA. CAMPAÑA DE&nbsp;VERANO"
 date: 2015-06-25T19:31:05
-slug: oferta-de-empleo-250-dependientesas-para-toda-espana-campana-de-verano
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10514
-originUrl: https://prixline.blog/2015/06/25/oferta-de-empleo-250-dependientesas-para-toda-espana-campana-de-verano/
+slug: "oferta-de-empleo-250-dependientesas-para-toda-espana-campana-de-verano"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10514"
+originUrl: "https://prixline.blog/2015/06/25/oferta-de-empleo-250-dependientesas-para-toda-espana-campana-de-verano/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Empleo y discapacidad FEBHI: GRUPO CORTEFIEL – Textil Busca DEPENDIENTES/AS para cubrir la campaña de rebajas. VENDEDOR/A COLABORADOR/A CAMPAÑA VERANO (Ventas) 250 Vacante(s) Todas (Comunidad Autónoma Todas) Requisitos Experiencia Laboral Al menos 1 año Estudios mínimos Educación Secundaria Obligatoria Requisitos mínimos: Experiencia como dependiente en tienda del sector&hellip;"
 ---
 

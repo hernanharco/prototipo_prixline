@@ -2,24 +2,24 @@
 id: 64
 title: "Curso de Auxiliar de Veterinaria en&nbsp;Prixline"
 date: 2012-04-20T15:30:17
-slug: curso-de-auxiliar-de-veterinaria-en-prixline
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/64
-originUrl: https://prixline.blog/2012/04/20/curso-de-auxiliar-de-veterinaria-en-prixline/
+slug: "curso-de-auxiliar-de-veterinaria-en-prixline"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/64"
+originUrl: "https://prixline.blog/2012/04/20/curso-de-auxiliar-de-veterinaria-en-prixline/"
 categories:
-  - cursos
-  - empleo
-  - opiniones
-  - practicas
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "opiniones"
+  - "practicas"
+  - "sin-categoria"
 originCategories:
-  - b83066696
-  - curso
-  - opinion
-  - practicas
+  - "b83066696"
+  - "curso"
+  - "opinion"
+  - "practicas"
   - "Prácticas"
-  - prixline
-  - trabajo
-  - Veterinaria
+  - "prixline"
+  - "trabajo"
+  - "Veterinaria"
 excerpt: "El objetivo de este curso es proporcionar una sólida formación a aquellas personas que, con experiencia o sin ella, quieran adquirir los conocimientos teórico-prácticos esenciales para ejercer la profesión por la que sienten inclinación. ¿A QUIÉN VA DIRIGIDO? Personas que trabajen en clínicas o establecimientos zoológicos y que su contacto diario con los animales les [&hellip;]"
 ---
 

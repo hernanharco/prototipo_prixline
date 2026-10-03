@@ -2,24 +2,24 @@
 id: 467
 title: "99 ebooks gratuitos sobre Internet, comunicación y Social&nbsp;Media"
 date: 2012-09-01T17:35:00
-slug: ebooks-gratis
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/467
-originUrl: https://prixline.blog/2012/09/01/ebooks-gratis/
+slug: "ebooks-gratis"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/467"
+originUrl: "https://prixline.blog/2012/09/01/ebooks-gratis/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - estudiar
-  - formacion
-  - gratis
-  - opiniones
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "autoaprendizaje"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "¿Te gusta leer? Compartimos esta selección de excelentes libros sobre comunicación, Internet, Social Media y Community Manager disponibles de forma gratuita. 99 libros electrónicos totalmente gratis y recomendados. #1 Tendencias del sector turístico 2012. Marketing y estrategia turística #2 La visibilidad de la banca en Internet #3 Recomendación de procesos en campañas de publicidad gráfica [&hellip;]"
 ---
 

@@ -2,13 +2,13 @@
 id: 14031
 title: "Poema del Coronavirus que será&nbsp;vencido"
 date: 2020-04-06T19:00:22
-slug: poema-del-coronavirus-que-sera-vencido
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14031
-originUrl: https://prixline.blog/2020/04/06/poema-del-coronavirus-que-sera-vencido/
+slug: "poema-del-coronavirus-que-sera-vencido"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14031"
+originUrl: "https://prixline.blog/2020/04/06/poema-del-coronavirus-que-sera-vencido/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "En el confinamiento, nada mejor que unas gotas de poesía, humor y ánimo. Aquí va el Poema «Coronín, coronado el virus se ha acabado» the Poem Y por… Poema del Coronavirus que será vencido"
 ---
 

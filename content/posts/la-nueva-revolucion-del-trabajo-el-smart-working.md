@@ -2,13 +2,13 @@
 id: 12172
 title: "La nueva revolución del trabajo: el Smart&nbsp;Working."
 date: 2018-02-22T09:36:12
-slug: la-nueva-revolucion-del-trabajo-el-smart-working
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12172
-originUrl: https://prixline.blog/2018/02/22/la-nueva-revolucion-del-trabajo-el-smart-working/
+slug: "la-nueva-revolucion-del-trabajo-el-smart-working"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12172"
+originUrl: "https://prixline.blog/2018/02/22/la-nueva-revolucion-del-trabajo-el-smart-working/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : [NP] El panorama laboral no deja de evolucionar. En plena transformación digital, la forma de entender el trabajo y de trabajar también está cambiando. Por ello, las empresas deben adaptarse a las nuevas tecnologías para que los empleados se sientan más satisfechos, motivados y productivos.&hellip;"
 ---
 

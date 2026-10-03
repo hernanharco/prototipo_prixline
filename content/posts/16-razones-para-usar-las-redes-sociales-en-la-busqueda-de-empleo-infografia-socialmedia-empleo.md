@@ -2,13 +2,13 @@
 id: 12239
 title: "16 razones para usar las Redes Sociales en la búsqueda de empleo #infografia #socialmedia&nbsp;#empleo"
 date: 2018-05-05T10:55:00
-slug: 16-razones-para-usar-las-redes-sociales-en-la-busqueda-de-empleo-infografia-socialmedia-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12239
-originUrl: https://prixline.blog/2018/05/05/16-razones-para-usar-las-redes-sociales-en-la-busqueda-de-empleo-infografia-socialmedia-empleo/
+slug: "16-razones-para-usar-las-redes-sociales-en-la-busqueda-de-empleo-infografia-socialmedia-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12239"
+originUrl: "https://prixline.blog/2018/05/05/16-razones-para-usar-las-redes-sociales-en-la-busqueda-de-empleo-infografia-socialmedia-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Infografías en castellano: 16 razones para usar las Redes Sociales en la búsqueda de empleo"
 ---
 

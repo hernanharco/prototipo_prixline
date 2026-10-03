@@ -2,13 +2,13 @@
 id: 12569
 title: "El día anterior a la entrevista de TRABAJO&nbsp;&#8230;"
 date: 2019-03-13T12:58:10
-slug: el-dia-anterior-a-la-entrevista-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12569
-originUrl: https://prixline.blog/2019/03/13/el-dia-anterior-a-la-entrevista-de-trabajo/
+slug: "el-dia-anterior-a-la-entrevista-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12569"
+originUrl: "https://prixline.blog/2019/03/13/el-dia-anterior-a-la-entrevista-de-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

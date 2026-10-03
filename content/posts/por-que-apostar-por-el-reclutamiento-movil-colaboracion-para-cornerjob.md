@@ -2,13 +2,13 @@
 id: 12059
 title: "¿Por qué apostar por el reclutamiento móvil?.Colaboración para&nbsp;Cornerjob"
 date: 2017-10-11T20:39:15
-slug: por-que-apostar-por-el-reclutamiento-movil-colaboracion-para-cornerjob
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12059
-originUrl: https://prixline.blog/2017/10/11/por-que-apostar-por-el-reclutamiento-movil-colaboracion-para-cornerjob/
+slug: "por-que-apostar-por-el-reclutamiento-movil-colaboracion-para-cornerjob"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12059"
+originUrl: "https://prixline.blog/2017/10/11/por-que-apostar-por-el-reclutamiento-movil-colaboracion-para-cornerjob/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Hace algún tiempo, los reclutadores publicaban sus ofertas de trabajo en Internet y esperaron en silencio a los candidatos para ponerse en contacto con la empresa. En los últimos años, esta estrategia ha cambiado gradualmente con la llegada del reclutamiento móvil. Los reclutadores ahora se centran en la proactividad cuando se&hellip;"
 ---
 

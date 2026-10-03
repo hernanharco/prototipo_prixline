@@ -2,23 +2,23 @@
 id: 71
 title: "Curso de Monitor de Ocio y Tiempo Libre con&nbsp;prácticas"
 date: 2012-05-20T12:22:43
-slug: curso-monitor-tiempo-libre
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/71
-originUrl: https://prixline.blog/2012/05/20/curso-monitor-tiempo-libre/
+slug: "curso-monitor-tiempo-libre"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/71"
+originUrl: "https://prixline.blog/2012/05/20/curso-monitor-tiempo-libre/"
 categories:
-  - cursos
-  - opiniones
-  - practicas
-  - recursos
-  - sin-categoria
+  - "cursos"
+  - "opiniones"
+  - "practicas"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - Curso de Monitor de Ocio y Tiempo Libre
-  - Monitor de Ocio
-  - opiniones
-  - practicas
+  - "Curso de Monitor de Ocio y Tiempo Libre"
+  - "Monitor de Ocio"
+  - "opiniones"
+  - "practicas"
   - "Prácticas"
-  - prixline
-  - tiempo-libre
+  - "prixline"
+  - "tiempo-libre"
 excerpt: "De toda la serie de términos que se suelen asociar a este área de conocimiento que denominamos animación sociocultural, tales como animación lectora, animación en ocio y tiempo libre, dinamismo y otras expresiones similares…, es curioso que todas tengan un denominador común que es la noción de movimiento y de acción. Tanto la animación sociocultural [&hellip;]"
 ---
 

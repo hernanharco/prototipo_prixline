@@ -2,13 +2,13 @@
 id: 11529
 title: "¿Es ineficaz buscar trabajo como&nbsp;tal?"
 date: 2016-09-22T19:02:12
-slug: es-ineficaz-buscar-trabajo-como-tal
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11529
-originUrl: https://prixline.blog/2016/09/22/es-ineficaz-buscar-trabajo-como-tal/
+slug: "es-ineficaz-buscar-trabajo-como-tal"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11529"
+originUrl: "https://prixline.blog/2016/09/22/es-ineficaz-buscar-trabajo-como-tal/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Repartir curriculums o inscribirse a ofertas a través de internet suelen ser las dos vías más habituales de búsqueda de empleo, pero ¿son las más eficaces? Seguro que si hacemos una encuesta saldrá ganando el no… Y es que en la actualidad no sólo vale con saber hacer un trabajo, hay&hellip;"
 ---
 

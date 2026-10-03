@@ -2,13 +2,13 @@
 id: 11334
 title: "No esperes para ser&nbsp;feliz."
 date: 2016-06-09T09:56:25
-slug: no-esperes-para-ser-feliz
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11334
-originUrl: https://prixline.blog/2016/06/09/no-esperes-para-ser-feliz/
+slug: "no-esperes-para-ser-feliz"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11334"
+originUrl: "https://prixline.blog/2016/06/09/no-esperes-para-ser-feliz/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

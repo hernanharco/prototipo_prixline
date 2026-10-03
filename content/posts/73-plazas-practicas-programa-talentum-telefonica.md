@@ -2,13 +2,13 @@
 id: 11957
 title: "73 plazas prácticas programa Talentum&nbsp;Telefónica"
 date: 2017-06-19T19:20:59
-slug: 73-plazas-practicas-programa-talentum-telefonica
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11957
-originUrl: https://prixline.blog/2017/06/19/73-plazas-practicas-programa-talentum-telefonica/
+slug: "73-plazas-practicas-programa-talentum-telefonica"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11957"
+originUrl: "https://prixline.blog/2017/06/19/73-plazas-practicas-programa-talentum-telefonica/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Si estás realizando estudios de Grado ó Master en Telecomunicaciones, Informática, Publicidad, Marketind, Periodismo, Recursos Humanos u otras Ingenierías; puedes realizar estas becas de formación práctica para Telefónica en distintos puntos de España:Talentum Telefónica y FUO ofertan un programa de prácticas profesionales en Telefónica para estudiantes de Grado&hellip;"
 ---
 

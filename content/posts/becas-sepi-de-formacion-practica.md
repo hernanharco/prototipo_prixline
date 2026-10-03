@@ -2,13 +2,13 @@
 id: 11447
 title: "Becas SEPI de formación&nbsp;práctica."
 date: 2016-08-11T15:49:18
-slug: becas-sepi-de-formacion-practica
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11447
-originUrl: https://prixline.blog/2016/08/11/becas-sepi-de-formacion-practica/
+slug: "becas-sepi-de-formacion-practica"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11447"
+originUrl: "https://prixline.blog/2016/08/11/becas-sepi-de-formacion-practica/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación SEPI convoca 55 becas ampliables correspondientes al Programa Red Eléctrica de España Practica+2016. Las becas tendrán una duración de nueves meses. La formación se llevará a cabo en cualquiera de los centros de trabajo de REE tiene establecidos en España. Las personas beneficiarias percibirán una asignación mensual de 750 ó&hellip;"
 ---
 

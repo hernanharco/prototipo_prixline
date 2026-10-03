@@ -3,12 +3,12 @@ id: 21466
 title: "PRIXLINE ✅ Entrada de TURISTAS 🏖 a&nbsp;ESPAÑA"
 date: 2021-06-10T11:43:39
 slug: "prixline-%e2%9c%85-entrada-de-turistas-%f0%9f%8f%96-a-espana"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/21466
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/21466"
 originUrl: "https://prixline.blog/2021/06/10/prixline-%e2%9c%85-entrada-de-turistas-%f0%9f%8f%96-a-espana/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

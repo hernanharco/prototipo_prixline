@@ -1,14 +1,14 @@
 ---
 id: 10796
-title: El frenazo
+title: "El frenazo"
 date: 2015-10-02T16:35:12
-slug: el-frenazo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10796
-originUrl: https://prixline.blog/2015/10/02/el-frenazo/
+slug: "el-frenazo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10796"
+originUrl: "https://prixline.blog/2015/10/02/el-frenazo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: republica.com"
 ---
 

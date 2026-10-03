@@ -2,13 +2,13 @@
 id: 10021
 title: "Adiós 2014&#8230;&#8230;.Bienvenido 2015"
 date: 2015-01-01T12:34:15
-slug: adios-2014-bienvenido-2015
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10021
-originUrl: https://prixline.blog/2015/01/01/adios-2014-bienvenido-2015/
+slug: "adios-2014-bienvenido-2015"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10021"
+originUrl: "https://prixline.blog/2015/01/01/adios-2014-bienvenido-2015/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Mi percepción, a medida que crezco , es que NO HAY AÑOS MALOS. Hay años de fuertes aprendizajes y otros que son como un recreo, pero malos no son. Creo firmemente que la forma en que se debería evaluar un año tendría más que ver con cuánto fuimos capaces&hellip;"
 ---
 

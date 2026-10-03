@@ -2,13 +2,13 @@
 id: 11814
 title: "Nuevas tendencias en la búsqueda de empleo y de&nbsp;candidatos"
 date: 2017-03-23T15:48:10
-slug: nuevas-tendencias-en-la-busqueda-de-empleo-y-de-candidatos
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11814
-originUrl: https://prixline.blog/2017/03/23/nuevas-tendencias-en-la-busqueda-de-empleo-y-de-candidatos/
+slug: "nuevas-tendencias-en-la-busqueda-de-empleo-y-de-candidatos"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11814"
+originUrl: "https://prixline.blog/2017/03/23/nuevas-tendencias-en-la-busqueda-de-empleo-y-de-candidatos/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: En los últimos años es evidente que ha cambiado la búsqueda de trabajo, pero también lo ha hecho la forma en que las empresas buscan a los candidatos. Aunque es verdad que, mayoritariamente, las pequeñas y medianas empresas siguen optando casi siempre por el curriculum de toda la vida, cada vez&hellip;"
 ---
 

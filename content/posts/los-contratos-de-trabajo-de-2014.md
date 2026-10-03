@@ -2,17 +2,17 @@
 id: 8005
 title: "Los contratos de trabajo de&nbsp;2014"
 date: 2014-01-07T16:22:35
-slug: los-contratos-de-trabajo-de-2014
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8005
-originUrl: https://prixline.blog/2014/01/07/los-contratos-de-trabajo-de-2014/
+slug: "los-contratos-de-trabajo-de-2014"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/8005"
+originUrl: "https://prixline.blog/2014/01/07/los-contratos-de-trabajo-de-2014/"
 categories:
-  - empleo
-  - sin-categoria
+  - "empleo"
+  - "sin-categoria"
 originCategories:
-  - 806514296
-  - empleo
-  - prix-line
-  - prixline
+  - "806514296"
+  - "empleo"
+  - "prix-line"
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Con la llegada del 2014 también nos ha llegado la implantación definitiva de los nuevos (o viejos, depende) contratos de trabajo, haciendo una remodelación y pasando de 42 modelos a 4: indefinido, temporal, de formación y de prácticas. La legislación de referencia es el Real Decreto-ley 16/2013, de 20 de diciembre,&hellip;"
 ---
 

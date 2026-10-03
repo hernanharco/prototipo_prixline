@@ -2,13 +2,13 @@
 id: 14009
 title: "15 retos para 15&nbsp;días"
 date: 2020-04-01T19:44:55
-slug: 15-retos-para-15-dias
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14009
-originUrl: https://prixline.blog/2020/04/01/15-retos-para-15-dias/
+slug: "15-retos-para-15-dias"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/14009"
+originUrl: "https://prixline.blog/2020/04/01/15-retos-para-15-dias/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Te propongo 15 retos para 15 días que te pueden ayudar a lidiar con la adversidad. En ocasiones la vida no es fácil o puede ser injusta. Y ya nos … 15 retos para 15 días"
 ---
 

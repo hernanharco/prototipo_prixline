@@ -2,13 +2,13 @@
 id: 11437
 title: "¡Arriésgate!"
 date: 2016-08-02T10:47:47
-slug: arriesgate
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11437
-originUrl: https://prixline.blog/2016/08/02/arriesgate/
+slug: "arriesgate"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11437"
+originUrl: "https://prixline.blog/2016/08/02/arriesgate/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

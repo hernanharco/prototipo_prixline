@@ -2,13 +2,13 @@
 id: 10370
 title: "¿Qué hago después de la&nbsp;entrevista?"
 date: 2015-04-27T13:43:40
-slug: que-hago-despues-de-la-entrevista
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10370
-originUrl: https://prixline.blog/2015/04/27/que-hago-despues-de-la-entrevista/
+slug: "que-hago-despues-de-la-entrevista"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10370"
+originUrl: "https://prixline.blog/2015/04/27/que-hago-despues-de-la-entrevista/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: Una vez realizada la entrevista de trabajo, por fin, no tenemos del todo claro si nos ha ido bien o mal. Ahora es el momento de esperar una llamada que confirme si hemos sido seleccionados o no. Esta espera se hace dura, los días pasan y pasan… ¿Por qué no&hellip;"
 ---
 

@@ -2,19 +2,19 @@
 id: 6897
 title: "No importa donde ESTÉS. Te ayudamos a&nbsp;LLEGAR."
 date: 2013-10-12T08:55:35
-slug: no-importa-donde-estes-te-ayudamos-a-llegar
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6897
-originUrl: https://prixline.blog/2013/10/12/no-importa-donde-estes-te-ayudamos-a-llegar/
+slug: "no-importa-donde-estes-te-ayudamos-a-llegar"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6897"
+originUrl: "https://prixline.blog/2013/10/12/no-importa-donde-estes-te-ayudamos-a-llegar/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - gratis
-  - prixline
-  - recursos
-  - trabajo
+  - "empleo"
+  - "gratis"
+  - "prixline"
+  - "recursos"
+  - "trabajo"
 excerpt: "Porque sabemos que buscar trabajo es un trabajo en sí, nace empléAte, la App de Adecco que te ayudará a planificar tus entrevistas, organizar tu calendario de empleo, acceder a tu cv y a tus cartas de presentación, dónde y cuándo quieras, consultar los mejores consejos que te ayudarán en tu búsqueda de empleo diaria [&hellip;]"
 ---
 

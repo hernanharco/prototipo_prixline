@@ -2,24 +2,24 @@
 id: 1655
 title: "Páginas recomendadas para aprender&nbsp;inglés"
 date: 2012-12-11T15:00:15
-slug: ingles
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1655
-originUrl: https://prixline.blog/2012/12/11/ingles/
+slug: "ingles"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/1655"
+originUrl: "https://prixline.blog/2012/12/11/ingles/"
 categories:
-  - formacion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - b83066696
-  - estudiar
-  - gratis
-  - Idiomas
-  - mascurso.com
-  - prix-line
-  - prixline
-  - recursos
+  - "aprender"
+  - "autoaprendizaje"
+  - "b83066696"
+  - "estudiar"
+  - "gratis"
+  - "Idiomas"
+  - "mascurso.com"
+  - "prix-line"
+  - "prixline"
+  - "recursos"
 excerpt: "– El blog para aprender inglés: Tengas un nivel avanzado o acabas de empezar. Estés preparándote para algún examen en concreto (como puede ser Cambridge o TOEFL), o simplemente quieres aprender inglés sin tener que ir a una academia, EBPAI te ofrecemultitud de recursos de cosecha propia, todo tipo de ejercicios para un mayorreforzamiento, unas explicaciones sobre la teoría que más de uno quisiera [&hellip;]"
 ---
 

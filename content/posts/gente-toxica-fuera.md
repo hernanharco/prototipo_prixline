@@ -2,13 +2,13 @@
 id: 10403
 title: "GENTE TÓXICA… ¡FUERA!"
 date: 2015-05-10T14:53:10
-slug: gente-toxica-fuera
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10403
-originUrl: https://prixline.blog/2015/05/10/gente-toxica-fuera/
+slug: "gente-toxica-fuera"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10403"
+originUrl: "https://prixline.blog/2015/05/10/gente-toxica-fuera/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Tips For Work: Ya sabeis de quiénes estamos hablando. De ese colega de trabajo que parece tener una nube de negatividad no solo sobre su cabeza, sino alrededor de sí mismo; o aquel otro al que le causa satisfacción causar problemas o enfadar a los demás. Cómo neutralizar a los tóxicos &hellip;"
 ---
 

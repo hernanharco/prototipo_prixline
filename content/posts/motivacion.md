@@ -2,19 +2,19 @@
 id: 4974
 title: "Motivación"
 date: 2013-06-30T10:52:03
-slug: motivacion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4974
-originUrl: https://prixline.blog/2013/06/30/motivacion/
+slug: "motivacion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4974"
+originUrl: "https://prixline.blog/2013/06/30/motivacion/"
 categories:
-  - formacion
-  - opiniones
-  - recursos
+  - "formacion"
+  - "opiniones"
+  - "recursos"
 originCategories:
-  - autoaprendizaje
-  - gratis
-  - opinion
-  - opiniones
-  - recursos
+  - "autoaprendizaje"
+  - "gratis"
+  - "opinion"
+  - "opiniones"
+  - "recursos"
 excerpt: ""
 ---
 

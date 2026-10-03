@@ -2,13 +2,13 @@
 id: 11239
 title: "530 plazas docentes y adquisición de nuevas especialidades en&nbsp;Aragón"
 date: 2016-04-28T12:28:55
-slug: 530-plazas-docentes-y-adquisicion-de-nuevas-especialidades-en-aragon
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11239
-originUrl: https://prixline.blog/2016/04/28/530-plazas-docentes-y-adquisicion-de-nuevas-especialidades-en-aragon/
+slug: "530-plazas-docentes-y-adquisicion-de-nuevas-especialidades-en-aragon"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11239"
+originUrl: "https://prixline.blog/2016/04/28/530-plazas-docentes-y-adquisicion-de-nuevas-especialidades-en-aragon/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Blog Juventud Gijón: Se convoca el procedimiento selectivo para ingreso y acceso al Cuerpo de Maestros y procedimiento para la adquisición de nuevas especialidades en la Comunidad Autónoma de Aragón.Se convocan pruebas selectivas para cubrir 530 plazas correspondientes al Cuerpo de Maestros mediante concurso-oposición, situadas en el ámbito de gestión del&hellip;"
 ---
 

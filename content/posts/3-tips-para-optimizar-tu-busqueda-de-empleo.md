@@ -2,13 +2,13 @@
 id: 10734
 title: "3 tips para optimizar tu búsqueda de&nbsp;empleo"
 date: 2015-09-01T16:46:19
-slug: 3-tips-para-optimizar-tu-busqueda-de-empleo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10734
-originUrl: https://prixline.blog/2015/09/01/3-tips-para-optimizar-tu-busqueda-de-empleo/
+slug: "3-tips-para-optimizar-tu-busqueda-de-empleo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10734"
+originUrl: "https://prixline.blog/2015/09/01/3-tips-para-optimizar-tu-busqueda-de-empleo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on plandempleo: Septiembre ya está aquí. Mucha gente odia este mes, sobre todo los/as estudiantes, la vuelta al cole y tal… Pero a mi me gusta mucho, siempre digo que es el segundo enero del año, y esto hay que verlo como una especie de segunda oportunidad, de volver a plantear esos propósitos&hellip;"
 ---
 

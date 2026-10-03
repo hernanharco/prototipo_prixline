@@ -2,13 +2,13 @@
 id: 29775
 title: "Potestad facultativa o imperativa, ¿poder o deber? esa es la&nbsp;cuestión"
 date: 2022-04-11T22:58:12
-slug: potestad-facultativa-o-imperativa-poder-o-deber-esa-es-la-cuestion
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/29775
-originUrl: https://prixline.blog/2022/04/11/potestad-facultativa-o-imperativa-poder-o-deber-esa-es-la-cuestion/
+slug: "potestad-facultativa-o-imperativa-poder-o-deber-esa-es-la-cuestion"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/29775"
+originUrl: "https://prixline.blog/2022/04/11/potestad-facultativa-o-imperativa-poder-o-deber-esa-es-la-cuestion/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Hay veces en que el propio legislador reparte las potestades con una técnica tan discreta y sutil que es fuente de recursos. Se trata de la … Potestad facultativa o imperativa, ¿poder o deber? esa es la cuestión De ahí, que los fontaneros de la técnica legislativa, funcionarios y consejos que intervienen en los procedimientos [&hellip;]"
 ---
 

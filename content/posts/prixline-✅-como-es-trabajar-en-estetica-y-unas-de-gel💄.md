@@ -3,12 +3,12 @@ id: 12668
 title: "PRIXLINE ✅ Cómo es Trabajar en Estética y Uñas de&nbsp;Gel💄"
 date: 2019-06-10T16:45:42
 slug: "prixline-%e2%9c%85-como-es-trabajar-en-estetica-y-unas-de-gel%f0%9f%92%84"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12668
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12668"
 originUrl: "https://prixline.blog/2019/06/10/prixline-%e2%9c%85-como-es-trabajar-en-estetica-y-unas-de-gel%f0%9f%92%84/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

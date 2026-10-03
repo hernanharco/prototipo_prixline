@@ -2,13 +2,13 @@
 id: 11694
 title: "“Compartir es el verbo que define la educación del&nbsp;futuro”"
 date: 2017-01-16T17:20:11
-slug: compartir-es-el-verbo-que-define-la-educacion-del-futuro
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11694
-originUrl: https://prixline.blog/2017/01/16/compartir-es-el-verbo-que-define-la-educacion-del-futuro/
+slug: "compartir-es-el-verbo-que-define-la-educacion-del-futuro"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11694"
+originUrl: "https://prixline.blog/2017/01/16/compartir-es-el-verbo-que-define-la-educacion-del-futuro/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Yo Soy Tu Profe Salvador Rodríguez Ojaos @salvaroj (Facebook, Pinterest, Google+), es pedagogo, blogger, formador y asesor en innovación educativa. Ha sido profesor de la escuela de magisterio de la Universidad de Barcelona, profesor en diversos cursos de posgrado y maestro de Educación Física en Primaria. Además, actualmente es asesor pedagógico en el ámbito editorial. [&hellip;]"
 ---
 

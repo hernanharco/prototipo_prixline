@@ -2,13 +2,13 @@
 id: 11376
 title: "¿Y tú disfrutas en tu&nbsp;trabajo?"
 date: 2016-07-01T21:37:09
-slug: y-tu-disfrutas-en-tu-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11376
-originUrl: https://prixline.blog/2016/07/01/y-tu-disfrutas-en-tu-trabajo/
+slug: "y-tu-disfrutas-en-tu-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/11376"
+originUrl: "https://prixline.blog/2016/07/01/y-tu-disfrutas-en-tu-trabajo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Siempre que mantengo una conversación con alguien sobre algún tema relacionado con el mundo laboral me gusta compartirlo en mi pequeño rincón virtual. Estos días con el inicio de las vacaciones estivales una buena amiga me ha comentado que considera que “su vida” es lo que vive cuando está&hellip;"
 ---
 

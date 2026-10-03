@@ -2,20 +2,20 @@
 id: 6732
 title: "Formación online gratuita&nbsp;CyLDigital"
 date: 2013-10-06T12:02:53
-slug: formacion-online-gratuita-cyldigital
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6732
-originUrl: https://prixline.blog/2013/10/06/formacion-online-gratuita-cyldigital/
+slug: "formacion-online-gratuita-cyldigital"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/6732"
+originUrl: "https://prixline.blog/2013/10/06/formacion-online-gratuita-cyldigital/"
 categories:
-  - formacion
-  - recursos
-  - sin-categoria
+  - "formacion"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - autoaprendizaje
-  - estudiar
-  - formacion
-  - gratis
-  - prixline
+  - "aprender"
+  - "autoaprendizaje"
+  - "estudiar"
+  - "formacion"
+  - "gratis"
+  - "prixline"
 excerpt: "Formación cyldigital.es La web CyLDigital quiere fomentar la participación activa de los ciudadanos mediante la creación de nuevos contenidos, como imágenes y vídeos, y desde ella se podrá preguntar y opinar sobre diversos temas de interés mediante la participación en grupos de la Comunidad CyL Digital. El ciudadano y la empresa pasará a ser de [&hellip;]"
 ---
 

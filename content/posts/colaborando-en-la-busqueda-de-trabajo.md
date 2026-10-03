@@ -2,20 +2,20 @@
 id: 7760
 title: "Colaborando en la búsqueda de&nbsp;trabajo"
 date: 2013-12-10T08:11:27
-slug: colaborando-en-la-busqueda-de-trabajo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7760
-originUrl: https://prixline.blog/2013/12/10/colaborando-en-la-busqueda-de-trabajo/
+slug: "colaborando-en-la-busqueda-de-trabajo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/7760"
+originUrl: "https://prixline.blog/2013/12/10/colaborando-en-la-busqueda-de-trabajo/"
 categories:
-  - empleo
-  - opiniones
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "opiniones"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - empleo
-  - opiniones
-  - prixline
-  - recursos
-  - Solidaridad
+  - "empleo"
+  - "opiniones"
+  - "prixline"
+  - "recursos"
+  - "Solidaridad"
 excerpt: "Originally posted on plandempleo: photopin.com La búsqueda de empleo suele ser un proceso solitario. Muy pocas veces nos sentimos acompañados, y aunque estemos rodeados de personas que nos quieren y muestran su preocupación por nosotros, la búsqueda la seguimos teniendo que hacer cada uno por su cuenta. Ésto implica que tanto los éxitos como los&hellip;"
 ---
 

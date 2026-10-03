@@ -2,22 +2,22 @@
 id: 4215
 title: "Sobre la dispersión &#8211; Cómo elegir un Curso Formativo y No&nbsp;Equivocarte"
 date: 2013-05-15T09:59:49
-slug: sobre-la-dispersion-como-elegir-un-curso-formativo-y-no-equivocarte
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4215
-originUrl: https://prixline.blog/2013/05/15/sobre-la-dispersion-como-elegir-un-curso-formativo-y-no-equivocarte/
+slug: "sobre-la-dispersion-como-elegir-un-curso-formativo-y-no-equivocarte"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/4215"
+originUrl: "https://prixline.blog/2013/05/15/sobre-la-dispersion-como-elegir-un-curso-formativo-y-no-equivocarte/"
 categories:
-  - empleo
-  - formacion
-  - opiniones
-  - sin-categoria
+  - "empleo"
+  - "formacion"
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - aprender
-  - empleo
-  - opinion
-  - opiniones
-  - prix-line
-  - prixline
-  - trabajo
+  - "aprender"
+  - "empleo"
+  - "opinion"
+  - "opiniones"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "Originally posted on Academia Cimbra: Hoy en día, la dispersión es un mal que aqueja a ricos y pobres, y frente, a lo que se pudiera creer, más a los últimos que a los primeros. En el Culebrón de los 90, “los Ricos también lloran” estaban un poquito equivocados 😉 Los ricos no han de&hellip;"
 ---
 

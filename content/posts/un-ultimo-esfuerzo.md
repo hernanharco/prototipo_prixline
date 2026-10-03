@@ -2,13 +2,13 @@
 id: 9714
 title: "Un último esfuerzo"
 date: 2014-10-12T09:15:12
-slug: un-ultimo-esfuerzo
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9714
-originUrl: https://prixline.blog/2014/10/12/un-ultimo-esfuerzo/
+slug: "un-ultimo-esfuerzo"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9714"
+originUrl: "https://prixline.blog/2014/10/12/un-ultimo-esfuerzo/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
 ---
 

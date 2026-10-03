@@ -2,13 +2,13 @@
 id: 10998
 title: "El aprendizaje y el trabajo &#8220;definidos&#8221;, se&nbsp;desmoronan!"
 date: 2016-01-07T00:33:41
-slug: el-aprendizaje-y-el-trabajo-definidos-se-desmoronan
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10998
-originUrl: https://prixline.blog/2016/01/07/el-aprendizaje-y-el-trabajo-definidos-se-desmoronan/
+slug: "el-aprendizaje-y-el-trabajo-definidos-se-desmoronan"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10998"
+originUrl: "https://prixline.blog/2016/01/07/el-aprendizaje-y-el-trabajo-definidos-se-desmoronan/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: “Lo viejo se desmorona…nace lo nuevo” juandon ? Si caminamos por caminos que nos llevan por nuevos paradigmas que se corresponden con la sociedad de la información y del conocimiento, Frederick Laloux (Autor: Reinventando Organizaciones)) :”Mi opinión es que en el lugar de trabajo ideal del futuro,&hellip;"
 ---
 

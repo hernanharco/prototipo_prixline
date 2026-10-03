@@ -3,14 +3,14 @@ id: 23902
 title: "PRIXLINE ✅ Repoblando España&nbsp;🇪🇸"
 date: 2021-09-06T08:57:44
 slug: "prixline-%e2%9c%85-repoblando-espana-%f0%9f%87%aa%f0%9f%87%b8"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/23902
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/23902"
 originUrl: "https://prixline.blog/2021/09/06/prixline-%e2%9c%85-repoblando-espana-%f0%9f%87%aa%f0%9f%87%b8/"
 categories:
-  - opiniones
-  - sin-categoria
+  - "opiniones"
+  - "sin-categoria"
 originCategories:
-  - prixline
-  - Solidaridad
+  - "prixline"
+  - "Solidaridad"
 excerpt: ""
 ---
 

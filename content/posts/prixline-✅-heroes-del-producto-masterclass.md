@@ -3,12 +3,12 @@ id: 12391
 title: "PRIXLINE ✅ Héroes del producto&nbsp;[MasterClass]"
 date: 2018-10-03T13:01:05
 slug: "prixline-%e2%9c%85-heroes-del-producto-masterclass"
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12391
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12391"
 originUrl: "https://prixline.blog/2018/10/03/prixline-%e2%9c%85-heroes-del-producto-masterclass/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: ""
 ---
 

@@ -2,13 +2,13 @@
 id: 10789
 title: "Learning English por la&nbsp;patilla"
 date: 2015-09-29T17:03:53
-slug: learning-english-por-la-patilla
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10789
-originUrl: https://prixline.blog/2015/09/29/learning-english-por-la-patilla/
+slug: "learning-english-por-la-patilla"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/10789"
+originUrl: "https://prixline.blog/2015/09/29/learning-english-por-la-patilla/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ¿Cansado de que tu inglés sea nivel medio como el del 90% de los CV de este país? Pues aquí tenemos la solución definitiva, que no mágica, que algo de esfuerzo y dedicación habrá que echarle, you know! Ni más ni menos que cinco aplicaciones,&hellip;"
 ---
 

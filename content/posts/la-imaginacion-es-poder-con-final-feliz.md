@@ -2,13 +2,13 @@
 id: 12184
 title: "La imaginación es poder&#8230;, con final&nbsp;feliz."
 date: 2018-03-07T16:51:03
-slug: la-imaginacion-es-poder-con-final-feliz
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12184
-originUrl: https://prixline.blog/2018/03/07/la-imaginacion-es-poder-con-final-feliz/
+slug: "la-imaginacion-es-poder-con-final-feliz"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12184"
+originUrl: "https://prixline.blog/2018/03/07/la-imaginacion-es-poder-con-final-feliz/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Owura Kwadwo es profesor de TIC en una escuela rural de Kumasi, en Ghana. Estos días todos hemos oído hablar de un profesor de una escuela de Ghana que da sus clases con la ayuda únicamente de una pizarra de tiza, sus conocimientos y sobre todo su imaginación.&hellip;"
 ---
 

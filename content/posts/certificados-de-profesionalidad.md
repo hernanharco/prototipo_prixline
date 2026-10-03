@@ -2,22 +2,22 @@
 id: 507
 title: "Certificados de Profesionalidad y&nbsp;Homologaciones"
 date: 2012-09-05T11:52:12
-slug: certificados-de-profesionalidad
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/507
-originUrl: https://prixline.blog/2012/09/05/certificados-de-profesionalidad/
+slug: "certificados-de-profesionalidad"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/507"
+originUrl: "https://prixline.blog/2012/09/05/certificados-de-profesionalidad/"
 categories:
-  - cursos
-  - empleo
-  - formacion
-  - migracion
-  - sin-categoria
+  - "cursos"
+  - "empleo"
+  - "formacion"
+  - "migracion"
+  - "sin-categoria"
 originCategories:
-  - Certificado de Profesionalidad
-  - curso
-  - Homologacion
-  - prix-line
-  - prixline
-  - trabajo
+  - "Certificado de Profesionalidad"
+  - "curso"
+  - "Homologacion"
+  - "prix-line"
+  - "prixline"
+  - "trabajo"
 excerpt: "¿Qué es el certificado de profesionalidad? El certificado de profesionalidad es el instrumento de acreditación oficial de las cualificaciones profesionales en el ámbito de la Administración laboral, que acredita la capacitación para el desarrollo de una actividad laboral con significación para el empleo y asegura la formación necesaria para su adquisición. Los certificados de profesionalidad tendrán carácter oficial y [&hellip;]"
 ---
 

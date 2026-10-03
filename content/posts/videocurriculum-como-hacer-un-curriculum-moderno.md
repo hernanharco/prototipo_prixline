@@ -2,20 +2,20 @@
 id: 9271
 title: "Videocurrículum. ¿Como hacer un currículum&nbsp;moderno?"
 date: 2014-07-22T09:23:24
-slug: videocurriculum-como-hacer-un-curriculum-moderno
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9271
-originUrl: https://prixline.blog/2014/07/22/videocurriculum-como-hacer-un-curriculum-moderno/
+slug: "videocurriculum-como-hacer-un-curriculum-moderno"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/9271"
+originUrl: "https://prixline.blog/2014/07/22/videocurriculum-como-hacer-un-curriculum-moderno/"
 categories:
-  - empleo
-  - recursos
-  - sin-categoria
+  - "empleo"
+  - "recursos"
+  - "sin-categoria"
 originCategories:
-  - @AlertasEmpleo
-  - @AlertasTrabajo
-  - @AyudaExperta
-  - empleo
-  - prixline
-  - recursos
+  - "@AlertasEmpleo"
+  - "@AlertasTrabajo"
+  - "@AyudaExperta"
+  - "empleo"
+  - "prixline"
+  - "recursos"
 excerpt: "Originally posted on En Red Ando… Community Manager: VIDEOCURRÍCULUM ¿CÓMO HACER UN CURRÍCULUM MODERNO? Los videocurrículum son una importante y novedosa herramienta para buscar trabajo o encontrar clientes si eres freelance. Es una forma divertida y original de presentarse, que sin lugar a dudas, no dejará indiferente a los encargados de recursos humanos o a&hellip;"
 ---
 

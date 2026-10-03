@@ -2,13 +2,13 @@
 id: 12594
 title: "10 Transformaciones que todo profesional debiera acometer #infografia&nbsp;#infographic"
 date: 2019-04-04T22:49:26
-slug: 10-transformaciones-que-todo-profesional-debiera-acometer-infografia-infographic
-sourceUrl: https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12594
-originUrl: https://prixline.blog/2019/04/04/10-transformaciones-que-todo-profesional-debiera-acometer-infografia-infographic/
+slug: "10-transformaciones-que-todo-profesional-debiera-acometer-infografia-infographic"
+sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/posts/12594"
+originUrl: "https://prixline.blog/2019/04/04/10-transformaciones-que-todo-profesional-debiera-acometer-infografia-infographic/"
 categories:
-  - sin-categoria
+  - "sin-categoria"
 originCategories:
-  - prixline
+  - "prixline"
 excerpt: "Originally posted on Infografías en castellano: 10 Transformaciones que todo profesional debiera acometer"
 ---
 
