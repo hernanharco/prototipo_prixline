@@ -1,13 +1,18 @@
 ---
 // Página interna de contacto (T15): `/contacto/` construida SOLO con datos
-// reales de content/settings/social.json — la columna de chat
-// (`platform: sugerencias`, CTA primario) y los canales de comunidad — más
+// reales de content/settings/social.json — los canales de comunidad — más
 // el enlace a las opiniones (`platform: opiniones`, hilo de comentarios
 // real en el sitio de origen). Sin formulario inventado, sin email ni
 // teléfono hardcodeados: los datos no los contienen y no se inventan.
 // Es el destino del CTA del header y del enlace "Sugerencias" del pie.
 // Chips con el mismo estilo que Community.astro (duplicación deliberada:
 // extraer lógica compartida no es trivial sin refactorizar el componente).
+//
+// Chat (decisión del usuario 2026-10-04): el widget de tawk.to de Luis
+// (el MISMO chat que usaba en el blog, tomado del cuerpo importado de
+// content/pages/contacto.md) se embebe AQUÍ para que el visitante no salga
+// de la web. El CTA abre el widget; si el script no carga (bloqueo de red),
+// degrada al popout real de tawk.to — nunca a prix.com ni al blog.
 import socialSettings from '../../../../content/settings/social.json';
 import '../../styles/global.css';
 import Header from '../../components/Header.astro';
@@ -15,8 +20,12 @@ import Footer from '../../components/Footer.astro';
 
 const NON_SOCIAL_PLATFORMS = new Set(['sugerencias', 'opiniones']);
 
-// Chat real (CTA primario) y opiniones (línea secundaria), desde los datos.
-const chatChannel = socialSettings.channels.find((c) => c.platform === 'sugerencias');
+// Widget tawk.to de Luis (property id del chat real importado).
+const TAWK_PROPERTY_ID = '58f1d6eaf7bbaa72709c64ff';
+const TAWK_EMBED_URL = `https://embed.tawk.to/${TAWK_PROPERTY_ID}/default`;
+const TAWK_CHAT_URL = `https://tawk.to/chat/${TAWK_PROPERTY_ID}/default`;
+
+// Opiniones (línea secundaria), desde los datos.
 const opinionsChannel = socialSettings.channels.find((c) => c.platform === 'opiniones');
 
 // Canales de comunidad reales: 13 entradas − 2 no sociales = 11.
@@ -24,8 +33,8 @@ const channels = socialSettings.channels.filter(
   (c) => !NON_SOCIAL_PLATFORMS.has(c.platform),
 );
 
-if (!chatChannel || !opinionsChannel) {
-  throw new Error('social.json debe contener los canales `sugerencias` y `opiniones`.');
+if (!opinionsChannel) {
+  throw new Error('social.json debe contener el canal `opiniones`.');
 }
 
 // Meta description DERIVADA de los datos (recuento real de canales), no inventada.
@@ -60,9 +69,9 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
           avisos y recursos.
         </p>
 
-        {/* CTA primario: el chat REAL de social.json (`platform: sugerencias`).
-            Vive en el dominio de origen por diseño —el chat está ahí— y es el
-            único enlace de contacto de la página (nada inventado). */}
+        {/* CTA primario: el chat real de Luis (tawk.to, property id
+            importado) embebido en esta página — el visitante no sale de la
+            web. Fallback: popout real de tawk.to si el widget no carga. */}
         <section class="card contact-chat" aria-labelledby="chat-title">
           <h2 id="chat-title">¿Hablamos?</h2>
           <p class="card__meta">
@@ -70,7 +79,7 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
             camino en España.
           </p>
           <p class="contact-chat__action">
-            <a class="btn btn--accent" href={chatChannel.url} rel="noopener noreferrer">
+            <a class="btn btn--accent" id="chat-cta" href={TAWK_CHAT_URL} rel="noopener noreferrer">
               Abrir chat con Prixline
             </a>
           </p>
@@ -112,6 +121,32 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
     <Footer />
   </body>
 </html>
+
+<script is:inline define:vars={{ tawkEmbedUrl: TAWK_EMBED_URL }}>
+  // Widget de tawk.to (mismo chat de Luis). Se carga solo en /contacto/.
+  (function () {
+    var d = document;
+    var s = d.createElement('script');
+    s.src = tawkEmbedUrl;
+    s.async = true;
+    s.charset = 'UTF-8';
+    s.setAttribute('crossorigin', '*');
+    var x = d.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+
+  // El CTA abre el widget embebido; si no cargó, el href lleva al popout
+  // real de tawk.to (degradación natural sin JS).
+  var cta = document.getElementById('chat-cta');
+  if (cta) {
+    cta.addEventListener('click', function (e) {
+      if (window.Tawk_API && typeof window.Tawk_API.toggleChat === 'function') {
+        e.preventDefault();
+        window.Tawk_API.toggleChat();
+      }
+    });
+  }
+</script>
 
 <style>
   .breadcrumb ol {
