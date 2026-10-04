@@ -76,13 +76,21 @@ const description = deriveDescription(body);
 
         <Temario body={body} />
 
+        {/* CTA contextual: lleva a /contacto/ con ?curso=<slug> para que la
+            página de contacto muestre el curso de interés y lo atribuya al
+            chat (tawk.to). El destino anterior (/#comunidad) se retiró. */}
         <section class="course-cta card" aria-labelledby="course-cta-title">
           <h2 id="course-cta-title">¿Te interesa? Habla con Prixline</h2>
           <p class="card__meta">
             Cuéntanos qué curso te interesa y te acompañamos en el siguiente paso.
           </p>
           <p class="course-cta__action">
-            <a class="btn btn--accent" href="/#comunidad">Habla con Prixline</a>
+            <a
+              class="btn btn--accent"
+              href={`/contacto/?curso=${entry.data.slug}`}
+            >
+              Consultar por este curso
+            </a>
           </p>
         </section>
 

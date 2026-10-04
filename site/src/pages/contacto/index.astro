@@ -14,6 +14,8 @@
 // de la web. El CTA abre el widget; si el script no carga (bloqueo de red),
 // degrada al popout real de tawk.to — nunca a prix.com ni al blog.
 import socialSettings from '../../../../content/settings/social.json';
+import { getCollection } from 'astro:content';
+import { decodeEntities } from '../../lib/format';
 import '../../styles/global.css';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -39,6 +41,16 @@ if (!opinionsChannel) {
 
 // Meta description DERIVADA de los datos (recuento real de canales), no inventada.
 const description = `Habla con Prixline por chat y descubre nuestros ${channels.length} canales de comunidad: cursos, prácticas y trabajo en España.`;
+
+// Mapa estático slug → título decodificado para el contexto de curso
+// (?curso=<slug> desde /cursos/<slug>/). Los ~302 títulos se inlinean a
+// propósito: sitio estático, cero fetch en runtime y el JSON comprimido
+// pesa muy poco (pocos KB en gzip). Verificado: slugs únicos en el corpus.
+const courses = await getCollection('courses');
+const courseTitles: Record<string, string> = {};
+for (const course of courses) {
+  courseTitles[course.data.slug] = decodeEntities(course.data.title);
+}
 ---
 
 <!doctype html>
@@ -54,6 +66,16 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
     <Header />
     <main id="contenido" class="section">
       <div class="container">
+        {/* Banner contextual de curso (?curso=<slug>): se desoculta solo con
+            JS y un slug válido del mapa estático. Sin JS o sin parámetro,
+            queda oculto y la página es la genérica de siempre. */}
+        <aside id="curso-context" hidden>
+          <p class="curso-context__line">
+            Te interesa: <strong id="curso-context-title"></strong>
+          </p>
+          <a id="curso-context-back">Volver a la ficha del curso</a>
+        </aside>
+
         <nav class="breadcrumb" aria-label="Migas de pan">
           <ol>
             <li><a href="/">Inicio</a></li>
@@ -122,10 +144,41 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
   </body>
 </html>
 
-<script is:inline define:vars={{ tawkEmbedUrl: TAWK_EMBED_URL }}>
+<script
+  is:inline
+  define:vars={{ tawkEmbedUrl: TAWK_EMBED_URL, courseTitles: courseTitles }}
+>
   // Widget de tawk.to (mismo chat de Luis). Se carga solo en /contacto/.
   (function () {
     var d = document;
+
+    // Contexto de curso: /contacto/?curso=<slug> llega desde una ficha
+    // /cursos/<slug>/. Solo slugs presentes en el mapa estático courseTitles
+    // (no hay XSS: el título se asigna con textContent, nunca innerHTML).
+    // Sin JS o sin parámetro válido, la página es la genérica de siempre.
+    var curso = new URLSearchParams(window.location.search).get('curso');
+    var cursoTitulo = curso ? courseTitles[curso] : undefined;
+    if (cursoTitulo) {
+      var banner = d.getElementById('curso-context');
+      var titleEl = d.getElementById('curso-context-title');
+      var backEl = d.getElementById('curso-context-back');
+      var chatCta = d.getElementById('chat-cta');
+      if (banner) banner.hidden = false;
+      if (titleEl) titleEl.textContent = cursoTitulo;
+      if (backEl) backEl.setAttribute('href', '/cursos/' + curso + '/');
+      if (chatCta) chatCta.textContent = 'Abrir chat sobre este curso';
+
+      // Contexto del curso en el dashboard de tawk.to: Tawk_API.onLoad debe
+      // definirse ANTES de que se descargue el widget. Best-effort: los
+      // fallos de setAttributes son silenciosos.
+      window.Tawk_API = window.Tawk_API || {};
+      window.Tawk_API.onLoad = function () {
+        try {
+          window.Tawk_API.setAttributes({ 'Curso consultado': cursoTitulo }, function () {});
+        } catch (e) {}
+      };
+    }
+
     var s = d.createElement('script');
     s.src = tawkEmbedUrl;
     s.async = true;
@@ -188,6 +241,39 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
 
   .contact-chat__action {
     margin: 0;
+  }
+
+  /* Banner contextual de curso (?curso=<slug>): compacto, con los mismos
+     tokens que el resto de la página (sin colores nuevos). Sin display
+     explícito para no pisar el atributo hidden del UA. */
+  .curso-context {
+    max-width: 46rem;
+    margin-top: var(--space-4);
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-gold);
+    border-radius: var(--radius-sm);
+    background: var(--color-surface);
+    font-size: var(--text-sm);
+  }
+
+  .curso-context__line {
+    margin: 0 0 var(--space-2);
+    color: var(--color-muted);
+  }
+
+  .curso-context__line strong {
+    color: var(--color-text);
+  }
+
+  .curso-context__back {
+    color: var(--color-navy);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .curso-context__back:hover {
+    color: var(--color-gold-ink);
   }
 
   .contact-channels {
