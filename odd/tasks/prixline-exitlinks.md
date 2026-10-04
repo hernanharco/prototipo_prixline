@@ -33,23 +33,24 @@ traer el hilo de comentarios a interno, CMS.
 
 ## Tareas
 
-- [ ] T22. `Fuente` → `href="https://www.rincom.es/"` en
-      `articulos/[slug].astro` y `cursos/[slug].astro`; verificar en dist
-      que quedan 1.115 enlaces a rincom.es y 0 a `prixline.blog` en esos
-      pies.
-- [ ] T23. Footer sin enlaces salientes: "Sitio original" y "Opiniones"
-      como texto plano (sin `<a>`) en las 1.120 páginas.
-- [ ] T24. Cuerpos importados: corregir en el **productor**
-      (`scripts/` + saneador) — reescribir URLs internas del blog viejo a
-      rutas internas (`/practicas/`, `/cursos/`, `/contacto/`,
-      `/articulos/[slug]/` cuando el slug mapea), **desenlazar/quitar**
-      toda URL `wp-admin/`, regenerar `content/` y rebuild. Nunca editar
-      `content/` a mano.
-- [ ] T25. Migración de imágenes: bajar las 567 imágenes del blog a
-      `site/public/media/` desde el importador (test-first en el mapeo
-      URL→ruta y en el reescritor; descarga con verificación de
-      existencia), re-apuntar `src` en los cuerpos, regenerar, verificar
-      0 `wp-content` en dist.
+- [x] T22. `Fuente` → `href="https://www.rincom.es/"` en
+      `articulos/[slug].astro` y `cursos/[slug].astro` (+
+      `practicas/index.astro` por paridad, hecho en T24); 1.115 enlaces a
+      rincom.es en dist. — commit `0f7d3b0d`
+- [x] T23. Footer sin enlaces salientes: "Sitio original" y "Opiniones"
+      como texto plano (sin `<a>`) en las 1.120 páginas. — commit
+      `f1c1fdbf`
+- [x] T24. Cuerpos importados: reescritura de URLs internas del blog
+      viejo a rutas internas + disolución de anclas `wp-admin` (host-
+      agnóstico) en `sanitizeArticleHtml`, y línea de opiniones de
+      `/contacto/` sin enlace. Enfoque: transformación en build vía
+      saneador (productor de render), sin regenerar `content/`. — commit
+      `6ef90807`
+- [x] T25. Migración de imágenes: bajadas las imágenes del blog a
+      `site/public/media/` desde el importador (test-first en `media.ts`:
+      mapeo URL→ruta + reescritor; I/O en `media-io.ts` con
+      skip-if-exists y fallo por imagen que conserva la URL original),
+      `content/` regenerado por los productores. — commit `b22a3f9c`
 
 ## Criterios de aceptación
 
@@ -62,7 +63,31 @@ traer el hilo de comentarios a interno, CMS.
 
 ## Evidencia
 
-- T22: (se rellena al cerrar)
-- T23: (se rellena al cerrar)
-- T24: (se rellena al cerrar)
-- T25: (se rellena al cerrar)
+- T22: `0f7d3b0d` — build 1.120, check 0; dist: **1.115** `href` a
+  `https://www.rincom.es/` (813 artículos + 302 cursos), pies con texto
+  visible "prixline.blog" sin salir al blog.
+- T23: `f1c1fdbf` — dist: **0** `href` a `prixline.blog` y **0** a
+  `opiniones` desde el footer en las 1.120 páginas.
+- T24: `6ef90807` — RED 27/33 → GREEN **33/33** (triangulación 35/35),
+  suite scripts **85/85**, lib **13/13**; build 1.120, check 0/0/0, tsc 0;
+  dist: **0** `href` a `prixline.blog`, **0** a `prixline.wordpress.com`,
+  **0** `wp-admin` (incluye una ancla `wp-admin` de terceros disuelta);
+  813/814 slugs reescritos resuelven a rutas construidas. Conocido:
+  `/articulos/escuelas-de-ingles-prixline/` queda como interna rota (el
+  slug no está en el corpus importado). Fuera de alcance intactos:
+  `opiniones.wordpress.com` (2, tercero) y `prix.com` (2).
+- T25: `b22a3f9c` — RED `ERR_MODULE_NOT_FOUND` → GREEN **16/16** en
+  `media.test.ts` + **5/5** offline en `media-io.test.ts`; suite scripts
+  **106/106**, lib **13/13**. Regeneración por productor:
+  `pipeline:posts` → 813 archivos (325 URLs → 272 descargadas, 0 fallos),
+  `pipeline:pages` → 4 (extractedAt preservado); recuentos 813/4/302
+  intactos; 272 archivos (30 MB) en `site/public/media/`.
+  dist: **0** peticiones de imagen a `prixline.wordpress.com`/`prixline.blog`,
+  **539** `src="/media/..."` (272 únicos, spot-checks OK);
+  build 1.120, check 0/0/0, tsc 0; todos los archivos <400 líneas.
+  **Decisión A** (conflicto de criterio resuelto): el grep literal de
+  `wp-content` queda en **28** srcs de **hosts de terceros**
+  (i0.wp.com ×16, ticsyformacion ×4, trabajarporelmundo ×4,
+  ristomejide ×2, elblogdelinkedin ×2) — exímente fuera de alcance en el
+  doc; ampliarlos = opción B (pendiente opcional). Remanentes inertes
+  `data-orig-file`/`data-permalink` (57, sin peticiones) quedan por diseño.
