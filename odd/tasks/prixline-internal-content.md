@@ -54,4 +54,5 @@ a la página vieja sino mantener toda la información en esta parte".
 - T15: `70014968` — build **1.120 páginas** (fase completa: 813 artículos + índice + 303 cursos + home + prácticas + contacto), check 0, tests **83/83**; `/contacto/` data-only (chat real + 11 chips, **0** mailto/tel inventados); Header CTA → `/contacto/`, CTA prácticas → `/practicas/`, footer Sugerencias → `/contacto/`; **0** `prixline.blog/contacto` y **0** `prixline.blog/practicas` ajenos en dist. Externos restantes (legítimos): nota Fuente, "Sitio original", Opiniones (hilo vivo), vídeos YouTube, chat prix.com.
 - **Review nativa fase 3**: linaje `review-53e06adce2ff84b9` sobre el rango `caecaceb..3dd8a4ac` (13 archivos / 1.571 líneas, lente `review-reliability`) → **APROBADA**, ack ejecutado, authority burned. 1 hallazgo informativo no bloqueante: `R3-generateid-untested-decode` (el decode de `generateId` en `content.config.ts:37-44` no tiene test unitario).
 
-- Commits por tarea: (se rellena al cerrar)
+- Commits por tarea: T13 `2f7f8c51` · T14 `6b382661` · T15 `70014968` ·
+  cierre `3dd8a4ac` · review `a2522172`
