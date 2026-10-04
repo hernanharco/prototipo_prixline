@@ -2,6 +2,8 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
+import { generateId } from './lib/entryId';
+
 // Imported content lives at repo-root `content/`, one level above this
 // package (`site/`). `base` is resolved relative to the Astro project root
 // (site/), per installed astro@5.18.2 loaders/glob.js and glob.d.ts docs.
@@ -23,25 +25,11 @@ const posts = defineCollection({
   loader: glob({
     base: '../content/posts',
     pattern: '**/*.md',
-    // Reality check: 55 posts have unquoted numeric slugs (`slug: 100`),
-    // which js-yaml parses as numbers. Astro's default generateId returns
-    // `data.slug` verbatim and then crashes on `id.endsWith(...)`.
-    // Coerce to string here; entry ids stay unique (verified no duplicate
-    // slug lines across the 813 posts).
-    // Second fix: 79 posts carry percent-encoded UTF-8 in the slug (mostly
-    // emoji, `...-%f0%9f%98%ac`). Keeping it writes literal `%xx` directory
-    // names that no URL variant can reach (404 on every form). Decode to the
-    // raw characters so routes and links resolve; malformed sequences fall
-    // back to the raw value. Decoding preserves uniqueness (bijection over
-    // well-formed slugs).
-    generateId: ({ entry, data }) => {
-      const raw = String(data.slug ?? entry);
-      try {
-        return decodeURIComponent(raw);
-      } catch {
-        return raw;
-      }
-    },
+    // Entry ids: slugs numéricos coercidos a string y percent-decode de
+    // UTF-8 (fallback al valor crudo si la secuencia es malformada).
+    // Lógica y rationale completo en site/src/lib/entryId.ts (T16; test en
+    // scripts/entry-id.test.ts).
+    generateId,
   }),
   schema: z.object({
     id: z.number(),
