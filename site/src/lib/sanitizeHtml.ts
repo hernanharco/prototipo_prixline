@@ -12,8 +12,9 @@
  *      sin cerrar) y etiquetas `<script`/`</script>` sueltas.
  *   2. Elimina `<iframe>` cuyo host NO está en la allowlist:
  *      youtube.com (y subdominios), youtube-nocookie.com, youtu.be,
- *      player.vimeo.com, open.spotify.com y hosts `embed.*`.
- *      Todo lo demás (p. ej. video.wordpress.com) se elimina con su
+ *      player.vimeo.com, open.spotify.com, video.wordpress.com (VideoPress,
+ *      T17) y hosts `embed.*`.
+ *      Todo lo demás (p. ej. evil.example) se elimina con su
  *      `</iframe>` y su contenido.
  *   3. Elimina TODO atributo manejador `on*` (onclick, onerror, ONLOAD,
  *      sin valor, …) de cada etiqueta.
@@ -36,6 +37,9 @@ const EMBED_HOSTS = [
   'youtu.be',
   'player.vimeo.com',
   'open.spotify.com',
+  // T17: VideoPress se incrusta en el corpus (55 posts); el <script> del
+  // player (v0.wordpress.com) sigue eliminándose por la regla 1.
+  'video.wordpress.com',
 ];
 
 /** Entidades mínimas para leer esquemas de URL ofuscados. */

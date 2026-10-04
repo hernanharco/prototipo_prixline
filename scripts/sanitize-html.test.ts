@@ -19,11 +19,16 @@ describe('sanitizeArticleHtml — <script>', () => {
     assert.equal(sanitizeArticleHtml(html), '<p>hola</p><p>adios</p>');
   });
 
-  it('elimina variantes con solo atributos (<script src=...></script>)', () => {
+  it('conserva el iframe de video.wordpress.com y elimina el <script src=...>', () => {
     const html =
       "<iframe src='https://video.wordpress.com/embed/x'></iframe>" +
       "<script src='https://v0.wordpress.com/js/next/videopress-iframe.js?m=1'></script>";
-    assert.equal(sanitizeArticleHtml(html), '');
+    // T17: el iframe de VideoPress pasa a la allowlist; el <script> del
+    // player se sigue eliminando.
+    assert.equal(
+      sanitizeArticleHtml(html),
+      "<iframe src='https://video.wordpress.com/embed/x'></iframe>",
+    );
   });
 
   it('elimina <script> con atributos type y contenido inline', () => {
@@ -59,8 +64,21 @@ describe('sanitizeArticleHtml — iframes y allowlist de hosts', () => {
     });
   }
 
+  it('conserva el iframe de video.wordpress.com con src/width/allow y quita on*', () => {
+    const html =
+      "<iframe title='VideoPress Video Player' width='400' height='225' " +
+      "src='https://video.wordpress.com/embed/eOk1uxWl?hd=0&amp;autoPlay=0' " +
+      "allowfullscreen allow='clipboard-write; presentation' " +
+      "onerror='alert(1)' onclick='alert(2)'></iframe>";
+    assert.equal(
+      sanitizeArticleHtml(html),
+      "<iframe title='VideoPress Video Player' width='400' height='225' " +
+        "src='https://video.wordpress.com/embed/eOk1uxWl?hd=0&amp;autoPlay=0' " +
+        "allowfullscreen allow='clipboard-write; presentation'></iframe>",
+    );
+  });
+
   it('elimina iframes de hosts NO permitidos', () => {
-    assert.equal(sanitizeArticleHtml(iframe('https://video.wordpress.com/embed/x')), '');
     assert.equal(sanitizeArticleHtml(iframe('https://evil.example/embed')), '');
     assert.equal(sanitizeArticleHtml(iframe('https://youtube.com.evil.example/x')), '');
     assert.equal(sanitizeArticleHtml(iframe('/embed/relativo')), '');
@@ -198,9 +216,9 @@ describe('sanitizeArticleHtml — idempotencia', () => {
       "frameborder='0' allowfullscreen allow='clipboard-write; presentation'></iframe>" +
       "<script src='https://v0.wordpress.com/js/next/videopress-iframe.js?m=1790791280'></script>";
     const once = sanitizeArticleHtml(real);
-    // YouTube conservado; VideoPress y su <script> eliminados.
+    // T17: YouTube y VideoPress conservados; el <script> del player eliminado.
     assert.ok(once.includes('youtube.com/embed/8GqUO2pb4XA'));
-    assert.ok(!once.includes('video.wordpress.com'));
+    assert.ok(once.includes('video.wordpress.com/embed/eOk1uxWl'));
     assert.ok(!once.includes('<script'));
     assert.equal(sanitizeArticleHtml(once), once);
   });
