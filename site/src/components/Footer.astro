@@ -1,20 +1,19 @@
 ---
 // Pie de página: tagline real, enlace al blog interno /articulos/ (T14),
-// enlace de sugerencias re-apuntado a la página interna /contacto/ (T15),
-// enlace de opiniones (hilo de comentarios real, externo legítimo) y enlace
-// al sitio de origen. Aviso de dominio pendiente.
+// sugerencias → página interna /contacto/ (T15), y — desde T23 (exit
+// links) — «Opiniones» y «Sitio original» como TEXTO SIN ENLACE para que
+// ningún clic del footer salga del sitio.
 import siteSettings from '../../../content/settings/site.json';
 import socialSettings from '../../../content/settings/social.json';
 
-// T15: `sugerencias` se internaliza → /contacto/ (página propia); la etiqueta
-// del dato se conserva. `opiniones` se mantiene externo: el hilo de
-// comentarios vive en el sitio de origen (decisión documentada).
+// T23: `sugerencias` → ruta interna /contacto/; `opiniones` queda como
+// texto sin href (el hilo de comentarios vive en el sitio de origen y no
+// hay versión interna: decisión del usuario 2026-10-04).
 const supportLinks = socialSettings.channels
   .filter((channel) => channel.platform === 'sugerencias' || channel.platform === 'opiniones')
   .map((channel) => ({
     label: channel.label,
-    href: channel.platform === 'sugerencias' ? '/contacto/' : channel.url,
-    external: channel.platform !== 'sugerencias',
+    href: channel.platform === 'sugerencias' ? '/contacto/' : null,
   }));
 
 const year = new Date().getFullYear();
@@ -37,15 +36,11 @@ const year = new Date().getFullYear();
         {
           supportLinks.map((link) => (
             <li>
-              <a href={link.href} rel={link.external ? 'noopener noreferrer' : undefined}>
-                {link.label}
-              </a>
+              {link.href ? <a href={link.href}>{link.label}</a> : link.label}
             </li>
           ))
         }
-        <li>
-          <a href={siteSettings.originSite}>Sitio original de Prixline</a>
-        </li>
+        <li>Sitio original de Prixline</li>
       </ul>
     </nav>
   </div>
