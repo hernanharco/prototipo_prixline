@@ -33,8 +33,14 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
       `<!-- TODO: real domain -->` de `site/src/components/Footer.astro`. —
       commit `06f923cc`
 - [ ] T19. Secrets de Vercel (usuario): `gh secret set VERCEL_TOKEN`
-      (token de dashboard "No expiration") y `PUBLIC_YOUTUBE_API_KEY` en
-      Vercel + redeploy para encender el badge EN VIVO.
+      (token de dashboard "No expiration"). **Pendiente.**
+- [ ] T20. Pendiente de producto (decisión del usuario): key de YouTube
+      (`PUBLIC_YOUTUBE_API_KEY`) para encender el badge EN VIVO —
+      *movido a la lista de pendientes a pedido del usuario (2026-10-04)*.
+- [ ] T21. Decisión del usuario: doble caminho de deploy (workflow
+      Actions con token inválido vs integración Git de Vercel activa) +
+      diseño "un secreto general para todos los proyectos" (org-level
+      secrets / Vercel Git / reusable workflow).
 
 ## Criterios de aceptación
 
