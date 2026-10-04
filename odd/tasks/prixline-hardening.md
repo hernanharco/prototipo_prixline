@@ -60,3 +60,9 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
   reales (`2f7f8c51`/`6b382661`/`70014968`/`3dd8a4ac`/`a2522172`),
   `<!-- TODO: real domain -->` eliminado, check 0 errores.
 - T19: (acción del usuario — se registra al ejecutarse)
+- **Review nativa fase 4**: linaje `review-b8abf0ae01f8f5d8` sobre el rango
+  `cb924976..8eb6ad00` (8 archivos / 218 líneas, lente `review-reliability`)
+  → **APROBADA**, ack ejecutado, authority burned, `consumed: true`.
+  4 hallazgos informativos no bloqueantes: R3-001 (entry-id.test.ts:17-47),
+  R3-002 (sanitizeHtml.ts:39-42), R3-003 (hardening.md:41), R3-004
+  (Footer.astro:23).
