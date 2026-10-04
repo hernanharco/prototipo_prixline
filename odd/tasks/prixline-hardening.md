@@ -37,10 +37,12 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
 - [ ] T20. Pendiente de producto (decisión del usuario): key de YouTube
       (`PUBLIC_YOUTUBE_API_KEY`) para encender el badge EN VIVO —
       *movido a la lista de pendientes a pedido del usuario (2026-10-04)*.
-- [ ] T21. Decisión del usuario: doble caminho de deploy (workflow
-      Actions con token inválido vs integración Git de Vercel activa) +
-      diseño "un secreto general para todos los proyectos" (org-level
-      secrets / Vercel Git / reusable workflow).
+- [x] T21. Decisión del usuario (2026-10-04): **frontend → Vercel Git
+      integration** (push a main ⇒ Vercel despliega solo, cero secrets);
+      se elimina `.github/workflows/deploy.yml` de este repo y se
+      documenta el esquema en `core/deploy/DEPLOY-PIPELINE.md`
+      (frontends: Vercel Git · backends: Actions+Hetzner). Backends
+      conservan Actions con secrets de org cuando aplique.
 
 ## Criterios de aceptación
 
