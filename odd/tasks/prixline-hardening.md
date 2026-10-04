@@ -60,6 +60,12 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
   reales (`2f7f8c51`/`6b382661`/`70014968`/`3dd8a4ac`/`a2522172`),
   `<!-- TODO: real domain -->` eliminado, check 0 errores.
 - T19: (acción del usuario — se registra al ejecutarse)
+  - Evidencia 2026-10-04: workflow `37202597472` FALLÓ —
+    `Error: The token provided via --token argument is not valid` → el
+    `VERCEL_TOKEN` de GitHub Secrets ya sirve/expiró. El sitio igual se
+    actualizó en producción (el iframe VideoPress responde 200), lo que
+    indica que hay un segundo mecanismo de deploy activo (integración Git
+    de Vercel) además del workflow de Actions.
 - **Review nativa fase 4**: linaje `review-b8abf0ae01f8f5d8` sobre el rango
   `cb924976..8eb6ad00` (8 archivos / 218 líneas, lente `review-reliability`)
   → **APROBADA**, ack ejecutado, authority burned, `consumed: true`.
