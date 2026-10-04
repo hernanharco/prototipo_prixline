@@ -24,8 +24,9 @@
  *   5. Conserva intactos imágenes, enlaces, formato y los embeds
  *      permitidos (bytes idénticos).
  *   6. Idempotente: sanear dos veces == sanear una vez.
- *   7. Reescribe los `href` del blog de origen (prixline.blog y
- *      prixline.wordpress.com, http/https, con o sin www.) a rutas
+ *   7. Reescribe los `href` del blog de origen (prixline.blog,
+ *      prixline.wordpress.com y el dominio vanity prix.com — http/https,
+ *      con o sin www.) a rutas
  *      internas: home → `/`, `/practicas/…` → `/practicas/`,
  *      `/cursos/…` → `/cursos/`, `/contacto` → `/contacto/` y los
  *      permalinks por fecha `/<año>/<mes>/<día>/<slug>/` →
@@ -144,7 +145,7 @@ function isWpAdminHref(decoded: string): boolean {
  * pertenece al blog de origen (se conserva tal cual).
  */
 function mapOriginHref(decoded: string): string | null | undefined {
-  const m = /^(?:https?:)?\/\/(?:www\.)?(?:prixline\.blog|prixline\.wordpress\.com)(?::\d+)?([^#?]*)(?:[?#]|$)/i.exec(
+  const m = /^(?:https?:)?\/\/(?:www\.)?(?:prixline\.blog|prixline\.wordpress\.com|prix\.com)(?::\d+)?([^#?]*)(?:[?#]|$)/i.exec(
     decoded,
   );
   if (m === null) return undefined;

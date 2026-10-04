@@ -199,6 +199,7 @@ describe('sanitizeArticleHtml — reescribe enlaces del blog de origen (T24)', (
       ['<a href="https://www.prixline.blog/practicas/">prácticas</a>', '<a href="/practicas/">prácticas</a>'],
       ['<a href="https://prixline.blog/cursos/">cursos</a>', '<a href="/cursos/">cursos</a>'],
       ['<a href="http://prixline.wordpress.com/cursos/">cursos</a>', '<a href="/cursos/">cursos</a>'],
+      ['<a href="http://www.prix.com/cursos">cursos</a>', '<a href="/cursos/">cursos</a>'],
       ['<a href="https://prixline.wordpress.com/contacto">contacto</a>', '<a href="/contacto/">contacto</a>'],
       ['<a href="http://prixline.wordpress.com/contacto/">contacto</a>', '<a href="/contacto/">contacto</a>'],
       ['<a href="https://prixline.blog/?p=123">inicio</a>', '<a href="/">inicio</a>'],
@@ -244,10 +245,12 @@ describe('sanitizeArticleHtml — reescribe enlaces del blog de origen (T24)', (
   });
 
   it('conserva enlaces de terceros y opiniones.wordpress.com', () => {
+    // Nota: prix.com YA no se conserva — redirige 301 a prixline.blog, así
+    // que se internaliza como el resto del blog de origen (decisión del
+    // usuario 2026-10-04: ningún link puede terminar en el blog).
     const html =
       '<a href="https://opiniones.wordpress.com/2009/03/20/la-crisis-segun-albert-einstein/">cita</a>' +
-      '<a href="http://avanzalaboral.com/2015/05/25/hoteles/">avanza</a>' +
-      '<a href="http://www.prix.com/cursos">cursos</a>';
+      '<a href="http://avanzalaboral.com/2015/05/25/hoteles/">avanza</a>';
     assert.equal(sanitizeArticleHtml(html), html);
   });
 
