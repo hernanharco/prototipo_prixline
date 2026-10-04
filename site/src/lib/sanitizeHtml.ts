@@ -24,6 +24,18 @@
  *   5. Conserva intactos imágenes, enlaces, formato y los embeds
  *      permitidos (bytes idénticos).
  *   6. Idempotente: sanear dos veces == sanear una vez.
+ *   7. Reescribe los `href` del blog de origen (prixline.blog y
+ *      prixline.wordpress.com, http/https, con o sin www.) a rutas
+ *      internas: home → `/`, `/practicas/…` → `/practicas/`,
+ *      `/cursos/…` → `/cursos/`, `/contacto` → `/contacto/` y los
+ *      permalinks por fecha `/<año>/<mes>/<día>/<slug>/` →
+ *      `/articulos/<slug>/` (slug = último segmento no vacío,
+ *      decodificado si va percent-encoded). Las anclas `wp-admin` (de
+ *      cualquier host) y cualquier href de origen sin ruta equivalente
+ *      se DISUELVEN: se eliminan las etiquetas `<a>`/`</a>` y se
+ *      conserva el texto interior (nunca queda un href al blog de
+ *      origen). Los enlaces de terceros (p. ej. opiniones.wordpress.com)
+ *      no se tocan.
  *
  * Nota: también se eliminan comentarios HTML `<!-- -->` (markup no
  * deseado que puede ocultar marcado hostil); el resto del contenido
@@ -119,6 +131,56 @@ function sanitizeTag(tag: string): string {
   return out;
 }
 
+/** ¿El href apunta a wp-admin (cualquier host)? Enlace de edición: disolver. */
+function isWpAdminHref(decoded: string): boolean {
+  const withoutQuery = decoded.split(/[?#]/)[0];
+  return /(?:^|\/)wp-admin(?:\/|$)/i.test(withoutQuery);
+}
+
+/**
+ * Mapea un href del blog de origen a una ruta interna (T24).
+ * Devuelve la ruta interna, `null` si el origen no tiene ruta equivalente
+ * (se disuelve el ancla conservando el texto) o `undefined` si la URL no
+ * pertenece al blog de origen (se conserva tal cual).
+ */
+function mapOriginHref(decoded: string): string | null | undefined {
+  const m = /^(?:https?:)?\/\/(?:www\.)?(?:prixline\.blog|prixline\.wordpress\.com)(?::\d+)?([^#?]*)(?:[?#]|$)/i.exec(
+    decoded,
+  );
+  if (m === null) return undefined;
+  const segments = (m[1] ?? '').split('/').filter((s) => s !== '');
+  if (segments.length === 0) return '/'; // home (con o sin query, p. ej. ?p=123)
+  const head = segments[0].toLowerCase();
+  if (head === 'practicas') return '/practicas/';
+  if (head === 'cursos') return '/cursos/';
+  if (head === 'contacto') return '/contacto/';
+  // Permalink por fecha: /AAAA/MM/DD/<slug>/ → /articulos/<slug>/
+  if (
+    segments.length >= 4 &&
+    /^\d{4}$/.test(segments[0]) &&
+    /^\d{2}$/.test(segments[1]) &&
+    /^\d{2}$/.test(segments[2])
+  ) {
+    const last = segments[segments.length - 1];
+    let slug: string;
+    try {
+      slug = decodeURIComponent(last);
+    } catch {
+      slug = last;
+    }
+    return slug === '' ? null : `/articulos/${slug}/`;
+  }
+  return null; // path de origen sin equivalente interno → disolver el ancla
+}
+
+/** Sustituye el valor del href de una etiqueta por la ruta interna. */
+function replaceHref(tag: string, mapped: string): string {
+  return tag.replace(
+    /(\shref\s*=\s*)(?:"[^"]*"|'[^']*'|[^\s>]+)/i,
+    (_match: string, prefix: string) => `${prefix}"${mapped}"`,
+  );
+}
+
 export function sanitizeArticleHtml(html: string): string {
   if (typeof html !== 'string' || html === '') return html;
   let out = html;
@@ -148,6 +210,36 @@ export function sanitizeArticleHtml(html: string): string {
     /<[a-zA-Z][^"'>]*(?:"[^"]*"|'[^']*'|[^"'>])*>/g,
     (tag: string) => sanitizeTag(tag),
   );
+
+  // T24: enlaces del blog de origen → rutas internas; anclas wp-admin o
+  // de paths no mapeables → disueltas conservando el texto interior.
+  out = out.replace(
+    /<a\b(?:"[^"]*"|'[^']*'|[^"'>])*?>[\s\S]*?<\/a\s*>/gi,
+    (element: string) => {
+      const open = /^<a\b(?:"[^"]*"|'[^']*'|[^"'>])*?>/i.exec(element)?.[0] ?? '';
+      const inner = element.slice(open.length).replace(/<\/a\s*>$/i, '');
+      const href = attrValue(open, 'href');
+      if (href === null) return element;
+      const decoded = decodeBasicEntities(href).trim();
+      if (isWpAdminHref(decoded)) return inner;
+      const mapped = mapOriginHref(decoded);
+      if (mapped === undefined) return element;
+      if (mapped === null) return inner;
+      return replaceHref(open, mapped) + element.slice(open.length);
+    },
+  );
+
+  // Anclas sueltas (sin </a>): misma regla sobre la etiqueta abierta.
+  out = out.replace(/<a\b(?:"[^"]*"|'[^']*'|[^"'>])*?>/gi, (tag: string) => {
+    const href = attrValue(tag, 'href');
+    if (href === null) return tag;
+    const decoded = decodeBasicEntities(href).trim();
+    if (isWpAdminHref(decoded)) return '';
+    const mapped = mapOriginHref(decoded);
+    if (mapped === undefined) return tag;
+    if (mapped === null) return '';
+    return replaceHref(tag, mapped);
+  });
 
   return out;
 }

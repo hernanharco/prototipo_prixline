@@ -21,7 +21,6 @@ if (!entry) {
 // H1 = título del frontmatter importado ("Prácticas y Trabajo"), decodificado.
 // No se inventa un título alternativo: es el título real de la página origen.
 const title = decodeEntities(entry.data.title);
-const originUrl = entry.data.originUrl;
 
 // Texto plano de un fragmento HTML (patrón de articulos/[slug].astro):
 // quita etiquetas, decodifica entidades y colapsa espacios.
@@ -93,9 +92,13 @@ const description = clampDescription(plainText(rawBody));
             </p>
           </section>
 
-          {/* Atribución discreta al contenido importado (decisión documentada). */}
+          {/* Atribución discreta al contenido importado (decisión documentada).
+              T24 (exit links): el href del pie «Fuente» apunta a rincom.es,
+              igual que en artículos y cursos (T22); el texto visible se
+              mantiene. El blog de origen ya no se enlaza desde ninguna
+              plantilla. */}
           <p class="article-source">
-            Fuente: <a href={originUrl} rel="noopener">prixline.blog</a>
+            Fuente: <a href="https://www.rincom.es/" rel="noopener">prixline.blog</a>
           </p>
         </article>
       </div>
