@@ -19,18 +19,19 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
 
 ## Tareas
 
-- [ ] T16. Extraer `generateId` de `site/src/content.config.ts` a un módulo
+- [x] T16. Extraer `generateId` de `site/src/content.config.ts` a un módulo
       puro `site/src/lib/entryId.ts` + test test-first (`node --test`):
       decode de slugs percent-encoded, fallback en secuencias malformadas,
-      slug numérico → string, id crudo sin `%`.
-- [ ] T17. Añadir `video.wordpress.com` a `EMBED_HOSTS` en
+      slug numérico → string, id crudo sin `%`. — commit `e5423dfc`
+- [x] T17. Añadir `video.wordpress.com` a `EMBED_HOSTS` en
       `site/src/lib/sanitizeHtml.ts` con test-first (RED: los tests que hoy
       exigen `''` pasan a exigir el iframe conservado); scripts `on*`
       siguen eliminados. Verificar en `site/dist` que el iframe del único
-      post afectado queda renderizado.
-- [ ] T18. Limpieza de docs: completar "Commits por tarea" en
+      post afectado queda renderizado. — commit `f50bd27f`
+- [x] T18. Limpieza de docs: completar "Commits por tarea" en
       `odd/tasks/prixline-internal-content.md` y quitar el comentario
-      `<!-- TODO: real domain -->` de `site/src/components/Footer.astro`.
+      `<!-- TODO: real domain -->` de `site/src/components/Footer.astro`. —
+      commit `06f923cc`
 - [ ] T19. Secrets de Vercel (usuario): `gh secret set VERCEL_TOKEN`
       (token de dashboard "No expiration") y `PUBLIC_YOUTUBE_API_KEY` en
       Vercel + redeploy para encender el badge EN VIVO.
@@ -46,7 +47,16 @@ Fuera de alcance (decisiones de producto, pendientes aparte):
 
 ## Evidencia
 
-- T16: (se rellena al cerrar)
-- T17: (se rellena al cerrar)
-- T18: (se rellena al cerrar)
+- T16: `e5423dfc` — RED `ERR_MODULE_NOT_FOUND` (1 test) → GREEN **5/5**;
+  suite completa scripts **76/76**; `site/src/lib/*.test.mjs` **13/13**;
+  tsc estricto 0; módulo puro (0 imports, sin `any`).
+- T17: `f50bd27f` — RED **23/26** (3 aserciones flipeadas fallan) → GREEN
+  **26/26**, suite scripts **76/76** (+1 test positivo: atributos
+  conservados, `on*` quitado); build Astro **1.120 páginas**, check 0/0/0;
+  iframe VideoPress presente en `site/dist/articulos/la-opinion-y-el-
+  comentario-de-rosa.../index.html`; 0 `onerror`/`onclick` y 0
+  `videopress-iframe.js` en dist.
+- T18: `06f923cc` — placeholder de fase 3 completado con los commits
+  reales (`2f7f8c51`/`6b382661`/`70014968`/`3dd8a4ac`/`a2522172`),
+  `<!-- TODO: real domain -->` eliminado, check 0 errores.
 - T19: (acción del usuario — se registra al ejecutarse)
