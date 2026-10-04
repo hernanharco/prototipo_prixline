@@ -164,9 +164,9 @@ function mapOriginHref(decoded: string): string | null | undefined {
     const last = segments[segments.length - 1];
     let slug: string;
     try {
-      slug = decodeURIComponent(last);
+      slug = encodeURIComponent(decodeURIComponent(last));
     } catch {
-      slug = last;
+      slug = encodeURIComponent(last);
     }
     return slug === '' ? null : `/articulos/${slug}/`;
   }

@@ -213,7 +213,8 @@ describe('sanitizeArticleHtml — reescribe enlaces del blog de origen (T24)', (
       ['<a href="https://prixline.blog/2016/03/11/mi-slug/">art</a>', '<a href="/articulos/mi-slug/">art</a>'],
       ['<a href="http://prixline.wordpress.com/2012/12/11/ingles/">art</a>', '<a href="/articulos/ingles/">art</a>'],
       ['<a href="https://prixline.wordpress.com/2012/12/11/ingles/escuelas-de-ingles-prixline/">art</a>', '<a href="/articulos/escuelas-de-ingles-prixline/">art</a>'],
-      ['<a href="https://prixline.blog/2016/03/11/mi%20slug/">art</a>', '<a href="/articulos/mi slug/">art</a>'],
+      ['<a href="https://prixline.blog/2016/03/11/mi%20slug/">art</a>', '<a href="/articulos/mi%20slug/">art</a>'],
+      ['<a href="https://prixline.blog/2016/03/11/bad%zz/">art</a>', '<a href="/articulos/bad%25zz/">art</a>'],
     ];
     for (const [input, expected] of cases) {
       assert.equal(sanitizeArticleHtml(input), expected, input);
