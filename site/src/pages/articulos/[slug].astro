@@ -30,7 +30,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const title = decodeEntities(entry.data.title);
-const originUrl = entry.data.originUrl;
+// T22 (exit links): el pie «Fuente» apunta a https://www.rincom.es/
+// (decisión del usuario), nunca al blog de origen.
 
 // Texto plano de un fragmento HTML: quita etiquetas, decodifica entidades
 // y colapsa espacios (incluido &nbsp;).
@@ -123,7 +124,7 @@ const description = clampDescription(
           </section>
 
           <p class="article-source">
-            Fuente: <a href={originUrl} rel="noopener">prixline.blog</a>
+            Fuente: <a href="https://www.rincom.es/" rel="noopener">prixline.blog</a>
           </p>
         </article>
       </div>

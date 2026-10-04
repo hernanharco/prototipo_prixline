@@ -30,7 +30,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const title = decodeEntities(entry.data.title);
 const body = entry.body ?? '';
-const sourceUrl = entry.data.sourceUrl;
+// T22 (exit links): el pie «Fuente» apunta a https://www.rincom.es/
+// (decisión del usuario), nunca al blog de origen.
 
 // Meta description derivada del cuerpo (no hardcodeada): primeros ~155
 // caracteres tras quitar la línea `# ...` inicial y colapsar espacios,
@@ -86,7 +87,7 @@ const description = deriveDescription(body);
         </section>
 
         <p class="course-source">
-          Fuente: <a href={sourceUrl} rel="noopener">prixline.blog</a>
+          Fuente: <a href="https://www.rincom.es/" rel="noopener">prixline.blog</a>
         </p>
       </div>
     </main>
