@@ -1,0 +1,29 @@
+name: Deploy Frontend
+
+# Estándar del ecosistema (core/deploy/DEPLOY-PIPELINE.md): push a main ->
+# build + deploy a Vercel. El build es remoto: vercel.json en la raíz manda
+# a instalar/construir dentro de site/ porque content/ vive fuera de site/.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "content/**"
+      - "scripts/**"
+      - "vercel.json"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy to Vercel (remote build)
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          npm i -g vercel@latest
+          vercel --prod --yes --token "${{ secrets.VERCEL_TOKEN }}"
