@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con 15 Frases motivadoras para Emprendedores. Vía Un saludo 15 Frases motivadoras para Emprendedores View original post"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/10/frases-inspiradoras-infografia.png?w=660&h=2542"
+thumbnail: "/media/uploads/2015/10/frases-inspiradoras-infografia.png"
 thumbnailAlt: ""
 ---
 
@@ -23,5 +23,5 @@ thumbnailAlt: ""
 
 <p>Un saludo</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/10/frases-inspiradoras-infografia.png"><img loading="lazy" class="size-full wp-image-80139" src="https://prixline.wordpress.com/wp-content/uploads/2015/10/frases-inspiradoras-infografia.png?w=660&#038;h=2542" height="2542" width="660" alt="15 Frases motivadoras para Emprendedores"></a> 15 Frases motivadoras para Emprendedores </p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/10/frases-inspiradoras-infografia.png"><img loading="lazy" class="size-full wp-image-80139" src="/media/uploads/2015/10/frases-inspiradoras-infografia.png" height="2542" width="660" alt="15 Frases motivadoras para Emprendedores"></a> 15 Frases motivadoras para Emprendedores </p>
 </div><p class="reblog-source"><a href="http://ticsyformacion.com/2015/10/20/15-frases-motivadoras-para-emprendedores-infografia-citas-quotes-entrepreneurship">View original post</a></p></div></div>

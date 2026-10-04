@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: ¿Eres una chica o chico entre 18 y 30 años y te apetece colaboraren un centro educativo de Holanda y no tienes planes para los próximos meses? ¿Te gusta viajar? ¿Te apetece aprender y practicar otros idiomas? ¡Pues no dejes escapar esta oportunidad! Desde la organización Stichting IJSiq foundation ofrecen realizar varios proyectos de voluntariado en Vlijmen&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/12/cuerpo-europeo-solidaridad.png?w=150&h=33"
+thumbnail: "/media/uploads/2018/12/cuerpo-europeo-solidaridad.png"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 <p>Para más información: Hilda Spelled + 31 6 1995 2886.<br />
 Si te interesa esta oportunidad, inscríbete con urgencia antes del 30 de diciembre de 2018.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://mocedastur.wordpress.com/2018/12/17/voluntariado-europeo-en-holanda/">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class="alignright size-thumbnail wp-image-62207" src="https://prixline.wordpress.com/wp-content/uploads/2018/12/cuerpo-europeo-solidaridad.png?w=150&#038;h=33" height="33" width="150">¿Eres una <strong>chica o chico </strong>entre <strong>18 y 30  años </strong>y te apetece colaboraren un <strong>centro educativo de Holanda </strong>y no tienes planes para los próximos meses? ¿Te gusta viajar? ¿Te apetece aprender y practicar otros idiomas? ¡Pues no dejes escapar esta oportunidad!</p>
+<p style="text-align:justify"><img class="alignright size-thumbnail wp-image-62207" src="/media/uploads/2018/12/cuerpo-europeo-solidaridad.png" height="33" width="150">¿Eres una <strong>chica o chico </strong>entre <strong>18 y 30  años </strong>y te apetece colaboraren un <strong>centro educativo de Holanda </strong>y no tienes planes para los próximos meses? ¿Te gusta viajar? ¿Te apetece aprender y practicar otros idiomas? ¡Pues no dejes escapar esta oportunidad!</p>
 
 <p style="text-align:justify">Desde la organización <strong>Stichting IJSiq foundation </strong>ofrecen realizar varios proyectos  de voluntariado <strong>en Vlijmen </strong>(Países Bajos) desde el <strong>6 de enero al 31 de diciembre </strong>de 2019 (12 meses)</p>
 

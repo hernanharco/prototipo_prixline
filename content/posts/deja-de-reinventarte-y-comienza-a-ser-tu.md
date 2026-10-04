@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: La R.A.E, dice que la palabra REINVENTAR, no se encuentra en el Diccionario. En cambio, si vamos a la palabra Inventar, dice: “Fingir hechos falsos“. Por lo tanto si uniéramos el prefijo re- a la palabra inventar, podríamos definir reinventar como ” volver a fingir hechos falsos”.&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/04/11.png?w=275&h=183"
+thumbnail: "/media/uploads/2019/04/11.png"
 thumbnailAlt: ""
 ---
 
@@ -21,7 +21,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2019/04/10/deja-de-reinventarte-y-comienza-a-ser-tu/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p><strong>La R.A.E, dice que la palabra REINVENTAR, no se encuentra en el Diccionario.</strong></p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/04/11.png"><img class="alignleft size-full wp-image-6833" src="https://prixline.wordpress.com/wp-content/uploads/2019/04/11.png?w=275&#038;h=183" height="183" width="275"></a>En cambio, si vamos a la palabra Inventar, dice: “<em>Fingir hechos falsos</em>“. Por lo tanto si uniéramos el prefijo re- a la palabra inventar, podríamos definir reinventar como ” <em>volver a fingir hechos falsos”.</em></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/04/11.png"><img class="alignleft size-full wp-image-6833" src="/media/uploads/2019/04/11.png" height="183" width="275"></a>En cambio, si vamos a la palabra Inventar, dice: “<em>Fingir hechos falsos</em>“. Por lo tanto si uniéramos el prefijo re- a la palabra inventar, podríamos definir reinventar como ” <em>volver a fingir hechos falsos”.</em></p>
 
 <p>¿Verdad?</p>
 

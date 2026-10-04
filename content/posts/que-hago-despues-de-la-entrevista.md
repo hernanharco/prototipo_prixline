@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Una vez realizada la entrevista de trabajo, por fin, no tenemos del todo claro si nos ha ido bien o mal. Ahora es el momento de esperar una llamada que confirme si hemos sido seleccionados o no. Esta espera se hace dura, los días pasan y pasan… ¿Por qué no&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg?w=300&h=200"
+thumbnail: "/media/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg"
 thumbnailAlt: ""
 ---
 
@@ -23,7 +23,7 @@ correo electrónico o llamada de seguimiento para averiguar si han tomado una de
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='tipsforwork&#039;s avatar' src='https://1.gravatar.com/avatar/d475a2251f7ebf640658af253006dac71ba3cc048261c8fc71f4a3fc85ae7553?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://tipsforwork.wordpress.com/2015/04/27/que-hago-despues-de-la-entrevista">Tips For Work</a></p><div class="reblogged-content">
 <p style="text-align:center">Una vez realizada la entrevista de trabajo, por fin, no tenemos del todo claro si nos ha ido bien o mal. Ahora es el momento de esperar una llamada que confirme si hemos sido seleccionados o no. Esta espera se hace dura, los días pasan y pasan…</p>
 
-<p style="text-align:center"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg"><img class="alignnone size-medium wp-image-576" src="https://prixline.wordpress.com/wp-content/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg?w=300&#038;h=200" height="200" width="300" alt="Por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5"></a></p>
+<p style="text-align:center"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg"><img class="alignnone size-medium wp-image-576" src="/media/uploads/2015/04/por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5.jpg" height="200" width="300" alt="Por-que-el-tiempo-pasa-mas-rapido-al-envejecer-5"></a></p>
 
 <h5 style="text-align:center">¿Por qué no me llaman? ¿tendré que llamar yo?</h5>
 

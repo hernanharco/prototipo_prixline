@@ -30,7 +30,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "La tasa de desempleo juvenil en España es de casi el 49%, es decir uno de cada dos jóvenes de entre 16 y 29 años está sin trabajo. Es una situación trágica para todos los jóvenes pero especialmente para aquellos que acaban sus estudios y ven que tienen prácticamente imposible acceder al mercado laboral sin [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/01/20130102-133901.jpg"
+thumbnail: "/media/uploads/2013/01/20130102-133901.jpg"
 thumbnailAlt: ""
 ---
 
@@ -44,4 +44,4 @@ thumbnailAlt: ""
 <p>&#8211;<strong>Realizar prácticas</strong>: Adquirir experiencia es clave para ser elegido en las selecciones de personal, si no las puedes adquirir trabajando planteate realizar prácticas en empresas de tu sector. Seguramente no puedan ser remuneradas económicamente dada la situación por la que pasan la mayoría de empresas pero la experiencia laboral que obtendrás de ella debe de ser por el momento una buena moneda de cambio.</p>
 <p>&#8211;<strong>Lanzarte a crear tu propia empresa</strong>: Ser joven es sinónimo de ser creativo, tener ilusión, ser positivo, arriesgar, etc., si tienes una buena idea Internet y las ayudas que ofrecen a los jóvenes emprendedores distintas instituciones de todo el Estado pueden ayudarte mucho a intentar crear tu propio negocio sin tener que arriesgar demasiado. ¡Si poniéndonos en los peor el negocio no funciona piensa que al menos habrás adquirido una importante experiencia muy valorada por las empresas!</p>
 <p>&#8211;<strong>Opositar</strong>: Si hay algún puesto de empleo público que te interese o las condiciones laborales de los funcionarios te parecen envidiables, otra de las opciones con la que cuentas es la de preparar unas oposiciones. ¡Con esta edad tienes varias ventajas frente al resto de opositores&#8230; tienes mucho tiempo como para prepararlas lo suficiente para aprobarlas, tienes el hábito del estudio, etc.!</p>
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/01/20130102-133901.jpg"><img src="https://prixline.wordpress.com/wp-content/uploads/2013/01/20130102-133901.jpg" alt="20130102-133901.jpg" class="alignnone size-full" /></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/01/20130102-133901.jpg"><img src="/media/uploads/2013/01/20130102-133901.jpg" alt="20130102-133901.jpg" class="alignnone size-full" /></a></p>

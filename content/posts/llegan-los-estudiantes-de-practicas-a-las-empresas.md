@@ -24,7 +24,7 @@ originCategories:
   - "trabajo"
   - "Trabajo"
 excerpt: "Llega el verano, llegan los estudiantes de prácticas a las empresas. Una colaboración en la que salen ganando todas las partes si se aprovecha al máximo. El becario gana experiencia y pone en uso sus conocimientos, e incluso, puede ganar un contrato. Mientras, la empresa identifica talento y delega ciertas tareas. De julio a septiembre, [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/06/20120627-222136.jpg"
+thumbnail: "/media/uploads/2012/06/20120627-222136.jpg"
 thumbnailAlt: ""
 ---
 
@@ -41,4 +41,4 @@ Entusiasmo, interés e ilusión son tres de las características del buen becari
 El estudiante de prácticas no es el chico para todo. Su responsable debe establecer con claridad cuáles son sus tareas, seguir su evolución, analizar sus logros y acordar soluciones para los posibles errores. “Se debe indicar qué debe hacer y cómo debe hacerlo. Y luego, supervisar esa tarea”, indica el socio director de Incrementis.</p>
 <p>La actuación del estudiante durante el verano influirá en su desarrollo posterior: las prácticas pueden alargarse o, incluso, terminar en un contrato. También puede darse el caso de que algún empleado salga de la empresa y el jefe decida contratar al becario.</p>
 <p>“Las prácticas constituyen una fuente muy importante de reclutamiento, de identificación del talento, de perfiles profesionales acordes con las necesidades”, explica Arroyo.</p>
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/06/20120627-222136.jpg"><img class="alignnone size-full" src="https://prixline.wordpress.com/wp-content/uploads/2012/06/20120627-222136.jpg" alt="20120627-222136.jpg" /></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/06/20120627-222136.jpg"><img class="alignnone size-full" src="/media/uploads/2012/06/20120627-222136.jpg" alt="20120627-222136.jpg" /></a></p>

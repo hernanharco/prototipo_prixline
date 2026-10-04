@@ -14,7 +14,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "La Empres Roche Healthcare Ltd realiza selección de enfermeros/as y auxiliares de enfermería para residencias geriátricas ubicadas en Norte y Oeste de Yorkshire en Reino Unido. Requisitos: Auxiliares de Enfermería: – Técnico/a de Cuidados Auxiliares de Enfermería, Técnico/a en Atención Sociosanitaria, Técnico/a en Atención a Personas en situación de Dependencia. – Experiencia de al menso [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/11/img_2015.jpg"
+thumbnail: "/media/uploads/2015/11/img_2015.jpg"
 thumbnailAlt: ""
 ---
 
@@ -43,4 +43,4 @@ thumbnailAlt: ""
 <p>Enviar CV en inglés a la dirección de correo electrónico: cristina@rochehealthcare.com</p>
 <p>Web:</p>
 <p><a href="http://www.rochehealthcare.co.uk/" target="_blank">http://www.rochehealthcare.co.uk/</a></p>
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/11/img_2015.jpg"><img src="https://prixline.wordpress.com/wp-content/uploads/2015/11/img_2015.jpg" alt="" /></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/11/img_2015.jpg"><img src="/media/uploads/2015/11/img_2015.jpg" alt="" /></a></p>

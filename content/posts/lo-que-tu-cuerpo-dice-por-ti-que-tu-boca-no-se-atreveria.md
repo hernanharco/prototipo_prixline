@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Tanto que decir sin siquiera llegar a mover los labios. Tanto que callar y sin saber estarnos quietos. Y es que muchas veces no es que una imagen valga más que mil palabras, es que decimos más con lo que hacemos con nuestro cuerpo que&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/12/errores-lenguaje-corporal.jpg?w=750&h=562"
+thumbnail: "/media/uploads/2016/12/errores-lenguaje-corporal.jpg"
 thumbnailAlt: ""
 ---
 
@@ -25,5 +25,5 @@ thumbnailAlt: ""
 
 <p style="text-align:justify">Me lío, será que ya es viernes…. aquí os dejo la infografía de esta semana, gracias a un tweet de <a href="https://twitter.com/rgprofesional/status/802297571024703488?s=09">Rául González</a>:</p>
 
-<p style="text-align:justify"><img class=" size-full wp-image-9812 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2016/12/errores-lenguaje-corporal.jpg?w=750&#038;h=562" height="562" width="750" alt="errores-lenguaje-corporal"></p>
+<p style="text-align:justify"><img class=" size-full wp-image-9812 aligncenter" src="/media/uploads/2016/12/errores-lenguaje-corporal.jpg" height="562" width="750" alt="errores-lenguaje-corporal"></p>
 </div><p class="reblog-source"><a href="http://sobrevivirrhhe.com/2016/12/02/lo-que-tu-cuerpo-dice-por-ti-que-tu-boca-no-se-atreveria">View original post</a></p></div></div>

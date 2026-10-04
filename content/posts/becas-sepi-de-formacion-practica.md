@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación SEPI convoca 55 becas ampliables correspondientes al Programa Red Eléctrica de España Practica+2016. Las becas tendrán una duración de nueves meses. La formación se llevará a cabo en cualquiera de los centros de trabajo de REE tiene establecidos en España. Las personas beneficiarias percibirán una asignación mensual de 750 ó&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/fundacic3b3n_sepi.jpg?w=100&h=100"
+thumbnail: "/media/uploads/2016/08/fundacic3b3n_sepi.jpg"
 thumbnailAlt: ""
 ---
 
@@ -25,7 +25,7 @@ C/ Quintana, 2-3ª planta<br />
 91 548 83 55<br />
 <a href="mailto:becas@fundacionsepi.es">becas@fundacionsepi.es</a></p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://mocedastur.wordpress.com/2016/08/11/becas-sepi-de-formacion-practica">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/08/fundacic3b3n_sepi.jpg"><img class="alignright wp-image-5972" src="https://prixline.wordpress.com/wp-content/uploads/2016/08/fundacic3b3n_sepi.jpg?w=100&#038;h=100" height="100" width="100" alt="Fundación_SEPI"></a>La <strong>Fundación SEPI</strong> convoca <strong>55 becas </strong>ampliables correspondientes<strong> al Programa Red Eléctrica de España Practica+2016</strong>.</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/08/fundacic3b3n_sepi.jpg"><img class="alignright wp-image-5972" src="/media/uploads/2016/08/fundacic3b3n_sepi.jpg" height="100" width="100" alt="Fundación_SEPI"></a>La <strong>Fundación SEPI</strong> convoca <strong>55 becas </strong>ampliables correspondientes<strong> al Programa Red Eléctrica de España Practica+2016</strong>.</p>
 
 <p style="text-align:justify">Las becas tendrán una <strong>duración</strong> de nueves meses.</p>
 

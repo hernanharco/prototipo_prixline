@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : [NP] El panorama laboral no deja de evolucionar. En plena transformación digital, la forma de entender el trabajo y de trabajar también está cambiando. Por ello, las empresas deben adaptarse a las nuevas tecnologías para que los empleados se sientan más satisfechos, motivados y productivos.&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/02/smart-working1.png?w=1024&h=512"
+thumbnail: "/media/uploads/2018/02/smart-working1.png"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 
 <p style="text-align:justify">Hoy en día, gracias a Internet se puede tener acceso a todos los sistemas de información que ofrece la compañía. Esto permite que aparezcan innovaciones como el <strong>Smart Working</strong>, una nueva metodología de trabajo basada en dar al trabajador todas las herramientas necesarias para alcanzar su máximo rendimiento profesional en cualquier lugar. Según el INE, solo el 27% de las empresas de España permite actualmente a sus trabajadores teletrabajar.</p>
 
-<p><img class=" size-full wp-image-13984 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2018/02/smart-working1.png?w=1024&#038;h=512" height="512" width="1024" alt="Smart working"></p>
+<p><img class=" size-full wp-image-13984 aligncenter" src="/media/uploads/2018/02/smart-working1.png" height="512" width="1024" alt="Smart working"></p>
 
 <p style="text-align:justify">Esta forma inteligente de teletrabajar, como la denominan ya algunos expertos, supone a su vez importantes retos desde el punto de vista legal. Retos que recoge el <strong>Memento Social</strong>, una obra de la editorial…</p>
 </div><p class="reblog-source"><a href="http://sobrevivirrhhe.com/2018/02/20/revolucion-trabajo-smart-working/">View original post</a> <span class="more-words">407 more words</span></p></div></div>

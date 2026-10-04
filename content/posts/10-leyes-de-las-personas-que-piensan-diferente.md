@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La persona que sigue a la multitud normalmente no irá más allá de la multitud. La persona que camina sola probablemente se encontrará en lugares donde nadie ha estado antes” decía Albert Einstein. Cada día, el “Desarrollo personal Low cost” que se encuentra en medios de comunicación&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/06/on2.jpg?w=300&h=200"
+thumbnail: "/media/uploads/2019/06/on2.jpg"
 thumbnailAlt: ""
 ---
 
@@ -21,7 +21,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2019/06/02/10-leyes-de-las-personas-que-piensan-diferente/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p><em><strong>“La persona que sigue a la multitud normalmente no irá más allá de la multitud. La persona que camina sola probablemente se encontrará en lugares donde nadie ha estado ante</strong></em>s” decía Albert Einstein.</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/06/on2.jpg"><img class="alignleft size-medium wp-image-6951" src="https://prixline.wordpress.com/wp-content/uploads/2019/06/on2.jpg?w=300&#038;h=200" height="200" width="300"></a>Cada día, el “Desarrollo personal Low cost” que se encuentra en medios de comunicación nos dice que tenemos que ser nosotros mismos.</p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/06/on2.jpg"><img class="alignleft size-medium wp-image-6951" src="/media/uploads/2019/06/on2.jpg" height="200" width="300"></a>Cada día, el “Desarrollo personal Low cost” que se encuentra en medios de comunicación nos dice que tenemos que ser nosotros mismos.</p>
 
 <p>Ser la mejor versión de nosotros mismos, cuando en realidad, lo único que tenemos que hacer , es ser SIEMPRE NOSOTROS MISMOS.</p>
 

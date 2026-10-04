@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Hace unos meses repasábamos los 10 mandamientos de la búsqueda de empleo en redes sociales. En primer lugar, señalábamos que nunca debemos abandonar los canales tradicionales a favor de las mismas. De hecho, un gran error es apostar todas nuestras cartas a las populares redes, ya&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/04/redes-sociales-y-bc3basqueda-de-empleo.png?w=1024&h=512"
+thumbnail: "/media/uploads/2017/04/redes-sociales-y-bc3basqueda-de-empleo.png"
 thumbnailAlt: ""
 ---
 
@@ -18,7 +18,7 @@ thumbnailAlt: ""
 
 <div class="wpcom-reblog-snapshot"><div class="reblogger-note"><div class='reblogger-note-content'><blockquote><p>El experto en redes también nos explica el tanto por ciento necesario para construir una correcta reputación personal. Aproximadamente el 80% de nuestras aportaciones cibernéticas deben aportar valor de interés para nuestro sector laboral.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2017/04/11/las-redes-sociales-en-la-busqueda-de-empleo">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class=" size-full wp-image-11475 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2017/04/redes-sociales-y-bc3basqueda-de-empleo.png?w=1024&#038;h=512" height="512" width="1024" alt="redes sociales y búsqueda de empleo"></p>
+<p style="text-align:justify"><img class=" size-full wp-image-11475 aligncenter" src="/media/uploads/2017/04/redes-sociales-y-bc3basqueda-de-empleo.png" height="512" width="1024" alt="redes sociales y búsqueda de empleo"></p>
 
 <p style="text-align:justify">Hace unos meses repasábamos los 10 mandamientos de la búsqueda de empleo en redes sociales. En primer lugar, señalábamos que nunca debemos abandonar los canales tradicionales a favor de las mismas. De hecho, un gran error es apostar todas nuestras cartas a las populares redes, ya que tenemos altas probabilidades de perder la partida.</p>
 

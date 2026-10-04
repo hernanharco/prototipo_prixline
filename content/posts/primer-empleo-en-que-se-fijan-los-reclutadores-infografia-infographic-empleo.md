@@ -17,7 +17,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "TICs y Formación Hola: Una infografía sobre Primer empleo: en qué se fijan los reclutadores. Vía Un saludo Primer empleo: en qué se fijan los reclutadores View original post"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/infografia-primer-empleo.jpg?w=800&h=800"
+thumbnail: "/media/uploads/2014/09/infografia-primer-empleo.jpg"
 thumbnailAlt: ""
 ---
 
@@ -30,5 +30,5 @@ thumbnailAlt: ""
 
 <p>Un saludo</p>
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/09/infografia-primer-empleo.jpg"><img loading="lazy" class="size-full wp-image-65378" src="http://prixline.wordpress.com/wp-content/uploads/2014/09/infografia-primer-empleo.jpg?w=800&#038;h=800" height="800" width="800" alt="Primer empleo: en qué se fijan los reclutadores"></a> Primer empleo: en qué se fijan los reclutadores </p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/09/infografia-primer-empleo.jpg"><img loading="lazy" class="size-full wp-image-65378" src="/media/uploads/2014/09/infografia-primer-empleo.jpg" height="800" width="800" alt="Primer empleo: en qué se fijan los reclutadores"></a> Primer empleo: en qué se fijan los reclutadores </p>
 </div><p class="reblog-source"><a href="http://ticsyformacion.com/2014/09/28/primer-empleo-en-que-se-fijan-los-reclutadores-infografia-infographic-empleo">View original post</a></p></div></div>

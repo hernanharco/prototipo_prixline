@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía sobre 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo. Vía Infojobs. Un saludo 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo View original post"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png?w=660&h=1628"
+thumbnail: "/media/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png"
 thumbnailAlt: ""
 ---
 
@@ -23,5 +23,5 @@ thumbnailAlt: ""
 
 <p>Un saludo</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png"><img class="size-full wp-image-72750" src="https://prixline.wordpress.com/wp-content/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png?w=660&#038;h=1628" height="1628" width="660" alt="7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo"></a> 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo </p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png"><img class="size-full wp-image-72750" src="/media/uploads/2015/03/7-aspectos-busqueda-empleo-infografia.png" height="1628" width="660" alt="7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo"></a> 7 aspectos críticos que te obligan a cambiar el sistema de buscar empleo </p>
 </div><p class="reblog-source"><a href="http://ticsyformacion.com/2015/03/30/7-aspectos-criticos-que-te-obligan-a-cambiar-el-sistema-de-buscar-empleo-infografia-empleo-rrhh">View original post</a></p></div></div>

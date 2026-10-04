@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Eres libre de tomar tus decisiones pero también prisionero de las consecuencias“. Hoy los resultados del Brexit han dicho que Reino Unido, ha decidido que quiere salir de la Unión Europea. ¡¡QUE HORROR!! ¿Qué nos va a pasar? ¿Y con Gibraltar? Son algunas de las expresiones que&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/06/me-quiere-no-me-quiere-1.jpg?w=300&h=202"
+thumbnail: "/media/uploads/2016/06/me-quiere-no-me-quiere-1.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2016/06/24/la-vida-es-un-brexit-continuo">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p style="text-align:justify">“<strong><em>Eres libre de tomar tus decisiones pero también prisionero de las consecuencias</em></strong>“.</p>
 
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/06/me-quiere-no-me-quiere-1.jpg"><img class="alignleft size-medium wp-image-4738" src="https://prixline.wordpress.com/wp-content/uploads/2016/06/me-quiere-no-me-quiere-1.jpg?w=300&#038;h=202" height="202" width="300" alt="BREXIT"></a>Hoy los resultados del Brexit han dicho que Reino Unido, ha decidido que quiere salir de la Unión Europea.</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/06/me-quiere-no-me-quiere-1.jpg"><img class="alignleft size-medium wp-image-4738" src="/media/uploads/2016/06/me-quiere-no-me-quiere-1.jpg" height="202" width="300" alt="BREXIT"></a>Hoy los resultados del Brexit han dicho que Reino Unido, ha decidido que quiere salir de la Unión Europea.</p>
 
 <p style="text-align:justify">¡¡QUE HORROR!! ¿Qué nos va a pasar? ¿Y con Gibraltar?</p>
 

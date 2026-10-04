@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Por fin se han despejado todas mis dudas. Después de años y años dejándome los cuernos en el trabajo, y ver cómo hasta el más tonto subía hasta lo más alto y era ascendido e incluso recompensado con despachos propios y cargos vacios de contenido sólo&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/por-tu-cara-bonita.jpg?w=450&h=586"
+thumbnail: "/media/uploads/2016/09/por-tu-cara-bonita.jpg"
 thumbnailAlt: ""
 ---
 
 # Por tu cara bonita. 
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2016/09/20/por-tu-cara-bonita">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class="alignright size-full wp-image-8881" src="https://prixline.wordpress.com/wp-content/uploads/2016/09/por-tu-cara-bonita.jpg?w=450&#038;h=586" height="586" width="450" alt="por-tu-cara-bonita">Por fin se han despejado todas mis dudas.</p>
+<p style="text-align:justify"><img class="alignright size-full wp-image-8881" src="/media/uploads/2016/09/por-tu-cara-bonita.jpg" height="586" width="450" alt="por-tu-cara-bonita">Por fin se han despejado todas mis dudas.</p>
 
 <p style="text-align:justify">Después de años y años dejándome los cuernos en el trabajo, y ver cómo <strong>hasta el más tonto subía hasta lo más alto</strong> y era ascendido e incluso recompensado con despachos propios y cargos vacios de contenido sólo para que no dieran mucha guerra; por fin, llega el artículo que pone los puntos a las “íes”.</p>
 

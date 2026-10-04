@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ¿Cansado de que tu inglés sea nivel medio como el del 90% de los CV de este país? Pues aquí tenemos la solución definitiva, que no mágica, que algo de esfuerzo y dedicación habrá que echarle, you know! Ni más ni menos que cinco aplicaciones,&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/09/learnenglishlanguage1.jpg?w=399&h=301"
+thumbnail: "/media/uploads/2015/09/learnenglishlanguage1.jpg"
 thumbnailAlt: ""
 ---
 
 # Learning English por la&nbsp;patilla
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2015/09/25/learning-english-por-la-patilla">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/09/learnenglishlanguage1.jpg"><img class="alignright size-full wp-image-4015" src="https://prixline.wordpress.com/wp-content/uploads/2015/09/learnenglishlanguage1.jpg?w=399&#038;h=301" height="301" width="399" alt="Learning English por la patilla"></a>¿Cansado de que tu inglés sea <a href="http://sobrevivirrhhe.com/2014/03/19/ingles-nivel-medio/http://sobrevivirrhhe.com/2014/03/19/ingles-nivel-medio/">nivel medio</a> como el del 90% de los CV de este país?</p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/09/learnenglishlanguage1.jpg"><img class="alignright size-full wp-image-4015" src="/media/uploads/2015/09/learnenglishlanguage1.jpg" height="301" width="399" alt="Learning English por la patilla"></a>¿Cansado de que tu inglés sea <a href="http://sobrevivirrhhe.com/2014/03/19/ingles-nivel-medio/http://sobrevivirrhhe.com/2014/03/19/ingles-nivel-medio/">nivel medio</a> como el del 90% de los CV de este país?</p>
 
 <p>Pues aquí tenemos la solución definitiva, que no mágica, que algo de esfuerzo y dedicación habrá que echarle, you know!</p>
 

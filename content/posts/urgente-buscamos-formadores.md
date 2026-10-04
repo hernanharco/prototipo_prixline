@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para Certificado de Profesionalidad de Seguridad Informática. ¡URGENTE! BUSCAMOS FORMADORES Formadores para impartir Certificado de Profesionalidad – Seguridad Informática. • Ingenieros o Licenciados. • Un año de experiencia profesional en el sector. • Capacitación docente documentada (CAP, Master o certificado de haber impartido más de 1.000 h. de&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/06/formador.png?w=470&h=246"
+thumbnail: "/media/uploads/2015/06/formador.png"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='El Blog de TEIDE-HEASE&#039;s avatar' src='https://2.gravatar.com/avatar/5072f325eae065a28fe7a4b90d6b679d94d9e48aa90b2afb1f594b9331272509?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://elblogdeteidehease.com/2015/06/18/urgente-buscamos-formadores">El Blog de TEIDE-HEASE </a></p><div class="reblogged-content">
 <h3 style="text-align:center">Para Certificado de Profesionalidad de Seguridad Informática.</h3>
 
-<p><span style="font-size:11px;color:#808080"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/06/formador.png"><img class="alignleft size-full wp-image-11008" src="https://prixline.wordpress.com/wp-content/uploads/2015/06/formador.png?w=470&#038;h=246" height="246" width="470" alt="Formador"></a>¡URGENTE! BUSCAMOS FORMADORES<br>
+<p><span style="font-size:11px;color:#808080"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/06/formador.png"><img class="alignleft size-full wp-image-11008" src="/media/uploads/2015/06/formador.png" height="246" width="470" alt="Formador"></a>¡URGENTE! BUSCAMOS FORMADORES<br>
 Formadores para impartir Certificado de Profesionalidad – Seguridad Informática.<br>
 • Ingenieros o Licenciados.<br>
 • Un año de experiencia profesional en el sector.<br>

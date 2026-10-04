@@ -20,14 +20,14 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on El Blog de Iñaki González : Seguro que has oído más de una vez eso de que el que se mueve no sale en la foto, no? Pues en LinkedIn le damos otra vuelta de tuerca, porque el que no salga en la foto, no se come un rosco… y ya&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/01/perfil-linkedin1.png?w=407&h=140"
+thumbnail: "/media/uploads/2015/01/perfil-linkedin1.png"
 thumbnailAlt: ""
 ---
 
 # Estos son los errores que puedes estar cometiendo con tu foto de&nbsp;Linkedin.
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2015/01/12/estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p><a href="http://es.linkedin.com/in/joseignaciogonzalezrodriguez/"><img class=" wp-image-3355 alignright" src="https://prixline.wordpress.com/wp-content/uploads/2015/01/perfil-linkedin1.png?w=407&#038;h=140" height="140" width="407" alt="Errores perfil linkedin"></a>Seguro que has oído más de una vez eso de que el que se mueve no sale en la foto, no?</p>
+<p><a href="http://es.linkedin.com/in/joseignaciogonzalezrodriguez/"><img class=" wp-image-3355 alignright" src="/media/uploads/2015/01/perfil-linkedin1.png" height="140" width="407" alt="Errores perfil linkedin"></a>Seguro que has oído más de una vez eso de que el que se mueve no sale en la foto, no?</p>
 
 <p>Pues en LinkedIn le damos otra vuelta de tuerca, porque el que no salga en la foto, no se come un rosco… y ya no hablo de los de reyes, que ya estamos todos en operación post-navidad para quitar los kilos cogidos de más, sino que me refiero a no comerse un rosco de los que cuentan en tu tablero de estadísticas de visitas a tu perfil de LinkedIn.</p>
 

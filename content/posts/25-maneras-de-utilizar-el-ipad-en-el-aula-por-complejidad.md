@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eduarea's Blog: El uso del iPad en entornos de aprendizaje formal, a decir de muchos, está en alza. Debido a las formas casi mágicas que promueve la interacción, eso tiene sentido. Pero cuando los alumnos están utilizando el iPad, ¿qué están haciendo? ¿Qué es exactamente? A menudo la novedad de la&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/ipad-cognitive-spectrum.png?w=768&h=1024"
+thumbnail: "/media/uploads/2015/03/ipad-cognitive-spectrum.png"
 thumbnailAlt: ""
 ---
 
@@ -29,7 +29,7 @@ thumbnailAlt: ""
 
 <p></p>
 
-<p><img class="aligncenter size-large wp-image-9063" src="https://prixline.wordpress.com/wp-content/uploads/2015/03/ipad-cognitive-spectrum.png?w=768&#038;h=1024"   alt="ipad-cognitive-spectrum"></p>
+<p><img class="aligncenter size-large wp-image-9063" src="/media/uploads/2015/03/ipad-cognitive-spectrum.png"   alt="ipad-cognitive-spectrum"></p>
 
 <p></p>
 

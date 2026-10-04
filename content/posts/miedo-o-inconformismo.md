@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Si estamos creciendo, siempre estaremos fuera de nuestra zona de comodidad” dice John Maxwell. ¿Estás preparado para lo que te voy a decir? ¿De verdad? La zona de confort NUNCA existió. Lo único que existe es la ZONA DE LA INSATISFACCIÓN. ¿Por qué digo esto? Porque si&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/12.png?w=300&h=156"
+thumbnail: "/media/uploads/2016/08/12.png"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2016/08/03/miedo-o-inconformismo">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p style="text-align:justify">“<strong><em>Si estamos creciendo, siempre estaremos fuera de nuestra zona de comodidad</em></strong>” dice John Maxwell.</p>
 
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/08/12.png"><img class="alignleft size-medium wp-image-4820" src="https://prixline.wordpress.com/wp-content/uploads/2016/08/12.png?w=300&#038;h=156" height="156" width="300" alt="INCONFORMISTAS"></a>¿Estás preparado para lo que te voy a decir? ¿De verdad?</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/08/12.png"><img class="alignleft size-medium wp-image-4820" src="/media/uploads/2016/08/12.png" height="156" width="300" alt="INCONFORMISTAS"></a>¿Estás preparado para lo que te voy a decir? ¿De verdad?</p>
 
 <p style="text-align:justify">La zona de confort NUNCA existió. Lo único que existe es la ZONA DE LA INSATISFACCIÓN.</p>
 

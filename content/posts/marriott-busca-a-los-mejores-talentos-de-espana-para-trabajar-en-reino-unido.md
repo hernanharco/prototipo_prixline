@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : La cadena de hoteles Marriot, reconocida como una de las mejores empresas multinacionales para trabajar por Great Place to Work®, busca a los mejores profesionales en España y Portugal. El grupo ofrece 54 vacantes para trabajar en las áreas de cocina, sala, recepción, eventos, ocio, decoración, mantenimiento&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/09/marriott-uk-11.png?w=600&h=314"
+thumbnail: "/media/uploads/2017/09/marriott-uk-11.png"
 thumbnailAlt: ""
 ---
 
@@ -18,7 +18,7 @@ thumbnailAlt: ""
 
 <div class="wpcom-reblog-snapshot"><div class="reblogger-note"><div class='reblogger-note-content'><blockquote><p>Para la selección de los candidatos, la compañía valorará aquellos perfiles que muestren una actitud positiva, que tengan ganas de formar parte de un proyecto profesional estable y que estén abiertos a vivir una nueva experiencia en el interior de Reino Unido.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2017/09/25/marriott-busca-a-los-mejores-talentos-de-espana-para-trabajar-en-reino-unido/">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class=" size-full wp-image-12716 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2017/09/marriott-uk-11.png?w=600&#038;h=314" height="314" width="600" alt="Marriott UK 1"></p>
+<p style="text-align:justify"><img class=" size-full wp-image-12716 aligncenter" src="/media/uploads/2017/09/marriott-uk-11.png" height="314" width="600" alt="Marriott UK 1"></p>
 
 <p style="text-align:justify">La cadena de hoteles <a href="http://www.turijobs.com/sitecorporativo/marriott/">Marriot</a>, reconocida como una de las mejores empresas multinacionales para trabajar por <a href="https://www.greatplacetowork.com/best-workplaces/100-best/2017">Great Place to Work®</a>, busca a los mejores profesionales en España y Portugal. El grupo ofrece 54 vacantes para trabajar en las áreas de cocina, sala, recepción, eventos, ocio, decoración, mantenimiento y limpieza en sus hoteles ubicados en el countryside de Reino Unido.</p>
 

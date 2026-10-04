@@ -19,7 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Attack Mars by NeuroMars: Jackson Brown es un padre preocupado por la felicidad de su hijo y por ello le escribió estos “consejos” cuando este se fue a estudiar a la Universidad, lejos de su casa. Su hijo decidió fotocopiarlos y los distribuyó entre sus compañeros. Los mensajes tuvieron tanto éxito, que&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/06/consejos-de-un-padre.jpg?w=300&h=225"
+thumbnail: "/media/uploads/2014/06/consejos-de-un-padre.jpg"
 thumbnailAlt: ""
 ---
 
@@ -27,7 +27,7 @@ thumbnailAlt: ""
 
 <div class="wpcom-reblog-snapshot"><div class="reblogger-note"><div class='reblogger-note-content'><blockquote><p>Sin Palabras para Comentar, Compartido por BiiA Lab mas Información en <a href="http://tv.biialab.org/" target="_blank">http://tv.biialab.org/</a></p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Miguel Angel Ruiz Silva&#039;s avatar' src='https://0.gravatar.com/avatar/62cb3860a417180f2b976a53ed9c17cf7dc67bc91819e7f6c0d1369e9177ac59?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://attackmars.wordpress.com/2014/06/16/consejos-de-un-padre-para-la-felicidad-de-su-hijo">Attack Mars by NeuroMars</a></p><div class="reblogged-content">
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/consejos-de-un-padre.jpg"><img class="size-medium wp-image-381 aligncenter" src="http://prixline.wordpress.com/wp-content/uploads/2014/06/consejos-de-un-padre.jpg?w=300&#038;h=225" height="225" width="300" alt="Consejos de un Padre"></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/consejos-de-un-padre.jpg"><img class="size-medium wp-image-381 aligncenter" src="/media/uploads/2014/06/consejos-de-un-padre.jpg" height="225" width="300" alt="Consejos de un Padre"></a></p>
 
 <p>Jackson Brown es un padre preocupado por la felicidad de su hijo y por ello le escribió estos “consejos” cuando este se fue a estudiar a la Universidad, lejos de su casa. Su hijo decidió fotocopiarlos y los distribuyó entre sus compañeros. Los mensajes tuvieron tanto éxito, que una editorial le pidió autorización a Brown para editar un libro con ellos, una publicación que rápidamente se convirtió en un best seller traducido a varios idiomas.</p>
 

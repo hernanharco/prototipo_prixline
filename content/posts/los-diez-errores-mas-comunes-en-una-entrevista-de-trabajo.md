@@ -16,7 +16,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Me encanta esta infografía, porque resume de una manera muy gráfica (algo que es obvio, ya que es una infografía) los errores más comunes que cometemos ante una entrevista de trabajo. A destacar esta lista con los 10 errores más comunes: 1. Dar demasiadas explicaciones&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg?w=547&h=1846"
+thumbnail: "/media/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg"
 thumbnailAlt: ""
 ---
 
@@ -32,7 +32,7 @@ thumbnailAlt: ""
 
 <p>Al grano.</p>
 
-<p style="text-align:center"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg"><img class="size-full wp-image-2414 aligncenter" src="http://prixline.wordpress.com/wp-content/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg?w=547&#038;h=1846" height="1846" width="547" alt="infografía entrevista trabajo"></a></p>
+<p style="text-align:center"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg"><img class="size-full wp-image-2414 aligncenter" src="/media/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg" height="1846" width="547" alt="infografía entrevista trabajo"></a></p>
 
 <p>Y antes de que alguien lo diga, lo digo yo: sí, sería exactamente igual…</p>
 </div><p class="reblog-source"><a href="http://sobrevivirrhhe.com/2014/03/13/los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo/">View original post</a> <span class="more-words">38 more words</span></p></div></div>

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? La semana pasada Silvia Saucedo me invitó de nuevo a participar en su programa SilviaTeOrienta en Radio Guadalquivir (por cierto, os animo a seguir este programa que cada semana entrevista a gente muy muy interesante). ¿De qué hablamos? Pues de qué va a ser… De Formación. &hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/06/img_5050.jpg?w=1024&h=512"
+thumbnail: "/media/uploads/2016/06/img_5050.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='formadoraocup&#039;s avatar' src='https://2.gravatar.com/avatar/51e5d9f3d9aea6e7f651de163294496cfed7c4c19c159ebe87884610a208fe6c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://luisasanchezmiranda.wordpress.com/2016/06/23/hablamos-de-formacion">FORMANDO PARA EL EMPLEO</a></p><div class="reblogged-content">
 <p></p>
 
-<p><img class="alignnone size-full wp-image-1937" src="https://prixline.wordpress.com/wp-content/uploads/2016/06/img_5050.jpg?w=1024&#038;h=512" height="512" width="1024" alt="IMG_5050"></p>
+<p><img class="alignnone size-full wp-image-1937" src="/media/uploads/2016/06/img_5050.jpg" height="512" width="1024" alt="IMG_5050"></p>
 
 <p></p>
 

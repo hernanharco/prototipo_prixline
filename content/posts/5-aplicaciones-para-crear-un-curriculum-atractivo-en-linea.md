@@ -19,14 +19,14 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "Actualmente, presentar un currículum en papel a los seleccionadores no es suficiente para saciar sus expectativas. Aparte de tener un buen curriculum, es muy importante que su presentación sobresalga de la de la competencia. Desde prixline te indicamos cinco aplicaciones que te ayudarán a crear una versión del currículum que sea más atractiva para los [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/11/20121101-172824.jpg"
+thumbnail: "/media/uploads/2012/11/20121101-172824.jpg"
 thumbnailAlt: ""
 ---
 
 # 5 aplicaciones para crear un currículum atractivo en&nbsp;línea
 
 <p>Actualmente, presentar un currículum en papel a los seleccionadores no es suficiente para saciar sus expectativas. Aparte de tener un buen curriculum, es muy importante que su presentación sobresalga de la de la competencia. Desde prixline te indicamos cinco aplicaciones que te ayudarán a crear una versión del currículum que sea más atractiva para los reclutadores.</p>
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/11/20121101-172824.jpg"><img src="https://prixline.wordpress.com/wp-content/uploads/2012/11/20121101-172824.jpg" alt="20121101-172824.jpg" class="alignnone size-full" /></a><br />
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/11/20121101-172824.jpg"><img src="/media/uploads/2012/11/20121101-172824.jpg" alt="20121101-172824.jpg" class="alignnone size-full" /></a><br />
 Tener una hoja de vida online te ayudará a diferenciarte del resto de los candidatos.<br />
 Para llamar la atención de quienes estén buscando talentos, te proponemos conocer 5 aplicaciones que te ayudarán a tener un currículum atractivo.</p>
 <p>1.    <a href="http://CVGram.me">CVGram.me</a></p>

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con 10 libros imprescindibles para la lengua castellana. Vía Un saludo 10 libros imprescindibles para la lengua castellana View original post"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg?w=660&h=641"
+thumbnail: "/media/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg"
 thumbnailAlt: ""
 ---
 
@@ -23,5 +23,5 @@ thumbnailAlt: ""
 
 <p>Un saludo</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg"><img class="size-full wp-image-73716" src="https://prixline.wordpress.com/wp-content/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg?w=660&#038;h=641" height="641" width="660" alt="10 libros imprescindibles para la lengua castellana"></a> 10 libros imprescindibles para la lengua castellana </p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg"><img class="size-full wp-image-73716" src="/media/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg" height="641" width="660" alt="10 libros imprescindibles para la lengua castellana"></a> 10 libros imprescindibles para la lengua castellana </p>
 </div><p class="reblog-source"><a href="http://ticsyformacion.com/2015/04/24/10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic">View original post</a></p></div></div>

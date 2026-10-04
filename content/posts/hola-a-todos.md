@@ -24,13 +24,13 @@ originCategories:
   - "semipresencial"
   - "trabajo"
 excerpt: "Bienvenidos al Blog oficial de PRIXLINE. Lo creamos para que podais saber quienes somos, de forma directa!. Desde aquí podéis comentar y se os responderá de forma segura a cualquier tema. Para comenzar os diré que acabo de terminar de leer el libro de Enrique Dans titulado “Todo va a cambiar” http://www.todovaacambiar.com/ lo recomiendo, he aquí algunos párrafos que [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=300&h=237"
+thumbnail: "/media/uploads/2012/03/inquisicion.jpg"
 thumbnailAlt: ""
 ---
 
 # ¡ Hola a TODOS&nbsp;!
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg"><img loading="lazy" data-attachment-id="21" data-permalink="https://prixline.blog/2012/03/03/hola-a-todos/inquisicion/" data-orig-file="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg" data-orig-size="320,253" data-comments-opened="1" data-image-title="inquisicion" data-image-description="" data-image-caption="" data-large-file="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=320" class="alignnone size-medium wp-image-21" title="inquisicion" src="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=300&#038;h=237" alt="" width="300" height="237" srcset="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=300 300w, https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=150 150w, https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg 320w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>Bienvenidos al Blog oficial de PRIXLINE.</p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg"><img loading="lazy" data-attachment-id="21" data-permalink="https://prixline.blog/2012/03/03/hola-a-todos/inquisicion/" data-orig-file="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg" data-orig-size="320,253" data-comments-opened="1" data-image-title="inquisicion" data-image-description="" data-image-caption="" data-large-file="https://prixline.wordpress.com/wp-content/uploads/2012/03/inquisicion.jpg?w=320" class="alignnone size-medium wp-image-21" title="inquisicion" src="/media/uploads/2012/03/inquisicion.jpg" alt="" width="300" height="237" srcset="/media/uploads/2012/03/inquisicion.jpg 300w, /media/uploads/2012/03/inquisicion.jpg 150w, /media/uploads/2012/03/inquisicion.jpg 320w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>Bienvenidos al Blog oficial de PRIXLINE.</p>
 <p>Lo creamos para que podais saber quienes somos, de forma directa!.</p>
 <p>Desde aquí podéis comentar y se os responderá de forma segura a cualquier tema.</p>
 <p>Para comenzar os diré que acabo de terminar de leer el libro de Enrique Dans titulado &#8220;Todo va a cambiar&#8221; <a href="http://www.todovaacambiar.com/" target="_blank">http://www.todovaacambiar.com/</a>  lo recomiendo, he aquí algunos párrafos que me han llamado la atención:</p>

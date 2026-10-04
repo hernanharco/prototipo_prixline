@@ -190,6 +190,126 @@ describe('sanitizeArticleHtml — conserva contenido legítimo', () => {
   });
 });
 
+describe('sanitizeArticleHtml — reescribe enlaces del blog de origen (T24)', () => {
+  it('internaliza href del blog de origen a rutas internas', () => {
+    const cases: Array<[string, string]> = [
+      ['<a href="https://prixline.blog/">inicio</a>', '<a href="/">inicio</a>'],
+      ['<a href="https://prixline.blog/practicas/">prácticas</a>', '<a href="/practicas/">prácticas</a>'],
+      ['<a href="http://prixline.wordpress.com/practicas/">prácticas</a>', '<a href="/practicas/">prácticas</a>'],
+      ['<a href="https://www.prixline.blog/practicas/">prácticas</a>', '<a href="/practicas/">prácticas</a>'],
+      ['<a href="https://prixline.blog/cursos/">cursos</a>', '<a href="/cursos/">cursos</a>'],
+      ['<a href="http://prixline.wordpress.com/cursos/">cursos</a>', '<a href="/cursos/">cursos</a>'],
+      ['<a href="https://prixline.wordpress.com/contacto">contacto</a>', '<a href="/contacto/">contacto</a>'],
+      ['<a href="http://prixline.wordpress.com/contacto/">contacto</a>', '<a href="/contacto/">contacto</a>'],
+      ['<a href="https://prixline.blog/?p=123">inicio</a>', '<a href="/">inicio</a>'],
+    ];
+    for (const [input, expected] of cases) {
+      assert.equal(sanitizeArticleHtml(input), expected, input);
+    }
+  });
+
+  it('internaliza permalinks por fecha a /articulos/<slug>/', () => {
+    const cases: Array<[string, string]> = [
+      ['<a href="https://prixline.blog/2016/03/11/mi-slug/">art</a>', '<a href="/articulos/mi-slug/">art</a>'],
+      ['<a href="http://prixline.wordpress.com/2012/12/11/ingles/">art</a>', '<a href="/articulos/ingles/">art</a>'],
+      ['<a href="https://prixline.wordpress.com/2012/12/11/ingles/escuelas-de-ingles-prixline/">art</a>', '<a href="/articulos/escuelas-de-ingles-prixline/">art</a>'],
+      ['<a href="https://prixline.blog/2016/03/11/mi%20slug/">art</a>', '<a href="/articulos/mi%20slug/">art</a>'],
+      ['<a href="https://prixline.blog/2016/03/11/bad%zz/">art</a>', '<a href="/articulos/bad%25zz/">art</a>'],
+    ];
+    for (const [input, expected] of cases) {
+      assert.equal(sanitizeArticleHtml(input), expected, input);
+    }
+  });
+
+  it('disuelve anclas wp-admin conservando el texto', () => {
+    assert.equal(
+      sanitizeArticleHtml(
+        '<a href="http://prixline.wordpress.com/wp-admin/post.php?post=269&amp;action=edit">texto</a>',
+      ),
+      'texto',
+    );
+  });
+
+  it('disuelve anclas cuyo path de origen no se puede mapear', () => {
+    assert.equal(
+      sanitizeArticleHtml('<a href="https://prixline.wordpress.com/img_4553/">texto</a>'),
+      'texto',
+    );
+    assert.equal(
+      sanitizeArticleHtml(
+        '<a href="http://prixline.wordpress.com/wp-content/uploads/2012/03/a.jpg"><img src="http://prixline.wordpress.com/wp-content/uploads/2012/03/a.jpg" alt="a"></a>',
+      ),
+      '<img src="http://prixline.wordpress.com/wp-content/uploads/2012/03/a.jpg" alt="a">',
+    );
+  });
+
+  it('conserva enlaces de terceros y opiniones.wordpress.com', () => {
+    const html =
+      '<a href="https://opiniones.wordpress.com/2009/03/20/la-crisis-segun-albert-einstein/">cita</a>' +
+      '<a href="http://avanzalaboral.com/2015/05/25/hoteles/">avanza</a>' +
+      '<a href="http://www.prix.com/cursos">cursos</a>';
+    assert.equal(sanitizeArticleHtml(html), html);
+  });
+
+  it('reescribe y disuelve en cuerpos reales del corpus', () => {
+    const real =
+      '<blockquote><p><strong><a title="Editar “Matrix”" href="http://prixline.wordpress.com/wp-admin/post.php?post=269&amp;action=edit">Una dimensión organizativa sin límites</a></strong></p></blockquote>';
+    assert.equal(
+      sanitizeArticleHtml(real),
+      '<blockquote><p><strong>Una dimensión organizativa sin límites</strong></p></blockquote>',
+    );
+    const wrapped =
+      '<a href="https://prixline.blog/practicas/"><img src="https://prixline.wordpress.com/wp-content/uploads/2012/03/practicas.jpeg" alt="x"></a>';
+    assert.equal(
+      sanitizeArticleHtml(wrapped),
+      '<a href="/practicas/"><img src="https://prixline.wordpress.com/wp-content/uploads/2012/03/practicas.jpeg" alt="x"></a>',
+    );
+  });
+
+  it('idempotente con enlaces de origen reescritos y disueltos', () => {
+    const mixed =
+      '<a href="https://prixline.blog/practicas/">prácticas</a>' +
+      '<a href="http://prixline.wordpress.com/wp-admin/post.php?post=269&amp;action=edit">editar</a>' +
+      '<a href="http://prixline.wordpress.com/2012/12/11/ingles/">inglés</a>' +
+      '<a href="https://prixline.wordpress.com/img_4553/">foto</a>' +
+      '<a href="https://opiniones.wordpress.com/x/">cita</a>';
+    const once = sanitizeArticleHtml(mixed);
+    assert.ok(!/prixline\.(blog|wordpress\.com)/.test(once));
+    assert.equal(sanitizeArticleHtml(once), once);
+  });
+
+  it('triangulación: comillas simples, host en mayúsculas y title conservado', () => {
+    assert.equal(
+      sanitizeArticleHtml("<a href='http://prixline.wordpress.com/cursos/'>c</a>"),
+      '<a href="/cursos/">c</a>',
+    );
+    assert.equal(
+      sanitizeArticleHtml('<a href="https://PRIxline.Blog/practicas/">p</a>'),
+      '<a href="/practicas/">p</a>',
+    );
+    assert.equal(
+      sanitizeArticleHtml('<a title="Ver" href="https://prixline.blog/contacto">c</a>'),
+      '<a title="Ver" href="/contacto/">c</a>',
+    );
+    assert.equal(
+      sanitizeArticleHtml('<a href="http://prixline.wordpress.com/?p=9">i</a>'),
+      '<a href="/">i</a>',
+    );
+  });
+
+  it('triangulación: ancla sin cerrar y ancla sin href se tratan bien', () => {
+    assert.equal(
+      sanitizeArticleHtml('<a href="https://prixline.wordpress.com/img_4553/">texto'),
+      'texto',
+    );
+    assert.equal(
+      sanitizeArticleHtml('<a href="http://prixline.wordpress.com/cursos/">c'),
+      '<a href="/cursos/">c',
+    );
+    assert.equal(sanitizeArticleHtml('<a name="ancla">x</a>'), '<a name="ancla">x</a>');
+  });
+});
+
 describe('sanitizeArticleHtml — idempotencia', () => {
   it('sanear dos veces es igual que sanear una vez (mezcla hostil)', () => {
     const nasty =

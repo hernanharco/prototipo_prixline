@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Los cambios ya nunca más serán lineales, ahora son exponenciales y mañana…quien sabe…. ¿cómo podemos promover el aprendizaje en todas partes? Estamos utilizando tecnologías móviles todo el tiempo, en todas partes, y esto cambia lo que podemos hacer, ya que podemos mezclar el ocio y el&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/metadatos.jpg?w=203&h=248"
+thumbnail: "/media/uploads/2014/04/metadatos.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='juandon&#039;s avatar' src='https://2.gravatar.com/avatar/b0197ce5043aa0903337c5520c479c95b612881d14ee3228cb01b90d06802b38?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://juandomingofarnos.wordpress.com/2014/04/04/los-cambios-ya-no-son-lineales-son-exponenciales-y-manana-que/">juandon. Innovación y conocimiento</a></p><div class="reblogged-content">
 <p>juandon</p>
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/04/metadatos.jpg"><img class="aligncenter size-full wp-image-53501" src="http://prixline.wordpress.com/wp-content/uploads/2014/04/metadatos.jpg?w=203&#038;h=248" height="248" width="203" alt="metadatos"></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/04/metadatos.jpg"><img class="aligncenter size-full wp-image-53501" src="/media/uploads/2014/04/metadatos.jpg" height="248" width="203" alt="metadatos"></a></p>
 
 <p>Los cambios ya nunca más serán lineales, ahora son exponenciales y mañana…quien sabe….</p>
 

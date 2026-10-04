@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eficacia personal: Cuando se ha entrado en un túnel, hay que tener la seguridad de que siempre se sale. Siempre hay una salida, Si se entra, se sale. Si hay voluntad para ello. A veces la salida está en el otro lado. Otras veces se vuelve por donde hemos entrado. Toda crisis&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2020/04/salir-del-tunel.jpg"
+thumbnail: "/media/uploads/2020/04/salir-del-tunel.jpg"
 thumbnailAlt: ""
 ---
 
@@ -18,7 +18,7 @@ thumbnailAlt: ""
 
 <div class="wpcom-reblog-snapshot"><div class="reblogger-note"><div class='reblogger-note-content'><blockquote><p>Salir de la “zona de confort” cuesta y a veces cuesta tanto que esa inercia centrípeta nos atrapa. Los sistemas, tanto la sociedad como los seres humanos, son reacios a evolucionar y las tendencias homeostáticas predominan sobre las facilitadoras de cambios.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='José Antonio Bonilla Cortabitarte&#039;s avatar' src='https://1.gravatar.com/avatar/77c26928129a2121dd4cdfc24459b5cac1f74271d48171cc7d195e3eaa70b757?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://eficaciapersonal.wordpress.com/2020/04/01/el-tunel/">Eficacia personal</a></p><div class="reblogged-content">
-<p><img class="alignnone size-full wp-image-851" src="https://prixline.wordpress.com/wp-content/uploads/2020/04/salir-del-tunel.jpg" height="263" width="599" alt="Salir del tunel"></p>
+<p><img class="alignnone size-full wp-image-851" src="/media/uploads/2020/04/salir-del-tunel.jpg" height="263" width="599" alt="Salir del tunel"></p>
 
 <p>Cuando se ha entrado en un túnel, hay que tener la seguridad de que siempre se sale. Siempre hay una salida, Si se entra, se sale. Si hay voluntad para ello.</p>
 

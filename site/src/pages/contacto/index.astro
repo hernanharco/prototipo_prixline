@@ -99,12 +99,13 @@ const description = `Habla con Prixline por chat y descubre nuestros ${channels.
         </section>
 
         {/* Línea secundaria: opiniones reales (comentarios del sitio origen,
-            externo legítimo documentado). La etiqueta es la del dato. */}
+            externo legítimo documentado). T24: el dato se muestra como
+            TEXTO SIN enlace (misma decisión que el pie, T23) —el hilo vive
+            en el blog de origen y no se enlaza fuera—. La etiqueta es la
+            del dato. */}
         <p class="contact-opinions">
           ¿Quieres saber qué opinan los alumnos?{' '}
-          <a href={opinionsChannel.url} rel="noopener noreferrer">
-            {opinionsChannel.label}
-          </a>
+          {opinionsChannel.label}
         </p>
       </div>
     </main>

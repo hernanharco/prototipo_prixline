@@ -21,7 +21,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "El Servicio Público de Empleo Estatal (SEPE), a través de la Red EURES, informa de diferentes ofertas de empleo en Europa: Alemania Proceso de seleccion Hostelería. Recepción de CVS hasta el 10 de octubre de 2014 (Entrevistas en Málaga y Palma de Mallorca 22-24 octubre 2014). SAP-Basisbetreuer (w/m). Fecha límite: 1 de julio de 2014. Prozessorganisator SAP Produktion / [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg?w=77&h=92"
+thumbnail: "/media/uploads/2014/05/eures-prixline.jpg"
 thumbnailAlt: ""
 ---
 
@@ -78,4 +78,4 @@ thumbnailAlt: ""
 <li><strong>Software Developer with C# and Java in Games Testing Unit.</strong> F<span class="saltolinea">echa límite: 29 de mayo de 2014.</span></li>
 </ul>
 <p style="color:#555555;">Puedes consultar <strong>todas las ofertas disponibles</strong> en la <a style="color:#20a3ca;" href="http://www.sepe.es/contenido/empleo_formacion/eures/convocatorias_ofertas/index.html" target="_blank">web del SEPE</a>.</p>
-<p style="color:#555555;"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg"><img loading="lazy" data-attachment-id="9005" data-permalink="https://prixline.blog/2014/05/21/ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia/eures-prixline/" data-orig-file="https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg" data-orig-size="77,92" data-comments-opened="1" data-image-title="eures-prixline" data-image-description="" data-image-caption="" data-large-file="https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg?w=77" class="alignleft size-full wp-image-9005" src="https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg?w=77&#038;h=92" alt="eures-prixline" width="77" height="92" /></a></p>
+<p style="color:#555555;"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg"><img loading="lazy" data-attachment-id="9005" data-permalink="https://prixline.blog/2014/05/21/ofertas-de-empleo-eures-alemania-noruega-suecia-y-polonia/eures-prixline/" data-orig-file="https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg" data-orig-size="77,92" data-comments-opened="1" data-image-title="eures-prixline" data-image-description="" data-image-caption="" data-large-file="https://prixline.wordpress.com/wp-content/uploads/2014/05/eures-prixline.jpg?w=77" class="alignleft size-full wp-image-9005" src="/media/uploads/2014/05/eures-prixline.jpg" alt="eures-prixline" width="77" height="92" /></a></p>

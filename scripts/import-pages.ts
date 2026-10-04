@@ -21,6 +21,10 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import { yamlScalar } from "./post-render.ts";
+// T25: localizador de medios del blog origen (descarga a site/public/media
+// + reescritura de refs); ver scripts/media.ts (lógica pura) y
+// scripts/media-io.ts (I/O). Fallo de UNA imagen → conserva la URL original.
+import { formatMediaReport, localizeMediaDocs, mediaRoot, realMediaStore } from "./media-io.ts";
 
 /** WordPress REST page record (subset used by the pipeline). */
 export interface WpPage {
@@ -121,13 +125,20 @@ export async function run(argv: string[]): Promise<number> {
   }
 
   await mkdir(PAGES_DIR, { recursive: true });
-  for (const { page, md } of rendered) {
-    await writeFile(new URL(`${page.slug}.md`, PAGES_DIR), md, "utf8");
+  // T25: localiza los medios del blog origen ANTES de escribir (omite archivos
+  // existentes → reruns baratos); una imagen caída conserva su URL original.
+  const { docs, report } = await localizeMediaDocs(
+    rendered.map(({ page, md }) => ({ id: `${page.slug}.md`, md })),
+    { store: realMediaStore(mediaRoot()) },
+  );
+  for (const { id, md } of docs) {
+    await writeFile(new URL(id, PAGES_DIR), md, "utf8");
   }
   console.log(
-    `Wrote ${rendered.length} page file(s) to content/pages/ (source: ${PAGES_API_BASE}).`,
+    `Wrote ${docs.length} page file(s) to content/pages/ (source: ${PAGES_API_BASE}).`,
   );
-  return rendered.length;
+  console.log(formatMediaReport(report, "pages"));
+  return docs.length;
 }
 
 const isDirectRun =

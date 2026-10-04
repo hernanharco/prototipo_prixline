@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Le hemos dedicado muchas horas por aquí al tema del curriculum vitae en todas sus vertientes posibles. Las más clasicas en papel, las versiones en infografía, y por repasar, hemos repasado hasta los vídeo curriculum. Pero después de haberle dedicado tantas horas al tema, y&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg?w=300&h=229"
+thumbnail: "/media/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg"
 thumbnailAlt: ""
 ---
 
 # Como escribir un correo electrónico para enviar tu&nbsp;CV
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2014/09/10/como-escribir-un-correo-electronico-para-enviar-tu-cv">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg"><img class="alignright size-medium wp-image-2992" src="http://prixline.wordpress.com/wp-content/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg?w=300&#038;h=229" height="229" width="300" alt="como escribir un correo electrónico para enviar tu cv"></a>Le hemos dedicado muchas horas por aquí al tema del curriculum vitae en todas sus vertientes posibles.</p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg"><img class="alignright size-medium wp-image-2992" src="/media/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg" height="229" width="300" alt="como escribir un correo electrónico para enviar tu cv"></a>Le hemos dedicado muchas horas por aquí al tema del curriculum vitae en todas sus vertientes posibles.</p>
 
 <p>Las más clasicas en papel, las versiones en infografía, y por repasar, hemos repasado hasta los vídeo curriculum.</p>
 
