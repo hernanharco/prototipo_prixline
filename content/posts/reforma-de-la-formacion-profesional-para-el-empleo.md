@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : De aplicación a todas las Administraciones Públicas en todo el territorio nacional El Pleno del Congreso de los Diputados aprobó el pasado jueves el Real Decreto-Ley para la reforma urgente del Sistema de Formación Profesional para el Empleo en el ámbito laboral. La norma aprobada tiene como objetivos&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/formacic3b3nempleo.jpg?w=978&h=145"
+thumbnail: "/media/uploads/2015/04/formacic3b3nempleo.jpg"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='El Blog de TEIDE-HEASE&#039;s avatar' src='https://2.gravatar.com/avatar/5072f325eae065a28fe7a4b90d6b679d94d9e48aa90b2afb1f594b9331272509?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://elblogdeteidehease.com/2015/04/30/reforma-de-la-formacion-profesional-para-el-empleo">El Blog de TEIDE-HEASE </a></p><div class="reblogged-content">
 <h3 style="text-align:center">De aplicación a todas las Administraciones Públicas en todo el territorio nacional</h3>
 
-<p style="text-align:justify"><span style="font-size:12px;color:#808080"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/formacic3b3nempleo.jpg"><img class="alignnone size-full wp-image-10616" src="https://prixline.wordpress.com/wp-content/uploads/2015/04/formacic3b3nempleo.jpg?w=978&#038;h=145" height="145" width="978" alt="Formación Empleo" title="Formación Empleo"></a></span></p>
+<p style="text-align:justify"><span style="font-size:12px;color:#808080"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/formacic3b3nempleo.jpg"><img class="alignnone size-full wp-image-10616" src="/media/uploads/2015/04/formacic3b3nempleo.jpg" height="145" width="978" alt="Formación Empleo" title="Formación Empleo"></a></span></p>
 
 <p style="text-align:justify"><span style="font-size:12px;color:#808080">El Pleno del <strong>Congreso de los Diputados</strong> aprobó el pasado jueves el Real Decreto-Ley para la reforma urgente del <strong>Sistema de Formación Profesional para el Empleo</strong> en el ámbito laboral.</span></p>
 

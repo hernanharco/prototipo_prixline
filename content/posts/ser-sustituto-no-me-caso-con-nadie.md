@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Hace ya un tiempo que quería reflexionar lo que supone ser un trabajador de sustitución, como que no podía ordenar mis ideas pues no quiero que el texto suponga matices de queja. Los pros de ser sustituto veraniego, te dictan como lo tienes que hacer el trabajo el jefe y&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/ddddd_2.jpg?w=820&h=459"
+thumbnail: "/media/uploads/2016/09/ddddd_2.jpg"
 thumbnailAlt: ""
 ---
 
 # Ser sustituto, no me caso con&nbsp;nadie.
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='ElTejedorDePalabras&#039;s avatar' src='https://1.gravatar.com/avatar/de4a69969ce03b5b2d5539a20bc3560432ebee1263a063a2b9c9327ea9109318?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://eltejedordepalabras.org/2016/09/25/ser-sustituto-no-me-caso-con-nadie">ElTejedorDePalabras.org</a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class="aligncenter size-full wp-image-3824" src="https://prixline.wordpress.com/wp-content/uploads/2016/09/ddddd_2.jpg?w=820&#038;h=459" height="459" width="820" alt="ddddd_2"></p>
+<p style="text-align:justify"><img class="aligncenter size-full wp-image-3824" src="/media/uploads/2016/09/ddddd_2.jpg" height="459" width="820" alt="ddddd_2"></p>
 
 <p style="text-align:justify"></p>
 

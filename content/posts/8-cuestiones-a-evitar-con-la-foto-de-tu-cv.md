@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Aunque hay gente que plantea el debate sobre foto sí o foto no en tu CV, yo soy de la opinión de los que hoy en día sigue siendo válida la foto en un CV, porque una imagen vale más que mil palabras. Pero ojo,&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/06/cuestiones-a-evitar-con-la-foto-de-tu-cv1.jpg?w=800&h=1998"
+thumbnail: "/media/uploads/2016/06/cuestiones-a-evitar-con-la-foto-de-tu-cv1.jpg"
 thumbnailAlt: ""
 ---
 
@@ -23,7 +23,7 @@ thumbnailAlt: ""
 
 <ol><li>Hay que ser profesional, no vale cualquier foto.</li><li>La fotografía debe ser reciente.</li><li>Foto de medio cuerpo y nunca utilices recortes.</li><li>Evita cargarte de complementos.</li><li>Ropa acorde con la imagen que queremos proyectar.</li><li>Sonreir, pero sin pasarse.</li><li>Fondo neutro o de ambiente profesional.</li><li>Calidad de la fotografía.</li></ol>
 
-<p><img class=" size-full wp-image-7474 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2016/06/cuestiones-a-evitar-con-la-foto-de-tu-cv1.jpg?w=800&#038;h=1998" height="1998" width="800" alt="Cuestiones a evitar con la foto de tu CV"></p>
+<p><img class=" size-full wp-image-7474 aligncenter" src="/media/uploads/2016/06/cuestiones-a-evitar-con-la-foto-de-tu-cv1.jpg" height="1998" width="800" alt="Cuestiones a evitar con la foto de tu CV"></p>
 
 <p>Fuente: <a href="http://www.softandapps.info/2015/11/23/8-errores-a-evitar-en-tu-foto-del-curriculum-infografia/">Soft&amp;Apps</a></p>
 </div><p class="reblog-source"><a href="http://sobrevivirrhhe.com/2016/06/01/8-cuestiones-a-evitar-con-la-foto-de-tu-cv">View original post</a></p></div></div>

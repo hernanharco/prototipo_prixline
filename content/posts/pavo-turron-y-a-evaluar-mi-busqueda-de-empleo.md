@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Parece que fue ayer cuando empezamos 2015, pero todo lo que tiene un principio tiene un final y sin apenas darnos cuenta, o quizás, dándonos demasiada cuenta, hemos llegado a la recta final del Año. En estos momentos más que nunca, es momento de hacer balance,&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/12/keyboard-567803_960_720.jpg?w=960&h=640"
+thumbnail: "/media/uploads/2015/12/keyboard-567803_960_720.jpg"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='formadoraocup&#039;s avatar' src='https://2.gravatar.com/avatar/51e5d9f3d9aea6e7f651de163294496cfed7c4c19c159ebe87884610a208fe6c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://luisasanchezmiranda.wordpress.com/2015/12/18/pavo-turron-y-a-evaluar-mi-busqueda-de-empleo">FORMANDO PARA EL EMPLEO</a></p><div class="reblogged-content">
 <p></p>
 
-<p><img class="alignnone size-full wp-image-1217" src="https://prixline.wordpress.com/wp-content/uploads/2015/12/keyboard-567803_960_720.jpg?w=960&#038;h=640" height="640" width="960" alt="keyboard-567803_960_720.jpg"></p>
+<p><img class="alignnone size-full wp-image-1217" src="/media/uploads/2015/12/keyboard-567803_960_720.jpg" height="640" width="960" alt="keyboard-567803_960_720.jpg"></p>
 
 <p></p>
 

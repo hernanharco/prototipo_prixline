@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “No evitéis a vuestros hijos las dificultades de la vida, enseñadles más bien a superarlas”. Louis Pasteur. ¿Quién no ha mirado hacía el pasado o recordando lo que denominamos “Tiempos felices o mejores”? Desde la perspectiva y más ahora con los&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/bonjour.jpg?w=660&h=440"
+thumbnail: "/media/uploads/2015/08/bonjour.jpg"
 thumbnailAlt: ""
 ---
 
 # Logro o Actitud: ¿Qué está impulsando nuestra&nbsp;carrera?
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Ricard Lloria&#039;s avatar' src='https://0.gravatar.com/avatar/31860918ea4e3237560165a6093dfafc5eea30f2569c4ea844d5c5e7c94f012b?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://ricardlloria.wordpress.com/2015/08/10/logro-o-actitud-que-esta-impulsando-nuestra-carrera">Liquadora de ideas y pensamientos - Blender&#039;s ideas and thoughts</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/08/bonjour.jpg"><img class="alignnone size-full wp-image-1659" src="https://prixline.wordpress.com/wp-content/uploads/2015/08/bonjour.jpg?w=660&#038;h=440" height="440" width="660" alt="Bonjour"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/08/bonjour.jpg"><img class="alignnone size-full wp-image-1659" src="/media/uploads/2015/08/bonjour.jpg" height="440" width="660" alt="Bonjour"></a></p>
 
 <blockquote><p style="text-align:right"><em>“No evitéis a vuestros hijos las dificultades de la vida, enseñadles más bien a superarlas”. </em></p><p style="text-align:right"><em> Louis Pasteur.</em></p></blockquote>
 

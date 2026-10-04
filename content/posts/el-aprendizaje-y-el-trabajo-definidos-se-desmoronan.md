@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: “Lo viejo se desmorona…nace lo nuevo” juandon ? Si caminamos por caminos que nos llevan por nuevos paradigmas que se corresponden con la sociedad de la información y del conocimiento, Frederick Laloux (Autor: Reinventando Organizaciones)) :”Mi opinión es que en el lugar de trabajo ideal del futuro,&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/01/zapato-corriente-viejo-y-nuevo-12138776.jpg?w=1300&h=1101"
+thumbnail: "/media/uploads/2016/01/zapato-corriente-viejo-y-nuevo-12138776.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='juandon&#039;s avatar' src='https://2.gravatar.com/avatar/b0197ce5043aa0903337c5520c479c95b612881d14ee3228cb01b90d06802b38?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://juandomingofarnos.wordpress.com/2016/01/03/el-aprendizaje-y-el-trabajo-definidos-se-desmoronan">juandon. Innovación y conocimiento</a></p><div class="reblogged-content">
 <p>“<strong>Lo viejo se desmorona…nace lo nuevo” juandon</strong></p>
 
-<p><img class="alignnone size-full wp-image-57154" src="https://prixline.wordpress.com/wp-content/uploads/2016/01/zapato-corriente-viejo-y-nuevo-12138776.jpg?w=1300&#038;h=1101" height="1101" width="1300" alt="zapato-corriente-viejo-y-nuevo-12138776"></p>
+<p><img class="alignnone size-full wp-image-57154" src="/media/uploads/2016/01/zapato-corriente-viejo-y-nuevo-12138776.jpg" height="1101" width="1300" alt="zapato-corriente-viejo-y-nuevo-12138776"></p>
 
 <p></p>
 

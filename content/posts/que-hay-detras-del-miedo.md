@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Porque detrás de cada persona se esconde otra. Quizás más bella, quizás más nueva, quizás la tuya” dice Federico Moccia. “Siento miedo pero no quiero saber por qué. Veremos si tapándonos los ojos se pasa“. Es una frase que nos repetimos una y otra vez, de alguna&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/09/untitled1.png?w=299&h=168"
+thumbnail: "/media/uploads/2016/09/untitled1.png"
 thumbnailAlt: ""
 ---
 
@@ -21,7 +21,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2016/07/20/que-hay-detras-del-miedo">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p>“<strong><em>Porque detrás de cada persona se esconde otra. Quizás más bella, quizás más nueva, quizás la tuya</em></strong>” dice Federico Moccia.</p>
 
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/09/untitled1.png"><img class="alignleft size-full wp-image-4796" src="https://prixline.wordpress.com/wp-content/uploads/2016/09/untitled1.png?w=299&#038;h=168" height="168" width="299" alt="miedo"></a>“<em>Siento miedo pero no quiero saber por qué. Veremos si tapándonos los ojos se pasa</em>“.</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/09/untitled1.png"><img class="alignleft size-full wp-image-4796" src="/media/uploads/2016/09/untitled1.png" height="168" width="299" alt="miedo"></a>“<em>Siento miedo pero no quiero saber por qué. Veremos si tapándonos los ojos se pasa</em>“.</p>
 
 <p style="text-align:justify">Es una frase que nos repetimos una y otra vez, de alguna manera en nuestro día a día.</p>
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon La Universidad, la escuela…son una máquina de estandarizar perfectamente engrasadas. Pero su población es extremadamente heterogénea, y cada vez mas lo es en zonas marginales, en zonas de inmigración masiva, en zonas de caída espectacular de los ingresos, y de movilidad social descendente. Estandarizar lo heterogéneo&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/07/hqdefault.jpg?w=480&h=360"
+thumbnail: "/media/uploads/2016/07/hqdefault.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='juandon&#039;s avatar' src='https://2.gravatar.com/avatar/b0197ce5043aa0903337c5520c479c95b612881d14ee3228cb01b90d06802b38?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://juandomingofarnos.wordpress.com/2016/07/18/mezcla-el-ocaso-del-curriculo-y-el-nacimiento-del-aprendizaje-ed-disruptiva">juandon. Innovación y conocimiento</a></p><div class="reblogged-content">
 <p>juandon</p>
 
-<p><img class="alignnone size-full wp-image-61724" src="https://prixline.wordpress.com/wp-content/uploads/2016/07/hqdefault.jpg?w=480&#038;h=360" height="360" width="480" alt="hqdefault"><strong><a href="https://juandomingofarnos.wordpress.com/2015/09/20/mi-universidad-entre-bambalinas-by-juan-domingo-farnos/">La Universidad, la escuela…son una máquina de estandarizar</a></strong> perfectamente engrasadas. Pero su población es extremadamente heterogénea, y cada vez mas lo es en zonas marginales, en zonas de inmigración masiva, en zonas de caída espectacular de los ingresos, y de movilidad social descendente.<br>
+<p><img class="alignnone size-full wp-image-61724" src="/media/uploads/2016/07/hqdefault.jpg" height="360" width="480" alt="hqdefault"><strong><a href="https://juandomingofarnos.wordpress.com/2015/09/20/mi-universidad-entre-bambalinas-by-juan-domingo-farnos/">La Universidad, la escuela…son una máquina de estandarizar</a></strong> perfectamente engrasadas. Pero su población es extremadamente heterogénea, y cada vez mas lo es en zonas marginales, en zonas de inmigración masiva, en zonas de caída espectacular de los ingresos, y de movilidad social descendente.<br>
 Estandarizar lo heterogéneo que alguna vez pudo imaginarse como un desideratum -especialmente a fines del siglo XIX y gran parte del XX- se está convirtiendo en una pesadilla. Para entender que está pasando – debemos entender mucho mejor las nociones de <strong><a href="https://juandomingofarnos.wordpress.com/2014/08/19/el-aprendizaje-y-el-rendimiento-sufren-tensiones-disruptivas-educacion-disruptiva/">interdependencia y modularidad</a></strong> en casi todos los terrenos en los que “vive” a veces y “malvive” otras, una parte de la sociedad, por lo menos la más sensible.</p>
 
 <p></p>

@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : En los últimos años, las TIC han cambiado nuestra forma de trabajar, pero también ha conseguido que uno de los departamentos más clásicos del organigrama empresarial haya tenido que reinventarse: el departamento de Recursos Humanos 2.0. Según cuentan ellos mismos, la óptima gestión de los&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/03/tiempo-de-reinvetarse-rrhh-201.jpg?w=700&h=466"
+thumbnail: "/media/uploads/2016/03/tiempo-de-reinvetarse-rrhh-201.jpg"
 thumbnailAlt: ""
 ---
 
 # Recursos Humanos 2.0. La profesión se&nbsp;reinventa.
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2016/03/29/recursos-humanos-2-0-la-profesion-se-reinventa">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p><img class=" size-full wp-image-6834 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2016/03/tiempo-de-reinvetarse-rrhh-201.jpg?w=700&#038;h=466" height="466" width="700" alt="Tiempo de reinvetarse RRHH 20"></p>
+<p><img class=" size-full wp-image-6834 aligncenter" src="/media/uploads/2016/03/tiempo-de-reinvetarse-rrhh-201.jpg" height="466" width="700" alt="Tiempo de reinvetarse RRHH 20"></p>
 
 <p>En los últimos años, las TIC han cambiado nuestra forma de trabajar, pero también ha conseguido que uno de los departamentos más clásicos del organigrama empresarial <strong>haya tenido que reinventarse: </strong><a href="http://recursos.cooltra.com/contratacion-inteligente"><strong>el departamento de Recursos Humanos 2.0</strong></a>.</p>
 

@@ -19,13 +19,13 @@ originCategories:
   - "empleo"
   - "formacion"
 excerpt: "En este artículo que he decidido escribir quiero contar mi experiencia a la hora de buscar las prácticas profesionales en todo el territorio nacional a todos los alumnos que contratan este servicio a la hora de hacer el curso. Una vez hecha esta breve presentación, me gustaría hacer una mención especial al concepto, la importancia [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2012/04/veterinaria-prixline.jpg?w=330&h=240"
+thumbnail: "/media/uploads/2012/04/veterinaria-prixline.jpg"
 thumbnailAlt: ""
 ---
 
 # Prácticas presenciales y la vital importancia de las&nbsp;mismas
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/04/veterinaria-prixline.jpg"><img loading="lazy" alt="Curso Auxiliar de Veterinaria Prixline" src="https://prixline.wordpress.com/wp-content/uploads/2012/04/veterinaria-prixline.jpg?w=330&#038;h=240" width="330" height="240" /></a>En este artículo que he decidido escribir quiero contar mi experiencia a la hora de buscar las prácticas profesionales en todo el territorio nacional a todos los alumnos que contratan este servicio a la hora de hacer el curso.</p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2012/04/veterinaria-prixline.jpg"><img loading="lazy" alt="Curso Auxiliar de Veterinaria Prixline" src="/media/uploads/2012/04/veterinaria-prixline.jpg" width="330" height="240" /></a>En este artículo que he decidido escribir quiero contar mi experiencia a la hora de buscar las prácticas profesionales en todo el territorio nacional a todos los alumnos que contratan este servicio a la hora de hacer el curso.</p>
 <p>Una vez hecha esta breve presentación, me gustaría hacer una mención especial al concepto, la importancia y el objetivo de las Prácticas Profesionales.</p>
 <p>Concepto:</p>
 <p>Las Practicas Profesionales forman parte del aprendizaje del alumno y es el complemento necesario entre lo aprendido en el curso y su puesta en práctica en el mercado laboral.</p>

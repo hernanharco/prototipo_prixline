@@ -1,8 +1,8 @@
 ---
-title: Contacto
-slug: contacto
+title: "Contacto"
+slug: "contacto"
 sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/pages?slug=contacto"
-originUrl: https://prixline.blog/contacto/
+originUrl: "https://prixline.blog/contacto/"
 extractedAt: 2026-10-03T06:27:34.021Z
 ---
 

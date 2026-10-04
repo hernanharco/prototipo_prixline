@@ -22,7 +22,7 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: "Originally posted on El Principio de un Comienzo: “Cuando la derrota viene, acéptelo como una señal, de que sus planes no son sólidos, reconstruya esos planes y embárquese otra vez hacia su meta codiciada. Si se rinde antes que su meta haya sido alcanzada, usted es un “PERDEDOR” decía Napoleón Hill. Otra vez. Otro fracaso&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/06/images.jpg?w=294&h=242"
+thumbnail: "/media/uploads/2014/06/images.jpg"
 thumbnailAlt: ""
 ---
 
@@ -32,7 +32,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://principiodeuncomienzo.wordpress.com/2014/06/11/otro-fracaso-mas-y-ahora-que">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p style="text-align:justify">“<strong><em>Cuando la derrota viene, acéptelo como una señal, de que sus planes no son sólidos, reconstruya esos planes y embárquese otra vez hacia su meta codiciada. Si se rinde antes que su meta haya sido alcanzada, usted es un “PERDEDOR</em></strong>” decía Napoleón Hill.</p>
 
-<p style="text-align:justify"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/images.jpg"><img class="alignleft  wp-image-3186" src="http://prixline.wordpress.com/wp-content/uploads/2014/06/images.jpg?w=294&#038;h=242" height="242" width="294" alt="Fracaso"></a>Otra vez. Otro fracaso más.</p>
+<p style="text-align:justify"><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/images.jpg"><img class="alignleft  wp-image-3186" src="/media/uploads/2014/06/images.jpg" height="242" width="294" alt="Fracaso"></a>Otra vez. Otro fracaso más.</p>
 
 <p style="text-align:justify">Sé que sin confianza en mí, ya nunca volverá a ser lo mismo. Ya no volveré a ser el de siempre, no me pondré nuevos retos. ¿Para qué? ¿Para fracasar otra vez? Paso… Que lo intente otro, ¿Yo? No.</p>
 

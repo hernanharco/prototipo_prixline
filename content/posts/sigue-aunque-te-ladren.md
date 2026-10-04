@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Tu vida irá hacia adelante cuando te apartes de las personas que te llevan hacia atrás“. ¡¡Que ladre lo que quiera, digan lo que digan, voy a conseguirlo…!!. Es una frase que me han dicho hoy durante una conversación y que la voy a unir a mi&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/05/ladridos-de-perro.jpg?w=373&h=209"
+thumbnail: "/media/uploads/2016/05/ladridos-de-perro.jpg"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2016/05/04/sigue-aunque-te-ladren/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p>“<strong><em>Tu vida irá hacia adelante cuando te apartes de las personas que te llevan hacia atrás</em></strong>“.</p>
 
-<p style="text-align:justify"><em><a href="https://prixline.wordpress.com/wp-content/uploads/2016/05/ladridos-de-perro.jpg"><img class="alignleft  wp-image-4644" src="https://prixline.wordpress.com/wp-content/uploads/2016/05/ladridos-de-perro.jpg?w=373&#038;h=209" height="209" width="373" alt="que te ladren"></a>¡¡Que ladre lo que quiera, digan lo que digan, voy a conseguirlo…!!.</em></p>
+<p style="text-align:justify"><em><a href="https://prixline.wordpress.com/wp-content/uploads/2016/05/ladridos-de-perro.jpg"><img class="alignleft  wp-image-4644" src="/media/uploads/2016/05/ladridos-de-perro.jpg" height="209" width="373" alt="que te ladren"></a>¡¡Que ladre lo que quiera, digan lo que digan, voy a conseguirlo…!!.</em></p>
 
 <p style="text-align:justify">Es una frase que me han dicho hoy durante una conversación y que la voy a unir a mi vida.</p>
 

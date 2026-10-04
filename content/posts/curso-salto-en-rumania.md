@@ -17,7 +17,7 @@ originCategories:
   - "Idiomas"
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Agencia Nacional de Rumania del programa Erasmus+ Juventud en Acción, en colaboración con las agencias nacionales de Francia, Suecia y Hugria, organiza el Curso “Get Ready for Social Entrepreneurship”. Objetivos: Informar y sensibilizar a los participantes acerca de las características, beneficios, valores y factores para el éxito del emprendimiento&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/04/salto-youth-e1318929851550.jpg?w=135&h=56"
+thumbnail: "/media/uploads/2014/04/salto-youth-e1318929851550.jpg"
 thumbnailAlt: ""
 ---
 
@@ -28,7 +28,7 @@ thumbnailAlt: ""
 <p style="color:#555555">Lengua de trabajo: <strong>Inglés</strong>.</p>
 <p style="color:#555555"><strong>Inscripción on-line</strong> en la <a style="color:#20a3ca" href="https://www.salto-youth.net/tools/european-training-calendar/training/get-ready-for-social-entrepreneurship.4203/" target="_blank">web de SALTO</a>.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://mocedastur.wordpress.com/2014/04/28/curso-salto-en-rumania-2">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><a href="https://www.salto-youth.net/"><img class="alignright wp-image-6602" src="http://prixline.wordpress.com/wp-content/uploads/2014/04/salto-youth-e1318929851550.jpg?w=135&#038;h=56" height="56" width="135" alt="Salto-youth" title="Visita la Web"></a>La Agencia Nacional de Rumania del programa <strong>Erasmus+</strong><strong>Juventud en Acción</strong>, en colaboración con las agencias nacionales de Francia, Suecia y Hugria, organiza el <strong>Curso</strong><em><strong>“Get Ready for Social Entrepreneurship”</strong></em>.</p>
+<p style="text-align:justify"><a href="https://www.salto-youth.net/"><img class="alignright wp-image-6602" src="/media/uploads/2014/04/salto-youth-e1318929851550.jpg" height="56" width="135" alt="Salto-youth" title="Visita la Web"></a>La Agencia Nacional de Rumania del programa <strong>Erasmus+</strong><strong>Juventud en Acción</strong>, en colaboración con las agencias nacionales de Francia, Suecia y Hugria, organiza el <strong>Curso</strong><em><strong>“Get Ready for Social Entrepreneurship”</strong></em>.</p>
 
 <p style="text-align:justify"><strong>Objetivos:<br></strong></p>
 

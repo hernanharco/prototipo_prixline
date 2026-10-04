@@ -22,14 +22,14 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "La CEPYME al igual que en años anteriores participa en los planes de formación que mediante convocatoria anual financia el Servicio Público de Empleo Estatal (SEPE). A lo largo de estos últimos años han ido adaptando su oferta formativa a las actuales necesidades empresariales y del mercado laboral. El resultado ha sido ofertar un programa de gran [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/03/20130301-065412.jpg?w=121&h=163"
+thumbnail: "/media/uploads/2013/03/20130301-065412.jpg"
 thumbnailAlt: ""
 ---
 
 # 74 Cursos Gratuitos para trabajadores y desempleados. (Teleformación y&nbsp;presencial)
 
 <p>La CEPYME al igual que en años anteriores participa en los planes de formación que mediante convocatoria anual financia el Servicio Público de Empleo Estatal (SEPE).</p>
-<div style="width: 131px" class="wp-caption alignleft"><a href="http://prixline.wordpress.com/wp-content/uploads/2013/03/20130301-065412.jpg"><img loading="lazy" class="size-full " title="prixline-cepyme" alt="20130301-065412.jpg" src="https://prixline.wordpress.com/wp-content/uploads/2013/03/20130301-065412.jpg?w=121&#038;h=163" width="121" height="163" /></a><p class="wp-caption-text">prixline-cepyme</p></div>
+<div style="width: 131px" class="wp-caption alignleft"><a href="http://prixline.wordpress.com/wp-content/uploads/2013/03/20130301-065412.jpg"><img loading="lazy" class="size-full " title="prixline-cepyme" alt="20130301-065412.jpg" src="/media/uploads/2013/03/20130301-065412.jpg" width="121" height="163" /></a><p class="wp-caption-text">prixline-cepyme</p></div>
 <p>A lo largo de estos últimos años han ido adaptando su oferta formativa a las actuales necesidades empresariales y del mercado laboral. El resultado ha sido ofertar un programa de gran calidad a todas las personas que deseen participar en sus cursos.</p>
 <p>Su formación es completamente GRATUITA y va dirigida a los trabajadores de todos los colectivos incluidos en algún régimen de la seguridad social, así como los desempleados que estén inscritos en el SEPE.</p>
 <p>La programación incluye cursos de modalidad presencial y teleformación (elearning).</p>

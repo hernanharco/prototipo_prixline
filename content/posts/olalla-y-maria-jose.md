@@ -18,7 +18,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on Arcilla y fuego: Las creaciones de mis alumnos Selección de piezas realizadas por los alumnos de cerámica creativa y alfarería durante los cursos Poseidón Diseño y creación de Olalla El beso Diseño y creación de María José Jugando con arcilla … modelando ideas Iniciándose en el apasionante mundo de la cerámica. Belén&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/11/foto0575.jpg?w=731&h=1024"
+thumbnail: "/media/uploads/2014/11/foto0575.jpg"
 thumbnailAlt: ""
 ---
 
@@ -29,11 +29,11 @@ thumbnailAlt: ""
 
 <p>Selección de piezas realizadas por los alumnos de cerámica creativa y alfarería durante los cursos</p>
 
-<p><img class="size-large wp-image-1036" src="http://prixline.wordpress.com/wp-content/uploads/2014/11/foto0575.jpg?w=731&#038;h=1024"   alt="Escultura humana"> Poseidón </p>
+<p><img class="size-large wp-image-1036" src="/media/uploads/2014/11/foto0575.jpg"   alt="Escultura humana"> Poseidón </p>
 
 <p style="text-align:center">Diseño y creación de <b>Olalla</b></p>
 
-<p><img class="size-large wp-image-1037" src="http://prixline.wordpress.com/wp-content/uploads/2014/11/img_00131.jpg?w=771&#038;h=1024"   alt="Escultura humana"> El beso </p>
+<p><img class="size-large wp-image-1037" src="/media/uploads/2014/11/img_00131.jpg"   alt="Escultura humana"> El beso </p>
 
 <p style="text-align:center">Diseño y creación de<strong> María José</strong></p>
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : La comunicación no verbal, la actitud y la vestimenta son aspectos tremendamente influyentes en nuestra posición social, y por supuesto nos guste o no, en la profesional. Y es que además del desarrollo y nuestras habilidades propiamente profesionales, la manera en la que nos presentamos&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/11/captar-la-atencic3b3n.jpg?w=320&h=240"
+thumbnail: "/media/uploads/2018/11/captar-la-atencic3b3n.jpg"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 
 <p style="text-align:justify">Cuando queremos postularnos a cierto trabajo, el primer requisito es el curriculum. Por supuesto que su contenido es importante. Mostrar nuestra experiencia y habilidades en las necesidades requeridas es clave para obtener el trabajo que deseamos. Pero cuando competimos con otros candidatos de capacidades similares, nuestra imagen puede marcar la diferencia definitiva, y por lo tanto la manera en que presentamos nuestro curriculum es vital. Actualmente <a href="https://sobrevivirrhhe.com/2018/10/23/como-crear-tu-cv-en-un-instante-con-resume-io/">hacer un curriculum online</a> es muy sencillo.</p>
 
-<p><img class=" size-full wp-image-14388 alignleft" src="https://prixline.wordpress.com/wp-content/uploads/2018/11/captar-la-atencic3b3n.jpg?w=320&#038;h=240" height="240" width="320" alt="captar la atención"></p>
+<p><img class=" size-full wp-image-14388 alignleft" src="/media/uploads/2018/11/captar-la-atencic3b3n.jpg" height="240" width="320" alt="captar la atención"></p>
 
 <p style="text-align:justify">Por lo tanto el primer paso además de tener las herramientas necesarias para el desempeño profesional es <strong>captar la atención</strong>. Una vez que esto suceda, tenemos la…</p>
 </div><p class="reblog-source"><a href="http://sobrevivirrhhe.com/2018/10/29/imagen-proceso-seleccion/">View original post</a> <span class="more-words">353 more words</span></p></div></div>

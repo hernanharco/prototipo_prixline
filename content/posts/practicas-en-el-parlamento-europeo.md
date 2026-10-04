@@ -18,7 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: El Parlamento Europeo ofrece varias modalidades de períodos de prácticas. Los períodos de prácticas incluyen: Becas Robert Schuman, opción general. Becas Robert Schuman, opción periodismo. Las prácticas para los titulados universitarios tienen por objeto permitirles completar los conocimientos adquiridos durante sus estudios y familiarizarse con la actividad de la Unión&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/03/parlamento-europeo.jpg?w=105&h=96"
+thumbnail: "/media/uploads/2014/03/parlamento-europeo.jpg"
 thumbnailAlt: ""
 ---
 
@@ -30,7 +30,7 @@ thumbnailAlt: ""
 </ul>
 <p><b>Toda la información</b> en la <a href="http://www.europarl.europa.eu/aboutparliament/es/007cecd1cc/Periodos-de-pr%25C3%25A1cticas.html" target="_blank">web del Parlamento Europeo</a>.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://mocedastur.wordpress.com/2014/03/21/practicas-en-el-parlamento-europeo-3/">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><a href="http://www.europarl.europa.eu/portal/es"><img class=" wp-image-39366 alignright" src="http://prixline.wordpress.com/wp-content/uploads/2014/03/parlamento-europeo.jpg?w=105&#038;h=96" height="96" width="105" alt="Parlamento Europeo" title="Visita la Web"></a>El<b> Parlamento Europeo</b> ofrece varias modalidades de períodos de prácticas.</p>
+<p style="text-align:justify"><a href="http://www.europarl.europa.eu/portal/es"><img class=" wp-image-39366 alignright" src="/media/uploads/2014/03/parlamento-europeo.jpg" height="96" width="105" alt="Parlamento Europeo" title="Visita la Web"></a>El<b> Parlamento Europeo</b> ofrece varias modalidades de períodos de prácticas.</p>
 
 <p style="text-align:justify">Los períodos de prácticas incluyen:</p>
 

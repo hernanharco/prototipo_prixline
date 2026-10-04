@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Planifica tu trabajo y luego trabaja sobre tu plan” decía Robert Baden-Powell “Me encanta que los planes salgan bien“. Frase mítica de la serie del Equipo A, que al oírla recientemente me ha hecho recapacitar. Te lanzo esta pregunta: ¿Tienes un plan para tu vida?. Si es&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/01/plan.png?w=300&h=168"
+thumbnail: "/media/uploads/2019/01/plan.png"
 thumbnailAlt: ""
 ---
 
@@ -23,7 +23,7 @@ Un plan siempre tiene que ser flexible, pero siempre coherente contigo mismo.</p
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2019/01/20/tienes-un-plan-para-tu-vida/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p><em><strong>“Planifica tu trabajo y luego trabaja sobre tu plan</strong></em>” decía Robert Baden-Powell</p>
 
-<p><em><a href="https://prixline.wordpress.com/wp-content/uploads/2019/01/plan.png"><img class="alignleft size-full wp-image-6666" src="https://prixline.wordpress.com/wp-content/uploads/2019/01/plan.png?w=300&#038;h=168" height="168" width="300"></a>“Me encanta que los planes salgan bien</em>“. Frase mítica de la serie del Equipo A, que al oírla recientemente me ha hecho recapacitar.</p>
+<p><em><a href="https://prixline.wordpress.com/wp-content/uploads/2019/01/plan.png"><img class="alignleft size-full wp-image-6666" src="/media/uploads/2019/01/plan.png" height="168" width="300"></a>“Me encanta que los planes salgan bien</em>“. Frase mítica de la serie del Equipo A, que al oírla recientemente me ha hecho recapacitar.</p>
 
 <p>Te lanzo esta pregunta: ¿Tienes un plan para tu vida?. Si es así…¿Quién ha diseñado ese plan? ¿Tú o ha sido “recomendación” de los demás?</p>
 

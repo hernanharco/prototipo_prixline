@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Cuando queremos comunicar alguna cosa a los demás tenemos dos maneras de hacerlo. De manera genuina y positiva Expresando una sentencia. Vigilar nuestros vocablos es básico para que el contrapeso del vínculo éste compensado. Quiero contaros una historia como siempre para ilustrar el post de esta semana. A María&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/04/friends-578183_1280.jpg?w=574&h=323"
+thumbnail: "/media/uploads/2016/04/friends-578183_1280.jpg"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Begoña Viña&#039;s avatar' src='https://2.gravatar.com/avatar/b983cf646dbfa16331b8f29cf23156d52f143a378a74d57553a3aa717d328c82?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://vallededempleo.wordpress.com/2016/04/08/que-no-te-parezca-mal">	 OBSERVATORIO DE EMPLEO </a></p><div class="reblogged-content">
 <p style="text-align:justify">Cuando queremos comunicar alguna cosa a los demás tenemos dos maneras de hacerlo.</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2016/04/friends-578183_1280.jpg"><img class=" wp-image-3053 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2016/04/friends-578183_1280.jpg?w=574&#038;h=323" height="323" width="574" alt="friends-578183_1280"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2016/04/friends-578183_1280.jpg"><img class=" wp-image-3053 aligncenter" src="/media/uploads/2016/04/friends-578183_1280.jpg" height="323" width="574" alt="friends-578183_1280"></a></p>
 
 <ul><li style="text-align:justify"><strong><span style="color:#000080">De manera genuina y positiva</span></strong></li><li style="text-align:justify"><strong><span style="color:#000080">Expresando una sentencia. Vigilar nuestros vocablos es básico para que el contrapeso del vínculo éste compensado.</span></strong></li></ul>
 

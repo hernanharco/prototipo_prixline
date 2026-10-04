@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: gratisography.com La búsqueda de candidatos en las redes sociales no es ciencia ficción…¡es realidad!… es presente. Ya sea para buscar posibles candidatos (por área de trabajo, área de estudio) o a veces para corroborar lo que se coloca en el Currículum Vitae. Te doy un ejemplo: María es Selectora de RRHH&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/06/172h.jpg?w=1024&h=683"
+thumbnail: "/media/uploads/2017/06/172h.jpg"
 thumbnailAlt: ""
 ---
 
 # 3 maneras de encontrarte ¿estás&nbsp;preparado/a?
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Rosa Elizabeth Quintana&#039;s avatar' src='https://1.gravatar.com/avatar/dabb212cbba5fcba65b518d8c0c639bc911861d36f309747254580ae6ddffe82?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://rosaelizabethquintana.wordpress.com/2017/06/05/3-maneras-de-encontrarte-estas-preparadoa/">Rosa Elizabeth Quintana</a></p><div class="reblogged-content">
-<p><img class="aligncenter wp-image-2878 size-large" src="https://prixline.wordpress.com/wp-content/uploads/2017/06/172h.jpg?w=1024&#038;h=683"  > gratisography.com </p>
+<p><img class="aligncenter wp-image-2878 size-large" src="/media/uploads/2017/06/172h.jpg"  > gratisography.com </p>
 
 <p style="text-align:justify"><span style="color:#000000">La búsqueda de candidatos en las redes sociales no es ciencia ficción…¡es realidad!… es presente. Ya sea para buscar posibles candidatos (por área de trabajo, área de estudio) o a veces <strong>para corroborar</strong> lo que se coloca en el Currículum Vitae.</span></p>
 

@@ -55,7 +55,10 @@ const posts = defineCollection({
     // `thumbnail` lo propone el importador desde el contenido origen (URL
     // i.ytimg.com de YouTube o la primera <img> absoluta) y es opcional:
     // ausente = sin medios = bloque tipográfico en la home.
-    thumbnail: z.string().url().optional(),
+    // T25: tras localizar los medios del blog origen, `thumbnail` puede ser
+    // una ruta local (`/media/uploads/...`) además de una URL absoluta
+    // (p. ej. i.ytimg.com de YouTube); por eso ya no se exige `.url()`.
+    thumbnail: z.string().optional(),
     videoId: z.string().optional(),
     // El importador lo emite SIEMPRE ("" por defecto); el editor lo rellena
     // desde el panel y el panel puede sobreescribirlo después sin tocar código.

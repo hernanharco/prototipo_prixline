@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : A veces se nos llena la boca, y a mí el primero, de las bondades de las redes sociales para encontrar empleo. Muchas veces hablamos de cómo twitter, por ejemplo, nos puede ayudar a conseguir ese empleo soñado, y pensamos que con abrirnos una cuenta&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/12/cc3b3mo-utilizar-twitter-para-encontrar-trabajo.png?w=1024&h=512"
+thumbnail: "/media/uploads/2016/12/cc3b3mo-utilizar-twitter-para-encontrar-trabajo.png"
 thumbnailAlt: ""
 ---
 
 # Cómo utilizar Twitter para encontrar trabajo. 
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Iñaki González&#039;s avatar' src='https://2.gravatar.com/avatar/29248e5479eb4041a96b782edecdab2e6a21b49c6740e25b12ead826e70342da?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://sobrevivirrhhe.com/2016/12/12/como-utilizar-twitter-para-encontrar-trabajo">El Blog de Iñaki González </a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class="alignnone size-full wp-image-9918" src="https://prixline.wordpress.com/wp-content/uploads/2016/12/cc3b3mo-utilizar-twitter-para-encontrar-trabajo.png?w=1024&#038;h=512" height="512" width="1024" alt="como-utilizar-twitter-para-encontrar-trabajo"></p>
+<p style="text-align:justify"><img class="alignnone size-full wp-image-9918" src="/media/uploads/2016/12/cc3b3mo-utilizar-twitter-para-encontrar-trabajo.png" height="512" width="1024" alt="como-utilizar-twitter-para-encontrar-trabajo"></p>
 
 <p style="text-align:justify">A veces se nos llena la boca, y a mí el primero, de las bondades de las <strong>redes sociales para encontrar empleo.</strong> Muchas veces hablamos de cómo twitter, por ejemplo, nos puede ayudar a conseguir ese empleo soñado, y pensamos que con abrirnos una cuenta y empezar a tuitear ya está todo hecho.</p>
 

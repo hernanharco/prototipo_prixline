@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Si quieres participar en un proyecto de voluntariado europeo del Cuerpo Europeo de Solidaridad (CES), es tu oportunidad. ¿Te apetece hacer un proyecto de voluntariado en el extranjero? EIVA, organización de Rumanía, busca a jóvenes entre 18 y 30 años, para el proyecto ‘Educación a través de juegos’ que se&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2020/02/cuerpo.jpg"
+thumbnail: "/media/uploads/2020/02/cuerpo.jpg"
 thumbnailAlt: ""
 ---
 
@@ -24,7 +24,7 @@ Email: <a href="mailto:youropia@gmail.com">youropia@gmail.com</a><br />
 Web: <a href="http://www.youropia.eu" rel="nofollow ugc">http://www.youropia.eu</a><br />
 Skype: youropia Facebook: Asociacion Youropia</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://mocedastur.wordpress.com/2020/02/05/participantes-para-voluntariado-europeo-en-rumania-4/">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><strong><img class="alignright wp-image-66139 size-medium" src="https://prixline.wordpress.com/wp-content/uploads/2020/02/cuerpo.jpg" height="104" width="300">Si quieres participar</strong> en un proyecto de voluntariado europeo del Cuerpo Europeo de Solidaridad (CES), es tu oportunidad.</p>
+<p style="text-align:justify"><strong><img class="alignright wp-image-66139 size-medium" src="/media/uploads/2020/02/cuerpo.jpg" height="104" width="300">Si quieres participar</strong> en un proyecto de voluntariado europeo del Cuerpo Europeo de Solidaridad (CES), es tu oportunidad.</p>
 
 <p style="text-align:justify">¿Te apetece hacer un proyecto de voluntariado en el extranjero? EIVA, organización de Rumanía, busca a <strong>jóvenes entre 18 y 30 años,</strong> para el proyecto ‘Educación a través de juegos’ que se desarrollará en Arad (Rumanía), durante 6 meses, <strong>entre marzo y agosto 2020.</strong></p>
 

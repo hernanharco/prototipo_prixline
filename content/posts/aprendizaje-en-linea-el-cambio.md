@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Una experiencia gratificante y eficaz de aprendizaje en línea implica algo más que objetos de aprendizaje, los plug-ins e interfaces. Sin embargo, es fácil de involucrarse en lo que averiguar cómo utilizar la tecnología para ofrecer la información, para que a corto plazo cambiar el desarrollo&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/07/comunidades-de-aprendizaje.jpg?w=1075&h=805"
+thumbnail: "/media/uploads/2016/07/comunidades-de-aprendizaje.jpg"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='juandon&#039;s avatar' src='https://2.gravatar.com/avatar/b0197ce5043aa0903337c5520c479c95b612881d14ee3228cb01b90d06802b38?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://juandomingofarnos.wordpress.com/2016/07/15/aprendizaje-en-linea-el-cambio">juandon. Innovación y conocimiento</a></p><div class="reblogged-content">
 <p>juandon</p>
 
-<p><img class="alignnone size-full wp-image-61722" src="https://prixline.wordpress.com/wp-content/uploads/2016/07/comunidades-de-aprendizaje.jpg?w=1075&#038;h=805" height="805" width="1075" alt="Comunidades de aprendizaje"></p>
+<p><img class="alignnone size-full wp-image-61722" src="/media/uploads/2016/07/comunidades-de-aprendizaje.jpg" height="805" width="1075" alt="Comunidades de aprendizaje"></p>
 
 <p>Una experiencia gratificante y eficaz de aprendizaje en línea implica algo más que objetos de aprendizaje, los plug-ins e interfaces. Sin embargo, es fácil de involucrarse en lo que averiguar cómo utilizar la tecnología para ofrecer la información, para que a corto plazo cambiar el desarrollo de planes de aprendizaje y las   evaluaciones entendidas como una parte más de estos aprendizajes.</p>
 

@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: Yo tengo como véiis un Certificado de Profesionalidad muy especial que me lo expidió un alumno/amigo del último curso que impartí de Docencia de la Formación Profesional para el Empleo y que me hizo mucha ilusión. Pero hoy no voy a hablar de lo Fantástica y Maravillosa que&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/07/img_6662.jpg?w=300&h=232"
+thumbnail: "/media/uploads/2015/07/img_6662.jpg"
 thumbnailAlt: ""
 ---
 
 # Certificado de Profesionalidad: dónde lo solicito y qué&nbsp;presento
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='formadoraocup&#039;s avatar' src='https://2.gravatar.com/avatar/51e5d9f3d9aea6e7f651de163294496cfed7c4c19c159ebe87884610a208fe6c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://luisasanchezmiranda.wordpress.com/2015/07/10/certificado-de-profesionalidad-donde-lo-solicito-y-que-presento">FORMANDO PARA EL EMPLEO</a></p><div class="reblogged-content">
-<p style="text-align:center"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/07/img_6662.jpg"><img class="alignnone size-medium wp-image-968" src="https://prixline.wordpress.com/wp-content/uploads/2015/07/img_6662.jpg?w=300&#038;h=232" height="232" width="300" alt="IMG_6662"></a></p>
+<p style="text-align:center"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/07/img_6662.jpg"><img class="alignnone size-medium wp-image-968" src="/media/uploads/2015/07/img_6662.jpg" height="232" width="300" alt="IMG_6662"></a></p>
 
 <p>Yo tengo como véiis un <strong>Certificado de Profesionalidad</strong> muy especial que me lo expidió un alumno/amigo del último curso que impartí de<strong> Docencia de la Formación Profesional para el Empleo</strong> y que me hizo mucha ilusión. Pero hoy no voy a hablar de lo Fantástica y Maravillosa que soy, de eso hablaremos otro día… Jaja.</p>
 

@@ -16,10 +16,10 @@ originCategories:
   - "opiniones"
   - "recursos"
 excerpt: ""
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/06/20130630-105302.jpg"
+thumbnail: "/media/uploads/2013/06/20130630-105302.jpg"
 thumbnailAlt: ""
 ---
 
 # Motivación
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/06/20130630-105302.jpg"><img src="https://prixline.wordpress.com/wp-content/uploads/2013/06/20130630-105302.jpg" alt="20130630-105302.jpg" class="alignnone size-full" /></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/06/20130630-105302.jpg"><img src="/media/uploads/2013/06/20130630-105302.jpg" alt="20130630-105302.jpg" class="alignnone size-full" /></a></p>

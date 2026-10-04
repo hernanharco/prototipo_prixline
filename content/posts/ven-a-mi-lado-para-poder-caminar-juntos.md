@@ -10,12 +10,12 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg?w=400&h=283"
+thumbnail: "/media/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg"
 thumbnailAlt: ""
 ---
 
 # Ven a mi lado para poder caminar&nbsp;juntos
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Carolina Flores Prieto&#039;s avatar' src='https://0.gravatar.com/avatar/96772dfc0aa80b42ff21ac377b6e20b1adeb4a0dcf67416834247ce0b8b2706e?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://reflexionesconcitas.wordpress.com/2015/05/23/ven-a-mi-lado-para-poder-caminar-juntos">Frases y citas celebres</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg"><img class="alignleft size-full wp-image-3615" src="https://prixline.wordpress.com/wp-content/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg?w=400&#038;h=283" height="283" width="400" alt="Ven a mi lado para poder caminar juntos"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg"><img class="alignleft size-full wp-image-3615" src="/media/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg" height="283" width="400" alt="Ven a mi lado para poder caminar juntos"></a></p>
 </div><p class="reblog-source"><a href="https://reflexionesconcitas.wordpress.com/2015/05/23/ven-a-mi-lado-para-poder-caminar-juntos">View original post</a></p></div></div>

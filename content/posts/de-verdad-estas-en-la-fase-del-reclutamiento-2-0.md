@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Se habla todo del tiempo que el Reclutamiento 1.0 ha dado paso al “Reclutamiento 2.0”, que ahora las interacciones empresa/Consultora- Postulante/Candidato son más fluidas, que el Reclutador busca y mantiene un diálogo con sus posibles candidatos, que buscan atraerlos mostrando las ventajas que tendría trabajar en su empresa tanto&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/11/155763-ouetgf-944.jpg?w=5642&h=3767"
+thumbnail: "/media/uploads/2017/11/155763-ouetgf-944.jpg"
 thumbnailAlt: ""
 ---
 
 # ¿De verdad estás en la fase del Reclutamiento&nbsp;2.0?
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Rosa Elizabeth Quintana&#039;s avatar' src='https://1.gravatar.com/avatar/dabb212cbba5fcba65b518d8c0c639bc911861d36f309747254580ae6ddffe82?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://rosaelizabethquintana.wordpress.com/2017/11/02/de-verdad-estas-en-la-fase-del-reclutamiento-2-0/">Rosa Elizabeth Quintana</a></p><div class="reblogged-content">
-<p><a href="http://a%20href=%22https://www.freepik.es/foto-gratis/mujer-hablando-por-telefono-y-corrigiendo-graficos_1372800.htm%22Dise%C3%83%C2%B1ado%20por%20Freepik/a"><img class="alignnone size-full wp-image-3292" src="https://prixline.wordpress.com/wp-content/uploads/2017/11/155763-ouetgf-944.jpg?w=5642&#038;h=3767" height="3767" width="5642" alt="155763-OUETGF-944"></a></p>
+<p><a href="http://a%20href=%22https://www.freepik.es/foto-gratis/mujer-hablando-por-telefono-y-corrigiendo-graficos_1372800.htm%22Dise%C3%83%C2%B1ado%20por%20Freepik/a"><img class="alignnone size-full wp-image-3292" src="/media/uploads/2017/11/155763-ouetgf-944.jpg" height="3767" width="5642" alt="155763-OUETGF-944"></a></p>
 
 <p style="text-align:justify"><span style="color:#000000">Se habla todo del tiempo que el <strong>Reclutamiento 1.0</strong> ha dado paso al <strong>“Reclutamiento 2.0”</strong>, que ahora las interacciones empresa/Consultora- Postulante/Candidato son más fluidas, que el Reclutador busca y mantiene un  diálogo con sus posibles candidatos, que buscan atraerlos mostrando las ventajas que tendría trabajar en su empresa tanto en clima laboral como en desarrollo profesional además de los Beneficios económicos. </span></p>
 

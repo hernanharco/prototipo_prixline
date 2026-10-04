@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: El tiempo pasa volando… y ya estoy de nuevo aquí inagurando el mes de marzo con nuevas ofertas de empleo para docentes que he encontrado en las redes y varias que me han enviado para que las difunda. Gracias a todos/as!! Me envían a mi correo estas ofertas de&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/jv7omds7odg4sv21_eo-w.png?w=654&h=435"
+thumbnail: "/media/uploads/2015/03/jv7omds7odg4sv21_eo-w.png"
 thumbnailAlt: ""
 ---
 
 # Ofertas de empleo para docentes 1ª quincena de&nbsp;marzo
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='formadoraocup&#039;s avatar' src='https://2.gravatar.com/avatar/51e5d9f3d9aea6e7f651de163294496cfed7c4c19c159ebe87884610a208fe6c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://luisasanchezmiranda.wordpress.com/2015/03/04/ofertas-de-empleo-para-docentes-1a-quincena-de-marzo">FORMANDO PARA EL EMPLEO</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/jv7omds7odg4sv21_eo-w.png"><img class=" size-full wp-image-834 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2015/03/jv7omds7odg4sv21_eo-w.png?w=654&#038;h=435" height="435" width="654" alt="jV7OmDs7Odg4sV21_eO--w"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/jv7omds7odg4sv21_eo-w.png"><img class=" size-full wp-image-834 aligncenter" src="/media/uploads/2015/03/jv7omds7odg4sv21_eo-w.png" height="435" width="654" alt="jV7OmDs7Odg4sV21_eO--w"></a></p>
 
 <p>El tiempo pasa volando… y ya estoy de nuevo aquí inagurando el mes de marzo con <strong>nuevas ofertas de empleo</strong> <strong>para docentes</strong> que he encontrado en las redes y varias que me han enviado para que las difunda. Gracias a todos/as!!</p>
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El blog de Rafa Ferrer: Después de unas semanas sin escribir y aprovechando la estela de las elecciones europeas celebradas el pasado fin de semana, por fin me he animado a juntar unas pocas letras. No pretendo hablar de política, asunto sensible donde los haya. Tampoco de economía, ni de trabajo, ni de&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg?w=300&h=260"
+thumbnail: "/media/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg"
 thumbnailAlt: ""
 ---
 
@@ -21,5 +21,5 @@ thumbnailAlt: ""
 
 <p style="color:#333333">No pretendo hablar de política, asunto sensible donde los haya. Tampoco de economía, ni de trabajo, ni de salarios, ayudas o pensiones. Sin embargo, sí que voy a referirme a la <strong>responsabilidad</strong> que todos y cada uno de nosotros tiene consigo mismo y con los demás, con las palabras que pronunciamos y callamos, con cada acto u omisión.</p>
 
-<p style="color:#333333">Me resulta llamativo que muchos pretendan que les resuelvan la vida, que prefieran que otras personas decidan en su lugar,<a href="http://prixline.wordpress.com/wp-content/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg"><img class="alignright size-medium wp-image-1780" src="http://prixline.wordpress.com/wp-content/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg?w=300&#038;h=260" height="260" width="300" alt="Yo, presidente.rafaelferrer.es"></a> porque les convierte en esclavos, aunque crean lo contrario. Hay quienes se instalan en la queja y en realidad no son más que marionetas al servicio del <strong>sistema</strong>, números para la estadística, colores sobre un mapa, un cartel de “no molestar” en el…</p>
+<p style="color:#333333">Me resulta llamativo que muchos pretendan que les resuelvan la vida, que prefieran que otras personas decidan en su lugar,<a href="http://prixline.wordpress.com/wp-content/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg"><img class="alignright size-medium wp-image-1780" src="/media/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg" height="260" width="300" alt="Yo, presidente.rafaelferrer.es"></a> porque les convierte en esclavos, aunque crean lo contrario. Hay quienes se instalan en la queja y en realidad no son más que marionetas al servicio del <strong>sistema</strong>, números para la estadística, colores sobre un mapa, un cartel de “no molestar” en el…</p>
 </div><p class="reblog-source"><a href="http://elblogderafaferrer.wordpress.com/2014/05/27/yo-presidente">View original post</a> <span class="more-words">229 more words</span></p></div></div>

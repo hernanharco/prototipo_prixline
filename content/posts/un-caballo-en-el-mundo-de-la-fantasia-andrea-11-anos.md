@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on EL ESTUDIO DE CRIS Y SOFIA: En la vida de Andrea existe una personita muy especial, su querida tía Rosa, una enamorada absoluta de los caballos. ¿Y que mejor regalo le podría hacer su sobrina que este maravilloso cuadro? Lo ha realizado en acrílicos, y el intenso contraste de colores se ha&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/02/dscf25181.jpg?w=822&h=1024"
+thumbnail: "/media/uploads/2015/02/dscf25181.jpg"
 thumbnailAlt: ""
 ---
 
@@ -23,5 +23,5 @@ thumbnailAlt: ""
 
 <p>Si hay un mundo de la fantasía donde habiten los caballos (y yo estoy convencida de que si), seguro que no ninguno tan hermoso como este:</p>
 
-<p><img class="alignnone size-large wp-image-2453" src="https://prixline.wordpress.com/wp-content/uploads/2015/02/dscf25181.jpg?w=822&#038;h=1024"   alt="Academia de dibujo y pintura para niños en Torrejon de ardoz"></p>
+<p><img class="alignnone size-large wp-image-2453" src="/media/uploads/2015/02/dscf25181.jpg"   alt="Academia de dibujo y pintura para niños en Torrejon de ardoz"></p>
 </div><p class="reblog-source"><a href="https://mitallerdepinturainfantil.wordpress.com/2015/02/20/un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos">View original post</a></p></div></div>

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Si, lo admito, me tienta hablaros de Marca Personal para Formadores de FPE, pero me voy a quedar con las ganas y no voy a hacerlo… No voy a hablar aquí de qué es la Marca Personal ni por qué tendrías que trabajarla para dar la&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/05/luisasanchez-001.jpeg?w=1024&h=768"
+thumbnail: "/media/uploads/2017/05/luisasanchez-001.jpeg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='formadoraocup&#039;s avatar' src='https://2.gravatar.com/avatar/51e5d9f3d9aea6e7f651de163294496cfed7c4c19c159ebe87884610a208fe6c?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://luisasanchezmiranda.wordpress.com/2017/05/25/pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores/">FORMANDO PARA EL EMPLEO</a></p><div class="reblogged-content">
 <p></p>
 
-<p><img class="alignnone size-full wp-image-2570" src="https://prixline.wordpress.com/wp-content/uploads/2017/05/luisasanchez-001.jpeg?w=1024&#038;h=768" height="768" width="1024" alt="luisasanchez.001"></p>
+<p><img class="alignnone size-full wp-image-2570" src="/media/uploads/2017/05/luisasanchez-001.jpeg" height="768" width="1024" alt="luisasanchez.001"></p>
 
 <p></p>
 

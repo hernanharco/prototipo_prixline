@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Owura Kwadwo es profesor de TIC en una escuela rural de Kumasi, en Ghana. Estos días todos hemos oído hablar de un profesor de una escuela de Ghana que da sus clases con la ayuda únicamente de una pizarra de tiza, sus conocimientos y sobre todo su imaginación.&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/03/1519934394_521191_1519937336_noticia_normal_recorte1.jpg?w=730&h=488"
+thumbnail: "/media/uploads/2018/03/1519934394_521191_1519937336_noticia_normal_recorte1.jpg"
 thumbnailAlt: ""
 ---
 
@@ -24,7 +24,7 @@ escuela rural de Kumasi, en Ghana.</h3>
 
 <p>Al leer esto puede parecer que hay muchos casos similares en el mundo, y que no es para destacarlo, pero al conocer más sobre la noticia, comprendemos por qué se ha convertido en viral.</p>
 
-<p><img class="size-full wp-image-16446 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2018/03/1519934394_521191_1519937336_noticia_normal_recorte1.jpg?w=730&#038;h=488" height="488" width="730" alt="Escuela rural en Ghana"></p>
+<p><img class="size-full wp-image-16446 aligncenter" src="/media/uploads/2018/03/1519934394_521191_1519937336_noticia_normal_recorte1.jpg" height="488" width="730" alt="Escuela rural en Ghana"></p>
 
 <p>La razón es que con la simple ayuda de un encerado y una tiza, <strong>Owura Kwadwo</strong>, así se llama nuestro profesor, enseña a sus alumnos a utilizar una herramienta que les puede ayudar en su futuro; les enseña <strong>Word</strong> sin disponer de ordenador, solamente dibujando en la pizarra cada una de las pantallas del programa, con sus menús, sus funciones y usos.</p>
 

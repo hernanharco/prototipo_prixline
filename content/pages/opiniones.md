@@ -1,8 +1,8 @@
 ---
 title: "Opiniones de los&nbsp;Alumnos"
-slug: opiniones
+slug: "opiniones"
 sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/pages?slug=opiniones"
-originUrl: https://prixline.blog/opiniones/
+originUrl: "https://prixline.blog/opiniones/"
 extractedAt: 2026-10-03T06:27:34.021Z
 ---
 

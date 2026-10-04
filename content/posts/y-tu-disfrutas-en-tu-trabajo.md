@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Siempre que mantengo una conversación con alguien sobre algún tema relacionado con el mundo laboral me gusta compartirlo en mi pequeño rincón virtual. Estos días con el inicio de las vacaciones estivales una buena amiga me ha comentado que considera que “su vida” es lo que vive cuando está&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/07/happiness-at-work.jpg?w=620&h=353"
+thumbnail: "/media/uploads/2016/07/happiness-at-work.jpg"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 
 <blockquote><p><span style="color:#000080"><strong>Mira si será algo malo el trabajo, que deben pagarte para que lo hagas. </strong></span></p></blockquote>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2016/07/happiness-at-work.jpg"><img class="aligncenter size-full wp-image-3168" src="https://prixline.wordpress.com/wp-content/uploads/2016/07/happiness-at-work.jpg?w=620&#038;h=353" height="353" width="620" alt="happiness-at-work"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2016/07/happiness-at-work.jpg"><img class="aligncenter size-full wp-image-3168" src="/media/uploads/2016/07/happiness-at-work.jpg" height="353" width="620" alt="happiness-at-work"></a></p>
 
 <p style="text-align:justify">Leyendo hace poco varios estudios de carácter psicológico <strong><span style="color:#000080">mencionaban que el trabajo no es algo tan nocivo, es básico para nuestra felicidad. </span></strong></p>
 

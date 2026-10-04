@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Imagen via (AlexandraLeperq) Hoy ya no es posible solo hablar de educación, bueno si es posible si actuamos des de o posiciones reduccionistas o no queremos entender la complejidad de nuestra sociedad, hacerlo así significa trabajar y darnos solo una “oportunidad” en aspectos muy concretos dejando&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/figure-6-overview-of-wp5-year-1-activities-based-on-integrated-research-activity-map.png?w=780&h=1078"
+thumbnail: "/media/uploads/2016/08/figure-6-overview-of-wp5-year-1-activities-based-on-integrated-research-activity-map.png"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='juandon&#039;s avatar' src='https://2.gravatar.com/avatar/b0197ce5043aa0903337c5520c479c95b612881d14ee3228cb01b90d06802b38?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://juandomingofarnos.wordpress.com/2016/08/29/el-aprendizaje-informal-representa-a-los-aprendices-y-trabajadores-de-hoy-educacion-disruptiva">juandon. Innovación y conocimiento</a></p><div class="reblogged-content">
 <div><div class="_1mf _1mj">juandon</div></div>
 
-<div class="_1mf _1mj"><img class="alignnone size-full wp-image-61826" src="https://prixline.wordpress.com/wp-content/uploads/2016/08/figure-6-overview-of-wp5-year-1-activities-based-on-integrated-research-activity-map.png?w=780&#038;h=1078" height="1078" width="780" alt="Figure-6-Overview-of-WP5-Year-1-Activities-based-on-Integrated-Research-Activity-Map"></div>
+<div class="_1mf _1mj"><img class="alignnone size-full wp-image-61826" src="/media/uploads/2016/08/figure-6-overview-of-wp5-year-1-activities-based-on-integrated-research-activity-map.png" height="1078" width="780" alt="Figure-6-Overview-of-WP5-Year-1-Activities-based-on-Integrated-Research-Activity-Map"></div>
 
 <div><div class="_1mf _1mj">I<strong>magen via (AlexandraLeperq)</strong></div><div class="_1mf _1mj"><span><span>Hoy ya no es posible solo hablar de educación, bueno si es posible si actuamos des de o posiciones reduccionistas o no queremos entender la complejidad de nuestra sociedad, hacerlo así significa trabajar y darnos solo una “oportunidad” en aspectos muy concretos dejando de lado otros escenarios, otras competencias, habilidades etc… que necesitamos para vivir y que debemos tener presente en nuestras vidas des de siempre.</span></span></div></div>
 

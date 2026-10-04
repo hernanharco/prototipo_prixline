@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Desde tu móvil Fotografía este código BiDi y reserva tu plaza para estudiar con beca un FP Grado Superior, y disfruta del fin de semana. ¡Solo hasta el 20 de abril!"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/04/becabidigrande.png?w=450&h=450"
+thumbnail: "/media/uploads/2015/04/becabidigrande.png"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Blog de TEIDE-HEASE&#039;s avatar' src='https://2.gravatar.com/avatar/5072f325eae065a28fe7a4b90d6b679d94d9e48aa90b2afb1f594b9331272509?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://elblogdeteidehease.com/2015/04/10/solicita-tu-beca-para-estudiar-fp-de-grado-superior">El Blog de TEIDE-HEASE </a></p><div class="reblogged-content">
 <h3 style="text-align:center">Desde tu móvil</h3>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/becabidigrande.png"><img class=" size-full wp-image-10444 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2015/04/becabidigrande.png?w=450&#038;h=450" height="450" width="450" alt="Beca FP CFGS"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/04/becabidigrande.png"><img class=" size-full wp-image-10444 aligncenter" src="/media/uploads/2015/04/becabidigrande.png" height="450" width="450" alt="Beca FP CFGS"></a></p>
 
 <p style="text-align:justify"><span style="font-size:12px;color:#808080"> Fotografía este <strong>código BiDi</strong> y reserva tu plaza para estudiar con beca un <strong>FP Grado Superior,</strong> y disfruta del fin de semana.<br>
 ¡Solo hasta el 20 de abril!<br></span></p>

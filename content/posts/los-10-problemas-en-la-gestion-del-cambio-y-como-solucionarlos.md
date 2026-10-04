@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “Nunca olvides que todo comenzó…. cuando dibujé un simple ratón”. – Walt Disney Hace un tiempo atrás me atreví a intentar explicar la gestión del cambio de personal como la del cambio personal, es decir de nosotros mismos. El mundo de&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/11/chimenea-industrial-by-click.jpg?w=660&h=440"
+thumbnail: "/media/uploads/2015/11/chimenea-industrial-by-click.jpg"
 thumbnailAlt: ""
 ---
 
@@ -18,7 +18,7 @@ thumbnailAlt: ""
 
 <div class="wpcom-reblog-snapshot"><div class="reblogger-note"><div class='reblogger-note-content'><blockquote><p>El último punto sobre la gestión del cambio es determinar si un cambio será bueno o malo. Realmente es así de simple. Una buena idea sobre el papel puede no tener en cuenta el factor humano y, por tanto, no funcionar en absoluto, no importa lo bien que lo hemos pensado, reflexionado y planificado.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Ricard Lloria&#039;s avatar' src='https://0.gravatar.com/avatar/31860918ea4e3237560165a6093dfafc5eea30f2569c4ea844d5c5e7c94f012b?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://ricardlloria.wordpress.com/2015/11/30/los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos">Liquadora de ideas y pensamientos - Blender&#039;s ideas and thoughts</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/11/chimenea-industrial-by-click.jpg"><img class="alignnone size-full wp-image-1819" src="https://prixline.wordpress.com/wp-content/uploads/2015/11/chimenea-industrial-by-click.jpg?w=660&#038;h=440" height="440" width="660" alt="Chimenea industrial by click"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/11/chimenea-industrial-by-click.jpg"><img class="alignnone size-full wp-image-1819" src="/media/uploads/2015/11/chimenea-industrial-by-click.jpg" height="440" width="660" alt="Chimenea industrial by click"></a></p>
 
 <blockquote><p style="text-align:right"><em>“Nunca olvides que todo comenzó…. cuando dibujé un simple ratón”. – Walt Disney</em></p></blockquote>
 

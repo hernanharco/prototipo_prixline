@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on AVANZA LABORAL: Esta es la SEGUNDA parte de la serie de posts relacionados con el empleo en Hoteles y la época estival. Recuerda que si quieres consultar la primera está en este enlace, picha aquí ? ANDILANA HOTELS http://www.grupandilana.com/es/trabaja-con-nosotros ? BlueBay – Bluebay Hotels & Resorts http://www.bluebayresorts.com/es/trabaja-con-nosotros.html Hotel Bestprice Diagonal –&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/05/precio-curri.jpg?w=300&h=142"
+thumbnail: "/media/uploads/2015/05/precio-curri.jpg"
 thumbnailAlt: ""
 ---
 
@@ -74,7 +74,7 @@ thumbnailAlt: ""
 <pre><span style="color:#0000ff"><a style="color:#0000ff" href="http://avanzalaboral.com/2013/12/23/necesitas-un-curriculum-profesional/">SOLICITA YA TU CURRÍCULUM QUE TE AYUDE A CONSEGUIR EMPLEO, </a></span></pre>
 
 <pre><span style="color:#0000ff"><a style="color:#0000ff" href="http://avanzalaboral.com/2013/12/23/necesitas-un-curriculum-profesional/">TE PODEMOS AYUDAR, PINCHA AQUÍ PARA OBTENER INFORMACIÓN
- </a><a style="color:#0000ff" href="http://avanzalaboral.com/2013/12/23/necesitas-un-curriculum-profesional/"><img class=" wp-image-913 size-medium alignleft" src="https://prixline.wordpress.com/wp-content/uploads/2015/05/precio-curri.jpg?w=300&#038;h=142" height="142" width="300" alt="PRECIO CURRI"></a></span></pre>
+ </a><a style="color:#0000ff" href="http://avanzalaboral.com/2013/12/23/necesitas-un-curriculum-profesional/"><img class=" wp-image-913 size-medium alignleft" src="/media/uploads/2015/05/precio-curri.jpg" height="142" width="300" alt="PRECIO CURRI"></a></span></pre>
 
 <pre><span style="color:#0000ff"> </span></pre>
 

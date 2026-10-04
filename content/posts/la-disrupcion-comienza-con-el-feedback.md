@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Presta atención al feedback negativo y solicítalo, particularmente el de los amigos. Difícilmente alguien hace eso y es de mucha ayuda” dice Elon Musk Se define FeedBack, como “ Capacidad de un emisor para recoger reacciones de los receptores y modificar su mensaje de acuerdo con lo&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/05/untitled6.png?w=300&h=168"
+thumbnail: "/media/uploads/2018/05/untitled6.png"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2018/05/30/la-disrupcion-comienza-con-el-feedback/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p><strong>“Presta atención al feedback negativo y solicítalo, particularmente el de los amigos. Difícilmente alguien hace eso y es de mucha ayuda”</strong> dice Elon Musk</p>
 
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2018/05/untitled6.png"><img class="alignleft size-full wp-image-6085" src="https://prixline.wordpress.com/wp-content/uploads/2018/05/untitled6.png?w=300&#038;h=168" height="168" width="300"></a>Se define FeedBack, como “ <em>Capacidad de un emisor para recoger reacciones de los receptores y modificar su mensaje de acuerdo con lo recogido.. Devolución de una señal modificada a su emisor”.</em></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2018/05/untitled6.png"><img class="alignleft size-full wp-image-6085" src="/media/uploads/2018/05/untitled6.png" height="168" width="300"></a>Se define FeedBack, como “ <em>Capacidad de un emisor para recoger reacciones de los receptores y modificar su mensaje de acuerdo con lo recogido.. Devolución de una señal modificada a su emisor”.</em></p>
 
 <p>Como bien dicen sus autoras, en el libro “<em><a href="https://www.amazon.es/Feedback-acci%C3%B3n-empresarial-Rodr%C3%ADguez-Tronco/dp/8416624798/ref=sr_1_1?s=books&amp;#038;ie=UTF8&amp;#038;qid=1527161029&amp;#038;sr=1-1&amp;#038;keywords=smart+feedback">Smart Feedback. Conversaciones para el desarrollo del talento</a>”</em>, tanto darlo como recibirlo en esta sociedad en la que vivimos, es muy incomodo.</p>
 

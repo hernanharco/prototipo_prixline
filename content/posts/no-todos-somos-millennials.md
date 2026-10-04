@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La vida es demasiado corta para tener el trabajo equivocado” Estoy asqueado y con miedo. No es que haya visto el perfil “no bueno” de Julio Iglesias, o haya conocido a la niña de las chuches de Rajoy. Tengo miedo del camino que estamos tomando. Asqueado porque&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/08/untitled3.png?w=271&h=186"
+thumbnail: "/media/uploads/2017/08/untitled3.png"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2017/08/16/no-todos-somos-millennials/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p><em><strong>“La vida es demasiado corta para tener el trabajo equivocado”</strong></em></p>
 
-<p><span style="color:#000000;font-family:Calibri"><img class="alignleft size-full wp-image-5534" src="https://prixline.wordpress.com/wp-content/uploads/2017/08/untitled3.png?w=271&#038;h=186" height="186" width="271">Estoy asqueado y con miedo.</span></p>
+<p><span style="color:#000000;font-family:Calibri"><img class="alignleft size-full wp-image-5534" src="/media/uploads/2017/08/untitled3.png" height="186" width="271">Estoy asqueado y con miedo.</span></p>
 
 <p><span style="color:#000000;font-family:Calibri">No es que haya visto el perfil “no bueno” de Julio Iglesias, o haya conocido a la niña de las chuches de Rajoy.</span></p>
 

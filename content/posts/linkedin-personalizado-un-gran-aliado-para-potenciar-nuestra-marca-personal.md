@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Luces y Sombras de las Marcas: Aunque ya hemos repetido una y otra vez la importancia de cuidar nuestra imagen en todos los medios sociales y, no solo lo que publicamos, si no la estética de las imágenes y descripciones que acompañan nuestros perfiles, en el caso de Linkedin esta recomendación se vuelve primordial. Linkedin&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png?w=1024&h=485"
+thumbnail: "/media/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='fatimamartinezlopez&#039;s avatar' src='https://1.gravatar.com/avatar/a744141acef571b62ed9685837569f3a34e11f8ed8d161c39130742fd50872cb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://fmlopez48.wordpress.com/2014/06/05/linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal">Luces y Sombras de las Marcas</a></p><div class="reblogged-content">
 <p>Aunque ya hemos repetido una y otra vez la importancia de cuidar nuestra imagen en todos los medios sociales y, no solo lo que publicamos, si no la estética de las imágenes y descripciones que acompañan nuestros perfiles, en el caso de Linkedin esta recomendación se vuelve primordial.</p>
 
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png"><img class="aligncenter size-large wp-image-9681" src="http://prixline.wordpress.com/wp-content/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png?w=1024&#038;h=485"   alt="Captura de pantalla 2014-06-05 a la(s) 15.03.24"></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png"><img class="aligncenter size-large wp-image-9681" src="/media/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png"   alt="Captura de pantalla 2014-06-05 a la(s) 15.03.24"></a></p>
 
 <p>Linkedin es una de las mejores herramientas con las que contamos para potenciar nuestra marca personal, ya que  la percepción que tanto empresas como usuarios tendrán de nosotros, comienza por nuestra imagen y bagaje profesional, nuestros logros y conocimientos, la información que compartimos y la forma en la que seamos capaces de expresarlo.</p>
 

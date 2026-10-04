@@ -16,6 +16,10 @@
  */
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
+// T25: localizador de medios del blog origen (descarga a site/public/media
+// + reescritura de refs). El corpus de cursos no contiene hoy medios de
+// origen (0), pero el mismo pipeline protege futuros re-runs.
+import { formatMediaReport, localizeMediaDocs, mediaRoot, realMediaStore } from "./media-io.ts";
 
 export interface Course {
   title: string;
@@ -255,12 +259,23 @@ export async function run(argv: string[]): Promise<number> {
     return courses.length;
   }
   await mkdir(COURSES_DIR, { recursive: true });
-  for (const course of courses) {
-    const md = renderMarkdown(course, CURSO_PAGE_URL, extractedAt);
-    await writeFile(new URL(`${course.slug}.md`, COURSES_DIR), md, "utf8");
+  // T25: localiza los medios del blog origen ANTES de escribir (omite archivos
+  // existentes → reruns baratos); una imagen caída conserva su URL original.
+  const { docs, report } = await localizeMediaDocs(
+    courses.map((course) => ({
+      id: `${course.slug}.md`,
+      md: renderMarkdown(course, CURSO_PAGE_URL, extractedAt),
+    })),
+    { store: realMediaStore(mediaRoot()) },
+  );
+  for (const { id, md } of docs) {
+    await writeFile(new URL(id, COURSES_DIR), md, "utf8");
   }
-  console.log(`Wrote ${courses.length} course file(s) to content/courses/ (source: ${sourceLabel})`);
-  return courses.length;
+  console.log(
+    `Wrote ${docs.length} course file(s) to content/courses/ (source: ${sourceLabel})`,
+  );
+  console.log(formatMediaReport(report, "courses"));
+  return docs.length;
 }
 
 const isDirectRun =

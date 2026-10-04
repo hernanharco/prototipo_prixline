@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Todo es electrónico: Hay consenso sobre que la normativa española de impulso a la creación de empresas puede mejorar. Aunque con frecuencia las oportunidades parecen desarrollarse en el ámbito tecnológico, seguro que hay muchas actividades en las que se puede mejorar el hábitat que permita iniciar y desarrollar actividades empresariales. Y&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2019/01/startup-emprender.jpg?w=320&h=213"
+thumbnail: "/media/uploads/2019/01/startup-emprender.jpg"
 thumbnailAlt: ""
 ---
 
 # Como mejorar la normativa de Start-ups y&nbsp;emprendedores
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='inza&#039;s avatar' src='https://2.gravatar.com/avatar/82babfe3ccd6b12106ed404289f3098f9bb8983a9e7e6e7480e228b6bddbd211?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://inza.wordpress.com/2019/01/03/como-mejorar-la-normativa-de-start-ups-y-emprendedores/">Todo es electrónico</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/01/startup-emprender.jpg"><img class="alignright  wp-image-9701" src="https://prixline.wordpress.com/wp-content/uploads/2019/01/startup-emprender.jpg?w=320&#038;h=213" height="213" width="320"></a>Hay consenso sobre que la normativa  española de impulso a la creación de empresas puede mejorar. Aunque con frecuencia las oportunidades parecen desarrollarse en el ámbito tecnológico, seguro que hay muchas actividades en las que se puede mejorar el hábitat que permita iniciar y desarrollar actividades empresariales.</p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2019/01/startup-emprender.jpg"><img class="alignright  wp-image-9701" src="/media/uploads/2019/01/startup-emprender.jpg" height="213" width="320"></a>Hay consenso sobre que la normativa  española de impulso a la creación de empresas puede mejorar. Aunque con frecuencia las oportunidades parecen desarrollarse en el ámbito tecnológico, seguro que hay muchas actividades en las que se puede mejorar el hábitat que permita iniciar y desarrollar actividades empresariales.</p>
 
 <p>Y no nos dejemos llevar por los eufemismos: los emprendedores son empresarios. No se puede descalificar a los empresarios si pretendemos que haya emprendedores.</p>
 

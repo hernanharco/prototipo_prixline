@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Puede que te sorprenda oír esto, pero el FRACASO no existe. El fracaso es simplemente la opinión que alguien cómo se deberían hacer ciertas cosas” decía Wayne Dyer. A ciertas edades, los seres humanos, nos dividen en dos. Entre aquellos que podríamos considerar como “normales”. Es decir,&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/12/untitled3.png?w=284&h=177"
+thumbnail: "/media/uploads/2018/12/untitled3.png"
 thumbnailAlt: ""
 ---
 
@@ -22,7 +22,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2018/07/29/por-que-le-llamaban-fracasado/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p>“<em><strong>Puede que te sorprenda oír esto, pero el FRACASO no existe. El fracaso es simplemente la opinión que alguien cómo se deberían hacer ciertas cosas</strong></em>” decía Wayne Dyer.</p>
 
-<p><span style="color:#000000;font-family:Calibri"><a href="https://prixline.wordpress.com/wp-content/uploads/2018/12/untitled3.png"><img class="alignleft size-full wp-image-6208" src="https://prixline.wordpress.com/wp-content/uploads/2018/12/untitled3.png?w=284&#038;h=177" height="177" width="284"></a>A ciertas edades, los seres humanos, nos dividen en dos.</span></p>
+<p><span style="color:#000000;font-family:Calibri"><a href="https://prixline.wordpress.com/wp-content/uploads/2018/12/untitled3.png"><img class="alignleft size-full wp-image-6208" src="/media/uploads/2018/12/untitled3.png" height="177" width="284"></a>A ciertas edades, los seres humanos, nos dividen en dos.</span></p>
 
 <p><span style="color:#000000;font-family:Calibri">Entre aquellos que podríamos considerar como “<em>normales</em>”. Es decir, aquellas personas que tienen pareja, quizá un hijo o dos. Un puesto de trabajo ( da igual sea eventual o no, pero lo tienen ), y un grupo de amigos con los que salir el fin de semana todos juntos de excursión o una cena en casa de uno de ellos. </span></p>
 

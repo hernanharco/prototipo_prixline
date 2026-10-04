@@ -1,8 +1,8 @@
 ---
-title: REDES
-slug: redes
+title: "REDES"
+slug: "redes"
 sourceUrl: "https://public-api.wordpress.com/wp/v2/sites/prixline.blog/pages?slug=redes"
-originUrl: https://prixline.blog/redes/
+originUrl: "https://prixline.blog/redes/"
 extractedAt: 2026-10-03T06:27:34.021Z
 ---
 

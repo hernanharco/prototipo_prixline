@@ -15,7 +15,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: La Fundación Ramón Areces convoca 22 becas para la realización de estudios en universidades y centros de investigación en el extranjero, durante el curso 2014/2015, en Ciencias Sociales, sobre temas de: Economía. En las áreas de: Economía pública Historia económica Política económica Economía de la empresa Distribución comercial Economía internacional Economía de la educación&hellip;"
-thumbnail: "http://prixline.wordpress.com/wp-content/uploads/2014/02/fundacion-ramon-areces.jpg?w=74&h=120"
+thumbnail: "/media/uploads/2014/02/fundacion-ramon-areces.jpg"
 thumbnailAlt: ""
 ---
 
@@ -30,7 +30,7 @@ thumbnailAlt: ""
 <p><b>Plazo de solicitud: hasta el 28 de febrero de 2014.</b></p>
 <p><b>Más información</b> en la <a href="http://www.fundacionareces.es/fundacionareces/portal.do?IDM=20&amp;NM=1" target="_blank">web de la Fundación Ramón Areces</a>.</p>
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://mocedastur.wordpress.com/2014/02/13/becas-fundacion-ramon-areces-para-estudios-de-postgrado/">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><a href="http://www.fundacionareces.es/fundacionareces/portal.do"><img class="alignright  wp-image-18119" src="http://prixline.wordpress.com/wp-content/uploads/2014/02/fundacion-ramon-areces.jpg?w=74&#038;h=120" height="120" width="74" alt="Fundacion Ramon Areces" title="Visita la Web"></a>La <b>Fundación Ramón Areces</b> convoca<strong> 22 becas para la realización de estudios en universidades y centros de investigación en el extranjero</strong>, durante el curso 2014/2015, en Ciencias Sociales, sobre temas de:</p>
+<p style="text-align:justify"><a href="http://www.fundacionareces.es/fundacionareces/portal.do"><img class="alignright  wp-image-18119" src="/media/uploads/2014/02/fundacion-ramon-areces.jpg" height="120" width="74" alt="Fundacion Ramon Areces" title="Visita la Web"></a>La <b>Fundación Ramón Areces</b> convoca<strong> 22 becas para la realización de estudios en universidades y centros de investigación en el extranjero</strong>, durante el curso 2014/2015, en Ciencias Sociales, sobre temas de:</p>
 
 <ul style="text-align:justify"><li><b>Economía</b>. En las áreas de:
 <ul><li>Economía pública</li><li>Historia económica</li><li>Política económica</li><li>Economía de la empresa</li><li>Distribución comercial</li><li>Economía internacional</li><li>Economía de la educación</li></ul></li></ul>

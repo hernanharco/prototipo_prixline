@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Actualmente estoy trabajando tan solo por un mes de sustitución. Movido por mi motivación de no cesar en encontrar un empleo digno y con mayor estabilidad en el tiempo, sigo demandando ayuda por este medio, yo no me paro. Busco empleo en Valencia. El boca a boca ayuda mucho, cualquier&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/08/agustin_ramon06_20160704_0129_arrinconados_busco_empleo.jpg?w=800&h=440"
+thumbnail: "/media/uploads/2016/08/agustin_ramon06_20160704_0129_arrinconados_busco_empleo.jpg"
 thumbnailAlt: ""
 ---
 
 # Busco empleo en&nbsp;Valencia
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='ElTejedorDePalabras&#039;s avatar' src='https://1.gravatar.com/avatar/de4a69969ce03b5b2d5539a20bc3560432ebee1263a063a2b9c9327ea9109318?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://eltejedordepalabras.org/2016/08/13/busco-empleo-en-valencia">ElTejedorDePalabras.org</a></p><div class="reblogged-content">
-<p style="text-align:justify"><img class="alignnone size-full wp-image-3748" src="https://prixline.wordpress.com/wp-content/uploads/2016/08/agustin_ramon06_20160704_0129_arrinconados_busco_empleo.jpg?w=800&#038;h=440" height="440" width="800" alt="agustin_ramon06_20160704_0129_Arrinconados_busco_empleo"></p>
+<p style="text-align:justify"><img class="alignnone size-full wp-image-3748" src="/media/uploads/2016/08/agustin_ramon06_20160704_0129_arrinconados_busco_empleo.jpg" height="440" width="800" alt="agustin_ramon06_20160704_0129_Arrinconados_busco_empleo"></p>
 
 <p style="text-align:justify">Actualmente estoy trabajando tan solo por un mes de sustitución. Movido por mi motivación de no cesar en encontrar un <strong>empleo digno y con mayor estabilidad</strong> en el tiempo, sigo demandando ayuda por este medio, yo no me paro. Busco empleo en Valencia. El boca a boca ayuda mucho, cualquier información que precisen no duden en contactar conmigo con gusto la daré. Gracias. <a class="miniprofile name mentioned" href="https://www.linkedin.com/companies/698290?trk=hp-feed-company-name">UN ABRAZO A LA SOLIDARIDAD</a></p>
 

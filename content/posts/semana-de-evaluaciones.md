@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Consejos para el día del examen. 1. No entres en pánico Para evitar el pánico previo a un examen, sirve mucho dormir una cantidad suficiente de horas la noche anterior. Tienes que estar bien preparado. Las horas de sueño no son negociables. 2. Tomate tiempo para pensar antes&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/03/examen.jpg?w=572&h=296"
+thumbnail: "/media/uploads/2017/03/examen.jpg"
 thumbnailAlt: ""
 ---
 
@@ -19,7 +19,7 @@ thumbnailAlt: ""
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='El Blog de TEIDE-HEASE&#039;s avatar' src='https://2.gravatar.com/avatar/5072f325eae065a28fe7a4b90d6b679d94d9e48aa90b2afb1f594b9331272509?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="http://elblogdeteidehease.com/2017/03/13/sema-de-evaluaciones">El Blog de TEIDE-HEASE </a></p><div class="reblogged-content">
 <h2 style="text-align:center">Consejos para el día del examen.</h2>
 
-<p><strong><img class="size-full wp-image-14847 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2017/03/examen.jpg?w=572&#038;h=296" height="296" width="572"></strong></p>
+<p><strong><img class="size-full wp-image-14847 aligncenter" src="/media/uploads/2017/03/examen.jpg" height="296" width="572"></strong></p>
 
 <p><strong>1. No entres en pánico</strong><br>
 Para evitar el pánico previo a un examen, sirve mucho dormir una cantidad suficiente de horas la noche anterior. Tienes que estar bien preparado. Las horas de sueño no son negociables.</p>

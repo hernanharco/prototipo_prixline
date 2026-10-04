@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Siempre es necesario tener a mano un Currículum Vitae, nunca se sabe cuando lo vas a necesitar. Si estás buscando trabajo, seguro que lo tenés actualizado en un archivo pero si no estás buscando trabajo y quisieras tenerlo visible… La pregunta es ¿si no tengo página web ni Blog&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/06/placeit2.jpg?w=654&h=231"
+thumbnail: "/media/uploads/2017/06/placeit2.jpg"
 thumbnailAlt: ""
 ---
 
 # ¿Dónde puedo colocar mi CV en&nbsp;internet?
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Rosa Elizabeth Quintana&#039;s avatar' src='https://1.gravatar.com/avatar/dabb212cbba5fcba65b518d8c0c639bc911861d36f309747254580ae6ddffe82?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://rosaelizabethquintana.wordpress.com/2017/06/12/donde-puedo-colocar-mi-cv-en-internet/">Rosa Elizabeth Quintana</a></p><div class="reblogged-content">
-<p><img loading="lazy" class="alignnone  wp-image-2979 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2017/06/placeit2.jpg?w=654&#038;h=231" height="231" width="654" alt="placeit"></p>
+<p><img loading="lazy" class="alignnone  wp-image-2979 aligncenter" src="/media/uploads/2017/06/placeit2.jpg" height="231" width="654" alt="placeit"></p>
 
 <p style="text-align:justify"><span style="color:#000000">Siempre es necesario tener a mano un Currículum Vitae, nunca se sabe cuando lo vas a necesitar. Si estás buscando trabajo, seguro que lo tenés actualizado en un archivo pero si no estás buscando trabajo y quisieras tenerlo visible…</span></p>
 

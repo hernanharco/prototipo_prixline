@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Comisión Europea convoca 25 plazas de traductores al Inglés, para un contrato temporal, a partir de dos idiomas de origen: El primero de los idiomas debe ser uno de los siguientes: búlgaro, croata, checo, danés, holandés, estonio, finlandés, griego, húngaro, letón, lituano, polaco, portugués , rumano, eslovaco, esloveno o sueco. La segunda&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/08/comision-europea.jpg?w=120&h=100"
+thumbnail: "/media/uploads/2015/08/comision-europea.jpg"
 thumbnailAlt: ""
 ---
 
 # Traductores de Inglés para la Comisión&nbsp;Europea.
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://mocedastur.wordpress.com/2015/08/04/traductores-de-ingles-para-la-comision-europea">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/08/comision-europea.jpg"><img class="alignright wp-image-41326 size-full" src="https://prixline.wordpress.com/wp-content/uploads/2015/08/comision-europea.jpg?w=120&#038;h=100" height="100" width="120" alt="Comision Europea"></a>La Comisión Europea convoca <strong>25 plazas</strong> de traductores al Inglés, para un contrato temporal, a partir de <strong>dos idiomas de origen</strong>:</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2015/08/comision-europea.jpg"><img class="alignright wp-image-41326 size-full" src="/media/uploads/2015/08/comision-europea.jpg" height="100" width="120" alt="Comision Europea"></a>La Comisión Europea convoca <strong>25 plazas</strong> de traductores al Inglés, para un contrato temporal, a partir de <strong>dos idiomas de origen</strong>:</p>
 
 <ol style="text-align:justify"><li><strong>El primero de los idiomas</strong> debe ser uno de los siguientes: búlgaro, croata, checo, danés, holandés, estonio, finlandés, griego, húngaro, letón, lituano, polaco, portugués , rumano, eslovaco, esloveno o sueco.</li><li><strong>La segunda lengua</strong> de partida debe ser diferente de la primera lengua de partida y puede ser cualquiera de los idiomas mencionados anteriormente o francés, alemán, italiano o español.</li></ol>
 

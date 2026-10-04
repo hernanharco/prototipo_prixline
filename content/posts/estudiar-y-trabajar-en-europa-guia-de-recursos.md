@@ -23,7 +23,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Esta edición del Injuve, es una introducción a recursos que proporcionan información para preparar un viaje con destino a los países de la Unión Europea y el Espacio Económico Europeo para aquellos jóvenes que busquen trabajo o formación académica. Ante todo, la guía pretende responder de forma sencilla y ordenada a tres cuestiones: 1. Quiero [&hellip;]"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2013/03/20130313-074454.jpg"
+thumbnail: "/media/uploads/2013/03/20130313-074454.jpg"
 thumbnailAlt: ""
 ---
 
@@ -37,4 +37,4 @@ thumbnailAlt: ""
 <p>Por otra parte, la guía da cuenta, en otro apartado, de qué soportes y documentos conformarán el futuro curriculum vitae de los y las jóvenes a su regreso a España.</p>
 <p><a href="http://www.injuve.es/sites/default/files/2013/11/publicaciones/GuiaEstudiaryTrabajarEnEuropa.pdf" target="_blank">Estudiar y Trabajar en Europa. Guía de Recursos. (10324 Kb.)</a></p>
 <p><a href="http://www.injuve.es/sites/default/files/2013/11/publicaciones/EstudiaryTrabajarEnEuropa.epub" target="_blank">Estudiar y Trabajar en Europa. Guía de Recursos. (80 Kb.)</a></p>
-<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/03/20130313-074454.jpg"><img class="alignnone size-full" alt="20130313-074454.jpg" src="https://prixline.wordpress.com/wp-content/uploads/2013/03/20130313-074454.jpg" /></a></p>
+<p><a href="http://prixline.wordpress.com/wp-content/uploads/2013/03/20130313-074454.jpg"><img class="alignnone size-full" alt="20130313-074454.jpg" src="/media/uploads/2013/03/20130313-074454.jpg" /></a></p>

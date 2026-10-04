@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “El pasado muere. El presente vive, el recuerdo queda. Y la vida sigue“. Estaba viendo una película cuando de repente, surgió una pregunta que me lleva tiempo en mi cabeza: “Conocer el pasado, ¿Nos limita o nos beneficia?”. Si el pasado, según la Real Academia de la&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2016/03/538934_3115378102228_1045206820_n.jpg?w=300&h=245"
+thumbnail: "/media/uploads/2016/03/538934_3115378102228_1045206820_n.jpg"
 thumbnailAlt: ""
 ---
 
@@ -20,7 +20,7 @@ thumbnailAlt: ""
 </blockquote></div></div><div class="reblog-post"><p class="reblog-from"><img alt='El Principio de un Comienzo&#039;s avatar' src='https://1.gravatar.com/avatar/7cf2ecaadc72ca81473351225cabbc6548610ba1bb85d2309a029e84e6cb21a0?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://principiodeuncomienzo.wordpress.com/2016/03/24/el-pasado-te-limita-o-te-beneficia/">El Principio de un Comienzo</a></p><div class="reblogged-content">
 <p style="text-align:justify">“<strong><em>El pasado muere. El presente vive, el recuerdo queda. Y la vida sigue</em></strong>“.</p>
 
-<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/03/538934_3115378102228_1045206820_n.jpg"><img class="alignleft size-medium wp-image-4573" src="https://prixline.wordpress.com/wp-content/uploads/2016/03/538934_3115378102228_1045206820_n.jpg?w=300&#038;h=245" height="245" width="300" alt="Pasado"></a>Estaba viendo una película cuando de repente, surgió una pregunta que me lleva tiempo en mi cabeza:</p>
+<p style="text-align:justify"><a href="https://prixline.wordpress.com/wp-content/uploads/2016/03/538934_3115378102228_1045206820_n.jpg"><img class="alignleft size-medium wp-image-4573" src="/media/uploads/2016/03/538934_3115378102228_1045206820_n.jpg" height="245" width="300" alt="Pasado"></a>Estaba viendo una película cuando de repente, surgió una pregunta que me lleva tiempo en mi cabeza:</p>
 
 <p style="text-align:justify"><em>“Conocer el pasado, ¿Nos limita o nos beneficia?”.</em></p>
 

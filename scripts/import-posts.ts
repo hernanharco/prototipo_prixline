@@ -26,6 +26,10 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import { mapCategories, originCategoryNames } from "./category-map.ts";
 import { POSTS_API_BASE, renderPost, extractThumbnail } from "./post-render.ts";
+// T25: localizador de medios del blog origen (descarga a site/public/media
+// + reescritura de refs). I/O puro vive en media-io.ts; la lógica pura, en
+// media.ts. Ver scripts/media.test.ts y scripts/media-io.test.ts.
+import { formatMediaReport, localizeMediaDocs, mediaRoot, realMediaStore } from "./media-io.ts";
 
 export { renderPost, extractThumbnail };
 export type { ThumbnailInfo, WpPost } from "./post-render.ts";
@@ -130,14 +134,25 @@ export async function run(argv: string[]): Promise<number> {
 
   await mkdir(POSTS_DIR, { recursive: true });
   const rendered = renderPosts(posts, lookup);
-  for (const { post, md } of rendered) {
-    const filename = `${post.slug || `post-${post.id}`}.md`;
-    await writeFile(new URL(filename, POSTS_DIR), md, "utf8");
+  // T25: localiza los medios del blog origen ANTES de escribir: descarga cada
+  // URL única a site/public/media/<path> (omite las que ya existen → reruns
+  // baratos) y reescribe body + frontmatter. Fallo de UNA imagen → conserva
+  // su URL original, se registra y el resto sigue; el informe final es acotado.
+  const { docs, report } = await localizeMediaDocs(
+    rendered.map(({ post, md }) => ({
+      id: `${post.slug || `post-${post.id}`}.md`,
+      md,
+    })),
+    { store: realMediaStore(mediaRoot()) },
+  );
+  for (const { id, md } of docs) {
+    await writeFile(new URL(id, POSTS_DIR), md, "utf8");
   }
   console.log(
-    `Wrote ${rendered.length} post file(s) to content/posts/ (source: ${POSTS_API_BASE}).`,
+    `Wrote ${docs.length} post file(s) to content/posts/ (source: ${POSTS_API_BASE}).`,
   );
-  return rendered.length;
+  console.log(formatMediaReport(report, "posts"));
+  return docs.length;
 }
 
 const isDirectRun =

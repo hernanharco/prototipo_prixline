@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Una carrera profesional tiene un camino en el que hay que asumir riesgos y tomar decisiones. La mayoría de personas por no decir todo el mundo ha tenido en algún momento de su vida un trabajo que le ha sido insatisfactorio. Todos deseamos y ansiamos conseguir ese trabajo que&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2015/03/la-resignacion-laboral.jpg?w=232&h=217"
+thumbnail: "/media/uploads/2015/03/la-resignacion-laboral.jpg"
 thumbnailAlt: ""
 ---
 
 # La resignación laboral
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='tipsforwork&#039;s avatar' src='https://1.gravatar.com/avatar/d475a2251f7ebf640658af253006dac71ba3cc048261c8fc71f4a3fc85ae7553?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://tipsforwork.wordpress.com/2015/03/30/la-resignacion-laboral">Tips For Work</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/la-resignacion-laboral.jpg"><img class=" size-full wp-image-487 aligncenter" src="https://prixline.wordpress.com/wp-content/uploads/2015/03/la-resignacion-laboral.jpg?w=232&#038;h=217" height="217" width="232" alt="la resignacion laboral"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2015/03/la-resignacion-laboral.jpg"><img class=" size-full wp-image-487 aligncenter" src="/media/uploads/2015/03/la-resignacion-laboral.jpg" height="217" width="232" alt="la resignacion laboral"></a></p>
 
 <p style="text-align:justify">Una carrera profesional tiene un camino en el que hay que asumir riesgos y tomar decisiones. La mayoría de personas por no decir todo el mundo ha tenido en algún momento de su vida un trabajo que le ha sido insatisfactorio.</p>
 

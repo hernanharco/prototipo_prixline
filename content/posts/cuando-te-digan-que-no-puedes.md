@@ -10,12 +10,12 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2017/03/1655972_700397010012077_747545537_n.jpg?w=480&h=595"
+thumbnail: "/media/uploads/2017/03/1655972_700397010012077_747545537_n.jpg"
 thumbnailAlt: ""
 ---
 
 # Cuando te digan que no&nbsp;puedes
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Carolina Flores Prieto&#039;s avatar' src='https://0.gravatar.com/avatar/96772dfc0aa80b42ff21ac377b6e20b1adeb4a0dcf67416834247ce0b8b2706e?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://reflexionesconcitas.wordpress.com/2017/03/30/cuando-te-digan-que-no-puedes">Frases y citas celebres</a></p><div class="reblogged-content">
-<p><a href="https://prixline.wordpress.com/wp-content/uploads/2017/03/1655972_700397010012077_747545537_n.jpg"><img class="alignleft size-full wp-image-5653" src="https://prixline.wordpress.com/wp-content/uploads/2017/03/1655972_700397010012077_747545537_n.jpg?w=480&#038;h=595" height="595" width="480"></a></p>
+<p><a href="https://prixline.wordpress.com/wp-content/uploads/2017/03/1655972_700397010012077_747545537_n.jpg"><img class="alignleft size-full wp-image-5653" src="/media/uploads/2017/03/1655972_700397010012077_747545537_n.jpg" height="595" width="480"></a></p>
 </div><p class="reblog-source"><a href="https://reflexionesconcitas.wordpress.com/2017/03/30/cuando-te-digan-que-no-puedes">View original post</a></p></div></div>

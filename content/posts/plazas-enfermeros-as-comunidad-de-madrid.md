@@ -10,14 +10,14 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Servicio Madrileño de Salud convoca pruebas selectivas para el acceso de 5.266 plazas a la condición de personal estatutario fijo en la categoría de Enfermero/a. Las plazas convocadas se proveerán por el sistema de turno libre, mediante concurso-oposición, y se dividen en dos cupos: Plazas del cupo general: 4.897. Plazas del&hellip;"
-thumbnail: "https://prixline.wordpress.com/wp-content/uploads/2018/07/sms.png?w=1024&h=225"
+thumbnail: "/media/uploads/2018/07/sms.png"
 thumbnailAlt: ""
 ---
 
 # Plazas Enfermeros/as. Comunidad de&nbsp;Madrid
 
 <div class="wpcom-reblog-snapshot"> <div class="reblog-post"><p class="reblog-from"><img alt='Mocedastur Blog&#039;s avatar' src='https://1.gravatar.com/avatar/4f095c5755dbd9912fc4d3272d74ad80b245b069711738a605abba2e9080b6eb?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' /><a href="https://mocedastur.wordpress.com/2018/07/18/plazas-enfermeros-as-comunidad-de-madrid/">Mocedastur Blog</a></p><div class="reblogged-content">
-<p style="text-align:justify"><strong><em><img class="aligncenter size-large wp-image-65522" src="https://prixline.wordpress.com/wp-content/uploads/2018/07/sms.png?w=1024&#038;h=225"  >El Servicio Madrileño de Salud </em></strong>convoca pruebas selectivas para el acceso de <strong>5.266 plazas a la condición de personal estatutario fijo en la categoría de Enfermero/a.</strong></p>
+<p style="text-align:justify"><strong><em><img class="aligncenter size-large wp-image-65522" src="/media/uploads/2018/07/sms.png"  >El Servicio Madrileño de Salud </em></strong>convoca pruebas selectivas para el acceso de <strong>5.266 plazas a la condición de personal estatutario fijo en la categoría de Enfermero/a.</strong></p>
 
 <p style="text-align:justify">Las plazas convocadas se proveerán por el sistema de turno libre, <strong>mediante concurso-oposición, </strong>y se dividen en dos cupos:<strong> Plazas del cupo general: 4.897. Plazas del cupo de reserva discapacidad: 369</strong></p>
 
