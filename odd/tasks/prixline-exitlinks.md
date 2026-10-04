@@ -91,6 +91,9 @@ traer el hilo de comentarios a interno, CMS.
   ristomejide ×2, elblogdelinkedin ×2) — exímidos explícitamente fuera de
   alcance en el doc; ampliarlos = opción B (pendiente opcional). Remanentes inertes
   `data-orig-file`/`data-permalink` (57, sin peticiones) quedan por diseño.
+  **Decisión final del usuario**: opción **A confirmada, B rechazada** —
+  las 28 imágenes de terceros quedan como están (anotadas como deuda
+  menor).
 - **Review nativa fase 5**:
   - Target documental (edición de este doc): `review-38abe9e1fa1a5562` →
     approved/closed directo (non_executable_only).
