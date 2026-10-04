@@ -88,6 +88,29 @@ traer el hilo de comentarios a interno, CMS.
   **Decisión A** (conflicto de criterio resuelto): el grep literal de
   `wp-content` queda en **28** srcs de **hosts de terceros**
   (i0.wp.com ×16, ticsyformacion ×4, trabajarporelmundo ×4,
-  ristomejide ×2, elblogdelinkedin ×2) — exímente fuera de alcance en el
-  doc; ampliarlos = opción B (pendiente opcional). Remanentes inertes
+  ristomejide ×2, elblogdelinkedin ×2) — exímidos explícitamente fuera de
+  alcance en el doc; ampliarlos = opción B (pendiente opcional). Remanentes inertes
   `data-orig-file`/`data-permalink` (57, sin peticiones) quedan por diseño.
+- **Review nativa fase 5**:
+  - Target documental (edición de este doc): `review-38abe9e1fa1a5562` →
+    approved/closed directo (non_executable_only).
+  - **Candidato A (T22–T24, rango `cf1a2dbc..6ef90807` vía checkout
+    detached): `review-e78cfaa53a94c86f`** (8 archivos / 330 líneas,
+    lente reliability) → hallazgo **CRITICAL `R3-SlugDecodeUnencoded`**
+    (href con espacio literal tras decodificar el slug) → plan de
+    corrección de **7 líneas** (presupuesto 165) → commit `7190267d`
+    cherry-picked a la rama como `75851f51` (percent-encode con
+    `encodeURIComponent(decodeURIComponent(...))` y fallback en el catch)
+    → validación dirigida host-mediated (`review.capture-validation`,
+    1 modelo) → **APPROBADA** + ack + authority burned. Informativos:
+    R3-HostBoundary, R3-TemplateExitLinkUnproved, R3-WpAdminEncoding.
+  - **Candidato B (código T25): `review-be6a43f7b461df61`** — candidato
+    sintético `d29f468a` sobre `6ef90807` con los blobs EXACTOS de
+    `b22a3f9c` (8 archivos / 903 líneas; el rango real incluye la masa de
+    contenido y rebasa `lens_context_budget_exceeded`) → **APROBADA** al
+    primer intento + ack + authority burned. Informativos:
+    R3-DECODE-ENTITY-RANGE (`scripts/media.ts:55-58`), R3-THUMBNAIL-SCHEMA
+    (`site/src/content.config.ts:62`).
+  - Lección: el rango completo `cf1a2dbc..HEAD` (559 archivos) supera el
+    presupuesto del lente; se dividió en candidatos chicos usando checkout
+    detached para fijar el fin del rango (fin = HEAD siempre).
