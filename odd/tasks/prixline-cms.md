@@ -64,10 +64,16 @@ verdad.
       tests 106+13, `/admin` 200), doc de uso ("cómo editar en /admin" +
       advertencia de no re-ejecutar importadores), review nativa,
       evidencia.
-- [ ] T30. Issue en `Gentleman-Programming/gentle-ai` por
+- [x] T30. Issue en `Gentleman-Programming/gentle-ai` por
       `gentle-ai-verify`/`gentle-ai-explore` rotos, con evidencia de la
-      reproducción de esta sesión + historial (fuera de la sección CMS,
-      pero de este mismo pedido).
+      reproducción de esta sesión + historial.
+      **Hecho**: issue **#5259** creado con el form `bug_report.yml`
+      (búsqueda de duplicados sin coincidencias, preflight con evidencia
+      + afirmación del usuario, body con privacy scan limpio, read-back
+      confirmado OPEN). Labels del form (`type:bug`,
+      `status:needs-review`) NO aplicados: mutación post-publicación
+      rechazada autoritativamente (`AddLabelsToLabelable` sin permiso
+      para `hernanharco`) → `no_write`, sin reintento.
 
 ## Criterios de aceptación
 
@@ -95,4 +101,12 @@ verdad.
 - T27: (se rellena al cerrar)
 - T28: (se rellena al cerrar)
 - T29: (se rellena al cerrar)
-- T30: (se rellena al cerrar)
+- T30: issue **#5259**
+  (https://github.com/Gentleman-Programming/gentle-ai/issues/5259) —
+  repro fresca 2026-10-04 (`muuczlhn-5-i0mh`: `gentle-ai-verify`,
+  4 turns, **0 tool calls**, `assistant reported an error`) + historial
+  2026-10-03/04 + contraste `gentle-ai-worker` OK. Form `bug_report.yml`
+  (labels declarados `type:bug`/`status:needs-review`), duplicados
+  descartados (#5254, #2609 son otros síntomas), privacy scan limpio,
+  read-back OPEN confirmado. Labels: `no_write` (permiso insuficiente
+  de `hernanharco` en la repo).
