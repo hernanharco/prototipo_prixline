@@ -9,7 +9,12 @@
     "check": "astro check"
   },
   "dependencies": {
-    "astro": "^5.0.0"
+    "@astrojs/react": "^7.0.0",
+    "@keystatic/astro": "^6.0.0",
+    "@keystatic/core": "^0.6.9",
+    "astro": "^5.0.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",

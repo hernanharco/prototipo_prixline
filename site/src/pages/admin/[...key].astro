@@ -1,0 +1,26 @@
+---
+// T26: entrada /admin → la UI nativa de Keystatic. La integración
+// @keystatic/astro inyecta la UI en /keystatic y su API en /api/keystatic
+// (patrones fijos de @keystatic/astro@6). Meta-refresh estático: funciona
+// sin adapter SSR (output static por defecto). Solo se prerenderiza la raíz
+// /admin; los enlaces profundos se resuelven en dev.
+export function getStaticPaths() {
+  return [{ params: { key: undefined } }];
+}
+
+const key = Astro.params.key ?? '';
+const target = `/keystatic${key ? `/${key}` : ''}`;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <link rel="canonical" href={target} />
+    <title>Admin — Prixline</title>
+  </head>
+  <body>
+    <p>Abriendo el admin de Keystatic: <a href={target}>{target}</a></p>
+  </body>
+</html>

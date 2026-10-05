@@ -11,7 +11,8 @@
     "pipeline:posts": "node scripts/import-posts.ts",
     "pipeline:pages": "node scripts/import-pages.ts",
     "pipeline:settings": "node scripts/import-settings.ts",
-    "pipeline:fixture": "node scripts/extract-courses.ts --fixture && node scripts/import-posts.ts --fixture && node scripts/import-pages.ts --fixture && node scripts/import-settings.ts --fixture"
+    "pipeline:fixture": "node scripts/extract-courses.ts --fixture && node scripts/import-posts.ts --fixture && node scripts/import-pages.ts --fixture && node scripts/import-settings.ts --fixture",
+    "dev:site": "site/node_modules/.bin/astro dev --root site"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
