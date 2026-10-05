@@ -1,4 +1,11 @@
-// Keystatic spike (T26) — ajustes JSON como singletons, storage local (dev).
+// Keystatic spike (T26/T27) — ajustes JSON como singletons + colecciones de
+// contenido markdown; storage local (dev).
+//
+// Colecciones (T27): posts/courses/pages viven en site/keystatic/{posts,
+//courses,pages}.ts; el schema mapea TODA clave real del corpus (inventario
+//previo en cada módulo) porque Keystatic borra al guardar toda clave no
+// mapeada. Smoke de lectura: node site/scripts/verify-content-reader.mjs
+// (desde la raíz del repo).
 //
 // Rutas relativas al REPO (`content/settings/*`), sin extensión: los
 // singletons JSON resuelven a `${path}.json` (getEntryDataFilepath) y esta es
@@ -9,6 +16,10 @@
 // `localBaseDirectory` = raíz del repo a makeGenericAPIRouteHandler.
 // Evidencia del por qué en ese fichero y en el informe T26.
 import { config, fields, singleton } from '@keystatic/core';
+
+import { courses } from './keystatic/courses.ts';
+import { pages } from './keystatic/pages.ts';
+import { posts } from './keystatic/posts.ts';
 
 // Claves comunes site.json / social.json (mismo orden que el JSON real).
 const sourceMeta = {
@@ -24,6 +35,11 @@ const channelSchema = {
 
 export default config({
   storage: { kind: 'local' },
+  collections: {
+    posts,
+    courses,
+    pages,
+  },
   singletons: {
     site: singleton({
       label: 'Ajustes del sitio (site.json)',

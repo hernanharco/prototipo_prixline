@@ -52,10 +52,17 @@ verdad.
       `optimizeDeps.exclude`) resuelven el anclaje a cwd y el módulo
       virtual `astro:env/server`. Overrides custom eliminados. — commit
       de T26
-- [ ] T27. Colecciones: `posts` (813, frontmatter completo + cuerpo
-      HTML crudo), `courses` (302), `pages` (4). Esquemas en módulos
-      separados (<400 líneas). Verificar en dev que `/admin` lista
-      entradas y abre el formulario de una entrada de cada colección.
+- [~] T27. Colecciones: `posts` (813, frontmatter completo + cuerpo
+      HTML crudo vía `rawHtmlContent` custom — sin richtext), `courses`
+      (302), `pages` (4). Esquemas en `site/keystatic/{posts,courses,
+      pages,helpers}.ts` (<400 líneas) + smoke permanente
+      `site/scripts/verify-content-reader.mjs` (1.119 entradas leídas,
+      cuerpos byte-idénticos). **Commiteada; review nativa PENDIENTE**
+      (cierre de sesión). Riesgos T29 detectados: `fields.date`
+      truncaría la hora al guardar (solo fecha en el frontmatter
+      actual), y `slugField` hace que Keystatic omita la key `slug` del
+      frontmatter al guardar mientras el schema de Astro la exige —
+      resolver ANTES de cualquier escritura live.
 - [ ] T28. GitHub storage + media: `storage: github` con env vars,
       media store apuntando a un directorio del repo, y guía de los pasos
       del usuario (crear OAuth App de GitHub + variables en Vercel y en
@@ -98,7 +105,17 @@ verdad.
   raíz. Storage github (T28) exigirá env vars
   `KEYSTATIC_GITHUB_CLIENT_ID/SECRET`, `KEYSTATIC_SECRET`,
   `PUBLIC_KEYSTATIC_GITHUB_APP_SLUG` + adapter SSR en producción.
-- T27: (se rellena al cerrar)
+- T27: reader smoke `node site/scripts/verify-content-reader.mjs`
+  → exit 0: **posts 813/813, courses 302/302, pages 4/4**, cuerpos
+  byte-idénticos (1.279.268 + 405.134 + 4.322 bytes), frontmatter
+  cubierto key-by-key (inventario: posts = 12 keys, `thumbnail`
+  471/813, `videoId` 94/813; courses/pages = 4-5 keys). Dev 200 en
+  `/keystatic` + tree 200 (813+302+4 entradas, requiere header
+  `no-cors: 1`) + blob byte-idéntico. Build 1.121, check 0/0/0, tsc 0,
+  tests 106+13. Archivos: keystatic.config.ts 102, helpers 87, posts 71,
+  courses 36, pages 39, verify-content-reader.mjs 184. Campos críticos:
+  `rawHtmlContent` custom (richtext destruiría el HTML) y `fields.date`
+  (dateTime rechazaría todos los ISO con segundos).
 - T28: (se rellena al cerrar)
 - T29: (se rellena al cerrar)
 - T30: issue **#5259**
