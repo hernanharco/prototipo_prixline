@@ -245,3 +245,16 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   enmascarar writes efímeros), `R4-github-without-creds-500` (ya
   documentado en la guía) y `R4-repo-drift` (repo hardcodeado en el
   helper).
+- **L14** — Salida a producción (2026-10-09): decisión del usuario =
+  merge a main + despliegue según `core/deploy/DEPLOY-PIPELINE.md`
+  (Vercel Git integration, sin Actions ni tokens). Merge **fast-forward**
+  `feat/prx-cms` → `main` (`7238dfeb..36bba322`, 19 commits, 29 ficheros
+  +4.715/−23) y push. Deploy automático **Ready en 42s**
+  (`webprixline-lxmpvkgbt`, Production; la preview URL va tras SSO de
+  Vercel = protección normal). **Verificado en `prixline.rincom.es`**:
+  `/` 200 · `/admin/login` 200 (versión nueva; sin env ⇒ estado "sin
+  configuración", sin botón) · `/keystatic` → **302 `/admin/login`**
+  (el gate T3 corre en las funciones de Vercel) ·
+  `/api/keystatic/tree` → **401** · `/auth/callback/` 200. Pendiente de
+  T7: env vars (OAuth App del usuario + KEYSTATIC_SECRET), site/.env,
+  login Google→GitHub y el primer guardado.
