@@ -19,18 +19,29 @@
  * El resto del sitio es público: el middleware pasa a next() sin tocar nada.
  */
 import { defineMiddleware } from 'astro:middleware';
+import { getSecret } from 'astro:env/server';
 
 import { adminGateDecision, UNAUTHENTICATED_REDIRECT } from './lib/adminGate.ts';
 import { verifyOptionsFromEnv, verifyToken } from './lib/authcore.ts';
 
 const COOKIE_NAME = 'token'; // nombre del ecosistema (AUTH-FLOW.md)
 
+// T5: doble fuente — process.env (Vercel runtime / env inline) y
+// getSecret de astro:env/server (carga site/.env en dev y en build).
+// Sin AMBAS claves el gate queda cerrado (fail-closed).
+const readEnv = (name: string): string | undefined =>
+  getSecret(name) || process.env[name];
+
 export const onRequest = defineMiddleware(async (context, next) => {
   const decision = adminGateDecision(context.url.pathname);
   if (decision === 'public') return next();
 
   const token = context.cookies.get(COOKIE_NAME)?.value;
-  const { jwksUrl, issuer, audience } = verifyOptionsFromEnv(process.env);
+  const { jwksUrl, issuer, audience } = verifyOptionsFromEnv({
+    AUTHCORE_JWKS_URL: readEnv('AUTHCORE_JWKS_URL'),
+    AUTHCORE_JWT_ISSUER: readEnv('AUTHCORE_JWT_ISSUER'),
+    AUTHCORE_JWT_AUDIENCE: readEnv('AUTHCORE_JWT_AUDIENCE'),
+  });
 
   if (token && jwksUrl && issuer) {
     try {

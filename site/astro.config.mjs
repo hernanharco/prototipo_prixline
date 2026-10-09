@@ -1,28 +1,24 @@
 import { fileURLToPath } from 'node:url';
 
+import vercel from '@astrojs/vercel';
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import keystatic from '@keystatic/astro';
 
-// @keystatic/astro@6 inyecta rutas no-prerenderizadas (/keystatic y
-// /api/keystatic, ambas `prerender: false`); un build `static` sin adapter las
-// rechaza con [NoAdapterInstalled] (verificado en T26). El admin es dev-only
-// mientras el storage sea `local`: T28 decidirá el adapter SSR si el admin
-// debe publicarse en producción con storage github.
-function keystaticDevOnly() {
-  const integration = keystatic();
-  return {
-    ...integration,
-    hooks: {
-      ...integration.hooks,
-      'astro:config:setup': (options) => {
-        const setup = integration.hooks['astro:config:setup'];
-        if (options.command === 'dev' && setup) setup(options);
-      },
-    },
-  };
-}
-
+// T5: el admin pasa a publicarse en producción.
+//
+// - @keystatic/astro inyecta /keystatic (UI) y /api/keystatic (API) ambas
+//   `prerender: false` (dist de @keystatic/astro@6). Sin adapter eso rompía
+//   el build ([NoAdapterInstalled], verificado en T26) — por eso T26-T4
+//   sólo inyectaban en dev (keystaticDevOnly). Con @astrojs/vercel@9 esas
+//   rutas se despliegan como funciones serverless y el resto del sitio
+//   sigue prerenderizado (output 'static' + adapter = SSR opt-in por ruta).
+// - El middleware (src/middleware.ts, T3) corre en runtime en esas
+//   funciones: gate authCore activo en producción. Las páginas públicas
+//   lo ejecutan sólo en build (paso `public` → next() sin efectos).
+// - El adapter escribe `.vercel/output` bajo ESTE root (site/); Vercel lo
+//   espera en la raíz del repo, así que vercel.json lo copia tras el build.
+//
 // T26 follow-up (Option A): el plugin de @keystatic/astro resuelve
 // `virtual:keystatic-config` con `this.resolve('./keystatic.config', './a')`,
 // un importador relativo que Vite ancla al cwd del proceso. Con
@@ -44,10 +40,12 @@ function resolveKeystaticConfigVirtual() {
 
 // Production domain of the Prixline gift site.
 // En dev, la UI de Keystatic queda en /keystatic (y su API en /api/keystatic);
-// src/pages/admin/[...key].astro redirige /admin → /keystatic.
+// src/pages/admin/[...key].astro redirige /admin → /keystatic, y el middleware
+// exige JWT de authCore salvo en /admin/login (T3/T4).
 export default defineConfig({
   site: 'https://prixline.rincom.es',
-  integrations: [react(), keystaticDevOnly()],
+  integrations: [react(), keystatic()],
+  adapter: vercel(),
   vite: {
     plugins: [resolveKeystaticConfigVirtual()],
     // T26 follow-up: el dep optimizer (esbuild) intenta empaquetar

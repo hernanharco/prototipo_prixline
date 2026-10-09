@@ -1,7 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "astro",
   "installCommand": "cd site && pnpm install --frozen-lockfile=false",
-  "buildCommand": "cd site && pnpm build",
-  "outputDirectory": "site/dist"
+  "buildCommand": "cd site && pnpm build && rm -rf ../.vercel/output && mkdir -p ../.vercel && cp -r .vercel/output ../.vercel/"
 }
