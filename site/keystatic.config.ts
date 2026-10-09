@@ -1,5 +1,13 @@
-// Keystatic spike (T26/T27) — ajustes JSON como singletons + colecciones de
-// contenido markdown; storage local (dev).
+// Keystatic (T26/T27/T6) — ajustes JSON como singletons + colecciones de
+// contenido markdown.
+//
+// Storage (T6): seleccionado por selectKeystaticStorage (site/src/lib/
+// keystaticStorage.ts) con PUBLIC_KEYSTATIC_STORAGE — el `kind` debe ser
+// idéntico en el bundle del servidor (API) y el de la UI, así que el flag
+// es PÚBLICO y las credenciales (KEYSTATIC_*) siguen server-only. Sin el
+// flag ⇒ `local` (dev y el smoke T7 de git diff); en Vercel con
+// PUBLIC_KEYSTATIC_STORAGE=github ⇒ commits a la rama por defecto de
+// hernanharco/prototipo_prixline (main ⇒ Vercel redespliega).
 //
 // Colecciones (T27): posts/courses/pages viven en site/keystatic/{posts,
 //courses,pages}.ts; el schema mapea TODA clave real del corpus (inventario
@@ -9,17 +17,17 @@
 //
 // Rutas relativas al REPO (`content/settings/*`), sin extensión: los
 // singletons JSON resuelven a `${path}.json` (getEntryDataFilepath) y esta es
-// además la forma correcta para el storage github de T28. La API local de
-// Keystatic prohíbe '..' y usa cwd como base, así que el acceso a
-// content/ (raíz del repo, fuera de site/) se resuelve con el endpoint
-// propio site/src/pages/api/keystatic/[...params].js, que pasa
-// `localBaseDirectory` = raíz del repo a makeGenericAPIRouteHandler.
-// Evidencia del por qué en ese fichero y en el informe T26.
+// además la forma correcta para el storage github (las rutas del repo tal
+// cual, sin '..'). Con storage `local` la API resuelve contra process.cwd():
+// dev desde la RAÍZ del repo (`pnpm dev:site`) ⇒ content/ alcanzable (solución
+// T26; el endpoint propio site/src/pages/api/keystatic/[...params].js que
+// decía este comentario NUNCA existió — verificar con git log).
 import { config, fields, singleton } from '@keystatic/core';
 
 import { courses } from './keystatic/courses.ts';
 import { pages } from './keystatic/pages.ts';
 import { posts } from './keystatic/posts.ts';
+import { selectKeystaticStorage } from './src/lib/keystaticStorage.ts';
 
 // Claves comunes site.json / social.json (mismo orden que el JSON real).
 const sourceMeta = {
@@ -34,7 +42,7 @@ const channelSchema = {
 };
 
 export default config({
-  storage: { kind: 'local' },
+  storage: selectKeystaticStorage(import.meta.env),
   collections: {
     posts,
     courses,
