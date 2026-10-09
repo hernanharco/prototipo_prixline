@@ -55,6 +55,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T5a | S1 | authCore emite `iss`/`aud` en el access token (decisión A del usuario) — repo hub, rama `feat/token-iss-aud` | inline test-first | authCore `0777260` |
 | T17 | S1 | Gate GGA de authCore: provider `claude` sin login → decisión del usuario: **hook pre-commit desinstalado** (`gga uninstall`) + 2 ficheros frontend ajenos revertidos (incidente sesión agéntica) | usuario decide | `~/.config/gga/config.bak-claude-20261009` |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline + verify | `5473eb6a` |
+| T5b | S1 | Review nativa RDD del rango commiteado de T5 (`11d24405..c223636b`) | native review | `review-c1e4088239511d0c` (approved/ack) |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
 | T8 | S6 | Cierre T29: build 1.120+ / check 0 / tsc 0 / tests / `/admin` 200 con login, doc "cómo editar en /admin" + advertencia de no re-ejecutar importadores, review nativa, evidencia | verify | |
@@ -200,3 +201,13 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   `AUTHCORE_JWKS_URL`+`AUTHCORE_JWT_ISSUER` están en las env vars de
   Vercel EN BUILD** (paso humano T7/T8); deep links `/admin/<x>` → 404
   (sólo `/admin/` prerenderiza, diseño T26).
+- **L11** — Evidencia review T5b (2026-10-09): **approved** +
+  acknowledge quemado (linaje `review-c1e4088239511d0c`, rango
+  `11d24405..c223636b`, 7 archivos / 656 líneas, tier **high**, 3
+  lentes host-relay, prompts ~65KB). **2 advisories SUGGESTION**
+  (disposición: trabajo posterior → T13):
+  `R3-build-command-inline-shell` (vercel.json:4 — la línea de build
+  mezcla `rm -rf`/`cp` en shell; el harness lo bloqueó en ejecución
+  manual, en Vercel es no-op sobre árbol limpio) y
+  `R3-read-env-empty-string-fallthrough` (middleware.ts:33 — un valor
+  vacío en process.env cae a getSecret; vacío → gate cerrado igual).
