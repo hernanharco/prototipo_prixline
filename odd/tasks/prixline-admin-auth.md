@@ -48,7 +48,8 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 |----|----|-------|-------|--------|
 | T1 | S4 | ~~Arreglar riesgos T27~~ `fields.date` sin truncar hora, `slugField` vs key `slug` + textos vacíos — test-first | inline test-first | `997884f1` |
 | T2 | S1,S3 | Verificador JWT RS256 puro (`site/src/lib/authcore.ts`: fetch/cache JWKS, iss/exp/aud) + tests `node --test` | inline test-first | `bd5a6e09` |
-| T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | writer (seguridad) + verify | |
+| T2b | S1 | Review nativa RDD del rango commiteado de T2 (`d6364889..a274bda9`) | native review | `review-c3636f88b79047ff` (approved/ack) |
+| T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | verify (seguridad) + inline | |
 | T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | writer + verify | |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | writer | |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
@@ -58,6 +59,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T10 | S8 | **[usuario]** key `PUBLIC_YOUTUBE_API_KEY` para el badge EN VIVO | blocked: usuario | |
 | T11 | S9 | Pendiente de producto: 546 posts `sin-categoria` — decidir categorización (Ask) | pending decisión | |
 | T12 | S9 | Pendiente de producto: opiniones / tawk.to sin cablear (Ask) | pending decisión | |
+| T13 | — | Backlog advisory T2b (no bloqueante): timeout/AbortSignal al fetch del JWKS, dedup de refetch en vuelo, distinguir fallo upstream (5xx) de token inválido (401), validar scheme de `AUTHCORE_JWKS_URL`, exigir `AUTHCORE_JWT_ISSUER` en T5, test del cache-hit | pendiente | |
 
 Orden de ejecución: T1 → T2 → T3 → T4 → T5 → T6 → T7 → T8.
 T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
@@ -95,3 +97,17 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   20 bytes) — envolver en `Uint8Array` antes del base64url. Nota T5:
   el payload actual de authCore NO incluye `aud` (AUDITORIA) → no activar
   `AUTHCORE_JWT_AUDIENCE` sin verificar con un token real.
+- **L5** — Evidencia T2b (2026-10-09): review nativa **approved** y
+  acknowledge quemado (linaje `review-c3636f88b79047ff`, rango
+  `d6364889..a274bda9`, 3 archivos / 490 líneas, tier **high** por
+  `hot_path auth`, lentes risk + resilience + reliability, 3 corridas
+  host-relay). **11 hallazgos advisories NO bloqueantes** (disposición:
+  trabajo posterior por separado, nunca re-abrir esta review):
+  `R1-jwks-refetch-amplification`, `R1-jwks-url-scheme-unvalidated`,
+  `R1-optional-iss-aud-skipped` (iss/aud vacíos = sin validación: T5 debe
+  setearlas siempre), `R3-cache-hit-unproven`,
+  `R3-error-echoes-attacker-values`, `R3-jwks-unknown-kid-refetch`,
+  `R3-no-inflight-jwks-dedup`, `R3-test-node-type-stripping`,
+  `R4-jwks-fetch-no-deadline` (fetch sin timeout),
+  `R4-jwks-refetch-unbounded`, `R4-upstream-failure-collapses-to-401`.
+  Registrados como T13 (backlog).
