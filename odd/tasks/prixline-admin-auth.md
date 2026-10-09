@@ -54,7 +54,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T3+T4 | S1 | Review nativa RDD del rango commiteado (`900f567b..a7b97db9`) | native review | `review-b635e5ca58b06f05` (approved/ack) |
 | T5a | S1 | authCore emite `iss`/`aud` en el access token (decisión A del usuario) — repo hub, rama `feat/token-iss-aud` | inline test-first | authCore `0777260` |
 | T17 | S1 | Gate GGA de authCore: provider `claude` sin login → decisión del usuario: **hook pre-commit desinstalado** (`gga uninstall`) + 2 ficheros frontend ajenos revertidos (incidente sesión agéntica) | usuario decide | `~/.config/gga/config.bak-claude-20261009` |
-| T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline | |
+| T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline + verify | `5473eb6a` |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
 | T8 | S6 | Cierre T29: build 1.120+ / check 0 / tsc 0 / tests / `/admin` 200 con login, doc "cómo editar en /admin" + advertencia de no re-ejecutar importadores, review nativa, evidencia | verify | |
@@ -178,3 +178,25 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   hook local; revisión en PR). Rama restaurada `feat/token-iss-aud`
   limpia @ `0777260`. NOTA: el commit lo firmó la sesión agéntica como
   el usuario (22:11).
+- **L10** — Evidencia T5 (2026-10-09), commit `5473eb6a`:
+  `@astrojs/vercel@9.0.5` (peer astro ^5) + `keystatic()` siempre
+  inyectado (fin de `keystaticDevOnly`) + `adapter: vercel()`;
+  `vercel.json` sólo Build Output API (el `buildCommand` copia
+  `site/.vercel/output` → raíz, porque el adapter escribe bajo
+  `config.root`=site/); middleware con `getSecret` (astro:env, lee
+  `.env`) + fallback `process.env`; `site/env.example` (el policy
+  bloquea `.env.example`; decisión del usuario). **Incidente de paths
+  resuelto**: los 3 primeros writes cayeron en un directorio decoy
+  (variante del nombre de la ruta creado por el propio `write`) →
+  recreados en el repo real con rutas relativas y decoy eliminado (3
+  archivos, sin `.git`). **Verify independiente PASS 8/8**
+  (`gentle-ai-verify` mv1gdxx9): peer ok, config ok, `config.json` v3,
+  **1123** estáticas + gate en `_functions` (`adminGateDecision` +
+  `AUTHCORE_JWKS_URL` en el bundle), `static/admin/index.html` →
+  redirect `/admin/login` (el gate corrió en build), check 0,
+  36/36+106/106. Notas: runtime Vercel `nodejs24.x` (local Node 26 →
+  warn, correcto); bundle SSR 38M (34M de sharp musl+glibc, dentro de
+  límite); **el login prerenderizado sólo tendrá botón si
+  `AUTHCORE_JWKS_URL`+`AUTHCORE_JWT_ISSUER` están en las env vars de
+  Vercel EN BUILD** (paso humano T7/T8); deep links `/admin/<x>` → 404
+  (sólo `/admin/` prerenderiza, diseño T26).
