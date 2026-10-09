@@ -1,0 +1,65 @@
+---
+// site/src/pages/auth/callback.astro — T4 (specs S1/S3)
+//
+// Destino del `redirect_to` de authCore: el hub termina el OAuth con Google
+// y redirige aquí con ?token={JWT} (patrón AUTH-FLOW.md del ecosistema).
+// Página ESTÁTICA: el token se pasa a cookie desde el cliente (mismo patrón
+// que CafeMiTierra, cookie de 7 días) y el middleware de T3 lo VALIDA en
+// cada petición — guardar un token sin verificar es inofensivo porque el
+// gate falla cerrado. Con el adapter SSR de T5 esto puede pasar a httpOnly
+// server-side sin cambiar este contrato.
+import '../../styles/global.css';
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Entrando al admin…</title>
+  </head>
+  <body class="admin-callback">
+    <p id="status">Validando tu acceso…</p>
+
+    <script>
+      // Script empaquetado por Astro (TS + imports de src/lib).
+      import { buildAuthCookie, parseCallbackToken } from '../../lib/authFlow';
+
+      const fail = (reason: string) => {
+        window.location.replace(`/admin/login?error=${encodeURIComponent(reason)}`);
+      };
+
+      try {
+        const token = parseCallbackToken(window.location.search);
+        if (!token) {
+          fail('no-token');
+        } else {
+          document.cookie = buildAuthCookie(token, {
+            secure: window.location.protocol === 'https:',
+          });
+          // location.replace: la URL con ?token= no queda en el historial.
+          window.location.replace('/keystatic');
+        }
+      } catch {
+        fail('invalid-token');
+      }
+    </script>
+  </body>
+</html>
+
+<style>
+  .admin-callback {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    margin: 0;
+    font-family:
+      system-ui,
+      -apple-system,
+      'Segoe UI',
+      sans-serif;
+    background: #12314f;
+    color: #f5f7fa;
+  }
+</style>

@@ -1,0 +1,129 @@
+---
+// site/src/pages/admin/login.astro — T4 (specs S1/S3)
+//
+// Puerta de entrada del gate de T3: /keystatic, /admin y /api/keystatic
+// redirigen aquí cuando no hay JWT válido. El botón arranca el OAuth en
+// authCore (tu ecosistema: core/auth/AUTH-FLOW.md, patrón spoke):
+//   {base}/api/v1/auth/google?redirect_to={origin}/auth/callback
+// La base del hub se deriva de AUTHCORE_JWKS_URL (authCoreBaseUrl); sin
+// esa env var el gate de T3 está cerrado y aquí se explica el motivo.
+import '../../styles/global.css';
+import { authCoreBaseUrl } from '../../lib/authFlow';
+
+const jwksUrl = process.env.AUTHCORE_JWKS_URL;
+const authBase = jwksUrl ? authCoreBaseUrl(jwksUrl) : null;
+---
+
+<!doctype html>
+<html lang="es" data-auth-base={authBase}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Entrar — Admin Prixline</title>
+  </head>
+  <body class="admin-login">
+    <main class="card">
+      <h1>Admin de Prixline</h1>
+      <p>Entra con tu cuenta de <strong>authCore</strong> para editar el sitio.</p>
+
+      <p id="login-error" hidden></p>
+
+      {
+        authBase ? (
+          <a id="google-login" class="button" href="#">
+            Continuar con Google
+          </a>
+        ) : (
+          <p class="config-error">
+            El servidor no tiene <code>AUTHCORE_JWKS_URL</code> configurada: el
+            acceso al admin está cerrado hasta que T5 conecte las variables
+            <code>AUTHCORE_*</code>.
+          </p>
+        )
+      }
+
+      <p class="hint">La sesión dura 7 días. <a href="/">Volver al sitio</a></p>
+    </main>
+
+    <script>
+      // Script empaquetado por Astro (TS + imports de src/lib, type-checked).
+      import { googleAuthUrl } from '../../lib/authFlow';
+
+      const params = new URLSearchParams(window.location.search);
+      const error = params.get('error');
+      if (error) {
+        const box = document.getElementById('login-error');
+        if (box) {
+          box.hidden = false;
+          box.textContent =
+            error === 'no-token'
+              ? 'authCore no devolvió ningún token. Intenta de nuevo.'
+              : error === 'invalid-token'
+                ? 'El token recibido no es válido. Intenta de nuevo.'
+                : `Error de autenticación (${error}).`;
+        }
+      }
+
+      const base = document.documentElement.dataset.authBase;
+      const link = document.getElementById('google-login');
+      if (base && link instanceof HTMLAnchorElement) {
+        link.href = googleAuthUrl(base, `${window.location.origin}/auth/callback`);
+      }
+    </script>
+  </body>
+</html>
+
+<style>
+  .admin-login {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    margin: 0;
+    font-family:
+      system-ui,
+      -apple-system,
+      'Segoe UI',
+      sans-serif;
+    background: #12314f;
+    color: #f5f7fa;
+  }
+  .card {
+    background: #ffffff;
+    color: #12314f;
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    max-width: 26rem;
+    text-align: center;
+    box-shadow: 0 12px 40px rgb(0 0 0 / 0.35);
+  }
+  .card h1 {
+    margin-top: 0;
+    font-size: 1.4rem;
+  }
+  .button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.7rem 1.4rem;
+    border-radius: 8px;
+    background: #c8a24a;
+    color: #12314f;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .button:hover {
+    filter: brightness(1.05);
+  }
+  .hint {
+    font-size: 0.85rem;
+    color: #5b6b7c;
+  }
+  .config-error,
+  #login-error {
+    color: #a12b2b;
+    font-size: 0.9rem;
+  }
+  #login-error[hidden] {
+    display: none;
+  }
+</style>
