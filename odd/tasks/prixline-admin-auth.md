@@ -49,8 +49,8 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T1 | S4 | ~~Arreglar riesgos T27~~ `fields.date` sin truncar hora, `slugField` vs key `slug` + textos vacíos — test-first | inline test-first | `997884f1` |
 | T2 | S1,S3 | Verificador JWT RS256 puro (`site/src/lib/authcore.ts`: fetch/cache JWKS, iss/exp/aud) + tests `node --test` | inline test-first | `bd5a6e09` |
 | T2b | S1 | Review nativa RDD del rango commiteado de T2 (`d6364889..a274bda9`) | native review | `review-c3636f88b79047ff` (approved/ack) |
-| T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | verify (seguridad) + inline | |
-| T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | writer + verify | |
+| T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | verify (seguridad) + inline | `2010e508` |
+| T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | verify + inline | `45bd166f` |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | writer | |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
@@ -111,3 +111,28 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   `R4-jwks-fetch-no-deadline` (fetch sin timeout),
   `R4-jwks-refetch-unbounded`, `R4-upstream-failure-collapses-to-401`.
   Registrados como T13 (backlog).
+- **L6** — Evidencia T3 (2026-10-09), commit `2010e508`: helper puro
+  `site/src/lib/adminGate.ts` (public|page|api, login exento, fronteras
+  exactas) + `site/src/middleware.ts` (fail-closed: sin cookie/env o
+  token inválido → 302 a /admin/login en páginas, 401 JSON con
+  WWW-Authenticate en la API; issuer obligatorio, audience opcional).
+  Test-first RED→GREEN **6/6**; **verify independiente PASS 5/5**
+  (`gentle-ai-verify` mv122epg-1-bdcw, 24 tool calls): cobertura,
+  fail-closed, suites 29/29+106/106, astro check 0, sin bypass. Smoke dev
+  :4322: `/keystatic` y `/admin` → 302 `/admin/login`,
+  `/api/keystatic/*` → 401, `/` → 200; edge del verificador cerrado
+  empíricamente: `/%6beystatic` → 302, `/%61pi/keystatic/tree` → 401,
+  `/Admin` → 404. Nota del verify: en `output: static` (hasta T5) el
+  middleware sólo actúa en dev/SSR.
+- **L7** — Evidencia T4 (2026-10-09), commit `45bd166f`: helper puro
+  `site/src/lib/authFlow.ts` (`authCoreBaseUrl`, `googleAuthUrl`,
+  `parseCallbackToken`, `buildAuthCookie` anti-inyección) + páginas
+  `/admin/login` (botón OAuth, estado sin-env explicativo, `?error=`) y
+  `/auth/callback` (cookie token 7d sameSite=lax, secure en https,
+  `location.replace` sin dejar el token en el historial →
+  `/keystatic`). Test-first RED→GREEN **7/7**. Verificado: suites
+  **36/36** + 106/106, `astro check` 0 errores, smoke dev con y sin
+  env (`data-auth-base="https://api-authcore.rincom.es"` + botón), bug
+  de path de CSS corregido en el camino (`../` → `../../`, 500 → 200),
+  build estático **1.123 páginas** (incluye `dist/admin/login` y
+  `dist/auth/callback`).
