@@ -51,7 +51,8 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T2b | S1 | Review nativa RDD del rango commiteado de T2 (`d6364889..a274bda9`) | native review | `review-c3636f88b79047ff` (approved/ack) |
 | T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | verify (seguridad) + inline | `2010e508` |
 | T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | verify + inline | `45bd166f` |
-| T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | writer | |
+| T3+T4 | S1 | Review nativa RDD del rango commiteado (`900f567b..a7b97db9`) | native review | `review-b635e5ca58b06f05` (approved/ack) |
+| T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline | |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
 | T8 | S6 | Cierre T29: build 1.120+ / check 0 / tsc 0 / tests / `/admin` 200 con login, doc "cómo editar en /admin" + advertencia de no re-ejecutar importadores, review nativa, evidencia | verify | |
@@ -136,3 +137,23 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   de path de CSS corregido en el camino (`../` → `../../`, 500 → 200),
   build estático **1.123 páginas** (incluye `dist/admin/login` y
   `dist/auth/callback`).
+- **L8** — Evidencia review T3+T4 (2026-10-09): **approved** + acknowledge
+  quemado (linaje `review-b635e5ca58b06f05`, rango `900f567b..a7b97db9`,
+  8 archivos / 546 líneas, tier **high**, lentes risk + resilience +
+  reliability). Incidente de transporte: el primer envío del grupo fue
+  rechazado en admisión para `review-reliability` (payload con
+  `inspection.status: "completed"` debía declarar `"unavailable"` +
+  reason); el slot NO se consumió, se re-ejecutó sólo ese lente según el
+  STATUS fresco → admitido. **14 hallazgos advisories NO bloqueantes**
+  (disposición: trabajo posterior; muchos caen en T13 y T5):
+  `R1-001/002/003` (callback sin state/PKCE, token en query, doc),
+  `R3-callback-token-unbound`, `R3-inert-login-button`,
+  `R3-jwks-verify-no-deadline`, `R3-login-env-gate-mismatch` (el botón
+  depende sólo de `AUTHCORE_JWKS_URL` pero el gate también exige
+  `AUTHCORE_JWT_ISSUER` → T5 debe setear AMBAS),
+  `R3-middleware-contract-untested`, `R3-path-normalization-gap`,
+  `R4-callback-redirects-before-confirming-cookie`,
+  `R4-jwks-unbounded-fetch-on-request-path`,
+  `R4-redirect-drops-original-destination`,
+  `R4-static-build-gate-not-enforced-in-prod` (gate efectivo en
+  prod sólo desde T5/adapter), `R4-verify-failure-no-telemetry`.
