@@ -52,6 +52,8 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | verify (seguridad) + inline | `2010e508` |
 | T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | verify + inline | `45bd166f` |
 | T3+T4 | S1 | Review nativa RDD del rango commiteado (`900f567b..a7b97db9`) | native review | `review-b635e5ca58b06f05` (approved/ack) |
+| T5a | S1 | authCore emite `iss`/`aud` en el access token (decisión A del usuario) — repo hub, rama `feat/token-iss-aud` | inline test-first | authCore `0777260` |
+| T17 | S1 | Gate GGA de authCore: provider `claude` sin login → decisión del usuario: **hook pre-commit desinstalado** (`gga uninstall`) + 2 ficheros frontend ajenos revertidos (incidente sesión agéntica) | usuario decide | `~/.config/gga/config.bak-claude-20261009` |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline | |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
@@ -157,3 +159,22 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   `R4-redirect-drops-original-destination`,
   `R4-static-build-gate-not-enforced-in-prod` (gate efectivo en
   prod sólo desde T5/adapter), `R4-verify-failure-no-telemetry`.
+- **L9** — Evidencia T5a + incidente GGA (2026-10-09): decisión del
+  usuario (Ask) = añadir `iss` a authCore. Test-first en el hub:
+  RED 2/2 → `Settings.jwt_issuer`/`jwt_audience` + `TokenService`
+  (`iss` siempre, `aud` sólo con `JWT_AUDIENCE`) + composes (prod
+  `https://api-authcore.rincom.es`, dev `localhost:8000`) → GREEN 2/2 →
+  **suite completa 270/270 (18m47s)**. Hallazgo: python-jose exige
+  `audience` explícito al decodificar tokens con `aud` → `JWT_AUDIENCE`
+  queda OFF por defecto (rompería verificadores existentes); Prixline
+  valida sólo `iss`. **Incidente**: el pre-commit `gga run` (provider
+  `claude` sin login; el usuario no usa claude, su stack es
+  mimo-v2.6-flash vía opencode) nos bloqueó; cambiado
+  PROVIDER→opencode (backup `config.bak-claude-20261009`) resultó en
+  una **sesión agéntica con tool-use** que: commiteó NUESTRO trabajo
+  como `0777260` (verificado: 5 ficheros, +62 líneas), cambió de rama
+  y dejó 2 ficheros frontend sucios (revertidos por decisión del
+  usuario). Decisión del usuario: **`gga uninstall` en authCore** (sin
+  hook local; revisión en PR). Rama restaurada `feat/token-iss-aud`
+  limpia @ `0777260`. NOTA: el commit lo firmó la sesión agéntica como
+  el usuario (22:11).
