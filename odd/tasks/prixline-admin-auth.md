@@ -57,6 +57,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline + verify | `5473eb6a` |
 | T5b | S1 | Review nativa RDD del rango commiteado de T5 (`11d24405..c223636b`) | native review | `review-c1e4088239511d0c` (approved/ack) |
 | T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + verify | `c9f542e2` |
+| T6b | S5 | Review nativa RDD del rango commiteado de T6 (`bef80e93..46e8d130`) | native review | `review-5ed0d3633c06c0e8` (approved/ack) |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
 | T8 | S6 | Cierre T29: build 1.120+ / check 0 / tsc 0 / tests / `/admin` 200 con login, doc "cómo editar en /admin" + advertencia de no re-ejecutar importadores, review nativa, evidencia | verify | |
 | T9 | S7 | **[usuario]** `gh secret set VERCEL_TOKEN` (sin expiración) | blocked: usuario | |
@@ -232,3 +233,15 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   (dev → `/keystatic/setup`) y **escritura a `origin/HEAD=main`** (el
   tipo de config no admite otra rama destino; en `feat/prx-cms` revisar
   antes de guardar).
+- **L13** — Evidencia review T6b (2026-10-09): **approved** +
+  acknowledge quemado (linaje `review-5ed0d3633c06c0e8`, rango
+  `bef80e93..46e8d130`, 6 archivos / 264 líneas, tier **high**, 3
+  lentes host-relay, budget 132). Incidente menor: el primer START fue
+  rechazado (`base-ref-unresolvable` por id abreviado, sin linaje ni
+  mutación) y se repitió con el SHA completo. **6 advisories
+  informativos** (disposición: trabajo posterior → T13):
+  `R3-001..003` (config.ts:46 y asserts del test de storage),
+  `R4-fallback-silent-ephemeral-writes` (el fallback a `local` puede
+  enmascarar writes efímeros), `R4-github-without-creds-500` (ya
+  documentado en la guía) y `R4-repo-drift` (repo hardcodeado en el
+  helper).
