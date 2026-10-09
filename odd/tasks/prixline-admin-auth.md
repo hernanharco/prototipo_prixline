@@ -46,7 +46,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 
 | ID | S# | Tarea | Route | Commit |
 |----|----|-------|-------|--------|
-| T1 | S4 | Arreglar riesgos T27 (`fields.date` sin truncar hora, `slugField` vs key `slug` exigida por Astro) test-first, con reader smoke + build | inline test-first | |
+| T1 | S4 | ~~Arreglar riesgos T27~~ `fields.date` sin truncar hora, `slugField` vs key `slug` + textos vacíos — test-first | inline test-first | `997884f1` |
 | T2 | S1,S3 | Verificador JWT RS256 puro (`site/src/lib/authcore.ts`: fetch/cache JWKS, iss/exp/aud) + tests `node --test` | inline test-first | |
 | T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | writer (seguridad) + verify | |
 | T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | writer + verify | |
@@ -70,3 +70,14 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   /home/harco/Documentos/elrincondeharco.com/core"
 - **L2** — Decisión del usuario (ask 2026-10-05): login admin =
   "authCore + GitHub (1ª vez)".
+- **L3** — Evidencia T1 (2026-10-05), commit `997884f1`: test RED
+  observado (3/3 colecciones rompían el contrato: fecha truncada en las
+  1.119, `slug` borrado en las 1.119, `excerpt` 170 y `thumbnailAlt` 813
+  borrados) → fixes en `site/keystatic/helpers.ts` (`isoDateField`,
+  `persistText`, `slugKeyField`) usados por las 3 colecciones → GREEN
+  3/3 (`site/scripts/keystatic-save.test.mjs`, corpus completo).
+  Verificación: reader smoke 813/302/4 cuerpos byte-idénticos, tests
+  106/106 + 13/13, `tsc` 0, `astro check` 0 errores, build **1.121**
+  páginas. Descubierto además (más allá de S4): los strings vacíos
+  (`title`/`excerpt`/`thumbnailAlt`) también se borraban al guardar y
+  romperían `z.string()` — cubierto por `persistText`.
