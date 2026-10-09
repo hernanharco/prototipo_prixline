@@ -47,7 +47,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | ID | S# | Tarea | Route | Commit |
 |----|----|-------|-------|--------|
 | T1 | S4 | ~~Arreglar riesgos T27~~ `fields.date` sin truncar hora, `slugField` vs key `slug` + textos vacíos — test-first | inline test-first | `997884f1` |
-| T2 | S1,S3 | Verificador JWT RS256 puro (`site/src/lib/authcore.ts`: fetch/cache JWKS, iss/exp/aud) + tests `node --test` | inline test-first | |
+| T2 | S1,S3 | Verificador JWT RS256 puro (`site/src/lib/authcore.ts`: fetch/cache JWKS, iss/exp/aud) + tests `node --test` | inline test-first | `bd5a6e09` |
 | T3 | S1,S3 | Middleware Astro: `/keystatic`, `/admin`, `/api/keystatic` exigen cookie JWT válida → redirect `/admin/login` | writer (seguridad) + verify | |
 | T4 | S1,S3 | `/admin/login` (botón "Continuar con Google" → `{AUTHCORE_URL}/api/v1/auth/google?redirect_to={origin}/auth/callback`) + `/auth/callback` (cookie + redirect al admin), patrón CafeMiTierra | writer + verify | |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | writer | |
@@ -81,3 +81,17 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   páginas. Descubierto además (más allá de S4): los strings vacíos
   (`title`/`excerpt`/`thumbnailAlt`) también se borraban al guardar y
   romperían `z.string()` — cubierto por `persistText`.
+- **L4** — Evidencia T2 (2026-10-09), commit `bd5a6e09`:
+  `site/src/lib/authcore.ts` (verifyToken RS256: forma → algoritmo →
+  firma vía JWKS con caché por URL/TTL 10 min + refetch único ante kid
+  desconocido → iss/aud/exp; `AuthCoreVerifyError` para el 401 del
+  middleware; `verifyOptionsFromEnv` para el contrato `AUTHCORE_*`).
+  Test-first: `site/src/lib/authcore.test.mjs` RED module-not-found →
+  GREEN **10/10** (válido, expirado, firma manipulada, alg none/HS256,
+  issuer, audience, rotación de kid, JWKS 5xx, 6 tokens malformados sin
+  fetch, mapeo de env). Verificación: tests site **23/23**,
+  root **106/106**, `astro check` 0 errores. Gotcha: `TextEncoder
+ .encode(ArrayBuffer)` stringifica a `"[object ArrayBuffer]"` (firma de
+  20 bytes) — envolver en `Uint8Array` antes del base64url. Nota T5:
+  el payload actual de authCore NO incluye `aud` (AUDITORIA) → no activar
+  `AUTHCORE_JWT_AUDIENCE` sin verificar con un token real.
