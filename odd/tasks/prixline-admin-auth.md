@@ -56,7 +56,7 @@ Documento consolidado de TODO lo que queda abierto del proyecto
 | T17 | S1 | Gate GGA de authCore: provider `claude` sin login → decisión del usuario: **hook pre-commit desinstalado** (`gga uninstall`) + 2 ficheros frontend ajenos revertidos (incidente sesión agéntica) | usuario decide | `~/.config/gga/config.bak-claude-20261009` |
 | T5 | S1,S3 | Adapter SSR de producción (hoy `keystaticDevOnly` + static) para publicar `/admin` en Vercel + env vars `AUTHCORE_*` en dev y Vercel | inline + verify | `5473eb6a` |
 | T5b | S1 | Review nativa RDD del rango commiteado de T5 (`11d24405..c223636b`) | native review | `review-c1e4088239511d0c` (approved/ack) |
-| T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + guía | |
+| T6 | S3,S5 | `storage: github` + media store en el repo + guía de pasos del usuario (OAuth App / GitHub App, `KEYSTATIC_*`, 1er login GitHub tras authCore) | inline + verify | `c9f542e2` |
 | T7 | S1 | Smoke live: guardar una vez desde `/admin` y verificar `git diff content/` | inline (humano asiste) | |
 | T8 | S6 | Cierre T29: build 1.120+ / check 0 / tsc 0 / tests / `/admin` 200 con login, doc "cómo editar en /admin" + advertencia de no re-ejecutar importadores, review nativa, evidencia | verify | |
 | T9 | S7 | **[usuario]** `gh secret set VERCEL_TOKEN` (sin expiración) | blocked: usuario | |
@@ -211,3 +211,24 @@ T9–T10 en paralelo (son tuyos); T11–T12 esperan decisión.
   manual, en Vercel es no-op sobre árbol limpio) y
   `R3-read-env-empty-string-fallthrough` (middleware.ts:33 — un valor
   vacío en process.env cae a getSecret; vacío → gate cerrado igual).
+- **L12** — Evidencia T6 (2026-10-09), commit `c9f542e2`: selector
+  `site/src/lib/keystaticStorage.ts` con flag **`PUBLIC_KEYSTATIC_STORAGE`
+  (público: el `kind` debe ser idéntico en bundle cliente y servidor;
+  creds `KEYSTATIC_*` server-only)**; sin flag/flag inválido/env
+  undefined ⇒ `local` (dev + smoke T7 `git diff content/`). Cableado en
+  `keystatic.config.ts` (comentario del endpoint inexistente corregido —
+  `git log --all` vacío). Test-first RED→GREEN **4/4**; **regresión
+  cazada**: el smoke reader crasheó con `import.meta.env` en Node puro →
+  test case `undefined` → `env?.` → smoke **813/302/4** byte-idénticos.
+  **Verify independiente PASS 5/5** (`gentle-ai-verify` mv1hfw79) + sin
+  fuga de credenciales al cliente (sólo placeholders; `PUBLIC_` = flag y
+  app slug): ambos builds 1123/config-v3, repo en el bundle de
+  `/api/keystatic` sólo con flag, suites 40/40+106/106, check 0. Guía
+  **`site/ADMIN-SETUP.md`**: OAuth App (callback verificado contra el
+  dist de @keystatic/core), tabla de envs Vercel, 1er login (Google vía
+  authCore → GitHub), media store (`site/public/media/uploads/`, 272
+  ficheros rastreados). Riesgos conocidos documentados en la guía:
+  **flag sin creds en prod ⇒ 500 en `/api/keystatic/*` autenticados**
+  (dev → `/keystatic/setup`) y **escritura a `origin/HEAD=main`** (el
+  tipo de config no admite otra rama destino; en `feat/prx-cms` revisar
+  antes de guardar).
