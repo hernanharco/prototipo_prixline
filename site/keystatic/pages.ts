@@ -5,9 +5,9 @@
 //
 // El cuerpo del .md es HTML crudo; se expone con rawHtmlContent — NUNCA con
 // un campo richtext/markdoc, que lo reescribiría.
-import { collection, fields } from '@keystatic/core';
+import { collection } from '@keystatic/core';
 
-import { isoDateField, rawHtmlContent } from './helpers.ts';
+import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpers.ts';
 
 export const pages = collection({
   label: 'Páginas',
@@ -17,22 +17,10 @@ export const pages = collection({
   schema: {
     // Realidad: timestamp ISO sin comillas → Date de js-yaml; ver helpers.ts.
     extractedAt: isoDateField('extractedAt (fecha de extracción)'),
-    originUrl: fields.text({
-      label: 'originUrl (URL original)',
-      validation: { isRequired: true },
-    }),
-    slug: fields.text({
-      label: 'Slug',
-      validation: { isRequired: true },
-    }),
-    sourceUrl: fields.text({
-      label: 'sourceUrl (API WordPress)',
-      validation: { isRequired: true },
-    }),
-    title: fields.text({
-      label: 'Título',
-      validation: { isRequired: true },
-    }),
+    originUrl: persistText('originUrl (URL original)', { required: true }),
+    slug: slugKeyField('Slug'),
+    sourceUrl: persistText('sourceUrl (API WordPress)', { required: true }),
+    title: persistText('Título', { required: true }),
     // Cuerpo HTML crudo: ver helpers.ts (rawHtmlContent).
     content: rawHtmlContent(),
   },

@@ -79,7 +79,9 @@ function checkEntryTypes(collection, slug, data) {
   // la lectura y vuelve como null.
   assert(data.slug === null, `${where}: data.slug debería ser null (contrato slugField), llegó ${JSON.stringify(data.slug)}`);
   assertString(data.content, `${where}: content`, { nonEmpty: true });
-  assert(/^\d{4}-\d{2}-\d{2}$/.test(data.date ?? data.extractedAt), `${where}: fecha debería ser YYYY-MM-DD`);
+  // T1: el reader devuelve el timestamp completo (isoDateField ya no trunca);
+  // se acepta también fecha pura (entradas nuevas desde el admin).
+  assert(/^\d{4}-\d{2}-\d{2}(T.*)?$/.test(data.date ?? data.extractedAt), `${where}: fecha debería ser ISO (YYYY-MM-DD o timestamp completo)`);
   if (collection === 'posts') {
     assert(Number.isInteger(data.id), `${where}: id debería ser entero`);
     assertString(data.title, `${where}: title`);

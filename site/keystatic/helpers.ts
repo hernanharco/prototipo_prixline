@@ -68,20 +68,126 @@ export function rawHtmlContent(): ContentFormField<string | null, string | null,
 // Realidad del corpus (verificado archivo a archivo): el timestamp va SIN
 // comillas (`date: 2014-03-17T11:39:52.000Z`) y js-yaml —la misma librería que
 // usa Keystatic para parsear frontmatter— lo resuelve como objeto Date.
-// Por eso fields.date, cuyo parse convierte Date → 'YYYY-MM-DD' (UTC) y
-// valida el resultado.
 //
-// Alternativas descartadas (ambas romperían la LECTURA de todas las entradas):
+// T1 (spec S4): en T27 se usaba `fields.date`, que AL GUARDAR trunca el
+// timestamp a 'YYYY-MM-DD' (su parse convierte Date → solo la fecha UTC) —
+// pérdida irreversible de la hora en las 1.119 entradas en el primer guardado.
+// Este campo conserva el instante completo:
+//  - parse: Date → toISOString() completo (o string tal cual, que es lo que
+//    devuelve el input de fecha para entradas nuevas).
+//  - serialize: MISMA técnica que usa el propio fields.date (un Date con
+//    toISOString()/toString() parcheados): js-yaml emite el timestamp SIN
+//    comillas, de modo que al releerlo sigue siendo un Date con el mismo
+//    instante. (Verificado: dump emite `date: 2015-03-18T15:51:28.000Z`.)
+//  - Input: el `<input type="date">` de Keystatic solo admite 'YYYY-MM-DD',
+//    así que muestra la fecha y, si el editor la cambia, re-adjunta la hora
+//    original (una fecha nueva sin hora previa se guarda como fecha pura).
+//
+// Alternativas descartadas (rompían la lectura del corpus):
 //  - fields.dateTime: su validador exige /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/ y
 //    el parse de un Date devuelve 'YYYY-MM-DDTHH:mm:ss' (con segundos) →
 //    FieldDataError en el 100 % de las entradas.
 //  - fields.text: parseAsNormalField lanza 'Must be a string' sobre un Date.
-//
-// Riesgo conocido (a revisar en T29): al GUARDAR, fields.date serializa solo
-// la fecha y trunca la hora del frontmatter. La lectura (T27) no escribe nada.
 export function isoDateField(label: string) {
-  return fields.date({
+  const base = fields.date({
     label,
     validation: { isRequired: true },
   });
+  type Stored = Parameters<typeof base.parse>[0];
+  type InputProps = Parameters<typeof base.Input>[0];
+  type Value = ReturnType<typeof base.parse>;
+
+  const parse = (value: Stored): Value => {
+    if (value === undefined || value === null) return null;
+    if (value instanceof Date) return value.toISOString();
+    if (typeof value === 'string') return value;
+    throw new Error(`${label}: se esperaba una fecha ISO`);
+  };
+  const validate = (value: Value): string => {
+    if (value === null) throw new Error(`${label} is required`);
+    if (!/^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2}(\.\d{1,3})?)?(Z|[+-]\d{2}:?\d{2})?)?$/.test(value)) {
+      throw new Error(`${label}: fecha inválida ("${value}")`);
+    }
+    return value;
+  };
+
+  return {
+    ...base,
+    Input(props: InputProps) {
+      const full = props.value;
+      return base.Input({
+        ...props,
+        value: full === null ? null : full.slice(0, 10),
+        onChange(next) {
+          if (next === null || next === '') {
+            props.onChange(null);
+            return;
+          }
+          const timePart = full !== null && full.includes('T') ? full.slice(full.indexOf('T')) : '';
+          props.onChange(`${next}${timePart}`);
+        },
+      });
+    },
+    parse,
+    serialize(value: Value) {
+      if (value === null) return { value: undefined };
+      const date = new Date(value);
+      date.toISOString = () => value;
+      date.toString = () => value;
+      return { value: date };
+    },
+    validate,
+    reader: {
+      parse: (value: Stored) => validate(parse(value)),
+    },
+  };
+}
+
+// Texto que SOBREVIVE al guardado cuando su valor es '' (T1, spec S4).
+//
+// fields.text.serialize('') devuelve { value: undefined } y el visitor
+// `object` de serializeProps ELIMINA la clave del YAML. En el corpus eso
+// borra al guardar: `title` (9 posts vacíos), `excerpt` (170) y
+// `thumbnailAlt` (813/813 siempre vacío); como Astro exige esas claves
+// (`z.string()`), el siguiente build se rompe. Aplicar a toda clave presente
+// en el corpus cuyo valor pueda ser ''.
+export function persistText(
+  label: string,
+  options: { required?: boolean; multiline?: boolean } = {},
+) {
+  const base = fields.text({
+    label,
+    multiline: options.multiline,
+    validation: options.required ? { isRequired: true } : undefined,
+  });
+  return {
+    ...base,
+    serialize(value: string) {
+      return { value };
+    },
+  };
+}
+
+// Campo slug canónico (slugField de las tres colecciones).
+//
+// T1 (spec S4): serializeProps trata la clave slugField con
+// serializeWithSlug(...).value, y fields.text devuelve value: undefined — Keystatic
+// ESCRIBE el slug solo en el nombre de archivo y OMITE la clave `slug` del
+// frontmatter al guardar. Astro exige `slug` en las tres colecciones
+// (z.coerce.string / z.string) ⇒ el primer guardado rompería el build.
+// Al devolver value conservamos la clave, siempre coherente con el nombre de
+// archivo (el nombre se deriva del mismo valor en getSlugFromState).
+// La lectura no cambia: el reader de Keystatic sigue exponiendo
+// data.slug === null y el slug canónico vive en entry.slug (contrato T27).
+export function slugKeyField(label: string) {
+  const base = fields.text({
+    label,
+    validation: { isRequired: true },
+  });
+  return {
+    ...base,
+    serializeWithSlug(value: string) {
+      return { slug: value, value: value === '' ? undefined : value };
+    },
+  };
 }

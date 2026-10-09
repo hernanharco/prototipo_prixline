@@ -6,9 +6,9 @@
 //
 // El cuerpo del .md es el temario (HTML/Markdown crudo); se expone con
 // rawHtmlContent — NUNCA con un campo richtext/markdoc, que lo reescribiría.
-import { collection, fields } from '@keystatic/core';
+import { collection } from '@keystatic/core';
 
-import { isoDateField, rawHtmlContent } from './helpers.ts';
+import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpers.ts';
 
 export const courses = collection({
   label: 'Cursos',
@@ -18,18 +18,9 @@ export const courses = collection({
   schema: {
     // Realidad: timestamp ISO sin comillas → Date de js-yaml; ver helpers.ts.
     extractedAt: isoDateField('extractedAt (fecha de extracción)'),
-    slug: fields.text({
-      label: 'Slug',
-      validation: { isRequired: true },
-    }),
-    sourceUrl: fields.text({
-      label: 'sourceUrl (URL de origen)',
-      validation: { isRequired: true },
-    }),
-    title: fields.text({
-      label: 'Título',
-      validation: { isRequired: true },
-    }),
+    slug: slugKeyField('Slug'),
+    sourceUrl: persistText('sourceUrl (URL de origen)', { required: true }),
+    title: persistText('Título', { required: true }),
     // Cuerpo del temario en texto crudo: ver helpers.ts (rawHtmlContent).
     content: rawHtmlContent(),
   },
