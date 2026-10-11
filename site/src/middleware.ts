@@ -47,9 +47,20 @@ export const onRequest = defineMiddleware(async (context, next) => {
     try {
       await verifyToken(token, { jwksUrl, issuer, audience, fetchFn: globalThis.fetch });
       return next();
-    } catch {
+    } catch (err) {
       // Token inválido/expirado o JWKS inaccesible → fail-closed abajo.
+      // R4-verify-failure-no-telemetry (T13): observabilidad del rechazo
+      // en Vercel logs. Solo el MENSAJE del error — nunca el token ni
+      // los claims completos.
+      console.warn(
+        `[admin-gate] token rejected: ${err instanceof Error ? err.message : String(err)}`,
+      );
     }
+  } else {
+    // Diagnóstico de gate cerrado por env ausente (no por token).
+    console.warn(
+      `[admin-gate] gate closed: token=${Boolean(token)} jwks=${Boolean(jwksUrl)} issuer=${Boolean(issuer)}`,
+    );
   }
 
   if (decision === 'api') {
