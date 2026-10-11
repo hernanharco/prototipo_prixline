@@ -3,6 +3,10 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 import { generateId } from './lib/entryId';
+// Taxonomía de familias de cursos (fase 8): única fuente compartida con
+// `scripts/course-families.ts` y el widget de Keystatic. Import relativo
+// al repo root funciona porque el workspace root (pnpm-lock.yaml) lo abarca.
+import { FAMILIES } from '../../scripts/family-map.ts';
 
 // Imported content lives at repo-root `content/`, one level above this
 // package (`site/`). `base` is resolved relative to the Astro project root
@@ -12,6 +16,10 @@ const courses = defineCollection({
   schema: z.object({
     title: z.string(),
     slug: z.string(),
+    // Fase 8 (S2): familia taxonómica del curso, exigida en todo el
+    // corpus (backfill scripts/apply-families.ts; cobertura fijada por
+    // scripts/family-map.test.ts). Lista cerrada = taxonomía única.
+    family: z.enum(FAMILIES),
     sourceUrl: z.string(),
     // Deviation from the task's `z.string()`: verified against real data via
     // @astrojs/markdown-remark parseFrontmatter (js-yaml default schema) that

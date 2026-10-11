@@ -6,8 +6,11 @@
 //
 // El cuerpo del .md es el temario (HTML/Markdown crudo); se expone con
 // rawHtmlContent — NUNCA con un campo richtext/markdoc, que lo reescribiría.
-import { collection } from '@keystatic/core';
+import { collection, fields } from '@keystatic/core';
 
+// Taxonomía de familias (fase 8): misma fuente que el schema de Astro
+// (site/src/content.config.ts) y la tabla scripts/course-families.ts.
+import { FAMILIES, FAMILY_LABELS } from '../../scripts/family-map.ts';
 import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpers.ts';
 
 export const courses = collection({
@@ -19,6 +22,14 @@ export const courses = collection({
     // Realidad: timestamp ISO sin comillas → Date de js-yaml; ver helpers.ts.
     extractedAt: isoDateField('extractedAt (fecha de extracción)'),
     slug: slugKeyField('Slug'),
+    // Fase 8: familia del curso (select de la taxonomía cerrada). Es
+    // editable desde el CMS: una corrección aquí gana sobre la tabla
+    // (apply-families.ts no pisa valores existentes).
+    family: fields.select({
+      label: 'Familia',
+      options: FAMILIES.map((family) => ({ value: family, label: FAMILY_LABELS[family] })),
+      defaultValue: 'otros',
+    }),
     sourceUrl: persistText('sourceUrl (URL de origen)', { required: true }),
     title: persistText('Título', { required: true }),
     // Cuerpo del temario en texto crudo: ver helpers.ts (rawHtmlContent).
