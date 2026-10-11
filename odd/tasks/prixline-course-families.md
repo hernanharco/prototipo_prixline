@@ -111,3 +111,11 @@ editable desde el CMS.
   extract-courses.test.ts. Verificación global de rama: suites scripts
   118/118, tsc raíz 0, astro check 0 (tras fix `fields.select` — esta
   versión de Keystatic rechaza `validation` en select).
+- **L7** (review nativa, desenlace): intento sobre el rango completo y
+  sobre un candidato reducido solo-código → ambos abortados en
+  preflight con `lens_context_budget_exceeded` (los 302 temarios
+  congelados superan el presupuesto de revisores); sin autoridad
+  creada, sin mutación. Decisión del usuario: "hacerlo" → merge a
+  main + push sin review nativa; la verificación funcional (118/118,
+  tsc 0, check 0, build OK, greps dist) queda como cobertura y la
+  clasificación se revisa por el cliente vía CMS.
