@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR DE EDUCACION AMBIENTAL
 slug: curso-de-monitor-de-educacion-ambiental
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

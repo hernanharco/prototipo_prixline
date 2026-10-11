@@ -1,6 +1,7 @@
 ---
 title: CURSO DE APLICACIONES DE LAS NUEVAS TECNOLOGIAS EN LA DIRECCION Y GESTION DE LAS EMPRESAS
 slug: curso-de-aplicaciones-de-las-nuevas-tecnologias-en-la-direccion-y-gestion-de-las-empresas
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR DE TAICHI
 slug: curso-de-monitor-de-taichi
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

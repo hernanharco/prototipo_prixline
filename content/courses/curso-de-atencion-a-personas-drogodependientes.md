@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ATENCION A PERSONAS DROGODEPENDIENTES
 slug: curso-de-atencion-a-personas-drogodependientes
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

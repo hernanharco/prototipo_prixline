@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CONTAMINACION ACUSTICA Y ATMOSFERICA
 slug: curso-de-contaminacion-acustica-y-atmosferica
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

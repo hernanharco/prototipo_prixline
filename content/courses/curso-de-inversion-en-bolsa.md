@@ -1,6 +1,7 @@
 ---
 title: CURSO DE INVERSION EN BOLSA
 slug: curso-de-inversion-en-bolsa
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE MATEMATICAS (3 NIVELES)"
 slug: curso-de-matematicas-3-niveles
+family: otros
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE AUXILIAR DE GERIATRÍA Y GERONTOLOGÍA"
 slug: curso-de-auxiliar-de-geriatria-y-gerontologia
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

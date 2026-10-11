@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE INTERPRETACIÓN DE PLANOS"
 slug: curso-de-interpretacion-de-planos
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PROGRAMACIÓN con VISUAL BASIC .NET"
 slug: curso-de-programacion-con-visual-basic-net
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

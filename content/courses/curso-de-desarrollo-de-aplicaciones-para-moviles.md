@@ -1,6 +1,7 @@
 ---
 title: CURSO DE DESARROLLO DE APLICACIONES PARA MOVILES
 slug: curso-de-desarrollo-de-aplicaciones-para-moviles
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

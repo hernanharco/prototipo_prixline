@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE CREACIÓN Y GESTIÓN DE UN LOCUTORIO Y/O CYBERCAFE"
 slug: curso-de-creacion-y-gestion-de-un-locutorio-y-o-cybercafe
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

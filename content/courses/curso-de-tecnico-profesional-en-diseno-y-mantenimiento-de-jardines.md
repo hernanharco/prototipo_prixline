@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE TECNICO PROFESIONAL EN DISEÑO Y MANTENIMIENTO DE JARDINES"
 slug: curso-de-tecnico-profesional-en-diseno-y-mantenimiento-de-jardines
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

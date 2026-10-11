@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CHAPA Y PINTURA DEL AUTOMOVIL
 slug: curso-de-chapa-y-pintura-del-automovil
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

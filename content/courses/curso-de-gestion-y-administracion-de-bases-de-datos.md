@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE GESTIÓN Y ADMINISTRACIÓN DE BASES DE DATOS"
 slug: curso-de-gestion-y-administracion-de-bases-de-datos
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

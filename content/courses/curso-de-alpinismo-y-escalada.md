@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ALPINISMO Y ESCALADA
 slug: curso-de-alpinismo-y-escalada
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

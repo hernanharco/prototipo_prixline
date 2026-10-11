@@ -1,6 +1,7 @@
 ---
 title: CURSO DE FINANZAS PARA DIRECTIVOS
 slug: curso-de-finanzas-para-directivos
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

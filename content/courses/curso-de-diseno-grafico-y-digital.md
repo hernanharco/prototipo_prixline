@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE DISEÑO GRAFICO Y DIGITAL"
 slug: curso-de-diseno-grafico-y-digital
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

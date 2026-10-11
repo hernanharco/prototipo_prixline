@@ -1,6 +1,7 @@
 ---
 title: CURSO DE GESTION MEDIOAMBIENTAL EN LA EMPRESA
 slug: curso-de-gestion-medioambiental-en-la-empresa
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

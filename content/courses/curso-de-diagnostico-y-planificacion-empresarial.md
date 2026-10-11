@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE DIAGNÓSTICO Y PLANIFICACIÓN EMPRESARIAL"
 slug: curso-de-diagnostico-y-planificacion-empresarial
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

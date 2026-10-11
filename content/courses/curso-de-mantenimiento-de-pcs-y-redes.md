@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MANTENIMIENTO DE PCs Y REDES
 slug: curso-de-mantenimiento-de-pcs-y-redes
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

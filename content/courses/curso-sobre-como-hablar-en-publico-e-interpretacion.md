@@ -1,6 +1,7 @@
 ---
 title: "CURSO SOBRE COMO HABLAR EN PÚBLICO E INTERPRETACIÓN"
 slug: curso-sobre-como-hablar-en-publico-e-interpretacion
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

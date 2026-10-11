@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CONSEJERO DE SEGURIDAD PARA EL TRANSPORTE DE MERCANCIAS PELIGROSAS
 slug: curso-de-consejero-de-seguridad-para-el-transporte-de-mercancias-peligrosas
+family: seguridad
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

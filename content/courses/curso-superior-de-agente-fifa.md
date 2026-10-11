@@ -1,6 +1,7 @@
 ---
 title: CURSO SUPERIOR DE AGENTE FIFA
 slug: curso-superior-de-agente-fifa
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

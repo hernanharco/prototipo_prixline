@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREPARACION A LA OPOSICION DE AUXILIARES ADMINISTRATIVOS DE UNIVERSIDADES
 slug: curso-de-preparacion-a-la-oposicion-de-auxiliares-administrativos-de-universidades
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

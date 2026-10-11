@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CUIDADOS Y MANTENIMIENTO DE LA MADERA.
 slug: curso-de-cuidados-y-mantenimiento-de-la-madera
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PORTUGUES (3 NIVELES)"
 slug: curso-de-portugues-3-niveles
+family: idiomas
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

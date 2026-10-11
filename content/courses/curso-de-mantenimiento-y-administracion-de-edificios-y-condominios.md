@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MANTENIMIENTO Y ADMINISTRACION DE EDIFICIOS Y CONDOMINIOS
 slug: curso-de-mantenimiento-y-administracion-de-edificios-y-condominios
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

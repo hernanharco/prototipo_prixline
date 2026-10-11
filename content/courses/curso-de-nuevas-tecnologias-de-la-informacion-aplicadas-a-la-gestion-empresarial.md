@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN APLICADAS A LA GESTIÓN EMPRESARIAL"
 slug: curso-de-nuevas-tecnologias-de-la-informacion-aplicadas-a-la-gestion-empresarial
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

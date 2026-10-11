@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ADMINISTRADOR DE SERVIDORES INTERNET/ INTRANET/ EXTRANET
 slug: curso-de-administrador-de-servidores-internet-intranet-extranet
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

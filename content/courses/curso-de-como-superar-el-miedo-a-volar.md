@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE CÓMO SUPERAR EL MIEDO A VOLAR"
 slug: curso-de-como-superar-el-miedo-a-volar
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

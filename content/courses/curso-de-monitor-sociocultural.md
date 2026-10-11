@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR SOCIOCULTURAL
 slug: curso-de-monitor-sociocultural
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

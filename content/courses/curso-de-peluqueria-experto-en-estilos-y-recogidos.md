@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PELUQUERIA EXPERTO EN ESTILOS Y RECOGIDOS
 slug: curso-de-peluqueria-experto-en-estilos-y-recogidos
+family: belleza
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

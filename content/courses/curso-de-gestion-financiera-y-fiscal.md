@@ -1,6 +1,7 @@
 ---
 title: CURSO DE GESTION FINANCIERA Y FISCAL
 slug: curso-de-gestion-financiera-y-fiscal
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

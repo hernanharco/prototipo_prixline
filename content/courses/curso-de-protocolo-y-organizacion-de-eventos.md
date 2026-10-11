@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PROTOCOLO Y ORGANIZACIÓN DE EVENTOS"
 slug: curso-de-protocolo-y-organizacion-de-eventos
+family: hosteleria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

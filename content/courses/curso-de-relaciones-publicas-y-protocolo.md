@@ -1,6 +1,7 @@
 ---
 title: CURSO DE RELACIONES PUBLICAS Y PROTOCOLO
 slug: curso-de-relaciones-publicas-y-protocolo
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

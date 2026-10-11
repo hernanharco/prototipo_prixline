@@ -1,6 +1,7 @@
 ---
 title: CURSO DE SISTEMA BRAILLE
 slug: curso-de-sistema-braille
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE DESARROLLO DE CONTENIDOS Y SERVICIOS INTERNET PARA TERMINALES MOVILES
 slug: curso-de-desarrollo-de-contenidos-y-servicios-internet-para-terminales-moviles
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

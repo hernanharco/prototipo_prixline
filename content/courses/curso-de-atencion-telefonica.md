@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE ATENCIÓN TELEFONICA"
 slug: curso-de-atencion-telefonica
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

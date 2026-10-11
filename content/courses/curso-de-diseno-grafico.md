@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE DISEÑO GRAFICO"
 slug: curso-de-diseno-grafico
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

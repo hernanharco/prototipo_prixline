@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE MONITOR DE BAILES DE SALÓN"
 slug: curso-de-monitor-de-bailes-de-salon
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

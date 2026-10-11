@@ -1,6 +1,7 @@
 ---
 title: CURSO DE OPERADOR DE CAMARA
 slug: curso-de-operador-de-camara
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

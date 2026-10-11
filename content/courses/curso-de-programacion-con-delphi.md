@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PROGRAMACIÓN CON DELPHI"
 slug: curso-de-programacion-con-delphi
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

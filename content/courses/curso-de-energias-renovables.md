@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ENERGIAS RENOVABLES
 slug: curso-de-energias-renovables
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

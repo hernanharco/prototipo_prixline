@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE MONITOR DE ACTIVIDADES EXTRAESCOLARES, AULA MATINAL Y DE COMEDOR ESCOLAR"
 slug: curso-de-monitor-de-actividades-extraescolares-aula-matinal-y-de-comedor-escolar
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

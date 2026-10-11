@@ -1,6 +1,7 @@
 ---
 title: CURSO DE BOLSA Y PRODUCTOS FINANCIEROS
 slug: curso-de-bolsa-y-productos-financieros
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

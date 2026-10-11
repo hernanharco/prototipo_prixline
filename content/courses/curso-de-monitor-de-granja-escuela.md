@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR DE GRANJA ESCUELA
 slug: curso-de-monitor-de-granja-escuela
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

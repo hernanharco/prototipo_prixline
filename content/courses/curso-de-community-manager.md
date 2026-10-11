@@ -1,6 +1,7 @@
 ---
 title: CURSO DE COMMUNITY MANAGER
 slug: curso-de-community-manager
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

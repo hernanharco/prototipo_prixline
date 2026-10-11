@@ -1,6 +1,7 @@
 ---
 title: CURSO DE SERIGRAFIA
 slug: curso-de-serigrafia
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE SISTEMAS DE GESTION MEDIOAMBIENTAL. NORMA ISO 14000
 slug: curso-de-sistemas-de-gestion-medioambiental-norma-iso-14000
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

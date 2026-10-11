@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREVENCION DE ANOREXIA Y BULIMIA NERVIOSA
 slug: curso-de-prevencion-de-anorexia-y-bulimia-nerviosa
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

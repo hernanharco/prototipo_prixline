@@ -1,6 +1,7 @@
 ---
 title: CURSO DE TUNING
 slug: curso-de-tuning
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

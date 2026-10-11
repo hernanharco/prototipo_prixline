@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ELECTRONICA DEL AUTOMOVIL
 slug: curso-de-electronica-del-automovil
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE RELACIONES LABORALES
 slug: curso-de-relaciones-laborales
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

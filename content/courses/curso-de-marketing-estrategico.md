@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MARKETING ESTRATEGICO
 slug: curso-de-marketing-estrategico
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

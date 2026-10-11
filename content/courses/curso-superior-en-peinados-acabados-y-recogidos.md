@@ -1,6 +1,7 @@
 ---
 title: "CURSO SUPERIOR EN PEINADOS, ACABADOS Y RECOGIDOS"
 slug: curso-superior-en-peinados-acabados-y-recogidos
+family: belleza
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

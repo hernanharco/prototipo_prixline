@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE TECNICO EN JARDINERIA. DISEÑO CREACION Y MANTENIMIENTO DE JARDINES"
 slug: curso-de-tecnico-en-jardineria-diseno-creacion-y-mantenimiento-de-jardines
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

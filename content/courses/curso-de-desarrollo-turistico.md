@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE DESARROLLO TURÍSTICO"
 slug: curso-de-desarrollo-turistico
+family: hosteleria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

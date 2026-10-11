@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE CÓMO PLANTAR Y CUIDAR UN HUERTO"
 slug: curso-de-como-plantar-y-cuidar-un-huerto
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

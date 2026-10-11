@@ -1,6 +1,7 @@
 ---
 title: CURSO DE AUXILIAR ADMINISTRATIVO Y GESTION ADMINISTRATIVA
 slug: curso-de-auxiliar-administrativo-y-gestion-administrativa
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PLANTAS MEDICINALES
 slug: curso-de-plantas-medicinales
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

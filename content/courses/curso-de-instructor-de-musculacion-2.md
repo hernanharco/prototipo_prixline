@@ -1,6 +1,7 @@
 ---
 title: CURSO DE INSTRUCTOR DE MUSCULACION
 slug: curso-de-instructor-de-musculacion-2
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

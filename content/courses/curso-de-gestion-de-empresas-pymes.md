@@ -1,6 +1,7 @@
 ---
 title: CURSO DE GESTION DE EMPRESAS PYMES
 slug: curso-de-gestion-de-empresas-pymes
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

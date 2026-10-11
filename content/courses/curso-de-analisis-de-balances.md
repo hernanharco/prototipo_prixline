@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ANALISIS DE BALANCES
 slug: curso-de-analisis-de-balances
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

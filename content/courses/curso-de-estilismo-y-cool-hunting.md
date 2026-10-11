@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ESTILISMO Y COOL HUNTING
 slug: curso-de-estilismo-y-cool-hunting
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

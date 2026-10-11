@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE ATENCIÓN A PERSONAS EN DEPENDENCIA"
 slug: curso-de-atencion-a-personas-en-dependencia
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

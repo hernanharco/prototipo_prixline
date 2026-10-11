@@ -1,6 +1,7 @@
 ---
 title: CURSO DE TECNICO EN PLASTICOS
 slug: curso-de-tecnico-en-plasticos
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

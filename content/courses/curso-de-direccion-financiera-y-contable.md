@@ -1,6 +1,7 @@
 ---
 title: CURSO DE DIRECCION FINANCIERA Y CONTABLE
 slug: curso-de-direccion-financiera-y-contable
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

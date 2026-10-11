@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE MONITOR DE MANTENIMIENTO PARA 3ª EDAD"
 slug: curso-de-monitor-de-mantenimiento-para-3-edad
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

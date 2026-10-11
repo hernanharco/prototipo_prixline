@@ -1,6 +1,7 @@
 ---
 title: CURSO DE COORDINADOR DE TIEMPO LIBRE
 slug: curso-de-coordinador-de-tiempo-libre
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

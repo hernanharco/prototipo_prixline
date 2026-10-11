@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PUBLICIDAD, MARKETING Y COMUNICACION"
 slug: curso-de-publicidad-marketing-y-comunicacion
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

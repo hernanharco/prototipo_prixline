@@ -1,6 +1,7 @@
 ---
 title: CURSO DE POSICIONAMIENTO EN BUSCADORES DE INTERNET SEO
 slug: curso-de-posicionamiento-en-buscadores-de-internet-seo
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

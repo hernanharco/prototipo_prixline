@@ -1,6 +1,7 @@
 ---
 title: CURSO DE INSTALADOR DE CALEFACCION
 slug: curso-de-instalador-de-calefaccion
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE EDICION DE VIDEO
 slug: curso-de-edicion-de-video
+family: diseno
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

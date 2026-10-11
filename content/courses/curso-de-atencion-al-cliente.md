@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ATENCION AL CLIENTE
 slug: curso-de-atencion-al-cliente
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

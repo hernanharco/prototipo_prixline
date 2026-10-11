@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CREACION Y PROMOCION DE PAGINAS WEB EN INTERNET
 slug: curso-de-creacion-y-promocion-de-paginas-web-en-internet
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE NUEVAS TECNOLOGÍAS APLICADAS A LA GESTIÓN DE RRHH, LABORAL Y FISCAL"
 slug: curso-de-nuevas-tecnologias-aplicadas-a-la-gestion-de-rrhh-laboral-y-fiscal
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

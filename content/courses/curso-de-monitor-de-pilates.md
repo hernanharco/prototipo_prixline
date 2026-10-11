@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR DE PILATES
 slug: curso-de-monitor-de-pilates
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

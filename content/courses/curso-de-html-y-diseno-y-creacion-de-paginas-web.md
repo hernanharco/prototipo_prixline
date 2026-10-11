@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE HTML Y DISEÑO Y CREACION DE PAGINAS WEB"
 slug: curso-de-html-y-diseno-y-creacion-de-paginas-web
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE APLICACIONES INFORMATICAS PARA EL MEDIO AMBIENTE
 slug: curso-de-aplicaciones-informaticas-para-el-medio-ambiente
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

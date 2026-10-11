@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PIERCING, TATUAJES E HIGIENICO SANTITARIO"
 slug: curso-de-piercing-tatuajes-e-higienico-santitario
+family: belleza
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ESTETICA Y MAQUILLAJE
 slug: curso-de-estetica-y-maquillaje
+family: belleza
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

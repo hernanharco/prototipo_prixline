@@ -1,6 +1,7 @@
 ---
 title: CURSO DE TORNO PARALELO Y NUMERICO
 slug: curso-de-torno-paralelo-y-numerico
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE PREPARACION DE OPSICIONES A AUXILIARES DE TRANSPORTES SANITARIOS (ATS)"
 slug: curso-de-preparacion-de-opsiciones-a-auxiliares-de-transportes-sanitarios-ats
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

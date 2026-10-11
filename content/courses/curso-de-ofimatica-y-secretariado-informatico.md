@@ -1,6 +1,7 @@
 ---
 title: CURSO DE OFIMATICA Y SECRETARIADO INFORMATICO
 slug: curso-de-ofimatica-y-secretariado-informatico
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

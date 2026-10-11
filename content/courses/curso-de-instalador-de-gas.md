@@ -1,6 +1,7 @@
 ---
 title: CURSO DE INSTALADOR DE GAS
 slug: curso-de-instalador-de-gas
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

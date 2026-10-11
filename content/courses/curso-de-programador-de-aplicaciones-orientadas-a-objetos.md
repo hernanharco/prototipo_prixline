@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PROGRAMADOR DE APLICACIONES ORIENTADAS A OBJETOS
 slug: curso-de-programador-de-aplicaciones-orientadas-a-objetos
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

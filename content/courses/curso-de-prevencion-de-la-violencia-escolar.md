@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREVENCION DE LA VIOLENCIA ESCOLAR
 slug: curso-de-prevencion-de-la-violencia-escolar
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

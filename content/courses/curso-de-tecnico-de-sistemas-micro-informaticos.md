@@ -1,6 +1,7 @@
 ---
 title: CURSO DE TECNICO DE SISTEMAS MICRO-INFORMATICOS
 slug: curso-de-tecnico-de-sistemas-micro-informaticos
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

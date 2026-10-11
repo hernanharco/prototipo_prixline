@@ -1,6 +1,7 @@
 ---
 title: CURSO DE AUXILIAR DE FARMACIA
 slug: curso-de-auxiliar-de-farmacia
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

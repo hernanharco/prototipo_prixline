@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREPARACION A LA OPOSICION DE AUXILIAR DE ENFERMERIA
 slug: curso-de-preparacion-a-la-oposicion-de-auxiliar-de-enfermeria
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

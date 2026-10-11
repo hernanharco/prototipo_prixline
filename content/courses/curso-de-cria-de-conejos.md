@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CRIA DE CONEJOS
 slug: curso-de-cria-de-conejos
+family: ambiente
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

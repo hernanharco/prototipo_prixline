@@ -1,6 +1,7 @@
 ---
 title: CURSO DE NUEVAS TECNOLOGIAS APLICADAS A LA EDUCACION
 slug: curso-de-nuevas-tecnologias-aplicadas-a-la-educacion
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

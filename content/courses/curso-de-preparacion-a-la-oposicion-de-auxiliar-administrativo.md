@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREPARACION A LA OPOSICION DE AUXILIAR ADMINISTRATIVO
 slug: curso-de-preparacion-a-la-oposicion-de-auxiliar-administrativo
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

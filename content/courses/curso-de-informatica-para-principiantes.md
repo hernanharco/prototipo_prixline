@@ -1,6 +1,7 @@
 ---
 title: CURSO DE INFORMATICA PARA PRINCIPIANTES
 slug: curso-de-informatica-para-principiantes
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

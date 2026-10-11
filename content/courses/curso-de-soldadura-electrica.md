@@ -1,6 +1,7 @@
 ---
 title: CURSO DE SOLDADURA ELECTRICA
 slug: curso-de-soldadura-electrica
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

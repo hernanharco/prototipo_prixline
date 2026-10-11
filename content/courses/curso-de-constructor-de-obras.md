@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CONSTRUCTOR DE OBRAS
 slug: curso-de-constructor-de-obras
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

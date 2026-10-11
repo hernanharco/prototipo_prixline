@@ -1,6 +1,7 @@
 ---
 title: CURSO DE MONITOR DEPORTIVO
 slug: curso-de-monitor-deportivo
+family: deporte
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

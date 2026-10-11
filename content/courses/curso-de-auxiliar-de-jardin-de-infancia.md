@@ -1,6 +1,7 @@
 ---
 title: CURSO DE AUXILIAR DE JARDIN DE INFANCIA
 slug: curso-de-auxiliar-de-jardin-de-infancia
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

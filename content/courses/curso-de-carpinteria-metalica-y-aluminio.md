@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CARPINTERIA METALICA Y ALUMINIO
 slug: curso-de-carpinteria-metalica-y-aluminio
+family: industria
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

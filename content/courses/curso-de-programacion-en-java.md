@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PROGRAMACION EN JAVA
 slug: curso-de-programacion-en-java
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

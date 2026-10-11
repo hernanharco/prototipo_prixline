@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE ALEMAN (3 NIVELES)"
 slug: curso-de-aleman-3-niveles
+family: idiomas
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

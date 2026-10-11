@@ -1,6 +1,7 @@
 ---
 title: CURSO DE PREPARACION DE OPOSICIONES A POLICIA NACIONAL
 slug: curso-de-preparacion-de-oposiciones-a-policia-nacional
+family: seguridad
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

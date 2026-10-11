@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE MARKETING DIGITAL, REDES SOCIALES Y WEB 2.0"
 slug: curso-de-marketing-digital-redes-sociales-y-web-2-0
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

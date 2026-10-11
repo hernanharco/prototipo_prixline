@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE TÉCNICAS DE REUNIONES"
 slug: curso-de-tecnicas-de-reuniones
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

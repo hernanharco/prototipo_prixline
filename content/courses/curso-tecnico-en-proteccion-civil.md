@@ -1,6 +1,7 @@
 ---
 title: "CURSO TECNICO EN PROTECCIÓN CIVIL"
 slug: curso-tecnico-en-proteccion-civil
+family: seguridad
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

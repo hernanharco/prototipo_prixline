@@ -1,6 +1,7 @@
 ---
 title: CURSO DE ADMINISTRADOR DE SISTEMAS OPERATIVOS DE REDES LOCALES
 slug: curso-de-administrador-de-sistemas-operativos-de-redes-locales
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

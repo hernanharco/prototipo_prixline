@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE SEGURIDAD INFORMATICA (MCSA)"
 slug: curso-de-seguridad-informatica-mcsa
+family: informatica
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: CURSO SOBRE VIOLENCIA DE GENERO
 slug: curso-sobre-violencia-de-genero
+family: educacion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

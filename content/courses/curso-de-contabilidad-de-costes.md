@@ -1,6 +1,7 @@
 ---
 title: CURSO DE CONTABILIDAD DE COSTES
 slug: curso-de-contabilidad-de-costes
+family: gestion
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

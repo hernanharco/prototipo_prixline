@@ -1,6 +1,7 @@
 ---
 title: CURSO DE REFLEXOLOGIA PODAL
 slug: curso-de-reflexologia-podal
+family: salud
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: "CURSO DE ESPAÑOL PARA EXTRANJEROS"
 slug: curso-de-espanol-para-extranjeros
+family: idiomas
 sourceUrl: https://prixline.blog/cursos/
 extractedAt: 2026-10-03T06:06:31.424Z
 ---
