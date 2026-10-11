@@ -10,18 +10,30 @@
 //     si el cuerpo no sigue ese patrón → no se inventan categorías).
 //   - `itemCount`: nº de líneas de sección (Tema/Módulo/Unidad) +
 //     viñetas del cuerpo; 0 = sin meta de temario.
+//   - `family`: id de la taxonomía (scripts/family-map.ts) expuesto como
+//     `data-family` en el <li> para el filtro por familia del catálogo.
+//     No añade meta visible a la tarjeta: título/chips/count intactos.
+import type { Family } from '../../../scripts/family-map.ts';
+
 interface Props {
   title: string;
   slug: string;
   chips: string[];
   itemCount: number;
   searchText: string;
+  family: Family;
+  familyLabel?: string;
 }
 
-const { title, slug, chips, itemCount, searchText } = Astro.props;
+const { title, slug, chips, itemCount, searchText, family, familyLabel } = Astro.props;
 ---
 
-<li class="catalog-item" data-course={searchText.toLowerCase()}>
+<li
+  class="catalog-item"
+  data-course={searchText.toLowerCase()}
+  data-family={family}
+  data-family-label={familyLabel}
+>
   <a class="course-card" href={`/cursos/${slug}/`}>
     <h3 class="course-card__title">{title}</h3>
     {

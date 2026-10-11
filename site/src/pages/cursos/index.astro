@@ -8,6 +8,7 @@
 // Sin marcos de test de markup en `site/`: la verificación de este módulo
 // es el build + `astro check` + greps estructurales sobre `dist/`.
 import { getCollection } from 'astro:content';
+import { FAMILY_LABELS, FAMILIES } from '../../../../scripts/family-map.ts';
 import { decodeEntities } from '../../lib/format';
 import CourseCard from '../../components/CourseCard.astro';
 import '../../styles/global.css';
@@ -89,8 +90,22 @@ const sorted = courses
       chips,
       itemCount,
       searchText,
+      family: course.data.family,
+      familyLabel: FAMILY_LABELS[course.data.family],
     };
   });
+
+// Chips de familia (S1): recuento real desde el frontmatter, en el orden
+// cerrado de la taxonomía y solo familias con al menos un curso.
+const familyTotals = new Map<string, number>();
+for (const course of courses) {
+  familyTotals.set(course.data.family, (familyTotals.get(course.data.family) ?? 0) + 1);
+}
+const familyChips = FAMILIES.filter((id) => (familyTotals.get(id) ?? 0) > 0).map((id) => ({
+  id,
+  label: FAMILY_LABELS[id],
+  count: familyTotals.get(id) ?? 0,
+}));
 ---
 
 <!doctype html>
@@ -140,6 +155,37 @@ const sorted = courses
             autocomplete="off"
             data-catalog-filter
           />
+
+          {/* Filtro por familia (S1): chips dentro del bloque de mejora
+              progresiva, de modo que sin JS la fila queda oculta y la
+              lista completa sigue navegable. */}
+          <div
+            class="catalog-filter__families"
+            role="group"
+            aria-label="Filtrar por familia"
+          >
+            <button
+              type="button"
+              class="chip family-chip"
+              data-family-chip="todas"
+              aria-pressed="true"
+            >
+              Todas ({sorted.length})
+            </button>
+            {
+              familyChips.map((fam) => (
+                <button
+                  type="button"
+                  class="chip family-chip"
+                  data-family-chip={fam.id}
+                  data-family-label={fam.label}
+                  aria-pressed="false"
+                >
+                  {fam.label} ({fam.count})
+                </button>
+              ))
+            }
+          </div>
         </div>
 
         <p class="catalog-filter__status" data-filter-status role="status" aria-live="polite">
@@ -159,6 +205,8 @@ const sorted = courses
                 chips={course.chips}
                 itemCount={course.itemCount}
                 searchText={course.searchText}
+                family={course.family}
+                familyLabel={course.familyLabel}
               />
             ))
           }
@@ -173,15 +221,29 @@ const sorted = courses
       );
       const status = document.querySelector<HTMLElement>('[data-filter-status]');
       const empty = document.querySelector<HTMLElement>('[data-filter-empty]');
+      const familyChips = Array.from(
+        document.querySelectorAll<HTMLButtonElement>('[data-family-chip]'),
+      );
       const EMPTY_TEXT = 'Ningún curso coincide con la búsqueda.';
 
       if (input && items.length > 0) {
-        input.addEventListener('input', () => {
-          const query = input.value.trim().toLowerCase();
+        let selectedFamily = 'todas';
+
+        // Filtro combinado (S1): texto Y familia ("Todas" = cualquier familia).
+        const applyFilters = () => {
+          const raw = input.value.trim();
+          const query = raw.toLowerCase();
+          const activeChip = familyChips.find(
+            (chip) => chip.dataset.familyChip === selectedFamily,
+          );
+          const familyLabel = activeChip?.dataset.familyLabel ?? '';
           let visible = 0;
 
           for (const item of items) {
-            const match = !query || (item.dataset.course ?? '').includes(query);
+            const matchText = !query || (item.dataset.course ?? '').includes(query);
+            const matchFamily =
+              selectedFamily === 'todas' || item.dataset.family === selectedFamily;
+            const match = matchText && matchFamily;
             item.hidden = !match;
             if (match) visible += 1;
           }
@@ -191,10 +253,26 @@ const sorted = courses
           if (empty) {
             empty.hidden = visible !== 0;
             empty.textContent = query
-              ? `Ningún curso coincide con «${input.value.trim()}».`
-              : EMPTY_TEXT;
+              ? familyLabel
+                ? `Ningún curso de «${familyLabel}» coincide con «${raw}».`
+                : `Ningún curso coincide con «${raw}».`
+              : familyLabel
+                ? `Ningún curso de «${familyLabel}» coincide con la búsqueda.`
+                : EMPTY_TEXT;
           }
-        });
+        };
+
+        input.addEventListener('input', applyFilters);
+
+        for (const chip of familyChips) {
+          chip.addEventListener('click', () => {
+            selectedFamily = chip.dataset.familyChip ?? 'todas';
+            for (const other of familyChips) {
+              other.setAttribute('aria-pressed', String(other === chip));
+            }
+            applyFilters();
+          });
+        }
       }
     </script>
 
@@ -245,6 +323,32 @@ const sorted = courses
         background: var(--color-surface);
         color: var(--color-text);
         font: inherit;
+      }
+
+      /* Chips de familia: fila que envuelve en cualquier ancho. */
+      .catalog-filter__families {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-2);
+        margin-top: var(--space-3);
+      }
+
+      .family-chip {
+        cursor: pointer;
+        font-family: inherit;
+      }
+
+      .family-chip:hover {
+        border-color: var(--color-navy);
+        color: var(--color-navy);
+      }
+
+      /* Chip seleccionado: acento dorado de la paleta Confianza. */
+      .family-chip[aria-pressed='true'] {
+        background: var(--color-gold);
+        border-color: var(--color-gold);
+        color: var(--color-navy);
+        font-weight: 600;
       }
 
       .catalog-filter__status {
