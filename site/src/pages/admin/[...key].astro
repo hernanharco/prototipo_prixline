@@ -1,12 +1,14 @@
 ---
-// T26: entrada /admin → la UI nativa de Keystatic. La integración
-// @keystatic/astro inyecta la UI en /keystatic y su API en /api/keystatic
-// (patrones fijos de @keystatic/astro@6). Meta-refresh estático: funciona
-// sin adapter SSR (output static por defecto). Solo se prerenderiza la raíz
-// /admin; los enlaces profundos se resuelven en dev.
-export function getStaticPaths() {
-  return [{ params: { key: undefined } }];
-}
+// site/src/pages/admin/[...key].astro — T26 + fix post-despliegue (SSR)
+//
+// Entrada /admin → la UI nativa de Keystatic (inyectada en /keystatic por
+// @keystatic/astro@6). Ruta SSR (prerender: false): el middleware de T3
+// decide EN CADA PETICIÓN — sin JWT válido → 302 real de servidor a
+// /admin/login (antes se prerenderizaba en build y el visitante veía la
+// página estática de redirect de Astro, "Redirecting from /admin/ …");
+// con JWT válido → esta página reenvía a /keystatic${key}. Los enlaces
+// profundos /admin/<x> se resuelven a /keystatic/<x> también en prod.
+export const prerender = false;
 
 const key = Astro.params.key ?? '';
 const target = `/keystatic${key ? `/${key}` : ''}`;
