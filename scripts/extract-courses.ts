@@ -20,6 +20,9 @@ import { pathToFileURL } from "node:url";
 // + reescritura de refs). El corpus de cursos no contiene hoy medios de
 // origen (0), pero el mismo pipeline protege futuros re-runs.
 import { formatMediaReport, localizeMediaDocs, mediaRoot, realMediaStore } from "./media-io.ts";
+// Fase 8 (S4): el productor emite `family` desde la tabla cerrada; los
+// slugs fuera de la tabla se omiten y los cubre apply-families.ts.
+import { familyForSlug } from "./course-families.ts";
 
 export interface Course {
   title: string;
@@ -209,12 +212,16 @@ function yamlScalar(value: string): string {
   return plainSafe ? value : JSON.stringify(value);
 }
 
-/** Pure: frontmatter (title, slug, sourceUrl, extractedAt) + heading + body. */
+/** Pure: frontmatter (title, slug, family?, sourceUrl, extractedAt) + heading + body.
+ *  `family` se emite SOLO si el slug está en la tabla cerrada (S4): un curso
+ *  nuevo sin asignar no inventa familia; apply-families.ts la cubre después. */
 export function renderMarkdown(course: Course, sourceUrl: string, extractedAt: string): string {
+  const family = familyForSlug(course.slug);
   const lines = [
     "---",
     `title: ${yamlScalar(course.title)}`,
     `slug: ${course.slug}`,
+    ...(family ? [`family: ${family}`] : []),
     `sourceUrl: ${yamlScalar(sourceUrl)}`,
     `extractedAt: ${extractedAt}`,
     "---",

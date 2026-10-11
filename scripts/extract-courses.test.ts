@@ -85,6 +85,8 @@ test("renderMarkdown round-trips every frontmatter field and the body", async ()
   const { fields, body } = parseFrontmatter(md);
   assert.equal(fields.title, course.title);
   assert.equal(fields.slug, course.slug);
+  // S4 (fase 8): el productor emite family cuando la tabla la conoce.
+  assert.equal(fields.family, "gestion");
   assert.equal(fields.sourceUrl, SOURCE_URL);
   assert.equal(fields.extractedAt, EXTRACTED_AT);
   assert.ok(body.length > 0, "rendered markdown body must not be empty");
@@ -92,6 +94,15 @@ test("renderMarkdown round-trips every frontmatter field and the body", async ()
   // body itself must follow verbatim.
   const tail = body.replace(/^# .*\n+/, "");
   assert.ok(tail.startsWith(course.body.trim().slice(0, 40)), "body must be preserved verbatim");
+});
+
+test("renderMarkdown omits family for slugs outside the closed table (S4)", () => {
+  // Un curso nuevo del origen que todavía no está en course-families.ts
+  // no inventa familia: se omite la línea y apply-families.ts la cubre.
+  const unknown = { title: "CURSO NUEVO", slug: "curso-nuevo", body: "Tema 1: x" };
+  const md = renderMarkdown(unknown, SOURCE_URL, EXTRACTED_AT);
+  const { fields } = parseFrontmatter(md);
+  assert.equal("family" in fields, false);
 });
 
 test("slugify is stable, ascii-safe and unique-ifies collisions with -2, -3", () => {
