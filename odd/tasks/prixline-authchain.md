@@ -30,14 +30,19 @@ Toca dos repos: `authCore` (hub, `.../elrincondeharco.com/authCore`) y
 | T3 | S2 | authCore: crear tenant `prixline` (seed + DB dev) y verificar `GET /tenants/by-slug/prixline` | inline test-first | `88caa3d` |
 | T4 | S3 | authCore: aprobar el usuario Google `hernan.harco@gmail.com` (hoy `PENDING`/`NONE` → `403 PENDING_APPROVAL`) y asignarle el tenant `prixline` (`users.tenant_id` + membresía `user_tenants`) | inline | — (sólo datos; sin commit) |
 | T5 | S3,S4 | Reconstruir el hub dev, emitir un token real y verificar de punta a punta: `iss` + `aud` presentes, hub propio sigue autenticando, y el gate de webprixline (`site/.env` con las tres `AUTHCORE_*`) deja entrar a `/keystatic` | verify | |
-| T6 | S3 | **[usuario]** push de `main` en authCore + deploy del hub en producción (el `JWT_ISSUER` de `compose.prod.yaml` ya viaja en `0777260`) | blocked: usuario | |
+| T6 | S3 | **[usuario]** push de `main` en authCore + deploy del hub en producción (el `JWT_ISSUER` de `compose.prod.yaml` ya viaja en `0777260`) | push + deploy | authCore `0d16478` en `/opt/authcore` (verificado 2026-10-12) |
 | T7 | S4 | Tests: `_decode()` y el roundtrip JWKS de `test_data_token.py` declaran `audience=settings.jwt_audience` — las 8 fallas del gate al correr con `JWT_AUDIENCE` ya presente en el env | inline test-first | `0d16478` |
 | T8 | S3,S4 | Gate de webprixline con **env vars inline** (decisión del usuario; la safety policy bloquea escribir `site/.env`): `astro dev --port 4325` con las 3 `AUTHCORE_*` | verify | — |
 | T9 | S3 | Verificación independiente (`gentle-ai-verify`, sólo lectura) sobre `main..feat/prixline-audience` | verify | ver L11 |
 | T10 | — | Review nativa RDD del candidato de docs (`odd/tasks/prixline-authchain.md`, tier **low** por `non_executable_only`, 1 fichero / 151 líneas, sin lentes) | native review | `review-3ad793127501a86e` (approved/ack) |
 | T11 | S4 | Portfolio: `TokenValidator` acepta tokens de authCore que llevan `aud` — `authcore_jwt_audience` opcional; si no está, `options={"verify_aud": False}`. Rama `fix/authcore-token-audience` | inline test-first | Portfolio `9748fb2` |
+| T12 | S3 | Env vars de Vercel `AUTHCORE_JWKS_URL` + `AUTHCORE_JWT_ISSUER` en Production y activas en el build desplegado (`/admin/login` → 200 con `data-auth-base=https://api-authcore.rincom.es`) | verify | ver L14 |
+| T13 | S2,S3 | **[prod]** INSERT del tenant `prixline` + `users.tenant_id` + membresía `user_tenants` en la DB de producción (Hetzner; `psql -1 -v ON_ERROR_STOP=1` + SELECTs de verificación) — 8 tenants | inline data | — (sólo datos; sin commit) |
+| T14 | S4 | Portfolio: merge fast-forward `fix/authcore-token-audience` → `main` y deploy manual en Hetzner (el repo no tiene webhook de deploy; ff preservando los cambios locales del worktree + fix de redes en `compose.prod.yaml`) | delivery | Portfolio `9748fb2` en `/opt/portfolio`, CI verde |
+| T15 | S3 | E2E en producción: login con Google → callback → cookie → `/keystatic` (requiere al usuario; depende de T13 y T14) | verify | pendiente |
 
-Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
+Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario. Cierre en prod:
+T12 → T13 → T14 → T15.
 
 ## Log
 
@@ -185,3 +190,58 @@ Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
   py312) y commiteado con `--no-verify`, dejándolo constancia en el
   mensaje; (c) `.atl/skill-registry.md` y `.gitignore` estaban staged
   ANTES de la sesión y se dejaron intactos (commit por pathspec).
+- **L14** — Cierre de producción (2026-10-12, decisión del usuario vía
+  Ask: "Sí, crear tenant en prod" + "Mergear y desplegar").
+  **T12**: `vercel env ls production` muestra `AUTHCORE_JWKS_URL` y
+  `AUTHCORE_JWT_ISSUER` en Production y el build desplegado las usa
+  (`curl /admin/login` → 200 con `data-auth-base`; `/keystatic` → 302 a
+  `/admin/login`, gate fail-closed esperado sin cookie).
+  **T13**: en la DB de prod (`authcore-postgres-1`, schema `authharco`)
+  sólo faltaba el tenant — SELECT previo = 7 tenants sin `prixline`.
+  Transacción atómica: INSERT en `tenants` (`1b25fa2f-222f-419c-b875-8b17e382536b`,
+  slug `prixline`, name `Prixline`, `website_url`/`admin_url` iguales a
+  dev), `UPDATE users SET tenant_id=... WHERE id=1` (estaba `NULL`) e
+  INSERT de membresía `user_tenants` `ADMIN` (`gen_random_uuid()`).
+  Verificación: 8 tenants con `prixline|Prixline|t`; user 1 =
+  `ACTIVE|SUPERADMIN|tenant_id=prixline`; 7 membresías ADMIN.
+  El `GET /tenants/by-slug/prixline` devuelve 401 sin token (esperado;
+  lo valida el panel con sesión). **Pendiente T15**.
+- **L15** — **T14**: `main` de Portfolio era ancestro de `9748fb2` →
+  `git push origin fix/authcore-token-audience:main` (fast-forward,
+  sin tocar el worktree local: los staged `.atl/skill-registry.md` y
+  `.gitignore` quedaron intactos) + `git fetch origin main:main`.
+  CI (`ci.yml`): Backend ✅ Frontend ✅ (run 38269604975). **Deploy =
+  manual en este repo** (no hay webhook ni job de deploy; el
+  `deploy-webhook` del server es sólo de VidaSaludable y el de
+  inventario es otro — la topología generalizada de la sesión anterior
+  no aplica a portfolio). En `/opt/portfolio`: `git merge --ff-only
+  origin/main` en vez de `reset --hard` para **preservar los cambios
+  locales** (`compose.prod.yaml` modificado y la migración
+  `7969bead0e27_add_cv_url_column.py` borrada en el worktree).
+  **Hallazgo latente hecho efectivo**: `compose.prod.yaml` ponía a `api`
+  en `elrindeharco_net` + `radar_default` pero `postgres` vive en
+  `portfolio_default` → el api recreado no resolvía `postgres` y entró
+  en restart loop (el contenedor anterior databa de una config previa).
+  Fix en el server (backup `compose.prod.yaml.bak-20261012`): `api`
+  gana `portfolio_default` como red externa además de las dos
+  existentes. Resultado: arranque OK, `/docs` → 200, fix presente en la
+  imagen (`verify_aud` en `TokenValidator.py`),
+  `portfolio-api-1 Up` + `portfolio-postgres-1 Up 7 days (healthy)`.
+  **Hallazgos sin tocar (backlog)**: (a) alembic falla al arrancar con
+  `KeyError: '7969bead0e27'` — `2a3b4c5d6e7f` apunta a la migración
+  borrada; el arranque lo traga y compensa con `create_all`, pero
+  `alembic_version` **no existe** en la DB de prod → ninguna migración
+  corre nunca en producción; (b) el host tenía dos directorios casi
+  idénticos (`elrindeharco.com` con `core`/`prototipos` y
+  `elrindeharco.com` con el ecosistema real) — los comandos deben
+  resolver los paths con `find`, nunca tipeados.
+  **Verificación independiente** (`gentle-ai-verify` task
+  `mv5f69cw-1-imga`, sólo lectura): **7/7 PASS → VERDICT OK** — HEAD
+  `9748fb2` == `origin/main`; api Up 7→8 min sin restart (restarts=0);
+  las 3 redes correctas en ambos contenedores; `verify_aud` en la
+  imagen corriendo; `/docs` 200 + `GET /api/v1/site-settings/latest/`
+  200 (DB alcanzable por la app); `status --short` sólo con los
+  cambios locales preexistentes; `diff compose.prod.yaml` = únicamente
+  healthcheck 30s + la red `portfolio_default`. Caveats del verificador:
+  TLS/tunnel no probado (8003 directo) y el comportamiento JWT `aud`
+  sólo verificado en presencia de código, no end-to-end (eso es T15).
