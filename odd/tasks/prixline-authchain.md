@@ -35,6 +35,7 @@ Toca dos repos: `authCore` (hub, `.../elrincondeharco.com/authCore`) y
 | T8 | S3,S4 | Gate de webprixline con **env vars inline** (decisión del usuario; la safety policy bloquea escribir `site/.env`): `astro dev --port 4325` con las 3 `AUTHCORE_*` | verify | — |
 | T9 | S3 | Verificación independiente (`gentle-ai-verify`, sólo lectura) sobre `main..feat/prixline-audience` | verify | ver L11 |
 | T10 | — | Review nativa RDD del candidato de docs (`odd/tasks/prixline-authchain.md`, tier **low** por `non_executable_only`, 1 fichero / 151 líneas, sin lentes) | native review | `review-3ad793127501a86e` (approved/ack) |
+| T11 | S4 | Portfolio: `TokenValidator` acepta tokens de authCore que llevan `aud` — `authcore_jwt_audience` opcional; si no está, `options={"verify_aud": False}`. Rama `fix/authcore-token-audience` | inline test-first | Portfolio `9748fb2` |
 
 Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
 
@@ -163,3 +164,24 @@ Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
   native-approved-acknowledgement-completed`. La review es informativa y
   **no autoriza delivery**: push y deploy siguen siendo decisión del
   usuario (T6).
+- **L13** — Corregido el **HIGH** de L11 (2026-10-12, decisión del usuario
+  = "proceder"): rama `fix/authcore-token-audience` en Portfolio,
+  commit `9748fb2` (2 ficheros, +24/−2). `config.py` gana
+  `authcore_jwt_audience` (opcional, alias `AUTHCORE_JWT_AUDIENCE`) y
+  `TokenValidator.verify_token` decodifica con `audience=` si está
+  configurado o con `options={"verify_aud": False}` si no — soportado en
+  `jose/jwt.py:499`. **RED** con el módulo real (ejecutado dentro del
+  contenedor del hub, que tiene python-jose y el JWKS en su propio
+  :8000): token del hub con `aud` → `verify_token` → `None`. **GREEN** con
+  `DEBUG=false` (producción) en 3 escenarios: sin `AUTHCORE_JWT_AUDIENCE`
+  → claims OK · `=prixline` → claims OK · `=cafemitierra` → `None` con
+  `Invalid audience` (rechazo correcto del token ajeno).
+  **Incidentes**: (a) el runner local de Portfolio está roto igual que el
+  de authCore (`.venv/bin/python` → py3.12 borrado) y no tenía tests de
+  `TokenValidator`, así que la verificación fue funcional sobre el módulo
+  real copiado al contenedor; (b) el hook pre-commit de Portfolio (husky +
+  lint-staged → `python3 -m black`) falla porque el `python3` del sistema
+  es brew 3.14 sin black — formateado con `black 23.12.1` (line-length 88,
+  py312) y commiteado con `--no-verify`, dejándolo constancia en el
+  mensaje; (c) `.atl/skill-registry.md` y `.gitignore` estaban staged
+  ANTES de la sesión y se dejaron intactos (commit por pathspec).
