@@ -3,6 +3,7 @@
 // sugerencias → página interna /contacto/ (T15), y — desde T23 (exit
 // links) — «Opiniones» y «Sitio original» como TEXTO SIN ENLACE para que
 // ningún clic del footer salga del sitio.
+import navSettings from '../../../content/settings/nav.json';
 import siteSettings from '../../../content/settings/site.json';
 import socialSettings from '../../../content/settings/social.json';
 
@@ -22,7 +23,7 @@ const year = new Date().getFullYear();
 <footer class="site-footer">
   <div class="container site-footer__grid">
     <div>
-      <p class="site-footer__wordmark">Prixline</p>
+      <p class="site-footer__wordmark">{navSettings.wordmark}</p>
       <p class="site-footer__tagline">{siteSettings.tagline}</p>
     </div>
 
@@ -31,7 +32,7 @@ const year = new Date().getFullYear();
         {/* T14: “Blog” apunta al índice interno /articulos/, no al blog de
             origen. */}
         <li>
-          <a href="/articulos/">Blog</a>
+          <a href={navSettings.footer.blog.href}>{navSettings.footer.blog.label}</a>
         </li>
         {
           supportLinks.map((link) => (
@@ -40,14 +41,14 @@ const year = new Date().getFullYear();
             </li>
           ))
         }
-        <li>Sitio original de Prixline</li>
+        <li>{navSettings.footer.originalText}</li>
       </ul>
     </nav>
   </div>
 
   <div class="container">
     <p class="site-footer__legal">
-      © {year} Prixline. Todos los derechos reservados.
+      © {year} {navSettings.wordmark} {navSettings.footer.copyright}
     </p>
   </div>
 </footer>

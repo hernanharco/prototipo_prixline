@@ -3,18 +3,11 @@
 // página interna de contacto. Móvil: botón con aria-expanded + script mínimo
 // (sin dependencias). Sin JS la navegación permanece visible (clase `js`
 // añadida al <html> solo cuando el script de conmutación está disponible).
-// T15: el CTA apunta a /contacto/ (página interna), no a prixline.blog.
-const CONTACT_URL = '/contacto/';
+import navSettings from '../../../content/settings/nav.json';
 
 // Anclas ancladas a la home (`/#seccion`): los fragmentos a secas
-// (`#comunidad`) solo resuelven en `/`, así que en `/cursos/` y en las
-// 302 fichas de curso serían enlaces muertos.
-const navItems = [
-  { href: '/#migracion', label: 'Migración' },
-  { href: '/#cursos', label: 'Cursos' },
-  { href: '/#comunidad', label: 'Comunidad' },
-  { href: '/#practicas', label: 'Prácticas' },
-];
+// (`#comunidad`) solo resuelven en `/`, así que fuera de la home serían
+// enlaces muertos. Nav, wordmark, menú y CTA vienen del singleton `nav`.
 ---
 
 <header class="site-header">
@@ -22,7 +15,7 @@ const navItems = [
     document.documentElement.classList.add('js');
   </script>
   <div class="container site-header__inner">
-    <a class="wordmark" href="/">Prixline</a>
+    <a class="wordmark" href="/">{navSettings.wordmark}</a>
 
     <button
       class="nav-toggle"
@@ -31,22 +24,22 @@ const navItems = [
       aria-expanded="false"
       aria-controls="site-nav"
     >
-      <span class="nav-toggle__label">Menú</span>
+      <span class="nav-toggle__label">{navSettings.menuLabel}</span>
       <span class="nav-toggle__icon" aria-hidden="true"></span>
     </button>
 
     <nav class="site-nav" id="site-nav" data-nav aria-label="Principal">
       <ul>
         {
-          navItems.map((item) => (
+          navSettings.items.map((item) => (
             <li>
               <a href={item.href}>{item.label}</a>
             </li>
           ))
         }
         <li>
-          <a class="btn btn--accent site-nav__cta" href={CONTACT_URL}>
-            Contacto
+          <a class="btn btn--accent site-nav__cta" href={navSettings.cta.href}>
+            {navSettings.cta.label}
           </a>
         </li>
       </ul>
