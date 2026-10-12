@@ -106,3 +106,25 @@ fases previas), textos de estado vacío.
   párrafos que en el template estaban partidos a varias líneas salen
   ahora en una línea del JSON — render idéntico tras el colapso de
   whitespace de HTML. Review nativa RDD: ver L5.
+- **L5** — Review nativa RDD (2026-10-12): linaje
+  `review-8280312ed90efac2`, target `sha256:9f5f6623…` (rango commiteado
+  `main..feat/prx-cms-coverage`, 25 ficheros / 1.210 líneas), tier
+  **medium** (`configuration_change` en `content/settings/home.json`),
+  4 lentes (risk/resilience/readability/reliability) ejecutadas como
+  grupo materialize vía pi host relay (forecast 4 runs, autorizados).
+  **OUTCOME: approved + acknowledged → `authority: burned`**
+  (`native-approved-acknowledgement-completed`). Un incidente de
+  proceso: el primer intento de START quedó sin `baseRef` (candidato
+  vacío = todo commiteado → el rango es `baseRef=5d03ad91 +
+  committed-only`) y el consentimiento caducó a los 10 min → re-START
+  con consentimiento fresco.
+  **10 hallazgos advisories (informativos, ninguno bloquea ni reabre,
+  backlog aparte)**: readability R2 — campos de contacto listados 4
+  veces (`contacto/index.astro:34-58`), cadena de dispatch por id de
+  sección (`index.astro:82-97`), rationale obsoleto del suite de
+  paridad (`cms-coverage.test.ts:5-7`), dos switches de presencia de
+  sección (`keystatic.config.ts:161-175`), línea de run fantasma del
+  seeder (`cms-coverage.ts:14`), aserción de nav suelta en el test del
+  hero (`cms-coverage.test.ts:45`); resilience R4 — `index.astro:70,57`
+  (orden/sectionOrder) y `cms-coverage.ts:185` (CLI); reliability R3 —
+  `index.astro:73`.
