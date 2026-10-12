@@ -1,0 +1,34 @@
+{
+  "wordmark": "Prixline",
+  "menuLabel": "Menú",
+  "items": [
+    {
+      "href": "/#migracion",
+      "label": "Migración"
+    },
+    {
+      "href": "/#cursos",
+      "label": "Cursos"
+    },
+    {
+      "href": "/#comunidad",
+      "label": "Comunidad"
+    },
+    {
+      "href": "/#practicas",
+      "label": "Prácticas"
+    }
+  ],
+  "cta": {
+    "href": "/contacto/",
+    "label": "Contacto"
+  },
+  "footer": {
+    "blog": {
+      "href": "/articulos/",
+      "label": "Blog"
+    },
+    "originalText": "Sitio original de Prixline",
+    "copyright": "Todos los derechos reservados."
+  }
+}

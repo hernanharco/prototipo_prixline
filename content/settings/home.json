@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "eyebrow": "Prixline — orientación y formación",
+    "heading": "Migra con responsabilidad y prepárate para estudiar y trabajar en España",
+    "subcopy": "Cursos de calidad, apoyo en las prácticas y canales abiertos para que des el paso con información real y sin sorpresas.",
+    "primaryCta": {
+      "href": "#migracion",
+      "label": "Quiero migrar con responsabilidad"
+    },
+    "secondaryCta": {
+      "href": "#cursos",
+      "label": "Ver los cursos"
+    }
+  },
+  "sectionOrder": [
+    "trust",
+    "latest",
+    "courses",
+    "youtube",
+    "practices",
+    "community"
+  ],
+  "sections": {
+    "trust": {
+      "enabled": true,
+      "heading": "Prixline en datos reales",
+      "contentSince": {
+        "label": "Contenido desde",
+        "detail": "El archivo de artículos de Prixline llega hasta este año."
+      },
+      "articles": {
+        "label": "Artículos publicados",
+        "detail": "Contenido real importado del blog de origen, sin recuentos inventados."
+      },
+      "channels": {
+        "label": "Canales abiertos",
+        "detail": "Redes, podcasts y plataformas donde Prixline está presente."
+      }
+    },
+    "latest": {
+      "enabled": true,
+      "eyebrow": "Migración",
+      "heading": "Últimos artículos",
+      "intro": "Información práctica sobre migrar, formarse y encontrar trabajo, tal y como se publicó en el blog de Prixline.",
+      "ctaLabel": "Ver todos los artículos"
+    },
+    "courses": {
+      "enabled": true,
+      "eyebrow": "Cursos",
+      "heading": "Empieza por aquí",
+      "intro": "Una selección del catálogo de cursos de Prixline. La lista completa está disponible en la página de cursos.",
+      "ctaLabel": "Ver el catálogo completo"
+    },
+    "youtube": {
+      "enabled": true,
+      "eyebrow": "Canal de YouTube",
+      "heading": "Videoclases y charlas de Prixline",
+      "handlePrefix": "Encuéntranos como",
+      "ctaLabel": "Ver canal completo"
+    },
+    "practices": {
+      "enabled": true,
+      "eyebrow": "Prácticas",
+      "heading": "Prácticas y trabajo",
+      "ctaLabel": "Más información sobre prácticas"
+    },
+    "community": {
+      "enabled": true,
+      "eyebrow": "Comunidad",
+      "heading": "Sigue a Prixline",
+      "intro": "{count} canales abiertos donde publicamos contenido, avisos y recursos para la comunidad."
+    }
+  }
+}

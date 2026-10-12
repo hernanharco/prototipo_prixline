@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "home": {
+      "title": "Prixline — Cursos, prácticas y trabajo en España",
+      "description": "Migra con responsabilidad con Prixline: cursos, prácticas y orientación para estudiar y trabajar en España."
+    },
+    "cursos": {
+      "title": "Cursos — Prixline",
+      "description": "Catálogo completo de cursos de Prixline: {count} cursos ordenados alfabéticamente."
+    },
+    "articulos": {
+      "title": "Artículos — Prixline",
+      "description": "Los {total} artículos de Prixline sobre migración, formación y trabajo en España, agrupados por año."
+    },
+    "contacto": {
+      "title": "Contacto — Prixline",
+      "description": "Habla con Prixline por chat y descubre nuestros {channels} canales de comunidad: cursos, prácticas y trabajo en España."
+    }
+  }
+}
