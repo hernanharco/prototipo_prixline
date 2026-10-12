@@ -31,6 +31,9 @@ Toca dos repos: `authCore` (hub, `.../elrincondeharco.com/authCore`) y
 | T4 | S3 | authCore: aprobar el usuario Google `hernan.harco@gmail.com` (hoy `PENDING`/`NONE` → `403 PENDING_APPROVAL`) y asignarle el tenant `prixline` (`users.tenant_id` + membresía `user_tenants`) | inline | — (sólo datos; sin commit) |
 | T5 | S3,S4 | Reconstruir el hub dev, emitir un token real y verificar de punta a punta: `iss` + `aud` presentes, hub propio sigue autenticando, y el gate de webprixline (`site/.env` con las tres `AUTHCORE_*`) deja entrar a `/keystatic` | verify | |
 | T6 | S3 | **[usuario]** push de `main` en authCore + deploy del hub en producción (el `JWT_ISSUER` de `compose.prod.yaml` ya viaja en `0777260`) | blocked: usuario | |
+| T7 | S4 | Tests: `_decode()` y el roundtrip JWKS de `test_data_token.py` declaran `audience=settings.jwt_audience` — las 8 fallas del gate al correr con `JWT_AUDIENCE` ya presente en el env | inline test-first | `0d16478` |
+| T8 | S3,S4 | Gate de webprixline con **env vars inline** (decisión del usuario; la safety policy bloquea escribir `site/.env`): `astro dev --port 4325` con las 3 `AUTHCORE_*` | verify | — |
+| T9 | S3 | Verificación independiente (`gentle-ai-verify`, sólo lectura) sobre `main..feat/prixline-audience` | verify | ver L11 |
 
 Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
 
@@ -118,3 +121,31 @@ Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
   `tenant={…, slug: prixline}`. `aud=null` **esperado** hasta recrear el
   contenedor (arrancó antes del edit del compose) y `modules=null` porque
   prixline no tiene módulos asignados — correcto, no es radar/inventory.
+- **L11** — T5/T7/T8/T9 cerrados. Recreate del hub dev → env con
+  `JWT_ISSUER=http://localhost:8000` y `JWT_AUDIENCE=prixline`; token real
+  con `iss` + `aud` y `GET /api/v1/tenants/` → **200** (T2 validado bajo
+  `aud` presente), JWKS → `authcore-key-1`. **Primer gate FALLÓ: 8 failed /
+  264 passed** — las 8 en `test_data_token.py` con `JWTClaimsError: Invalid
+  audience`, porque los helpers de test decodifican sin `audience` y hasta
+  ahora la suite nunca había corrido con `JWT_AUDIENCE` en el env. Fix
+  `0d16478` → **suite completa 272 passed, coverage 86.92% (gate ≥80),
+  EXIT=0**. Gate de webprixline (6 chequeos): `/` 200 · `/keystatic` sin
+  cookie **302 `/admin/login`** · `/admin` sin cookie **302** ·
+  `/api/keystatic/tree` sin cookie **401** · con cookie válida **200**
+  (4226 bytes) · API con cookie **400** (ya no 401: pasó el gate; el 400 es
+  de Keystatic por un GET sin parámetros). Verificación independiente
+  `gentle-ai-verify`: **ítems 1-7 PASS** (diff 9 ficheros / +179 −6, 4/4
+  decoders con audience, Settings con defaults correctos, composes ok, DB =
+  prixline + rincom sin duplicados, user 1 = SUPERADMIN/ACTIVE con 1
+  membresía, suite 272 passed) y trajo un **HIGH**:
+  `Portfolio…/backend/app/services/auth/TokenValidator.py` hace
+  `jwt.decode(token, key, algorithms=["RS256"])` **sin `audience`** y
+  traga `JWTError` → devuelve `None` → 401 en todas sus rutas cuando los
+  tokens lleven `aud` (confirmado por mí en el fichero; `JWTClaimsError` ⊂
+  `JWTError`). Hoy el backend de Portfolio **no está corriendo ni tiene
+  `AUTHCORE_*` en `.env`** → es latente, pero hay que resolverlo ANTES de
+  T6. LOW: `CafeMiTierra/.env` declara `AUTHCORE_JWT_AUDIENCE=cafemitierra`
+  sin leerlo en `src/` (trampa futura). Assess nativo sobre el commit de
+  docs (`10306e8a..38f1062d`) → risk **passive**, `reviewDue: false`.
+  Sobre authCore no corrió: es otro repo y el ciclo nativo exige
+  autorización explícita del usuario para un root distinto.
