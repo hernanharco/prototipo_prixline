@@ -14,18 +14,53 @@
 // de la web. El CTA abre el widget; si el script no carga (bloqueo de red),
 // degrada al popout real de tawk.to — nunca a prix.com ni al blog.
 import socialSettings from '../../../../content/settings/social.json';
-import { getCollection } from 'astro:content';
+import seoSettings from '../../../../content/settings/seo.json';
+import { getCollection, getEntry } from 'astro:content';
 import { decodeEntities } from '../../lib/format';
+import { fillTemplate } from '../../lib/template.ts';
 import '../../styles/global.css';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 
 const NON_SOCIAL_PLATFORMS = new Set(['sugerencias', 'opiniones']);
 
-// Widget tawk.to de Luis (property id del chat real importado).
-const TAWK_PROPERTY_ID = '58f1d6eaf7bbaa72709c64ff';
-const TAWK_EMBED_URL = `https://embed.tawk.to/${TAWK_PROPERTY_ID}/default`;
-const TAWK_CHAT_URL = `https://tawk.to/chat/${TAWK_PROPERTY_ID}/default`;
+// Copy de contacto + property de tawk.to (S2/S4): frontmatter de
+// content/pages/contacto.md, editable en el CMS (colección `pages`).
+const contactoEntry = await getEntry('pages', 'contacto');
+const contact = contactoEntry?.data.contact;
+if (!contact) {
+  throw new Error('Falta el objeto `contact` en content/pages/contacto.md.');
+}
+const {
+  eyebrow,
+  heading,
+  intro,
+  chatTitle,
+  chatBody,
+  chatCta,
+  chatProperty,
+  channelsTitle,
+  channelsIntro,
+  opinionsLine,
+} = contact;
+if (
+  !eyebrow ||
+  !heading ||
+  !intro ||
+  !chatTitle ||
+  !chatBody ||
+  !chatCta ||
+  !chatProperty ||
+  !channelsTitle ||
+  !channelsIntro ||
+  !opinionsLine
+) {
+  throw new Error('El objeto `contact` de content/pages/contacto.md está incompleto.');
+}
+
+// Widget tawk.to de Luis (property id del chat real, desde el frontmatter).
+const TAWK_EMBED_URL = `https://embed.tawk.to/${chatProperty}/default`;
+const TAWK_CHAT_URL = `https://tawk.to/chat/${chatProperty}/default`;
 
 // Opiniones (línea secundaria), desde los datos.
 const opinionsChannel = socialSettings.channels.find((c) => c.platform === 'opiniones');
@@ -39,8 +74,10 @@ if (!opinionsChannel) {
   throw new Error('social.json debe contener el canal `opiniones`.');
 }
 
-// Meta description DERIVADA de los datos (recuento real de canales), no inventada.
-const description = `Habla con Prixline por chat y descubre nuestros ${channels.length} canales de comunidad: cursos, prácticas y trabajo en España.`;
+// Meta description desde el singleton `seo` (S4): el recuento real de
+// canales se rellena en render (paridad byte a byte con la copia seed).
+const seo = seoSettings.pages.contacto;
+const description = fillTemplate(seo.description, { channels: channels.length });
 
 // Mapa estático slug → título decodificado para el contexto de curso
 // (?curso=<slug> desde /cursos/<slug>/). Los ~302 títulos se inlinean a
@@ -58,7 +95,7 @@ for (const course of courses) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Contacto — Prixline</title>
+    <title>{seo.title}</title>
     <meta name="description" content={description} />
   </head>
   <body>
@@ -83,36 +120,27 @@ for (const course of courses) {
           </ol>
         </nav>
 
-        <p class="eyebrow">Contacto</p>
-        <h1>Contacto</h1>
-        <p class="section-intro">
-          La vía más directa es el chat de Prixline; además estamos presentes
-          en {channels.length} canales de comunidad donde publicamos contenido,
-          avisos y recursos.
-        </p>
+        <p class="eyebrow">{eyebrow}</p>
+        <h1>{heading}</h1>
+        <p class="section-intro">{fillTemplate(intro, { channels: channels.length })}</p>
 
         {/* CTA primario: el chat real de Luis (tawk.to, property id
             importado) embebido en esta página — el visitante no sale de la
             web. Fallback: popout real de tawk.to si el widget no carga. */}
         <section class="card contact-chat" aria-labelledby="chat-title">
-          <h2 id="chat-title">¿Hablamos?</h2>
-          <p class="card__meta">
-            Cuéntanos qué necesitas y te ayudamos con cursos, prácticas y tu
-            camino en España.
-          </p>
+          <h2 id="chat-title">{chatTitle}</h2>
+          <p class="card__meta">{chatBody}</p>
           <p class="contact-chat__action">
             <a class="btn btn--accent" id="chat-cta" href={TAWK_CHAT_URL} rel="noopener noreferrer">
-              Abrir chat con Prixline
+              {chatCta}
             </a>
           </p>
         </section>
 
         {/* Canales de comunidad reales (excluye sugerencias/opiniones). */}
         <section class="contact-channels" aria-labelledby="channels-title">
-          <h2 id="channels-title">Canales de comunidad</h2>
-          <p class="section-intro">
-            Sigue a Prixline donde prefieras: vídeo, podcast, audio y redes.
-          </p>
+          <h2 id="channels-title">{channelsTitle}</h2>
+          <p class="section-intro">{channelsIntro}</p>
           <ul class="chips contact-channels__chips">
             {
               channels.map((channel) => (
@@ -135,7 +163,7 @@ for (const course of courses) {
             en el blog de origen y no se enlaza fuera—. La etiqueta es la
             del dato. */}
         <p class="contact-opinions">
-          ¿Quieres saber qué opinan los alumnos?{' '}
+          {opinionsLine}{' '}
           {opinionsChannel.label}
         </p>
       </div>

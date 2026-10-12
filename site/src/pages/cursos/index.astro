@@ -8,8 +8,10 @@
 // Sin marcos de test de markup en `site/`: la verificación de este módulo
 // es el build + `astro check` + greps estructurales sobre `dist/`.
 import { getCollection } from 'astro:content';
+import seoSettings from '../../../../content/settings/seo.json';
 import { FAMILY_LABELS, FAMILIES } from '../../../../scripts/family-map.ts';
 import { decodeEntities } from '../../lib/format';
+import { fillTemplate } from '../../lib/template.ts';
 import CourseCard from '../../components/CourseCard.astro';
 import '../../styles/global.css';
 
@@ -106,6 +108,10 @@ const familyChips = FAMILIES.filter((id) => (familyTotals.get(id) ?? 0) > 0).map
   label: FAMILY_LABELS[id],
   count: familyTotals.get(id) ?? 0,
 }));
+
+// Meta desde el singleton `seo` (S4): title y description con el recuento
+// real de cursos rellenado en render (paridad con la copia seed).
+const seo = seoSettings.pages.cursos;
 ---
 
 <!doctype html>
@@ -113,10 +119,10 @@ const familyChips = FAMILIES.filter((id) => (familyTotals.get(id) ?? 0) > 0).map
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Cursos — Prixline</title>
+    <title>{seo.title}</title>
     <meta
       name="description"
-      content={`Catálogo completo de cursos de Prixline: ${sorted.length} cursos ordenados alfabéticamente.`}
+      content={fillTemplate(seo.description, { count: sorted.length })}
     />
     <script is:inline>
       document.documentElement.classList.add('js');

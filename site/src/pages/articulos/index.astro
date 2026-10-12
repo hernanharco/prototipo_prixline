@@ -8,7 +8,9 @@
 // `dist/`. Progresivo (patrón de /cursos/): sin JS la lista completa es
 // visible y el campo de búsqueda queda oculto (clase `js` en <html>).
 import { getCollection } from 'astro:content';
+import seoSettings from '../../../../content/settings/seo.json';
 import { decodeEntities, formatDateEs, isoDate } from '../../lib/format';
+import { fillTemplate } from '../../lib/template.ts';
 import ArticleIndexCard from '../../components/ArticleIndexCard.astro';
 import '../../styles/global.css';
 import Header from '../../components/Header.astro';
@@ -51,6 +53,10 @@ for (const item of sorted) {
 }
 const years = [...byYear.keys()].sort((a, b) => b - a);
 const total = sorted.length;
+
+// Meta desde el singleton `seo` (S4): title y description con el total real
+// de artículos rellenado en render (paridad con la copia seed).
+const seo = seoSettings.pages.articulos;
 ---
 
 <!doctype html>
@@ -58,10 +64,10 @@ const total = sorted.length;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Artículos — Prixline</title>
+    <title>{seo.title}</title>
     <meta
       name="description"
-      content={`Los ${total} artículos de Prixline sobre migración, formación y trabajo en España, agrupados por año.`}
+      content={fillTemplate(seo.description, { total })}
     />
     {/* Clase `js` en <html> como mejora progresiva: sin ella el buscador
         queda oculto y la lista completa navegable. */}
