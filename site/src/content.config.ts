@@ -83,6 +83,23 @@ const pages = defineCollection({
     originUrl: z.string(),
     // See note on extractedAt above: unquoted ISO timestamps parse as Date.
     extractedAt: z.coerce.date(),
+    // Fase 10 (cms-coverage, S2): copy de contacto en el frontmatter de
+    // contacto.md (sembrado por scripts/cms-coverage.ts, editable desde el
+    // widget `pages` del CMS). Opcional: el resto de páginas no lo lleva.
+    contact: z
+      .object({
+        eyebrow: z.string().optional(),
+        heading: z.string().optional(),
+        intro: z.string().optional(),
+        chatTitle: z.string().optional(),
+        chatBody: z.string().optional(),
+        chatCta: z.string().optional(),
+        chatProperty: z.string().optional(),
+        channelsTitle: z.string().optional(),
+        channelsIntro: z.string().optional(),
+        opinionsLine: z.string().optional(),
+      })
+      .optional(),
   }),
 });
 

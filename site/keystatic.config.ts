@@ -35,6 +35,17 @@ const sourceMeta = {
   extractedAt: fields.text({ label: 'extractedAt (ISO 8601)' }),
 };
 
+// Enlace {href,label} reutilizable (nav, CTA, footer). Instancia nueva
+// por uso: los descriptores de campo no se comparten entre objetos.
+const linkObject = (label: string) =>
+  fields.object(
+    {
+      href: fields.text({ label: 'href' }),
+      label: fields.text({ label: 'label' }),
+    },
+    { label },
+  );
+
 const channelSchema = {
   platform: fields.text({ label: 'platform' }),
   label: fields.text({ label: 'label' }),
@@ -103,6 +114,170 @@ export default config({
             label: 'videos',
             itemLabel: (props) => props.fields.title.value,
           },
+        ),
+      },
+    }),
+    // ── Fase 10 (cms-coverage): singletons nuevos, sembrados por
+    // scripts/cms-coverage.ts con el copy EXACTO que vivía hardcodeado
+    // (S4 paridad). Ver odd/tasks/prixline-cms-coverage.md.
+    nav: singleton({
+      label: 'Navegación (nav.json)',
+      path: 'content/settings/nav',
+      format: 'json',
+      schema: {
+        wordmark: fields.text({ label: 'wordmark (marca en header y pie)' }),
+        menuLabel: fields.text({ label: 'menuLabel (botón móvil)' }),
+        items: fields.array(linkObject('Enlace del menú'), {
+          label: 'items (menú principal)',
+          itemLabel: (props) => props.fields.label.value,
+        }),
+        cta: linkObject('cta (botón del menú)'),
+        footer: fields.object(
+          {
+            blog: linkObject('Blog (enlace interno /articulos/)'),
+            originalText: fields.text({ label: 'originalText (texto sin enlace)' }),
+            copyright: fields.text({ label: 'copyright (después del año)' }),
+          },
+          { label: 'footer' },
+        ),
+      },
+    }),
+    home: singleton({
+      label: 'Home (home.json)',
+      path: 'content/settings/home',
+      format: 'json',
+      schema: {
+        hero: fields.object(
+          {
+            eyebrow: fields.text({ label: 'eyebrow' }),
+            heading: fields.text({ label: 'heading (H1)', multiline: true }),
+            subcopy: fields.text({ label: 'subcopy', multiline: true }),
+            primaryCta: linkObject('primaryCta'),
+            secondaryCta: linkObject('secondaryCta'),
+          },
+          { label: 'hero' },
+        ),
+        // Orden de render de las secciones (index.astro lo respeta).
+        sectionOrder: fields.array(
+          fields.select({
+            options: [
+              { label: 'trust', value: 'trust' },
+              { label: 'latest', value: 'latest' },
+              { label: 'courses', value: 'courses' },
+              { label: 'youtube', value: 'youtube' },
+              { label: 'practices', value: 'practices' },
+              { label: 'community', value: 'community' },
+            ],
+            defaultValue: 'trust',
+            label: 'Sección',
+          }),
+          { label: 'sectionOrder (orden de las secciones)' },
+        ),
+        sections: fields.object(
+          {
+            trust: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                heading: fields.text({ label: 'heading (H2 oculto)' }),
+                contentSince: fields.object(
+                  {
+                    label: fields.text({ label: 'label' }),
+                    detail: fields.text({ label: 'detail' }),
+                  },
+                  { label: 'Métrica «Contenido desde»' },
+                ),
+                articles: fields.object(
+                  {
+                    label: fields.text({ label: 'label' }),
+                    detail: fields.text({ label: 'detail' }),
+                  },
+                  { label: 'Métrica «Artículos publicados»' },
+                ),
+                channels: fields.object(
+                  {
+                    label: fields.text({ label: 'label' }),
+                    detail: fields.text({ label: 'detail' }),
+                  },
+                  { label: 'Métrica «Canales abiertos»' },
+                ),
+              },
+              { label: 'trust (banda de confianza)' },
+            ),
+            latest: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                eyebrow: fields.text({ label: 'eyebrow' }),
+                heading: fields.text({ label: 'heading (H2)' }),
+                intro: fields.text({ label: 'intro', multiline: true }),
+                ctaLabel: fields.text({ label: 'ctaLabel' }),
+              },
+              { label: 'latest (últimos artículos)' },
+            ),
+            courses: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                eyebrow: fields.text({ label: 'eyebrow' }),
+                heading: fields.text({ label: 'heading (H2)' }),
+                intro: fields.text({ label: 'intro', multiline: true }),
+                ctaLabel: fields.text({ label: 'ctaLabel (sin el contador)' }),
+              },
+              { label: 'courses (cursos destacados)' },
+            ),
+            youtube: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                eyebrow: fields.text({ label: 'eyebrow' }),
+                heading: fields.text({ label: 'heading (H2)' }),
+                handlePrefix: fields.text({ label: 'handlePrefix (antes del @handle)' }),
+                ctaLabel: fields.text({ label: 'ctaLabel' }),
+              },
+              { label: 'youtube (banda del canal)' },
+            ),
+            practices: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                eyebrow: fields.text({ label: 'eyebrow' }),
+                heading: fields.text({ label: 'heading (H2)' }),
+                ctaLabel: fields.text({ label: 'ctaLabel' }),
+              },
+              { label: 'practices (prácticas)' },
+            ),
+            community: fields.object(
+              {
+                enabled: fields.checkbox({ label: 'enabled' }),
+                eyebrow: fields.text({ label: 'eyebrow' }),
+                heading: fields.text({ label: 'heading (H2)' }),
+                intro: fields.text({
+                  label: 'intro ({count} = nº de canales)',
+                  multiline: true,
+                }),
+              },
+              { label: 'community (comunidad)' },
+            ),
+          },
+          { label: 'sections (copy por sección)' },
+        ),
+      },
+    }),
+    seo: singleton({
+      label: 'SEO (seo.json)',
+      path: 'content/settings/seo',
+      format: 'json',
+      schema: {
+        pages: fields.object(
+          Object.fromEntries(
+            ['home', 'cursos', 'articulos', 'contacto'].map((page) => [
+              page,
+              fields.object(
+                {
+                  title: fields.text({ label: 'title' }),
+                  description: fields.text({ label: 'description', multiline: true }),
+                },
+                { label: page },
+              ),
+            ]),
+          ),
+          { label: 'pages (título y meta por página)' },
         ),
       },
     }),
