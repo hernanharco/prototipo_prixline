@@ -34,6 +34,7 @@ Toca dos repos: `authCore` (hub, `.../elrincondeharco.com/authCore`) y
 | T7 | S4 | Tests: `_decode()` y el roundtrip JWKS de `test_data_token.py` declaran `audience=settings.jwt_audience` — las 8 fallas del gate al correr con `JWT_AUDIENCE` ya presente en el env | inline test-first | `0d16478` |
 | T8 | S3,S4 | Gate de webprixline con **env vars inline** (decisión del usuario; la safety policy bloquea escribir `site/.env`): `astro dev --port 4325` con las 3 `AUTHCORE_*` | verify | — |
 | T9 | S3 | Verificación independiente (`gentle-ai-verify`, sólo lectura) sobre `main..feat/prixline-audience` | verify | ver L11 |
+| T10 | — | Review nativa RDD del candidato de docs (`odd/tasks/prixline-authchain.md`, tier **low** por `non_executable_only`, 1 fichero / 151 líneas, sin lentes) | native review | `review-3ad793127501a86e` (approved/ack) |
 
 Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
 
@@ -149,3 +150,16 @@ Orden: T1 → T2 → T3 → T4 → T5; T6 lo decide el usuario.
   docs (`10306e8a..38f1062d`) → risk **passive**, `reviewDue: false`.
   Sobre authCore no corrió: es otro repo y el ciclo nativo exige
   autorización explícita del usuario para un root distinto.
+- **L12** — Review nativa RDD (2026-10-12) sobre el candidato
+  `sha256:c84c6e03…` de este repo: los dos commits de docs de esta
+  fase. Primer START rechazado en preflight (`invalid_request`, sin
+  linaje) porque seleccione lentes de agente para un candidato que el
+  proveedor evalúa en **low** — cura aplicada: omitir `lenses` y reintentar
+  con key fresca. Segundo START → `state: approved`, `risk_tier: low`
+  (`non_executable_only`), `lenses_required: false`, 1 fichero / 151
+  líneas / budget 76. STATUS bound ofreció
+  `approved_acknowledgement_required` → `acknowledge-approved` ejecutado
+  sin cambios → **`authority: burned`**, `outcome:
+  native-approved-acknowledgement-completed`. La review es informativa y
+  **no autoriza delivery**: push y deploy siguen siendo decisión del
+  usuario (T6).
