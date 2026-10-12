@@ -6,6 +6,7 @@
 // en /cursos/.
 import type { CollectionEntry } from 'astro:content';
 import { decodeEntities } from '../lib/format';
+import homeSettings from '../../../content/settings/home.json';
 
 interface Props {
   courses: CollectionEntry<'courses'>[];
@@ -13,15 +14,19 @@ interface Props {
 }
 
 const { courses, totalCourses } = Astro.props;
+
+// Eyebrow, H2, intro y label del CTA salen del singleton home
+// (content/settings/home.json); el sufijo con el número REAL de cursos
+// se conserva tal cual.
+const copy = homeSettings.sections.courses;
 ---
 
 <section class="section section--surface" id="cursos" aria-labelledby="cursos-title">
   <div class="container">
-    <p class="eyebrow">Cursos</p>
-    <h2 id="cursos-title">Empieza por aquí</h2>
+    <p class="eyebrow">{copy.eyebrow}</p>
+    <h2 id="cursos-title">{copy.heading}</h2>
     <p class="section-intro">
-      Una selección del catálogo de cursos de Prixline. La lista completa
-      está disponible en la página de cursos.
+      {copy.intro}
     </p>
 
     <ul class="course-grid">
@@ -36,7 +41,7 @@ const { courses, totalCourses } = Astro.props;
 
     <p class="cta-row">
       <a class="btn btn--primary" href="/cursos/">
-        Ver el catálogo completo ({totalCourses} cursos)
+        {copy.ctaLabel} ({totalCourses} cursos)
       </a>
     </p>
   </div>

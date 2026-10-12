@@ -8,24 +8,28 @@
 // componente no hardcodea ninguna URL. Sin `thumbnail` la tarjeta cae al
 // bloque tipográfico (chip + fecha + título), nunca a una imagen rota ni a
 // un servicio externo de placeholders. T14: el CTA “Ver todos los
-// artículos” enlaza al índice interno /articulos/.
+// artículos” enlaza al índice interno /articulos/. Eyebrow, H2, intro y
+// label del CTA salen del singleton home (content/settings/home.json);
+// el destino del CTA queda fijo en /articulos/.
 import type { CollectionEntry } from 'astro:content';
 import { decodeEntities, formatDateEs, isoDate } from '../lib/format';
+import homeSettings from '../../../content/settings/home.json';
 
 interface Props {
   posts: CollectionEntry<'posts'>[];
 }
 
 const { posts } = Astro.props;
+
+const copy = homeSettings.sections.latest;
 ---
 
 <section class="section" id="migracion" aria-labelledby="migracion-title">
   <div class="container">
-    <p class="eyebrow">Migración</p>
-    <h2 id="migracion-title">Últimos artículos</h2>
+    <p class="eyebrow">{copy.eyebrow}</p>
+    <h2 id="migracion-title">{copy.heading}</h2>
     <p class="section-intro">
-      Información práctica sobre migrar, formarse y encontrar trabajo, tal y
-      como se publicó en el blog de Prixline.
+      {copy.intro}
     </p>
 
     <ul class="cards">
@@ -68,7 +72,7 @@ const { posts } = Astro.props;
 
     <p class="cta-row">
       {/* T14: CTA interno al índice /articulos/ (antes: blog de origen). */}
-      <a class="btn btn--ghost" href="/articulos/">Ver todos los artículos</a>
+      <a class="btn btn--ghost" href="/articulos/">{copy.ctaLabel}</a>
     </p>
   </div>
 </section>

@@ -1,23 +1,27 @@
 ---
-// Hero: promesa de migración responsable + formación en España, con el
-// tagline real de content/settings/site.json y los dos CTA pedidos.
+// Hero: promesa de migración responsable + formación en España. El copy
+// y los dos CTA salen del singleton home (content/settings/home.json,
+// editable desde el CMS); el tagline real sigue viniendo de
+// content/settings/site.json.
 import siteSettings from '../../../content/settings/site.json';
+import homeSettings from '../../../content/settings/home.json';
+
+const hero = homeSettings.hero;
 ---
 
 <section class="hero">
   <div class="container hero__inner">
-    <p class="eyebrow">Prixline — orientación y formación</p>
+    <p class="eyebrow">{hero.eyebrow}</p>
     <h1>
-      Migra con responsabilidad y prepárate para estudiar y trabajar en España
+      {hero.heading}
     </h1>
     <p class="hero__tagline">{siteSettings.tagline}</p>
     <p class="hero__sub">
-      Cursos de calidad, apoyo en las prácticas y canales abiertos para que
-      des el paso con información real y sin sorpresas.
+      {hero.subcopy}
     </p>
     <div class="hero__actions">
-      <a class="btn btn--primary" href="#migracion">Quiero migrar con responsabilidad</a>
-      <a class="btn btn--ghost" href="#cursos">Ver los cursos</a>
+      <a class="btn btn--primary" href={hero.primaryCta.href}>{hero.primaryCta.label}</a>
+      <a class="btn btn--ghost" href={hero.secondaryCta.href}>{hero.secondaryCta.label}</a>
     </div>
   </div>
 </section>

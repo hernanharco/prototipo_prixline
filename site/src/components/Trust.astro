@@ -1,6 +1,10 @@
 ---
 // Banda de confianza: SOLO datos reales derivados de las colecciones
 // importadas y de content/settings/social.json. Sin métricas inventadas.
+// Labels, detalles y el H2 visualmente oculto salen del singleton home
+// (content/settings/home.json); los NÚMEROS siguen siendo datos reales.
+import homeSettings from '../../../content/settings/home.json';
+
 interface Props {
   earliestYear: number;
   postCount: number;
@@ -9,28 +13,30 @@ interface Props {
 
 const { earliestYear, postCount, channelCount } = Astro.props;
 
+const copy = homeSettings.sections.trust;
+
 const points = [
   {
     value: String(earliestYear),
-    label: 'Contenido desde',
-    detail: 'El archivo de artículos de Prixline llega hasta este año.',
+    label: copy.contentSince.label,
+    detail: copy.contentSince.detail,
   },
   {
     value: String(postCount),
-    label: 'Artículos publicados',
-    detail: 'Contenido real importado del blog de origen, sin recuentos inventados.',
+    label: copy.articles.label,
+    detail: copy.articles.detail,
   },
   {
     value: String(channelCount),
-    label: 'Canales abiertos',
-    detail: 'Redes, podcasts y plataformas donde Prixline está presente.',
+    label: copy.channels.label,
+    detail: copy.channels.detail,
   },
 ];
 ---
 
 <section class="trust section section--surface" aria-labelledby="trust-title">
   <div class="container">
-    <h2 id="trust-title" class="visually-hidden">Prixline en datos reales</h2>
+    <h2 id="trust-title" class="visually-hidden">{copy.heading}</h2>
     <ul class="trust__grid">
       {
         points.map((point) => (

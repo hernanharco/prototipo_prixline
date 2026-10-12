@@ -9,6 +9,12 @@
 // blog). El texto mostrado NO cambia: solo cambia el destino del CTA.
 import { getEntry } from 'astro:content';
 import { decodeEntities } from '../lib/format';
+import homeSettings from '../../../content/settings/home.json';
+
+// Eyebrow, H2 y label del CTA salen del singleton home
+// (content/settings/home.json); el cuerpo (lead + párrafos) sigue
+// viniendo de content/pages/practicas.md, sin cambios.
+const copy = homeSettings.sections.practices;
 
 const entry = await getEntry('pages', 'practicas');
 
@@ -29,12 +35,12 @@ const details = paragraphs.slice(1, 4);
 <section class="section" id="practicas" aria-labelledby="practicas-title">
   <div class="container practices">
     <div>
-      <p class="eyebrow">Prácticas</p>
-      <h2 id="practicas-title">Prácticas y trabajo</h2>
+      <p class="eyebrow">{copy.eyebrow}</p>
+      <h2 id="practicas-title">{copy.heading}</h2>
       {lead && <p class="practices__lead">{lead}</p>}
       {details.map((text) => <p>{text}</p>)}
       <p>
-        <a class="btn btn--ghost" href="/practicas/">Más información sobre prácticas</a>
+        <a class="btn btn--ghost" href="/practicas/">{copy.ctaLabel}</a>
       </p>
     </div>
   </div>

@@ -4,21 +4,28 @@
 // redes sociales: se muestran en el pie/contacto). Icono = inicial de la
 // etiqueta, sin librerías externas.
 import socialSettings from '../../../content/settings/social.json';
+import homeSettings from '../../../content/settings/home.json';
+import { fillTemplate } from '../lib/template.ts';
 
 const NON_SOCIAL_PLATFORMS = new Set(['sugerencias', 'opiniones']);
 
 const channels = socialSettings.channels.filter(
   (channel) => !NON_SOCIAL_PLATFORMS.has(channel.platform),
 );
+
+// Eyebrow, H2 e intro salen del singleton home (content/settings/home.json);
+// la intro es una plantilla con `{count}` que se rellena en render con el
+// recuento REAL de canales.
+const copy = homeSettings.sections.community;
+const intro = fillTemplate(copy.intro, { count: channels.length });
 ---
 
 <section class="section section--surface" id="comunidad" aria-labelledby="comunidad-title">
   <div class="container">
-    <p class="eyebrow">Comunidad</p>
-    <h2 id="comunidad-title">Sigue a Prixline</h2>
+    <p class="eyebrow">{copy.eyebrow}</p>
+    <h2 id="comunidad-title">{copy.heading}</h2>
     <p class="section-intro">
-      {channels.length} canales abiertos donde publicamos contenido, avisos y
-      recursos para la comunidad.
+      {intro}
     </p>
 
     <ul class="chips community__chips">

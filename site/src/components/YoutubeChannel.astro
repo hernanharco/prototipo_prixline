@@ -13,9 +13,15 @@ import { decodeEntities } from '../lib/format';
 import LiveBadge from './LiveBadge.astro';
 import siteSettings from '../../../content/settings/site.json';
 import videosSettings from '../../../content/settings/videos.json';
+import homeSettings from '../../../content/settings/home.json';
 
 const handle = siteSettings.live.youtubeHandle;
 const channelUrl = `https://youtube.com/${handle.replace(/^@/, '@')}`;
+
+// Eyebrow, H2, prefijo del handle y label del CTA salen del singleton
+// home (content/settings/home.json); el handle y la URL del canal
+// siguen siendo datos reales.
+const copy = homeSettings.sections.youtube;
 
 interface YoutubeVideo {
   videoId: string;
@@ -68,10 +74,10 @@ function formatDateEs(iso: string): string {
 <section class="ytband section" aria-labelledby="yt-title">
   <div class="container ytband__inner">
     <div class="ytband__intro">
-      <p class="ytband__eyebrow">Canal de YouTube</p>
-      <h2 id="yt-title">Videoclases y charlas de Prixline</h2>
+      <p class="ytband__eyebrow">{copy.eyebrow}</p>
+      <h2 id="yt-title">{copy.heading}</h2>
       <p class="ytband__handle">
-        Encuéntranos como <strong>{handle}</strong> en YouTube.
+        {copy.handlePrefix} <strong>{handle}</strong> en YouTube.
       </p>
       <LiveBadge
         handle={handle}
@@ -110,7 +116,7 @@ function formatDateEs(iso: string): string {
       )
     }
     <a class="btn btn--on-navy ytband__cta" href={channelUrl}>
-      Ver canal completo
+      {copy.ctaLabel}
     </a>
   </div>
 </section>

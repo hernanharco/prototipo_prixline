@@ -1,8 +1,12 @@
 ---
-// Home de Prixline (T6). Compone los componentes semánticos sobre el
+// Home de Prixline. Compone los componentes semánticos sobre el
 // contenido REAL importado de `content/` vía las colecciones de Astro y
-// los ajustes de `content/settings/*.json`.
+// los ajustes de `content/settings/*.json`: el singleton `home` aporta
+// el copy de las secciones, su ORDEN y su presencia (`enabled`), y el
+// singleton `seo` el title/meta de esta página (T4/T6).
 import { getCollection } from 'astro:content';
+import homeSettings from '../../../content/settings/home.json';
+import seoSettings from '../../../content/settings/seo.json';
 import socialSettings from '../../../content/settings/social.json';
 import '../styles/global.css';
 import Header from '../components/Header.astro';
@@ -36,6 +40,26 @@ const featuredCourses = courses
 const earliestYear = posts.length > 0
   ? posts.reduce((min, post) => Math.min(min, post.data.date.getFullYear()), Number.POSITIVE_INFINITY)
   : new Date().getFullYear();
+
+// Orden y presencia de las secciones de la home. Este array es el mapa
+// id→componente; el ORDEN real lo manda homeSettings.sectionOrder (CMS)
+// y `enabled: false` en el singleton retira la sección del render.
+// Hero va siempre primero (fuera del map) y Footer siempre al final.
+const sectionDefs = [
+  { id: 'trust', Component: Trust },
+  { id: 'latest', Component: LatestArticles },
+  { id: 'courses', Component: Courses },
+  { id: 'youtube', Component: YoutubeChannel },
+  { id: 'practices', Component: Practices },
+  { id: 'community', Component: Community },
+] as const;
+
+const orderedSections = homeSettings.sectionOrder
+  .map((id) => sectionDefs.find((section) => section.id === id))
+  .filter(
+    (section): section is (typeof sectionDefs)[number] =>
+      section !== undefined && homeSettings.sections[section.id].enabled !== false,
+  );
 ---
 
 <!doctype html>
@@ -43,10 +67,10 @@ const earliestYear = posts.length > 0
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Prixline — Cursos, prácticas y trabajo en España</title>
+    <title>{seoSettings.pages.home.title}</title>
     <meta
       name="description"
-      content="Migra con responsabilidad con Prixline: cursos, prácticas y orientación para estudiar y trabajar en España."
+      content={seoSettings.pages.home.description}
     />
   </head>
   <body>
@@ -54,16 +78,26 @@ const earliestYear = posts.length > 0
     <Header />
     <main id="contenido">
       <Hero />
-      <Trust
-        earliestYear={earliestYear}
-        postCount={posts.length}
-        channelCount={socialSettings.channels.filter((c) => c.platform !== 'sugerencias' && c.platform !== 'opiniones').length}
-      />
-      <LatestArticles posts={latestPosts} />
-      <Courses courses={featuredCourses} totalCourses={courses.length} />
-      <YoutubeChannel />
-      <Practices />
-      <Community />
+      {
+        orderedSections.map((section) => {
+          if (section.id === 'trust') {
+            return (
+              <section.Component
+                earliestYear={earliestYear}
+                postCount={posts.length}
+                channelCount={socialSettings.channels.filter((c) => c.platform !== 'sugerencias' && c.platform !== 'opiniones').length}
+              />
+            );
+          }
+          if (section.id === 'latest') {
+            return <section.Component posts={latestPosts} />;
+          }
+          if (section.id === 'courses') {
+            return <section.Component courses={featuredCourses} totalCourses={courses.length} />;
+          }
+          return <section.Component />;
+        })
+      }
     </main>
     <Footer />
   </body>
