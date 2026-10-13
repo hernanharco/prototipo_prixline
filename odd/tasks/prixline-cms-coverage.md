@@ -128,3 +128,13 @@ fases previas), textos de estado vacío.
   hero (`cms-coverage.test.ts:45`); resilience R4 — `index.astro:70,57`
   (orden/sectionOrder) y `cms-coverage.ts:185` (CLI); reliability R3 —
   `index.astro:73`.
+- **L6** — **Delivery** (2026-10-13, decisión del usuario = "Merge a main +
+  push"): merge fast-forward `feat/prx-cms-coverage` → `main`
+  (`5d03ad91..92fe7c05`, 25 ficheros, +1.131/−101) y push a origin.
+  Vercel Git redespliega `prixline.rincom.es`. **Verificación en vivo**:
+  el marker `canales abiertos para que des el paso con información real`
+  (subcadena que en el template anterior venía partida a varias líneas y
+  sólo puede venir del string de una línea del JSON) está en el HTML
+  servido → el deploy publicó el build nuevo; `<title>` de home OK;
+  `/keystatic` → 302 `/admin/login` (gate intacto). La review aprobada
+  (L5) cubrió exactamente este rango; la authority ya estaba quemada.
