@@ -22,6 +22,7 @@ import { defineMiddleware } from 'astro:middleware';
 import { getSecret } from 'astro:env/server';
 
 import { adminGateDecision, UNAUTHENTICATED_REDIRECT } from './lib/adminGate.ts';
+import { injectPaletteHtml, shouldInjectPalette } from './lib/cmsPalette.ts';
 import { verifyOptionsFromEnv, verifyToken } from './lib/authcore.ts';
 
 const COOKIE_NAME = 'token'; // nombre del ecosistema (AUTH-FLOW.md)
@@ -46,7 +47,27 @@ export const onRequest = defineMiddleware(async (context, next) => {
   if (token && jwksUrl && issuer) {
     try {
       await verifyToken(token, { jwksUrl, issuer, audience, fetchFn: globalThis.fetch });
-      return next();
+      const response = await next();
+      // S5/T9 (fase prixline-cms-ux): el HTML de /keystatic recibe la hoja
+      // de paleta Prixline (Keystatic no expone theming). Sólo respuestas
+      // 200 text/html; la API y el resto del sitio quedan intactos.
+      if (
+        shouldInjectPalette(
+          context.url.pathname,
+          response.status,
+          response.headers.get('content-type'),
+        )
+      ) {
+        const html = await response.text();
+        const headers = new Headers(response.headers);
+        headers.delete('content-length');
+        return new Response(injectPaletteHtml(html), {
+          status: response.status,
+          statusText: response.statusText,
+          headers,
+        });
+      }
+      return response;
     } catch (err) {
       // Token inválido/expirado o JWKS inaccesible → fail-closed abajo.
       // R4-verify-failure-no-telemetry (T13): observabilidad del rechazo
