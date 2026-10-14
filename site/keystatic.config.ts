@@ -54,6 +54,18 @@ const channelSchema = {
 
 export default config({
   storage: selectKeystaticStorage(import.meta.env),
+  // S1 (fase prixline-cms-ux): UI en español y sidebar agrupada. El
+  // locale traduce la interfaz de Keystatic (Dashboard, botones…);
+  // navigation secciona la barra lateral en Contenido / Ajustes del
+  // sitio; brand.name reemplaza el "<owner>/<repo>" truncado.
+  locale: 'es-ES',
+  ui: {
+    brand: { name: 'Prixline' },
+    navigation: {
+      Contenido: ['posts', 'courses', 'pages'],
+      'Ajustes del sitio': ['site', 'nav', 'home', 'seo', 'social', 'videos'],
+    },
+  },
   collections: {
     posts,
     courses,
@@ -61,7 +73,7 @@ export default config({
   },
   singletons: {
     site: singleton({
-      label: 'Ajustes del sitio (site.json)',
+      label: 'Ajustes del sitio',
       path: 'content/settings/site',
       format: 'json',
       schema: {
@@ -80,7 +92,7 @@ export default config({
       },
     }),
     social: singleton({
-      label: 'Comunidad (social.json)',
+      label: 'Comunidad',
       path: 'content/settings/social',
       format: 'json',
       schema: {
@@ -92,7 +104,7 @@ export default config({
       },
     }),
     videos: singleton({
-      label: 'Vídeos de YouTube (videos.json)',
+      label: 'Vídeos de YouTube',
       path: 'content/settings/videos',
       format: 'json',
       schema: {
@@ -121,7 +133,7 @@ export default config({
     // scripts/cms-coverage.ts con el copy EXACTO que vivía hardcodeado
     // (S4 paridad). Ver odd/tasks/prixline-cms-coverage.md.
     nav: singleton({
-      label: 'Navegación (nav.json)',
+      label: 'Navegación',
       path: 'content/settings/nav',
       format: 'json',
       schema: {
@@ -143,7 +155,7 @@ export default config({
       },
     }),
     home: singleton({
-      label: 'Home (home.json)',
+      label: 'Home',
       path: 'content/settings/home',
       format: 'json',
       schema: {
@@ -260,7 +272,7 @@ export default config({
       },
     }),
     seo: singleton({
-      label: 'SEO (seo.json)',
+      label: 'SEO',
       path: 'content/settings/seo',
       format: 'json',
       schema: {
