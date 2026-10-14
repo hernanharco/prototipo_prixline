@@ -148,3 +148,24 @@ resuelta en L1, deploy pendiente).
   0/0/2 · site/lib **43/43** · site/scripts **5/5** · raíz **138/138** ·
   `astro build` OK (52s). Pendiente: E2E visual en prod (captura del
   usuario) + cierre.
+- **L6** — Review nativa RDD sobre el rango T8-T9+L5 (2026-10-14):
+  linaje `review-bb3c53b00aff35ba`, target
+  `sha256:9c2e52629fdc9f4…` (rango commiteado `b105029d..eedd256e`,
+  7 ficheros / 337 líneas), tier **medium**, 3 lentes
+  (risk/resilience/reliability) ejecutados como grupo materialize vía
+  pi host relay (forecast 3 runs, autorizados). Dos incidentes de
+  proceso: el primer START quedó blocked (candidato vacío = todo
+  commiteado ⇒ re-START con `baseRef`+`committedOnly`) y el segundo
+  expiró el consentimiento a los 10 min ⇒ tercer START con consent
+  fresco (resuelto por el host). **OUTCOME: approved + acknowledged →
+  `authority: burned`** (`native-approved-acknowledgement-completed`).
+  **6 hallazgos advisories (informativos, ninguno bloquea; backlog)**:
+  R3-content-encoding-not-cleared (middleware.ts:61-63, no limpia el
+  header al reenvolver el body), R3-dark-mode-forced-light
+  (cmsPalette.ts:35-40, `color-scheme: light` forzado),
+  R3-gate-function-untested (cmsPalette.ts:87-97,
+  `shouldInjectPalette` sin test propio), R3-injection-inside-auth-try
+  + R4-palette-injection-in-auth-try (middleware.ts:50-70, la
+  inyección vive dentro del try de auth), R4-head-response-gets-
+  synthesized-body (middleware.ts:54-59, una respuesta HEAD
+  recibe body sintetizado).
