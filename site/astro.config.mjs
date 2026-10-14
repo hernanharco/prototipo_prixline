@@ -44,6 +44,14 @@ function resolveKeystaticConfigVirtual() {
 // exige JWT de authCore salvo en /admin/login (T3/T4).
 export default defineConfig({
   site: 'https://prixline.rincom.es',
+  // Astro 5.18 sólo confía en el header Host/X-Forwarded-Host cuando el
+  // dominio está declarado en security.allowedDomains; sin esto,
+  // NodeApp.createRequest cae al fallback `https://localhost` y el origin
+  // de las requests SSR (Keystatic arma el redirect_uri de GitHub con él)
+  // queda mal en Vercel. Test: scripts/astro-origin.test.ts.
+  security: {
+    allowedDomains: [{ protocol: 'https', hostname: 'prixline.rincom.es' }],
+  },
   integrations: [react(), keystatic()],
   adapter: vercel(),
   vite: {
