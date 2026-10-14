@@ -77,6 +77,17 @@ main a:hover {
 :focus-visible {
   outline-color: #c8a24a !important;
 }
+
+/* S6: la fila del selector de rama + menú git del sidebar no aporta al
+   flujo Prixline (se guarda directo en main). Ancla estructural: el
+   Combobox lleva aria-label localizado "Rama actual" (locale es-ES
+   fijado en keystatic.config.ts — si cambia el locale, actualizar).
+   La guarda :not(:has(nav)) acota la regla a la FILA: cualquier
+   contenedor que además incluya el <nav> del sidebar queda excluido.
+   display:none (no visibility) para no dejar hueco. */
+div:not(:has(nav)):has([aria-label="Rama actual"]) {
+  display: none !important;
+}
 `.trim();
 
 /**

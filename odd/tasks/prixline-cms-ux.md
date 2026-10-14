@@ -39,6 +39,13 @@ resuelta en L1, deploy pendiente).
   Deuda declarada: Keystatic NO expone theming (0 variables CSS en su
   bundle, estilos Emotion con clases hasheadas) ⇒ selectores
   estructurales estables + re-check en cada upgrade.
+- **S6** — Ocultar el selector de rama del sidebar (petición del
+  usuario, Log L8, verbatim): *"creo que esta parte no es
+  necesaria"* (captura del Combobox de rama "main" + menú "...").
+  Keystatic no expone config para esto ⇒ la regla va en la hoja
+  inyectada (T9), anclada al `aria-label` localizado "Rama actual"
+  (locale es-ES fijado) con guarda `:not(:has(nav))` para no comerse
+  el sidebar.
 
 ## Tasks
 
@@ -73,6 +80,8 @@ resuelta en L1, deploy pendiente).
   el HTML de `/keystatic*` (200 text/html sólo; API y resto intactos).
 - **T10** — [S5] Verificación: `astro check` + suite + build + E2E
   visual en prod (captura del usuario) + evidencia en `## Log`.
+- **T11** — [S6] Ocultar la fila del selector de rama en la hoja
+  `cmsPalette` (test-first), suites y commit sobre `main`.
 
 ## Log
 
@@ -179,3 +188,15 @@ resuelta en L1, deploy pendiente).
   HTML 200 autenticado, así que el check visual final es del usuario
   (captura). Pendiente: E2E visual (T10) + E2E de subida de imagen
   (T6), ambos en el usuario.
+- **L8** — Petición del usuario (2026-10-14) verbatim: *"creo que esta
+  parte no es necesaria"* — captura del selector de rama (Combobox
+  "main" + menú "...") del sidebar del CMS. Investigación: Keystatic
+  no expone config para ocultarlo (sólo `ui.brand`/`ui.navigation`);
+  el Combobox lleva `aria-label` localizado `currentBranch` (es-ES:
+  "Rama actual", línea única en el bundle). T11: regla en la hoja
+  inyectada `div:not(:has(nav)):has([aria-label="Rama actual"]) →
+  display:none` — la guarda excluye cualquier contenedor que incluya
+  el `<nav>` del sidebar. Test S6 RED→GREEN (4/4), suites 44+5+138,
+  `astro check` 0/0/2. Nota: en la rama `feat/prx-cms-ux` desactualizada
+  el archivo no existía (el trabajo S5 vive en `main`); se continuó
+  sobre `main`.

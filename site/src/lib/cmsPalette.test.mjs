@@ -42,4 +42,21 @@ describe('injectPaletteHtml (inyección de la paleta del CMS)', () => {
     assert.match(out, /#0c2339/, 'navy-deep');
     assert.match(out, /#c8a24a/, 'oro');
   });
+
+  it('S6: oculta la fila del selector de rama con ancla estructural acotada', () => {
+    const out = injectPaletteHtml('<html><head></head><body></body></html>');
+    // Ancla: el Combobox de rama lleva aria-label localizado "Rama actual"
+    // (locale es-ES fijado en keystatic.config.ts); ver BranchPicker en el
+    // bundle de @keystatic/core.
+    assert.match(out, /\[aria-label="Rama actual"\]/, 'ancla del combobox de rama');
+    // Guarda: nunca un contenedor que incluya el <nav> del sidebar (si no,
+    // la regla se comería el sidebar entero).
+    assert.match(out, /:not\(:has\(nav\)\)/, 'guarda :not(:has(nav))');
+    // La fila se oculta con display:none (sin dejar hueco).
+    assert.match(
+      out,
+      /div:not\(:has\(nav\)\):has\([^\n]*aria-label="Rama actual"[^\n]*\)\s*{\s*display: none !important;/,
+      'regla de ocultado de la fila del selector de rama',
+    );
+  });
 });
