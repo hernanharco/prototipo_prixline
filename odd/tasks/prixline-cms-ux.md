@@ -92,3 +92,13 @@ resuelta en L1, deploy pendiente).
   en `/articulos/` y **0** rutas viejas YYYY/MM, marker de home, metas
   813 y tawk intactos, **265** imágenes copiadas al build. Pendiente:
   E2E en prod (T6) + delivery (T7, decisión del usuario).
+- **L3** — **Delivery** (2026-10-14, decisión del usuario = "Sí, merge +
+  push ahora"): merge fast-forward `feat/prx-cms-ux` → `main`
+  (`fd63035e..c9e8d88d`, 746 ficheros, +1.275/−613) y push. Vercel Git
+  redespliega: deployment `webprixline-aa3nmzrpt` **Ready en 40s**,
+  aliased a `prixline.rincom.es`. **Verificación en vivo**: `/articulos/`
+  200 con **265/265** thumbnails canónicos y **0** rutas viejas YYYY/MM;
+  imagen de prueba servida `200 image/jpeg 79960b`;
+  `/media/uploads/100-becas-para-alumnos-de-fp/thumbnail.jpg` OK;
+  marker de home presente; `/keystatic` → 302 `/admin/login` (gate
+  intacto). Pendiente: E2E de subida real desde el CMS (T6).
