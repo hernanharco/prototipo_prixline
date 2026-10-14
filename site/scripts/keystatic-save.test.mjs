@@ -21,7 +21,7 @@
 //
 // Run (desde la raíz del repo): node --test site/scripts/keystatic-save.test.mjs
 import assert from 'node:assert/strict';
-import { readdirSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { describe, it } from 'node:test';
 import { fileURLToPath } from 'node:url';
@@ -32,6 +32,8 @@ import config from '../keystatic.config.ts';
 
 const REPO_ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const COLLECTION_DIRS = { posts: 'posts', courses: 'courses', pages: 'pages' };
+// fields.image (S4, fase prixline-cms-ux): disco = directory/<slug>/<fichero>.
+const IMAGE_DIRECTORY = join('site', 'public', 'media', 'uploads');
 
 function loadEntry(file) {
   const raw = readFileSync(file, 'utf8');
@@ -46,23 +48,105 @@ function loadEntry(file) {
 }
 
 // Réplica del ciclo parse → serialize → dump de Keystatic (ver cabecera).
+// soporta: campos slug, arrays, objetos anidados (p. ej. `contact` de
+// pages, que antes rompía el test) y campos asset (fields.image: parse y
+// serialize reciben `extra` con el slug, y el cliente además escribe el
+// binario en directory/<slug>/<fichero>).
+// Default por tipo: los objetos/arrays no tienen defaultValue(); una clave
+// de objeto ausente simplemente NO se escribe (visitor `object` de Keystatic).
+function defaultValueOf(field) {
+  if (field.kind === 'object') return undefined;
+  if (field.kind === 'array') return [];
+  return typeof field.defaultValue === 'function' ? field.defaultValue() : undefined;
+}
+
+function parseValue(field, raw, ctx) {
+  if (field.kind === 'object') {
+    if (raw === undefined || raw === null) return undefined;
+    const out = {};
+    for (const [key, child] of Object.entries(field.fields)) {
+      if (child.kind === 'form' && child.formKind === 'content') continue;
+      out[key] =
+        raw !== undefined && key in raw
+          ? parseValue(child, raw[key], { ...ctx, key })
+          : defaultValueOf(child);
+    }
+    return out;
+  }
+  if (field.kind === 'array') {
+    const items = Array.isArray(raw) ? raw : [];
+    return items.map((item) => parseValue(field.element, item, ctx));
+  }
+  if (field.kind === 'form') {
+    if (field.formKind === 'content') return raw;
+    if (field.formKind === 'asset') {
+      // El cliente real pide el binario a `directory/<slug>/<filename>`
+      // (blob) antes de parsear; sin binario, el campo queda vacío.
+      let asset;
+      if (typeof raw === 'string' && raw !== '') {
+        const rel = field.filename(raw, { suggestedFilenamePrefix: ctx.key, slug: ctx.slug });
+        const abs = join(REPO_ROOT, IMAGE_DIRECTORY, ctx.slug, rel ?? '');
+        if (rel && existsSync(abs)) asset = new Uint8Array(readFileSync(abs));
+      }
+      return field.parse(raw, { asset, slug: ctx.slug });
+    }
+    return raw !== undefined ? field.parse(raw) : field.defaultValue();
+  }
+  return raw !== undefined ? raw : field.defaultValue();
+}
+
+function serializeValue(field, value, ctx, assetWrites) {
+  if (field.kind === 'object') {
+    if (value === undefined || value === null) return undefined;
+    const out = {};
+    for (const [key, child] of Object.entries(field.fields)) {
+      if (child.kind === 'form' && child.formKind === 'content') continue;
+      const childValue = key in value ? value[key] : defaultValueOf(child);
+      const serialized = serializeValue(child, childValue, { ...ctx, key }, assetWrites);
+      if (serialized !== undefined) out[key] = serialized;
+    }
+    return out;
+  }
+  if (field.kind === 'array') {
+    return (value ?? []).map((item) => serializeValue(field.element, item, ctx, assetWrites));
+  }
+  if (field.kind === 'form') {
+    if (field.formKind === 'content') return undefined; // el cuerpo va aparte
+    if (field.formKind === 'asset') {
+      if (value === undefined || value === null) return undefined;
+      const result = field.serialize(value, {
+        suggestedFilenamePrefix: ctx.key,
+        slug: ctx.slug,
+      });
+      if (result.asset) {
+        assetWrites.push({
+          path: join(IMAGE_DIRECTORY, ctx.slug, result.asset.filename),
+          exists: existsSync(join(REPO_ROOT, IMAGE_DIRECTORY, ctx.slug, result.asset.filename)),
+        });
+      }
+      return result.value;
+    }
+    return field.serialize(value).value;
+  }
+  return value;
+}
+
 function saveLikeKeystatic(collection, frontmatter, filenameSlug) {
   const schema = collection.schema;
   const slugKey = collection.slugField;
+  const ctx = { slug: filenameSlug, key: undefined };
   const state = {};
+  const assetWrites = [];
 
   for (const [key, field] of Object.entries(schema)) {
     if (field.kind === 'form' && field.formKind === 'content') continue; // cuerpo, aparte
     const present = key in frontmatter;
     if (key === slugKey) {
       state[key] = field.parse(present ? frontmatter[key] : undefined, { slug: filenameSlug });
-    } else if (field.kind === 'array') {
-      const value = present ? frontmatter[key] : [];
-      state[key] = (Array.isArray(value) ? value : []).map((item) => field.element.parse(item));
-    } else if (field.kind === 'form') {
-      state[key] = present ? field.parse(frontmatter[key]) : field.defaultValue();
     } else {
-      state[key] = present ? frontmatter[key] : field.defaultValue();
+      state[key] = present
+        ? parseValue(field, frontmatter[key], { ...ctx, key })
+        : defaultValueOf(field);
     }
   }
 
@@ -72,16 +156,14 @@ function saveLikeKeystatic(collection, frontmatter, filenameSlug) {
     let value;
     if (key === slugKey) {
       value = field.serializeWithSlug(state[key]).value;
-    } else if (field.kind === 'array') {
-      value = state[key].map((item) => field.element.serialize(item).value);
     } else {
-      value = field.serialize(state[key]).value;
+      value = serializeValue(field, state[key], { ...ctx, key }, assetWrites);
     }
     // visitor `object`: las claves undefined NO se escriben en el YAML.
     if (value !== undefined) data[key] = value;
   }
 
-  return YAML.load(YAML.dump(data));
+  return { saved: YAML.load(YAML.dump(data)), assetWrites };
 }
 
 const iso = (value) => (value instanceof Date ? value.toISOString() : String(value));
@@ -89,7 +171,7 @@ const iso = (value) => (value instanceof Date ? value.toISOString() : String(val
 function checkEntry(collectionName, file, filenameSlug) {
   const collection = config.collections[collectionName];
   const original = loadEntry(file);
-  const saved = saveLikeKeystatic(collection, original, filenameSlug);
+  const { saved, assetWrites } = saveLikeKeystatic(collection, original, filenameSlug);
   const problems = [];
 
   for (const key of Object.keys(original)) {
@@ -117,6 +199,14 @@ function checkEntry(collectionName, file, filenameSlug) {
       continue;
     }
     assert.deepEqual(saved[key], original[key], `${file}: valor de "${key}" alterado`);
+  }
+
+  // fields.image: el binario que reescribe/crea el cliente debe existir
+  // en disco en su ruta canónica (si no, el editor no podría recargarlo).
+  for (const write of assetWrites) {
+    if (!write.exists) {
+      problems.push(`el binario de imagen "${write.path}" no existe en disco`);
+    }
   }
 
   return problems;

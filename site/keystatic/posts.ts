@@ -66,11 +66,17 @@ export const posts = collection({
       multiline: true,
       description: 'Clave [excerpt]: resumen en las tarjetas; vacío en algunas entradas.',
     }),
-    // Opcional en la realidad (471/813): ruta local (/media/uploads/...) o URL.
-    // Opcional en el schema de Astro ⇒ si se vacía, fields.text la omite sin romper.
-    thumbnail: fields.text({
-      label: 'Miniatura (ruta o URL)',
-      description: 'Clave [thumbnail]: ruta local (/media/uploads/…) o URL externa.',
+    // Opcional en la realidad (471/813). S4 (fase prixline-cms-ux):
+    // campo image — valor serializado = publicPath + slug + '/' +
+    // fichero (YA es la ruta pública que pinta /articulos/); en disco,
+    // site/public/media/uploads/<slug>/thumbnail.<ext>. Los valores
+    // migrados los escribe scripts/migrate-post-thumbnails.ts.
+    thumbnail: fields.image({
+      label: 'Miniatura',
+      description:
+        'Imagen de la tarjeta. Opcional: si se vacía, la entrada queda sin miniatura.',
+      directory: 'site/public/media/uploads',
+      publicPath: '/media/uploads/',
     }),
     // Opcional en la realidad (94/813).
     videoId: fields.text({
