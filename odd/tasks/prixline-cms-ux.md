@@ -67,3 +67,28 @@ resuelta en L1, deploy pendiente).
   (dashboard en inglés, marca "hernanharco/…" truncada, singletons con
   sufijo "(site.json)", 813/302 entradas sin columnas, campos rotulados
   con claves de código).
+- **L2** — Implementación y verificación locales (2026-10-14, rama
+  `feat/prx-cms-ux`, 6 commits): `ea6cb10f` T1 (locale es-ES, marca
+  Prixline, sidebar Contenido/Ajustes del sitio, labels sin sufijo
+  .json) · `979baeb8` T2 (columns + previewUrl {slug} en las 3
+  colecciones) · `16d43c7a` T3 (labels + descriptions en español de
+  todos los campos; helpers con `description`) · `ddc00bc6` T4
+  (posts.thumbnail → fields.image + contrato de guardado con soporte
+  asset/object — arregla además un fallo PREEXISTENTE de pages/contact)
+  · `101856ac` doc · `36dd275e` T5 (migración). **Contrato fijado con
+  sondas + doc oficial**: valor = `publicPath + slug + '/' + fichero` y
+  disco = `directorio/<slug>/thumbnail.<ext>`; los valores viejos
+  parsean a basura con el slug presente (`/media/uploads/2017/11/x.jpg`
+  → `"pg"`), por eso la migración era obligatoria. **Migración real**:
+  265 migradas · 206 descartadas (142 https + 64 http; S4 del usuario)
+  · 0 missing · 342 intactas; 2ª pasada 0/0/0/813 (idempotente);
+  cirugía textual de la línea `thumbnail:` (sin roundtrip YAML); los
+  binarios origen NUNCA se borran. **Checks**: `astro check` 0 errores/
+  0 warnings (2 hints) · suite raíz **138/138** · site/lib **40/40** ·
+  contrato de guardado **3/3** · reader smoke **813/302/4 OK** (su
+  expectativa de thumbnail pasó a `string|null` canónico, consecuencia
+  directa de S4) · `tsc --noEmit` raíz 0 · `astro build` OK (140s) ·
+  paridad en `.vercel/output/static`: **265/265** thumbnails canónicos
+  en `/articulos/` y **0** rutas viejas YYYY/MM, marker de home, metas
+  813 y tawk intactos, **265** imágenes copiadas al build. Pendiente:
+  E2E en prod (T6) + delivery (T7, decisión del usuario).
