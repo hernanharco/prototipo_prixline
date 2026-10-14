@@ -23,18 +23,22 @@ export const courses = collection({
   format: { contentField: 'content' },
   schema: {
     // Realidad: timestamp ISO sin comillas → Date de js-yaml; ver helpers.ts.
-    extractedAt: isoDateField('extractedAt (fecha de extracción)'),
-    slug: slugKeyField('Slug'),
+    extractedAt: isoDateField('Extraído el', 'Clave [extractedAt]: fecha de importación (ISO 8601).'),
+    slug: slugKeyField('Slug', 'Clave [slug]: también es el nombre del fichero.'),
     // Fase 8: familia del curso (select de la taxonomía cerrada). Es
     // editable desde el CMS: una corrección aquí gana sobre la tabla
     // (apply-families.ts no pisa valores existentes).
     family: fields.select({
       label: 'Familia',
+      description: 'Clave [family]: taxonomía cerrada (informática, salud, gestión…).',
       options: FAMILIES.map((family) => ({ value: family, label: FAMILY_LABELS[family] })),
       defaultValue: 'otros',
     }),
-    sourceUrl: persistText('sourceUrl (URL de origen)', { required: true }),
-    title: persistText('Título', { required: true }),
+    sourceUrl: persistText('URL de origen', {
+      required: true,
+      description: 'Clave [sourceUrl]: curso en el sitio de origen.',
+    }),
+    title: persistText('Título', { required: true, description: 'Clave [title].' }),
     // Cuerpo del temario en texto crudo: ver helpers.ts (rawHtmlContent).
     content: rawHtmlContent(),
   },

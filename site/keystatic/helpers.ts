@@ -88,9 +88,10 @@ export function rawHtmlContent(): ContentFormField<string | null, string | null,
 //    el parse de un Date devuelve 'YYYY-MM-DDTHH:mm:ss' (con segundos) →
 //    FieldDataError en el 100 % de las entradas.
 //  - fields.text: parseAsNormalField lanza 'Must be a string' sobre un Date.
-export function isoDateField(label: string) {
+export function isoDateField(label: string, description?: string) {
   const base = fields.date({
     label,
+    description,
     validation: { isRequired: true },
   });
   type Stored = Parameters<typeof base.parse>[0];
@@ -153,10 +154,11 @@ export function isoDateField(label: string) {
 // en el corpus cuyo valor pueda ser ''.
 export function persistText(
   label: string,
-  options: { required?: boolean; multiline?: boolean } = {},
+  options: { required?: boolean; multiline?: boolean; description?: string } = {},
 ) {
   const base = fields.text({
     label,
+    description: options.description,
     multiline: options.multiline,
     validation: options.required ? { isRequired: true } : undefined,
   });
@@ -179,9 +181,10 @@ export function persistText(
 // archivo (el nombre se deriva del mismo valor en getSlugFromState).
 // La lectura no cambia: el reader de Keystatic sigue exponiendo
 // data.slug === null y el slug canónico vive en entry.slug (contrato T27).
-export function slugKeyField(label: string) {
+export function slugKeyField(label: string, description?: string) {
   const base = fields.text({
     label,
+    description,
     validation: { isRequired: true },
   });
   return {

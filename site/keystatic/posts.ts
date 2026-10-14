@@ -31,36 +31,56 @@ export const posts = collection({
   schema: {
     id: fields.integer({
       label: 'ID (WordPress)',
+      description: 'Clave [id]: identificador del artículo en WordPress.',
       validation: { isRequired: true },
     }),
     // Realidad: vacío ('') en 9/813 → persistText conserva la clave al guardar.
-    title: persistText('Título'),
+    title: persistText('Título', { description: 'Clave [title].' }),
     // Realidad: timestamp ISO sin comillas → Date de js-yaml; ver helpers.ts.
-    date: isoDateField('Fecha'),
-    slug: slugKeyField('Slug'),
-    sourceUrl: persistText('sourceUrl (API WordPress)', { required: true }),
-    originUrl: persistText('originUrl (URL original)', { required: true }),
+    date: isoDateField('Fecha', 'Clave [date]: fecha de publicación.'),
+    slug: slugKeyField('Slug', 'Clave [slug]: también es el nombre del fichero.'),
+    sourceUrl: persistText('URL de la API (WordPress)', {
+      required: true,
+      description: 'Clave [sourceUrl]: endpoint del que vino la entrada.',
+    }),
+    originUrl: persistText('URL original', {
+      required: true,
+      description: 'Clave [originUrl]: enlace al artículo en WordPress.',
+    }),
     // Realidad: 1550 items, todos string (sin numéricos ni null).
     categories: fields.array(fields.text({ label: 'Categoría' }), {
       label: 'Categorías',
+      description: 'Clave [categories].',
       itemLabel: (props) => props.value ?? '',
     }),
     originCategories: fields.array(
       fields.text({ label: 'Categoría de origen' }),
       {
         label: 'Categorías de origen (WordPress)',
+        description: 'Clave [originCategories]: clasificación original del blog.',
         itemLabel: (props) => props.value ?? '',
       },
     ),
     // Realidad: vacío ('') en 170/813 → persistText conserva la clave.
-    excerpt: persistText('Extracto', { multiline: true }),
+    excerpt: persistText('Extracto', {
+      multiline: true,
+      description: 'Clave [excerpt]: resumen en las tarjetas; vacío en algunas entradas.',
+    }),
     // Opcional en la realidad (471/813): ruta local (/media/uploads/...) o URL.
     // Opcional en el schema de Astro ⇒ si se vacía, fields.text la omite sin romper.
-    thumbnail: fields.text({ label: 'thumbnail (ruta local o URL)' }),
+    thumbnail: fields.text({
+      label: 'Miniatura (ruta o URL)',
+      description: 'Clave [thumbnail]: ruta local (/media/uploads/…) o URL externa.',
+    }),
     // Opcional en la realidad (94/813).
-    videoId: fields.text({ label: 'videoId (YouTube)' }),
+    videoId: fields.text({
+      label: 'ID del vídeo (YouTube)',
+      description: 'Clave [videoId]: vídeo relacionado con la entrada.',
+    }),
     // Clave que el importador emite SIEMPRE ('' por defecto) → persistText.
-    thumbnailAlt: persistText('thumbnailAlt (texto alternativo)'),
+    thumbnailAlt: persistText('Texto alternativo de la miniatura', {
+      description: 'Clave [thumbnailAlt]: accesibilidad (alt) de la imagen.',
+    }),
     // Cuerpo HTML crudo: ver helpers.ts (rawHtmlContent).
     content: rawHtmlContent(),
   },
