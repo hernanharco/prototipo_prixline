@@ -31,6 +31,7 @@ import { config, fields, singleton } from '@keystatic/core';
 import { courses } from './keystatic/courses.ts';
 import { pages } from './keystatic/pages.ts';
 import { posts } from './keystatic/posts.ts';
+import { brandMark } from './keystatic/brand.ts';
 import { selectKeystaticStorage } from './src/lib/keystaticStorage.ts';
 
 // Claves comunes site.json / social.json (mismo orden que el JSON real).
@@ -85,7 +86,9 @@ export default config({
   // sitio; brand.name reemplaza el "<owner>/<repo>" truncado.
   locale: 'es-ES',
   ui: {
-    brand: { name: 'Prixline' },
+    // S5 (fase prixline-cms-ux): monograma navy/oro de Prixline — único
+    // theming oficial de Keystatic (ver site/keystatic/brand.ts).
+    brand: { name: 'Prixline', mark: brandMark },
     navigation: {
       Contenido: ['posts', 'courses', 'pages'],
       'Ajustes del sitio': ['site', 'nav', 'home', 'seo', 'social', 'videos'],
