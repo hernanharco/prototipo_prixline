@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2017/03/1655972_700397010012077_747545537_n.jpg"
+thumbnail: /media/uploads/cuando-te-digan-que-no-puedes/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

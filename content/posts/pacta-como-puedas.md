@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: Republica.com"
-thumbnail: "/media/uploads/2016/02/2016-02-29-pacta-como-puedas.jpg"
+thumbnail: /media/uploads/pacta-como-puedas/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

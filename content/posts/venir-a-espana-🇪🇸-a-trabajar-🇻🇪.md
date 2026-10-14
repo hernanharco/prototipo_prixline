@@ -10,7 +10,6 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
-thumbnail: "https://i.ytimg.com/vi/VVo0q97C6o8/hqdefault.jpg"
 videoId: "VVo0q97C6o8"
 thumbnailAlt: ""
 ---

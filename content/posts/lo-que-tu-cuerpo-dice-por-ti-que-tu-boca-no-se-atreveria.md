@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Tanto que decir sin siquiera llegar a mover los labios. Tanto que callar y sin saber estarnos quietos. Y es que muchas veces no es que una imagen valga más que mil palabras, es que decimos más con lo que hacemos con nuestro cuerpo que&hellip;"
-thumbnail: "/media/uploads/2016/12/errores-lenguaje-corporal.jpg"
+thumbnail: /media/uploads/lo-que-tu-cuerpo-dice-por-ti-que-tu-boca-no-se-atreveria/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

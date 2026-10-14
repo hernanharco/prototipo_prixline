@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "https://www.pscp.tv/prixline/1mnGeoaXYdZxX"
-thumbnail: "/media/uploads/2018/09/img_5512.png"
+thumbnail: /media/uploads/talent-summit/thumbnail.png
 thumbnailAlt: ""
 ---
 

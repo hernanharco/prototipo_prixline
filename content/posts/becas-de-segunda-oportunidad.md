@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para alumnos de entre dieciséis y treinta años. Enlace al BOCM"
-thumbnail: "/media/uploads/2017/09/becas-2c2aa-oportunidad.jpg"
+thumbnail: /media/uploads/becas-de-segunda-oportunidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

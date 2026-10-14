@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “Nunca olvides que todo comenzó…. cuando dibujé un simple ratón”. – Walt Disney Hace un tiempo atrás me atreví a intentar explicar la gestión del cambio de personal como la del cambio personal, es decir de nosotros mismos. El mundo de&hellip;"
-thumbnail: "/media/uploads/2015/11/chimenea-industrial-by-click.jpg"
+thumbnail: /media/uploads/los-10-problemas-en-la-gestion-del-cambio-y-como-solucionarlos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

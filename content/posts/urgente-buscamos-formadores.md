@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para Certificado de Profesionalidad de Seguridad Informática. ¡URGENTE! BUSCAMOS FORMADORES Formadores para impartir Certificado de Profesionalidad – Seguridad Informática. • Ingenieros o Licenciados. • Un año de experiencia profesional en el sector. • Capacitación docente documentada (CAP, Master o certificado de haber impartido más de 1.000 h. de&hellip;"
-thumbnail: "/media/uploads/2015/06/formador.png"
+thumbnail: /media/uploads/urgente-buscamos-formadores/thumbnail.png
 thumbnailAlt: ""
 ---
 

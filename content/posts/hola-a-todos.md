@@ -24,7 +24,7 @@ originCategories:
   - "semipresencial"
   - "trabajo"
 excerpt: "Bienvenidos al Blog oficial de PRIXLINE. Lo creamos para que podais saber quienes somos, de forma directa!. Desde aquí podéis comentar y se os responderá de forma segura a cualquier tema. Para comenzar os diré que acabo de terminar de leer el libro de Enrique Dans titulado “Todo va a cambiar” http://www.todovaacambiar.com/ lo recomiendo, he aquí algunos párrafos que [&hellip;]"
-thumbnail: "/media/uploads/2012/03/inquisicion.jpg"
+thumbnail: /media/uploads/hola-a-todos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía sobre Los elementos básicos en el diseño de un Currículum. Vía Un saludo Los elementos básicos en el diseño de un Currículum View original post"
-thumbnail: "/media/uploads/2017/01/curriculu-elementos-diseno-infografia.png"
+thumbnail: /media/uploads/los-elementos-basicos-en-el-diseno-de-un-curriculum-infografia-empleo/thumbnail.png
 thumbnailAlt: ""
 ---
 

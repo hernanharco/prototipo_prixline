@@ -15,7 +15,7 @@ originCategories:
   - "@AyudaExperta"
   - "prixline"
 excerpt: "Originally posted on Eficacia personal: No importa si el vaso está medio lleno o medio vacío; lo que importa es que tú tienes el vaso…, tienes el agua… y puedes rellenarlo"
-thumbnail: "/media/uploads/2014/05/tu-tienes-el-vaso-y-tienes-el-agua.jpg"
+thumbnail: /media/uploads/tu-tienes-el-vaso-y-tienes-el-agua/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

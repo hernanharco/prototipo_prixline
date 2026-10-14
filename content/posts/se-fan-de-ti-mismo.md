@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/01/5505c35d909289f2076a979c9b23a231.jpg"
+thumbnail: /media/uploads/se-fan-de-ti-mismo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

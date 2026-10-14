@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : [NP] El panorama laboral no deja de evolucionar. En plena transformación digital, la forma de entender el trabajo y de trabajar también está cambiando. Por ello, las empresas deben adaptarse a las nuevas tecnologías para que los empleados se sientan más satisfechos, motivados y productivos.&hellip;"
-thumbnail: "/media/uploads/2018/02/smart-working1.png"
+thumbnail: /media/uploads/la-nueva-revolucion-del-trabajo-el-smart-working/thumbnail.png
 thumbnailAlt: ""
 ---
 

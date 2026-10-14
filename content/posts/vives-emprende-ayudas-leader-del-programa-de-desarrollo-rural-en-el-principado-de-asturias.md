@@ -10,7 +10,6 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Asesoramiento gratuito para personas emprendedoras y en desempleo que quieran desarrollar su iniciativa económica en el medio rural asturiano. La … VIVES EMPRENDE: Ayudas LEADER del Programa de Desarrollo Rural en el Principado de Asturias"
-thumbnail: "https://juventud.asturias.es/image/journal/article?img_id=2791666&t=1641902945277"
 thumbnailAlt: ""
 ---
 

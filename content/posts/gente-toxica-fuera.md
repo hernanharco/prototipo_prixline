@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: Ya sabeis de quiénes estamos hablando. De ese colega de trabajo que parece tener una nube de negatividad no solo sobre su cabeza, sino alrededor de sí mismo; o aquel otro al que le causa satisfacción causar problemas o enfadar a los demás. Cómo neutralizar a los tóxicos &hellip;"
-thumbnail: "/media/uploads/2015/05/gente-toxica-dibujo.jpg"
+thumbnail: /media/uploads/gente-toxica-fuera/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

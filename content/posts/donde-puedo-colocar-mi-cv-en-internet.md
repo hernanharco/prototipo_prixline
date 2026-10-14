@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Siempre es necesario tener a mano un Currículum Vitae, nunca se sabe cuando lo vas a necesitar. Si estás buscando trabajo, seguro que lo tenés actualizado en un archivo pero si no estás buscando trabajo y quisieras tenerlo visible… La pregunta es ¿si no tengo página web ni Blog&hellip;"
-thumbnail: "/media/uploads/2017/06/placeit2.jpg"
+thumbnail: /media/uploads/donde-puedo-colocar-mi-cv-en-internet/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -24,7 +24,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Del 1 de septiembre al 17 de octubre Desde el 1 de septiembre y hasta el 17 de octubre se encuentra abierto el segundo plazo de solicitud de becas para alumnos de Formación Profesional de Grado Superior. Podrá optar a estas becas los alumnos que cumplan los siguientes&hellip;"
-thumbnail: "/media/uploads/2014/09/becas.jpg"
+thumbnail: /media/uploads/becas-para-los-alumnos-de-formacion-profesional-de-grado-superior/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

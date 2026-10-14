@@ -19,7 +19,6 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La Consejería de Educación de la Embajada de España en Marruecos ha convocado un proceso de selección para constituir una bolsa de trabajo de profesores de Educación Secundaria en centros españoles en Marruecos para el curso 2014-2015. El plazo de inscripción finaliza el próximo 13&hellip;"
-thumbnail: "http://www.portalparados.es/userfiles/2014/Feb_03/horizontal_365/profesores_66_horizontal.jpg"
 thumbnailAlt: ""
 ---
 

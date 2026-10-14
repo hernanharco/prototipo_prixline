@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Banco de España convoca 5 becas para la ampliación de estudios en el extranjero y para la obtención de titulaciones de másteres oficiales en España durante el curso académico 2020-2021. Se destinarán a financiar la ampliación de estudios sobre temas de economía, en especial sobre cuestiones relativas a teoría&hellip;"
-thumbnail: "/media/uploads/2020/01/banco_de_espac3b1a.gif"
+thumbnail: /media/uploads/becas-para-la-ampliacion-de-estudios-curso-2020-2021/thumbnail.gif
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
-thumbnail: "/media/uploads/2017/12/img_3027.jpg"
+thumbnail: /media/uploads/os-deseamos-una-feliz-navidad-🎄-y-un-prospero-2018-🤗/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

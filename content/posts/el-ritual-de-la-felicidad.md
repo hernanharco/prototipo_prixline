@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/01/1170710_423822674405655_1608243385_n.jpg"
+thumbnail: /media/uploads/el-ritual-de-la-felicidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

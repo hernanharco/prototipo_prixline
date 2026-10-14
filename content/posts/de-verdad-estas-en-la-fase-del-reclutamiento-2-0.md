@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Rosa Elizabeth Quintana: Se habla todo del tiempo que el Reclutamiento 1.0 ha dado paso al “Reclutamiento 2.0”, que ahora las interacciones empresa/Consultora- Postulante/Candidato son más fluidas, que el Reclutador busca y mantiene un diálogo con sus posibles candidatos, que buscan atraerlos mostrando las ventajas que tendría trabajar en su empresa tanto&hellip;"
-thumbnail: "/media/uploads/2017/11/155763-ouetgf-944.jpg"
+thumbnail: /media/uploads/de-verdad-estas-en-la-fase-del-reclutamiento-2-0/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

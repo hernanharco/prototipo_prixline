@@ -17,7 +17,7 @@ originCategories:
   - "recursos"
   - "Solidaridad"
 excerpt: "Originally posted on plandempleo: photopin.com El día a día de las personas en búsqueda de empleo tiene los límites desdibujados. Pierdes la noción, todos los días son iguales muchas veces y la diferencia entre lunes, jueves o domingo te la marca el ritmo de vida de los demás en vez del tuyo mismo. La falta&hellip;"
-thumbnail: "/media/uploads/2014/05/el-desgaste-de-buscar-trabajo1.jpg"
+thumbnail: /media/uploads/el-desgaste-de-buscar-trabajo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

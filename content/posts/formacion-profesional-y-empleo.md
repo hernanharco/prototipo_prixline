@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Algunos datos sobre la empleabilidad de la Formación Profesional. Cada vez son más las empresas que demandan perfiles profesionales formados en la Formación Profesional, y algunos de estos perfiles cuentan ya con tasas de empleo superiores a los que se dan en titulaciones universitarias. Durante los últimos años&hellip;"
-thumbnail: "/media/uploads/2017/06/31.jpg"
+thumbnail: /media/uploads/formacion-profesional-y-empleo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

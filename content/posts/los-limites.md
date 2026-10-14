@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/02/2014-02-15-limites.jpg"
+thumbnail: /media/uploads/los-limites/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

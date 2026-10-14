@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on EL ESTUDIO DE CRIS Y SOFIA: En la vida de Andrea existe una personita muy especial, su querida tía Rosa, una enamorada absoluta de los caballos. ¿Y que mejor regalo le podría hacer su sobrina que este maravilloso cuadro? Lo ha realizado en acrílicos, y el intenso contraste de colores se ha&hellip;"
-thumbnail: "/media/uploads/2015/02/dscf25181.jpg"
+thumbnail: /media/uploads/un-caballo-en-el-mundo-de-la-fantasia-andrea-11-anos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

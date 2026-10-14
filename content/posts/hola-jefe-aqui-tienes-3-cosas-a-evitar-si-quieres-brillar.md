@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Ser jefe no es fácil, igual que no es fácil ser entrenador de fútbol, ni árbitro, ni seleccionador, ni cualquier puesto en el que tengas que tomar decisiones, a veces sin disponer de toda la información, otras veces sin apenas tiempo para hacerlo. Porque todo&hellip;"
-thumbnail: "/media/uploads/2016/11/como-trabajar-para-un-idiota.jpg"
+thumbnail: /media/uploads/hola-jefe-aqui-tienes-3-cosas-a-evitar-si-quieres-brillar/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

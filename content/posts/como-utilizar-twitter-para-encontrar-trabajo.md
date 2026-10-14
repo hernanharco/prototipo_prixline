@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : A veces se nos llena la boca, y a mí el primero, de las bondades de las redes sociales para encontrar empleo. Muchas veces hablamos de cómo twitter, por ejemplo, nos puede ayudar a conseguir ese empleo soñado, y pensamos que con abrirnos una cuenta&hellip;"
-thumbnail: "/media/uploads/2016/12/cc3b3mo-utilizar-twitter-para-encontrar-trabajo.png"
+thumbnail: /media/uploads/como-utilizar-twitter-para-encontrar-trabajo/thumbnail.png
 thumbnailAlt: ""
 ---
 

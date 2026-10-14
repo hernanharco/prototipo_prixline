@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: (Aviso a los navegantes, es un poco largo de leer, tiempo estimado 4:00min.) Esta mañana, como podría ser cualquier mañana vivida con anterioridad, no tenía ganas de hacer nada. Es una combinación de agotamiento de unos días de duro trabajo, y&hellip;"
-thumbnail: "/media/uploads/2015/04/persona-caracter-caracteristicas.jpg"
+thumbnail: /media/uploads/7-cosas-a-tener-en-cuenta-cuando-nos-sentimos-desanimados-y-derrotados/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

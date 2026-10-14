@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/05/10659449_10152832038614276_7256769578472137177_n.jpg"
+thumbnail: /media/uploads/tormenta-en-la-cabeza/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

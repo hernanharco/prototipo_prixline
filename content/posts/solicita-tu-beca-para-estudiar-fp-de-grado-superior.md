@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Desde tu móvil Fotografía este código BiDi y reserva tu plaza para estudiar con beca un FP Grado Superior, y disfruta del fin de semana. ¡Solo hasta el 20 de abril!"
-thumbnail: "/media/uploads/2015/04/becabidigrande.png"
+thumbnail: /media/uploads/solicita-tu-beca-para-estudiar-fp-de-grado-superior/thumbnail.png
 thumbnailAlt: ""
 ---
 

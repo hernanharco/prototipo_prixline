@@ -16,7 +16,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com A la hora de hacer el curriculum solemos ser poco creativos en general. Tendemos, yo incluida, al sota, caballo y rey, es decir, datos personales, formación y experiencia. Hacer un curriculum con otra estructura o cambiando algo de esto parece que da miedo, es como si hacerlo diferente fuera lo&hellip;"
-thumbnail: "/media/uploads/2014/03/perfil-profesional-en-el-curriculum1.jpg"
+thumbnail: /media/uploads/que-es-eso-de-poner-el-perfil-profesional-en-el-curriculum/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: Yo tengo como véiis un Certificado de Profesionalidad muy especial que me lo expidió un alumno/amigo del último curso que impartí de Docencia de la Formación Profesional para el Empleo y que me hizo mucha ilusión. Pero hoy no voy a hablar de lo Fantástica y Maravillosa que&hellip;"
-thumbnail: "/media/uploads/2015/07/img_6662.jpg"
+thumbnail: /media/uploads/certificado-de-profesionalidad-donde-lo-solicito-y-que-presento/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

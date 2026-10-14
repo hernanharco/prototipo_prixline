@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Aunque hay gente que plantea el debate sobre foto sí o foto no en tu CV, yo soy de la opinión de los que hoy en día sigue siendo válida la foto en un CV, porque una imagen vale más que mil palabras. Pero ojo,&hellip;"
-thumbnail: "/media/uploads/2016/06/cuestiones-a-evitar-con-la-foto-de-tu-cv1.jpg"
+thumbnail: /media/uploads/8-cuestiones-a-evitar-con-la-foto-de-tu-cv/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

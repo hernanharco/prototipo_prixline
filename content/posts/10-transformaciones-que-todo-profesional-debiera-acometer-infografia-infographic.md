@@ -10,7 +10,6 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Infografías en castellano: 10 Transformaciones que todo profesional debiera acometer"
-thumbnail: "https://ticsyformacion.com/wp-content/uploads/2019/03/transformaciones-profesional-infografia.png"
 thumbnailAlt: ""
 ---
 

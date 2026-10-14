@@ -12,7 +12,6 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: ""
-thumbnail: "https://i.ytimg.com/vi/TM56KCtLOPA/hqdefault.jpg"
 videoId: "TM56KCtLOPA"
 thumbnailAlt: ""
 ---

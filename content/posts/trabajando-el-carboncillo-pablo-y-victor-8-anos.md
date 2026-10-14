@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on EL ESTUDIO DE CRIS Y SOFIA: Para mi el carboncillo es una técnica bastante complicada, pero estos dos pequeños artistas se manejan con ella como pez en el agua. Solo hay que ver los resultados… ¡¡MAGNÍFICOS TRABAJOS, VÍCTOR Y PABLO!!"
-thumbnail: "/media/uploads/2015/05/cuadros-de-paisaje-con-rio-y-coche-de-epoca-en-carboncillo1.jpg"
+thumbnail: /media/uploads/trabajando-el-carboncillo-pablo-y-victor-8-anos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

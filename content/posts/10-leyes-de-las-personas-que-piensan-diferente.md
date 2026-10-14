@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “La persona que sigue a la multitud normalmente no irá más allá de la multitud. La persona que camina sola probablemente se encontrará en lugares donde nadie ha estado antes” decía Albert Einstein. Cada día, el “Desarrollo personal Low cost” que se encuentra en medios de comunicación&hellip;"
-thumbnail: "/media/uploads/2019/06/on2.jpg"
+thumbnail: /media/uploads/10-leyes-de-las-personas-que-piensan-diferente/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

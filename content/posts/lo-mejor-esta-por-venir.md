@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/09/1937445_594825677294274_7002981557454973504_n.jpg"
+thumbnail: /media/uploads/lo-mejor-esta-por-venir/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

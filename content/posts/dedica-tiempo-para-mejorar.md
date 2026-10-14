@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/11/5d32fea354b341d26a2899d731d98d53.jpg"
+thumbnail: /media/uploads/dedica-tiempo-para-mejorar/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

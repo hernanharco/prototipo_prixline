@@ -18,7 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: El Conseyu de Mocedá de Xixón (CMX) organiza un Curso Básico de Mediación en Salud que se desarrollará del 24 al 29 de marzo de 2014 en sus locales de la C/ Manuel Llaneza, 68. Es gratuito. Durante esos días se desarrolla la parte teórica del curso, que se complementará&hellip;"
-thumbnail: "/media/uploads/2014/03/cmx-e1317899476195.jpg"
+thumbnail: /media/uploads/curso-basico-de-mediacion-en-salud-del-conseyu-de-moceda-de-xixon/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

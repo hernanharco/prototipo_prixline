@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/07/13007346_1667566193505390_7033825100405648237_n.jpg"
+thumbnail: /media/uploads/salta/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

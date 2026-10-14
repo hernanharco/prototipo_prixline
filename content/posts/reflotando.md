@@ -17,7 +17,7 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/07/2014-07-25-reflotando.jpg"
+thumbnail: /media/uploads/reflotando/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

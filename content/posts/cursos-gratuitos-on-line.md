@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Grupo FEMXA organiza cursos subvencionados por el Servicio Público de Empleo Estatal dirigidos a trabajadores de microempresas (de menos de 10 empleados), jóvenes emprendedores y autónomos a nivel estatal. Los cursos son totalmente gratuitos. Los cursos se imparten en modalidad on-line, con contenido disponible las 24 horas al día&hellip;"
-thumbnail: "/media/uploads/2018/08/grupo-femxa.jpg"
+thumbnail: /media/uploads/cursos-gratuitos-on-line/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,6 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on ElTejedorDePalabras.org: Canal Youtube para suscribirse si lo desean ? https://youtu.be/0fXoH4FW9Xs ? Recuerda, si te gustó la entrada y el video del canal los puedes recomendar, comentar, compartir y si te gusta el blog te puedes suscribir. ¡Muchas gracias por leerme!"
-thumbnail: "https://i.ytimg.com/vi/0fXoH4FW9Xs/hqdefault.jpg"
 videoId: "0fXoH4FW9Xs"
 thumbnailAlt: ""
 ---

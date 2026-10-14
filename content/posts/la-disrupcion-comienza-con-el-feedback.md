@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Presta atención al feedback negativo y solicítalo, particularmente el de los amigos. Difícilmente alguien hace eso y es de mucha ayuda” dice Elon Musk Se define FeedBack, como “ Capacidad de un emisor para recoger reacciones de los receptores y modificar su mensaje de acuerdo con lo&hellip;"
-thumbnail: "/media/uploads/2018/05/untitled6.png"
+thumbnail: /media/uploads/la-disrupcion-comienza-con-el-feedback/thumbnail.png
 thumbnailAlt: ""
 ---
 

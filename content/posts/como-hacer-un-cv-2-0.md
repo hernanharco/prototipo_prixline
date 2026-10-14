@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: ¿Usas el CV de toda la vida? ¿No tienes mucho éxito a la hora de captar la atención y demostrar tu valía con las nuevas tecnologías? ¿Quieres tener un currículum 2.0? Muchos ya estaréis poniendo cara de poker preguntando qué es eso…. pero aquí os aconsejamos sobre las mejores&hellip;"
-thumbnail: "/media/uploads/2015/03/ordenador-contento.png"
+thumbnail: /media/uploads/como-hacer-un-cv-2-0/thumbnail.png
 thumbnailAlt: ""
 ---
 

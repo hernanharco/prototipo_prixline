@@ -22,7 +22,7 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: "Originally posted on El Principio de un Comienzo: “Cuando la derrota viene, acéptelo como una señal, de que sus planes no son sólidos, reconstruya esos planes y embárquese otra vez hacia su meta codiciada. Si se rinde antes que su meta haya sido alcanzada, usted es un “PERDEDOR” decía Napoleón Hill. Otra vez. Otro fracaso&hellip;"
-thumbnail: "/media/uploads/2014/06/images.jpg"
+thumbnail: /media/uploads/otro-fracaso-mas-y-ahora-que/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

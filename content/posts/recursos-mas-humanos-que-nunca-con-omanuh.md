@@ -18,7 +18,7 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: "Originally posted on plandempleo: http://www.omanuh.com Volvemos de las vacaciones con las pilas más que cargadas y con ganas de difundir iniciativas, eventos y organizaciones que hagan de la búsqueda de empleo un camino un poco más fácil. Omanuh es una plataforma web que nace con la intención de dar la vuelta al proceso de selección&hellip;"
-thumbnail: "/media/uploads/2014/08/omanuh1.png"
+thumbnail: /media/uploads/recursos-mas-humanos-que-nunca-con-omanuh/thumbnail.png
 thumbnailAlt: ""
 ---
 

@@ -16,7 +16,7 @@ originCategories:
   - "empleo"
   - "prixline"
 excerpt: "Mediaset, la empresa de comunicación televisiva italiana que cuenta con canales en España como Telecinco, Cuatro, Factoría de Ficción, Boing, Divinity, Energy, Telecinco HD y Cuatro HD ha lanzado la convocatoria de 9 becas para realizar prácticas en diferentes áreas. Esta convocatoria puede ser una oportunidad única para optar a un trabajo en Mediaset con [&hellip;]"
-thumbnail: "/media/uploads/2015/09/img_2306.jpg"
+thumbnail: /media/uploads/becas-para-realizar-practicas-en-mediaset-en-madrid/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

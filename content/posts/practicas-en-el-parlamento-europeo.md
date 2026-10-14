@@ -18,7 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: El Parlamento Europeo ofrece varias modalidades de períodos de prácticas. Los períodos de prácticas incluyen: Becas Robert Schuman, opción general. Becas Robert Schuman, opción periodismo. Las prácticas para los titulados universitarios tienen por objeto permitirles completar los conocimientos adquiridos durante sus estudios y familiarizarse con la actividad de la Unión&hellip;"
-thumbnail: "/media/uploads/2014/03/parlamento-europeo.jpg"
+thumbnail: /media/uploads/practicas-en-el-parlamento-europeo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

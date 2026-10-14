@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/05/1014139_10201531072949830_230455277_n.jpg"
+thumbnail: /media/uploads/no-entiendo-por-que-la-gente-se-asusta-de-las-nuevas-ideas/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

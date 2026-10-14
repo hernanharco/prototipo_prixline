@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : El tiempo no se detiene, nos van llegando señales de que esto va hacia delante, queramos o no, y que no vale quejarse ni regodearse en pensamientos del pasado. Ayer cambiamos la hora, las razones y la idoneidad de esta práctica, no la vamos a&hellip;"
-thumbnail: "/media/uploads/2014/11/empleo-en-navidad1.jpg"
+thumbnail: /media/uploads/prepara-el-turron-los-villancicos-y-el-curriculum-vitae/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/03/1920015_702710113084766_737652766_n.jpg"
+thumbnail: /media/uploads/la-vida-no-es-estabilidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

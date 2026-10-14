@@ -14,7 +14,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "TICs y Formación Hola: Una infografía con 10 razones para usar Twitter en la búsqueda de #empleo. (la infografía se ha creado con Piktochart) Un saludo 10 razones para usar Twitter en la búsqueda de #empleo View original post"
-thumbnail: "/media/uploads/2014/08/10-razones-para-usar-twitter-en-la-bc3basqueda-de-empleo.jpg"
+thumbnail: /media/uploads/10-razones-para-usar-twitter-en-la-busqueda-de-empleo-infografia-infographic-socialmedia/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

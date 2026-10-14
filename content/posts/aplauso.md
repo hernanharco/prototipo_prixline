@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Sigue todas las viñetas más virales del Coronavirus en Patreon: http://patreon.com/ferranmartin"
-thumbnail: "/media/uploads/2020/03/2020-03-30-coronavirus-95-e1585599433951.jpg"
+thumbnail: /media/uploads/aplauso/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

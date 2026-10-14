@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com En la situación actual se nos ha vendido un poco la idea de que emprender es una buena solución a la situación de desempleo. No vamos a valorar si es o no una alternativa para todo y para todos, pero sí vamos a conocer una de las tendencias que está marcando&hellip;"
-thumbnail: "/media/uploads/2015/03/quieres-emprender-coworking1.jpg"
+thumbnail: /media/uploads/quieres-emprender-coworking/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

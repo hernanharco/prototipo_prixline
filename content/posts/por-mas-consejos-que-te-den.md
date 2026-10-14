@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2017/01/1743491_360370974101945_590331634_n.jpg"
+thumbnail: /media/uploads/por-mas-consejos-que-te-den/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

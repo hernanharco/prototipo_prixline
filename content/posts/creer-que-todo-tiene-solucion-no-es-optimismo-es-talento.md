@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/03/10372566_10152665589469276_282629825223986550_n.jpg"
+thumbnail: /media/uploads/creer-que-todo-tiene-solucion-no-es-optimismo-es-talento/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

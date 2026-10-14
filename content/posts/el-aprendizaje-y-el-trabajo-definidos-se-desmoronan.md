@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: “Lo viejo se desmorona…nace lo nuevo” juandon ? Si caminamos por caminos que nos llevan por nuevos paradigmas que se corresponden con la sociedad de la información y del conocimiento, Frederick Laloux (Autor: Reinventando Organizaciones)) :”Mi opinión es que en el lugar de trabajo ideal del futuro,&hellip;"
-thumbnail: "/media/uploads/2016/01/zapato-corriente-viejo-y-nuevo-12138776.jpg"
+thumbnail: /media/uploads/el-aprendizaje-y-el-trabajo-definidos-se-desmoronan/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

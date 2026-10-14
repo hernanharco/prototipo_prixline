@@ -22,7 +22,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "La CEPYME al igual que en años anteriores participa en los planes de formación que mediante convocatoria anual financia el Servicio Público de Empleo Estatal (SEPE). A lo largo de estos últimos años han ido adaptando su oferta formativa a las actuales necesidades empresariales y del mercado laboral. El resultado ha sido ofertar un programa de gran [&hellip;]"
-thumbnail: "/media/uploads/2013/03/20130301-065412.jpg"
+thumbnail: /media/uploads/74-cursos-gratuitos-para-trabajadores-y-desempleados-teleformacion-y-presencial/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

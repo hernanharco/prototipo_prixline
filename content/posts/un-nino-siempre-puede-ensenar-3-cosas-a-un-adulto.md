@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2018/01/602891_303882969732412_996504002_n.jpg"
+thumbnail: /media/uploads/un-nino-siempre-puede-ensenar-3-cosas-a-un-adulto/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

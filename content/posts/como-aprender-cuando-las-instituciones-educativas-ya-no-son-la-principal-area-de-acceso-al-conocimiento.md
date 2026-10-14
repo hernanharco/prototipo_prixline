@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: Juan Domingo Farnos Miro ? ¿Cómo aprender cuando las instituciones educativas ya no son la principal área de acceso al conocimiento? Por fin estamos llegando a la escuela de la sociedad, comunidades de aprendizaje de auto-organización son las que están cobrando vida, no sólo CON LOS MOOCs, en YouTube,&hellip;"
-thumbnail: "/media/uploads/2020/01/big-data.jpg"
+thumbnail: /media/uploads/como-aprender-cuando-las-instituciones-educativas-ya-no-son-la-principal-area-de-acceso-al-conocimiento/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

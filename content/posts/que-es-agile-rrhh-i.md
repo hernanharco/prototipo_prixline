@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : En los últimos tiempos leía mucho sobre este concepto aunque tenía una idea de en que consistía por artículos como los que elaboran Marc Vigilante, Andrés Ortega, Virginio Gallardo etc he decidido investigar por mi cuenta y porque no decir que yo también tengo que seguir aprendiendo cosas en este mundillo&hellip;"
-thumbnail: "/media/uploads/2018/06/hourglass-2910951_1920.jpg"
+thumbnail: /media/uploads/que-es-agile-rrhh-i/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

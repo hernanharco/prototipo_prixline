@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/05/10262097_299843170173198_308286117609999778_n.jpg"
+thumbnail: /media/uploads/ten-cuidado/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

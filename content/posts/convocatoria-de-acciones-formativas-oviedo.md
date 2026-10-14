@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Cruz Roja Juventud abre la convocatoria dirigida a entidades sin ánimo de lucro, para impartir acciones formativas dirigidas preferentemente a jóvenes entre 18 y 35 años. Podrán optar a la participación en el desarrollo de actividades formativas 2017 en el Hotel de Asociaciones Santullano todas aquellas entidades sin ánimo de&hellip;"
-thumbnail: "/media/uploads/2017/02/cruz_roja_juventud_asturias.jpg"
+thumbnail: /media/uploads/convocatoria-de-acciones-formativas-oviedo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

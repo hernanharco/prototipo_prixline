@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? Si, lo admito, me tienta hablaros de Marca Personal para Formadores de FPE, pero me voy a quedar con las ganas y no voy a hacerlo… No voy a hablar aquí de qué es la Marca Personal ni por qué tendrías que trabajarla para dar la&hellip;"
-thumbnail: "/media/uploads/2017/05/luisasanchez-001.jpeg"
+thumbnail: /media/uploads/pense-hablar-de-marca-personal-pero-acabe-hablando-de-formadores/thumbnail.jpeg
 thumbnailAlt: ""
 ---
 

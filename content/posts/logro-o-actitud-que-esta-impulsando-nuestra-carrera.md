@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Liquadora de ideas y pensamientos – Blender's ideas and thoughts: “No evitéis a vuestros hijos las dificultades de la vida, enseñadles más bien a superarlas”. Louis Pasteur. ¿Quién no ha mirado hacía el pasado o recordando lo que denominamos “Tiempos felices o mejores”? Desde la perspectiva y más ahora con los&hellip;"
-thumbnail: "/media/uploads/2015/08/bonjour.jpg"
+thumbnail: /media/uploads/logro-o-actitud-que-esta-impulsando-nuestra-carrera/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

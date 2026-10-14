@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/11/c3a20e582d34102b690682f38c9bed7c.jpg"
+thumbnail: /media/uploads/tres-reglas-simples-en-la-vida/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

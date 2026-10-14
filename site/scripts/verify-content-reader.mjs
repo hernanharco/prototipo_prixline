@@ -90,7 +90,17 @@ function checkEntryTypes(collection, slug, data) {
     assertStringArray(data.categories, `${where}: categories`);
     assertStringArray(data.originCategories, `${where}: originCategories`);
     assertString(data.excerpt, `${where}: excerpt`);
-    assertString(data.thumbnail, `${where}: thumbnail`);
+    // S4 (fase prixline-cms-ux): thumbnail pasó a fields.image — opcional
+    // (null cuando no hay) y, si existe, ruta pública canónica
+    // /media/uploads/<slug>/thumbnail.<ext> (contrato de parse/serialize
+    // con el slug presente; ver scripts/migrate-post-thumbnails.ts).
+    if (data.thumbnail !== null && data.thumbnail !== undefined) {
+      assertString(data.thumbnail, `${where}: thumbnail`, { nonEmpty: true });
+      assert(
+        data.thumbnail.startsWith(`/media/uploads/${slug}/thumbnail.`),
+        `${where}: thumbnail "${data.thumbnail}" no tiene la forma canónica /media/uploads/<slug>/thumbnail.<ext>`,
+      );
+    }
     assertString(data.videoId, `${where}: videoId`);
     assertString(data.thumbnailAlt, `${where}: thumbnailAlt`);
     return;

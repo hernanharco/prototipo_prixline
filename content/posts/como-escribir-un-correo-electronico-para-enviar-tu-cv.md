@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Le hemos dedicado muchas horas por aquí al tema del curriculum vitae en todas sus vertientes posibles. Las más clasicas en papel, las versiones en infografía, y por repasar, hemos repasado hasta los vídeo curriculum. Pero después de haberle dedicado tantas horas al tema, y&hellip;"
-thumbnail: "/media/uploads/2014/09/como-escribir-el-correo-electrc3b3nico1.jpg"
+thumbnail: /media/uploads/como-escribir-un-correo-electronico-para-enviar-tu-cv/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

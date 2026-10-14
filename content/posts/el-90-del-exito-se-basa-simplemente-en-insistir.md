@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/04/10440954_923160531049251_2168537213687546784_n.jpg"
+thumbnail: /media/uploads/el-90-del-exito-se-basa-simplemente-en-insistir/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

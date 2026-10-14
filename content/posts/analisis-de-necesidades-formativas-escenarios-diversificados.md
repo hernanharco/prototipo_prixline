@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on juandon. Innovación y conocimiento: juandon Si pretendemos crear escenarios de aprendizaje no predecibles, es decir, abiertos, y si son masivos, las proporciones de complejidad irán aumentando ya que el “control” deja de estar en manos de la “organización” para pasar a formar parte de la ecología de los aprendices… Realizamos análisis&hellip;"
-thumbnail: "/media/uploads/2018/02/wpid-photo-201408160811374.jpg"
+thumbnail: /media/uploads/analisis-de-necesidades-formativas-escenarios-diversificados/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

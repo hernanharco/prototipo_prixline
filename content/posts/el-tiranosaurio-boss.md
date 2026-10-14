@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on PSICOLOGIA EDUARDO ORTEGA: Los jefes tiranos forman parte de las empresas arqueologías que todavía no se han extinguido y están dominadas y representadas por cargos de la prehistoria. Estos dinosaurios que se merecen un hueco en el museo debido a su actitud cavernicola; son managers poco motivadores, regañones, insensibles, flojos e irrealistas.&hellip;"
-thumbnail: "/media/uploads/2018/09/el-tiranosaurio-boss-1.jpg"
+thumbnail: /media/uploads/el-tiranosaurio-boss/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

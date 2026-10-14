@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Si estamos creciendo, siempre estaremos fuera de nuestra zona de comodidad” dice John Maxwell. ¿Estás preparado para lo que te voy a decir? ¿De verdad? La zona de confort NUNCA existió. Lo único que existe es la ZONA DE LA INSATISFACCIÓN. ¿Por qué digo esto? Porque si&hellip;"
-thumbnail: "/media/uploads/2016/08/12.png"
+thumbnail: /media/uploads/miedo-o-inconformismo/thumbnail.png
 thumbnailAlt: ""
 ---
 

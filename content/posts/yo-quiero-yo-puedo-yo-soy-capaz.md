@@ -14,7 +14,7 @@ originCategories:
   - "Solidaridad"
   - "Trabajo"
 excerpt: "https://reflexionesconcitas.wordpress.com/2015/09/08/yo-quiero-yo-puedo-yo-soy-capaz/"
-thumbnail: "/media/uploads/2015/09/img_2276.jpg"
+thumbnail: /media/uploads/yo-quiero-yo-puedo-yo-soy-capaz/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

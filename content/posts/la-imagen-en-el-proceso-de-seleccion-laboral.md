@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : La comunicación no verbal, la actitud y la vestimenta son aspectos tremendamente influyentes en nuestra posición social, y por supuesto nos guste o no, en la profesional. Y es que además del desarrollo y nuestras habilidades propiamente profesionales, la manera en la que nos presentamos&hellip;"
-thumbnail: "/media/uploads/2018/11/captar-la-atencic3b3n.jpg"
+thumbnail: /media/uploads/la-imagen-en-el-proceso-de-seleccion-laboral/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

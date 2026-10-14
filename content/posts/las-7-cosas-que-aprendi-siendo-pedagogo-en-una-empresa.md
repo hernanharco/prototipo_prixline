@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on EnLaReAndo.com: La formación continua es imprescindible, cuando acabé la carrera no existía los youtubers, hoy mi vida se mueve entre wismichus, dulceidas y LunasDangelis… pero hoy las pedagogas, profes y expertas en Educación y TIC están en twitter, facebook o instagram y me permite hacer redes, conversar, aprender y networkear con&hellip;"
-thumbnail: "/media/uploads/2017/05/captura-de-pantalla-2017-05-29-a-las-23-47-301.png"
+thumbnail: /media/uploads/las-7-cosas-que-aprendi-siendo-pedagogo-en-una-empresa/thumbnail.png
 thumbnailAlt: ""
 ---
 

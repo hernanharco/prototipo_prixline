@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: Hoy dentro de la Sección ” Conversaciones con…” es un placer presentar a Mario Alonso Puig “Madera de Lider“, fue uno de los primeros libros que cayeron en mis manos, cuando vivía en un mundo ideal, como en Walt Disney. En él, se decía que tenía que&hellip;"
-thumbnail: "/media/uploads/2015/05/mario-alonso-puig-18.jpg"
+thumbnail: /media/uploads/mario-alonso-puig-nuestra-mente-tiene-el-poder-de-cambiar-nuestra-vida/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

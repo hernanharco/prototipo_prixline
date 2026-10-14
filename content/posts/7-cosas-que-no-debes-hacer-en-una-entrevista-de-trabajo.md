@@ -12,7 +12,7 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: "Durante en proceso de selección la persona que te está entrevistando, se encuentra analizando cada una de tus respuestas para poder determinar tu ajuste al perfil profesional. Pero más allá de esto, está estudiando tu lenguaje corporal que dice mucho más de lo que tú te imaginas. Cuidado con estas 7 posturas corporales, pueden sacarte [&hellip;]"
-thumbnail: "/media/uploads/2015/08/img_2197.jpg"
+thumbnail: /media/uploads/7-cosas-que-no-debes-hacer-en-una-entrevista-de-trabajo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : “Para sobrevivir, un sistema educativo debe aprender al menos a la misma velocidad con la que cambia su entorno” (Ley de Revans). Así empezaba su artículo, el filósofo y pedagogo José Antonio Marina, publicado hace unos días en la prensa. “Todos los países están en estado de emergencia&hellip;"
-thumbnail: "/media/uploads/2016/06/1464262077_904773_1464356063_noticia_normal_recorte1.jpg"
+thumbnail: /media/uploads/el-futuro-de-la-educacion/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Ministerio de Hacienda y Administraciones Públicas convoca convocan las pruebas de aptitud para acceso a la profesión de Gestor Administrativo. Será necesario estar en posesión o en condiciones de obtener alguno de los siguientes títulos: Licenciado en Derecho. Licenciado en Ciencias Económicas. Licenciado en Ciencias Empresariales. Licenciado en Ciencias&hellip;"
-thumbnail: "/media/uploads/2015/07/escudomhap.png"
+thumbnail: /media/uploads/pruebas-de-aptitud-para-acceso-a-la-profesion-de-gestor-administrativo/thumbnail.png
 thumbnailAlt: ""
 ---
 

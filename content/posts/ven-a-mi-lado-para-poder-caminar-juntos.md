@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/05/1378116_10151659659231286_585045419_n.jpg"
+thumbnail: /media/uploads/ven-a-mi-lado-para-poder-caminar-juntos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

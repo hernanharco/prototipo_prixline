@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El blog de Rafa Ferrer: Después de unas semanas sin escribir y aprovechando la estela de las elecciones europeas celebradas el pasado fin de semana, por fin me he animado a juntar unas pocas letras. No pretendo hablar de política, asunto sensible donde los haya. Tampoco de economía, ni de trabajo, ni de&hellip;"
-thumbnail: "/media/uploads/2014/05/yo-presidente-rafaelferrer-es.jpg"
+thumbnail: /media/uploads/yo-presidente/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

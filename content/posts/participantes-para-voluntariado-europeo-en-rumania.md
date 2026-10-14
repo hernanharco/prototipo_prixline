@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: Si quieres participar en un proyecto de voluntariado europeo del Cuerpo Europeo de Solidaridad (CES), es tu oportunidad. ¿Te apetece hacer un proyecto de voluntariado en el extranjero? EIVA, organización de Rumanía, busca a jóvenes entre 18 y 30 años, para el proyecto ‘Educación a través de juegos’ que se&hellip;"
-thumbnail: "/media/uploads/2020/02/cuerpo.jpg"
+thumbnail: /media/uploads/participantes-para-voluntariado-europeo-en-rumania/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

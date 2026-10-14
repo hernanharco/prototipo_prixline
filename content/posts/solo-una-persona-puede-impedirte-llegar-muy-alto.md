@@ -17,7 +17,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/08/1383902_634978086523690_1189975579_n.jpg"
+thumbnail: /media/uploads/solo-una-persona-puede-impedirte-llegar-muy-alto/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

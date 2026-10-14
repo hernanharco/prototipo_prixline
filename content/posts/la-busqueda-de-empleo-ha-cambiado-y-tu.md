@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on descubriendo talento: A raíz del post “3 razones por las que no encontrarás trabajo en las redes sociales“, he recibido bastantes comentarios relacionados con la búsqueda de empleo en general. Algo que me ha llamado la atención es que hay gente que todavía tiene una alta resistencia a valorar siquiera las redes&hellip;"
-thumbnail: "/media/uploads/2015/03/diapositiva1.jpg"
+thumbnail: /media/uploads/la-busqueda-de-empleo-ha-cambiado-y-tu/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

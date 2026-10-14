@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : El Blog de Iñaki González View original post"
-thumbnail: "/media/uploads/2016/06/wp-14656762547821.jpeg"
+thumbnail: /media/uploads/reflexiones-de-domingo-hazlo-con-miedo-pero-hazlo/thumbnail.jpeg
 thumbnailAlt: ""
 ---
 

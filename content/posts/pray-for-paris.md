@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
-thumbnail: "/media/uploads/2015/11/img_3067.jpg"
+thumbnail: /media/uploads/pray-for-paris/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

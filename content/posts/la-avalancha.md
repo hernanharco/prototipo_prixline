@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/03/2014-03-18-avalancha.jpg"
+thumbnail: /media/uploads/la-avalancha/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

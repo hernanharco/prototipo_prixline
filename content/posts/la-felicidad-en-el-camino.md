@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Eficacia personal: La felicidad no es una estación de llegada sino un modo de viajar La felicidad no es una estación de llegada sino un modo de viajar"
-thumbnail: "/media/uploads/2015/05/la-felicidad.jpg"
+thumbnail: /media/uploads/la-felicidad-en-el-camino/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

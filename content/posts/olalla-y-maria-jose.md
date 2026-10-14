@@ -18,7 +18,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on Arcilla y fuego: Las creaciones de mis alumnos Selección de piezas realizadas por los alumnos de cerámica creativa y alfarería durante los cursos Poseidón Diseño y creación de Olalla El beso Diseño y creación de María José Jugando con arcilla … modelando ideas Iniciándose en el apasionante mundo de la cerámica. Belén&hellip;"
-thumbnail: "/media/uploads/2014/11/foto0575.jpg"
+thumbnail: /media/uploads/olalla-y-maria-jose/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

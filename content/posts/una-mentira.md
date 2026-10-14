@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/08/209af6a489f5ff8b776e56e926d777d6.jpg"
+thumbnail: /media/uploads/una-mentira/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

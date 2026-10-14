@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/12/1623586_10151984888363883_132862019_n.jpg"
+thumbnail: /media/uploads/no-apartes-los-ojos-de-tu-meta/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -18,7 +18,7 @@ originCategories:
   - "prixline"
   - "trabajo"
 excerpt: "La capacitación que se obtiene realizando un curso de Auxiliar de Farmacia permite conocer nociones básicas de física y química, estar al tanto de las principales operaciones galénicas utilizadas en la elaboración farmacéutica, aprender la terminología básica, obtener nociones de farmacología y aplicación de medicamentos y familiarizarse con el funcionamiento de establecimientos de farmacia. Los [&hellip;]"
-thumbnail: "/media/uploads/2012/06/auxliliar_farmacia.png"
+thumbnail: /media/uploads/auxiliar-de-farmacia/thumbnail.png
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2017/02/91d080d8e27eff780f01f2c945c0c580.jpg"
+thumbnail: /media/uploads/empieza-de-una-vez-a-ser-quien-eres-franz-kafka/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

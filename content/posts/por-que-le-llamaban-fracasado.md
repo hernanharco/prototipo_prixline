@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Puede que te sorprenda oír esto, pero el FRACASO no existe. El fracaso es simplemente la opinión que alguien cómo se deberían hacer ciertas cosas” decía Wayne Dyer. A ciertas edades, los seres humanos, nos dividen en dos. Entre aquellos que podríamos considerar como “normales”. Es decir,&hellip;"
-thumbnail: "/media/uploads/2018/12/untitled3.png"
+thumbnail: /media/uploads/por-que-le-llamaban-fracasado/thumbnail.png
 thumbnailAlt: ""
 ---
 

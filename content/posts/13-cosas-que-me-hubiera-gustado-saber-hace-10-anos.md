@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Principio de un Comienzo: “Lo maravilloso de aprender algo, es que nadie puede arrebatárnoslo” decía B.B.King “Eso nunca me lo habían dicho mis padres”. Frase lapidaria que tras pronunciarla dejaba al chico que tenía delante de mí, blanco y a su amigo preguntándole cómo estaba. Nos creemos que lo sabemos todo.&hellip;"
-thumbnail: "/media/uploads/2019/07/1-1.jpg"
+thumbnail: /media/uploads/13-cosas-que-me-hubiera-gustado-saber-hace-10-anos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Seguro que tú querido lector como yo hemos pronunciado las estupendas palabras de “Eso no está entre mis cometidos ” o “Las funciones para las que me habéis contratado no son estas”, “Esto no estaba en la descripción del puesto al que he optado”. Los reveses en las carreras profesionales son aguardados. Es muy raro… [&hellip;]"
-thumbnail: "/media/uploads/2018/02/img_3242.jpg"
+thumbnail: /media/uploads/los-mejores-consejos-que-he-recibido-a-lo-largo-de-mi-carrera-profesional-cuales-has-recibido-tu-observatorio-de-empleo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

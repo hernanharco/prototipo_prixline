@@ -18,7 +18,6 @@ originCategories:
   - "prixline"
   - "vídeos"
 excerpt: "Originally posted on Yovijob: Buscar empleo es una tarea dura, por eso os ayudamos a destacar. Queremos que mostréis que sois el candidato más valioso para la empresa en las ofertas de empleo que os inscribáis. Conseguir que en Recursos Humanos se fijen en vosotros y no en otro candidato es difícil pero no imposible. A veces dos&hellip;"
-thumbnail: "http://yovijob.files.wordpress.com/2013/12/diamond-158431_640.png?w=270&h=169"
 thumbnailAlt: ""
 ---
 

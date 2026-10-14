@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Excelente! @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/04/2014-04-29-epa.jpg"
+thumbnail: /media/uploads/epa/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

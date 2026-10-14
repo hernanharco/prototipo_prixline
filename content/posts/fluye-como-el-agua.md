@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/03/1510518_10151950358055060_376756964_n.jpg"
+thumbnail: /media/uploads/fluye-como-el-agua/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

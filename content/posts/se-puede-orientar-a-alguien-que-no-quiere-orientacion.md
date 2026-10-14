@@ -19,7 +19,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on plandempleo: photopin.com Hay personas que acuden a un servicio de orientación sin saber muy bien para qué van. Otras veces las expectativas se nos comen todo lo demás. ¿Qué es un servicio de orientación laboral? Una cosa es clara, lo que NO ES: un lugar para que exclusivamente te llamen de ofertas de&hellip;"
-thumbnail: "/media/uploads/2014/07/orientacion-laboral1.jpg"
+thumbnail: /media/uploads/se-puede-orientar-a-alguien-que-no-quiere-orientacion/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

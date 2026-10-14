@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Muchas veces hemos fantaseado con la posiblidad de abandonar nuestro trabajo actual, en los últimos tiempos más si cabe, y siempre nos ponemos en la situación de qué le diríamos a más de uno y una a la cara, esos que se merecen más de una verdad&hellip;"
-thumbnail: "/media/uploads/2016/04/8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto1.jpg"
+thumbnail: /media/uploads/8-cuestiones-para-abandonar-tu-trabajo-con-la-frente-en-alto/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

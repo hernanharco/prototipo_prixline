@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/10/10171621_738635492862307_6087771208964922264_n.jpg"
+thumbnail: /media/uploads/las-oportunidades-se-multiplican-a-medida-que-se-toman/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

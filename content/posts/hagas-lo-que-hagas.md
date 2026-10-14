@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/08/ec242d9392b187dbcc364a7bec944d40.jpg"
+thumbnail: /media/uploads/hagas-lo-que-hagas/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -12,7 +12,6 @@ originCategories:
   - "prixline"
   - "Trabajo"
 excerpt: ""
-thumbnail: "https://i.ytimg.com/vi/bfxSRvIZghU/hqdefault.jpg"
 videoId: "bfxSRvIZghU"
 thumbnailAlt: ""
 ---

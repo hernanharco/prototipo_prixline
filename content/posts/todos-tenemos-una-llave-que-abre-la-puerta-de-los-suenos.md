@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/12/12189519_985197448192687_5654942695223629575_n.jpg"
+thumbnail: /media/uploads/todos-tenemos-una-llave-que-abre-la-puerta-de-los-suenos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

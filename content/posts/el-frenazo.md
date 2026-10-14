@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: Fuente viñeta: republica.com"
-thumbnail: "/media/uploads/2015/10/2015-10-02-frenazo.jpg"
+thumbnail: /media/uploads/el-frenazo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

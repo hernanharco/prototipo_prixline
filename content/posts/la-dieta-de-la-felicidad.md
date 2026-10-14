@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/05/1484091_788452454547299_3199055847750270374_n.jpg"
+thumbnail: /media/uploads/la-dieta-de-la-felicidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

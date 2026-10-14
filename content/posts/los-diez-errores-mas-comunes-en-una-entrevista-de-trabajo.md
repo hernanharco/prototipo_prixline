@@ -16,7 +16,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Me encanta esta infografía, porque resume de una manera muy gráfica (algo que es obvio, ya que es una infografía) los errores más comunes que cometemos ante una entrevista de trabajo. A destacar esta lista con los 10 errores más comunes: 1. Dar demasiadas explicaciones&hellip;"
-thumbnail: "/media/uploads/2014/03/infografc3ada-entrevista-trabajo.jpg"
+thumbnail: /media/uploads/los-diez-errores-mas-comunes-en-una-entrevista-de-trabajo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

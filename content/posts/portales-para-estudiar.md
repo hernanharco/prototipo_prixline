@@ -28,7 +28,7 @@ originCategories:
   - "recursos"
   - "trabajo"
 excerpt: "Dentro de las posibilidades que ofrece Internet para favorecer la formación y el conocimiento no se puede obviar el OpenCourseWare (OCW) del que es pionero el Instituto Tecnológico de Masachussets (MIT), que permite que los “materiales de los cursos del MIT que se utilizan en la enseñanza estén disponibles casi en su totalidad de forma gratuita para [&hellip;]"
-thumbnail: "/media/uploads/2012/08/graduado-prixline.jpeg"
+thumbnail: /media/uploads/portales-para-estudiar/thumbnail.jpeg
 thumbnailAlt: ""
 ---
 

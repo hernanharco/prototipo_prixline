@@ -20,7 +20,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on El Blog de Iñaki González : Seguro que has oído más de una vez eso de que el que se mueve no sale en la foto, no? Pues en LinkedIn le damos otra vuelta de tuerca, porque el que no salga en la foto, no se come un rosco… y ya&hellip;"
-thumbnail: "/media/uploads/2015/01/perfil-linkedin1.png"
+thumbnail: /media/uploads/estos-son-los-errores-que-puedes-estar-cometiendo-con-tu-foto-de-linkedin/thumbnail.png
 thumbnailAlt: ""
 ---
 

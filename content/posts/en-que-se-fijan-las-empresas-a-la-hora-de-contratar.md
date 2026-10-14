@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : ¿Sabes los detalles que las empresas miran a la hora de contratar? Es importante conocer qué buscan para poder planificar una entrevista de trabajo y lograr que tu perfil llame la atención. No hay que olvidar que no dejan de ser singulares “citas a ciegas”,&hellip;"
-thumbnail: "/media/uploads/2016/03/en-que-se-fijan-las-empresas1.jpg"
+thumbnail: /media/uploads/en-que-se-fijan-las-empresas-a-la-hora-de-contratar/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

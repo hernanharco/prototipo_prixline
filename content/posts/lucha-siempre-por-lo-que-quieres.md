@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/12/10153279_10152429557551006_6382053671395569831_n.jpg"
+thumbnail: /media/uploads/lucha-siempre-por-lo-que-quieres/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

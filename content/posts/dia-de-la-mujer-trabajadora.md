@@ -12,7 +12,7 @@ originCategories:
   - "opinion"
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/03/8-marzo.jpg"
+thumbnail: /media/uploads/dia-de-la-mujer-trabajadora/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

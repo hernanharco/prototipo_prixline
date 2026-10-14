@@ -17,7 +17,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on plandempleo: photopin.com Con la llegada del año nuevo, llegan los buenos propósitos, las listas de cosas que voy a hacer sí o sí, los cambios, los gimnasios, el dejar de fumar… Y cómo no, los cambios que vamos a poner en marcha para buscar trabajo. Por eso vamos a plantear un nuevo&hellip;"
-thumbnail: "/media/uploads/2015/01/nuevo-paradigma-para-buscar-trabajo1.jpg"
+thumbnail: /media/uploads/tu-nuevo-paradigma-para-la-busqueda-de-empleo/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

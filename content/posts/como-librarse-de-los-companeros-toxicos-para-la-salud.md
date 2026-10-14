@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Recientemente leíamos un artículo en El Mundo que nos hablaba de los compañeros tóxicos para la salud. Todos, tarde o temprano, pasaremos por alguna situación parecida… sin ir más lejos, este blog, y sus orígenes allá por febrero de 2010, fueron la válvula de escape&hellip;"
-thumbnail: "/media/uploads/2014/11/gente-toxica1.jpg"
+thumbnail: /media/uploads/como-librarse-de-los-companeros-toxicos-para-la-salud/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

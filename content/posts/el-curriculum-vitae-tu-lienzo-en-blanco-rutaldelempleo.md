@@ -14,7 +14,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on El Blog de Iñaki González : Y empezamos 2016 de la misma manera que empezábamos 2015, y que no es otra que con la publicación de un ebook colaborativo editado y coordinado por InfoJobs. En La Ruta del Empleo: estrategias para conseguir trabajo en 2016 he tenido el privilegio de colaborar junto&hellip;"
-thumbnail: "/media/uploads/2016/02/para_rrss_portada_la_ruta_del_empleo_3.png"
+thumbnail: /media/uploads/el-curriculum-vitae-tu-lienzo-en-blanco-rutaldelempleo/thumbnail.png
 thumbnailAlt: ""
 ---
 

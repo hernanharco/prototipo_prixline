@@ -21,7 +21,7 @@ originCategories:
   - "Monitor de Ocio"
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Asociación Abierto Hasta el Amanecer, AHA, organiza un curso de Dinamizadores/as en ocio juvenil. El objetivo es formar a los/as jóvenes para la iniciativa, la participación y la movilización social y dotarlos de las herramientas básicas que les permitan participar en su comunidad. Posteriormente, pondrán en práctica todo lo&hellip;"
-thumbnail: "/media/uploads/2014/11/logo_abierto-hasta-el-amanecer-e1320227004492.gif"
+thumbnail: /media/uploads/curso-de-dinamizadoresas-en-ocio-juvenil/thumbnail.gif
 thumbnailAlt: ""
 ---
 

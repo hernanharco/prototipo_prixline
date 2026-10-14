@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: ""
-thumbnail: "/media/uploads/2016/09/img_7038.jpg"
+thumbnail: /media/uploads/excelente-esto-si-es-actitud-👏👏👍/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

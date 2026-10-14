@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de Iñaki González : Fuente: 10 tips para retomar con éxito la búsqueda de empleo, después del verano http://fundacionadecco.org/blog/blog/10-tips-para-retomar-con-exito-la-busqueda-de-empleo-despues-del-verano/"
-thumbnail: "/media/uploads/2015/09/wpid-wp-1441145062019.jpeg"
+thumbnail: /media/uploads/como-buscar-empleo-con-exito-acabado-el-verano/thumbnail.jpeg
 thumbnailAlt: ""
 ---
 

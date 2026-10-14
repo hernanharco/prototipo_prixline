@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Secretaría de Estado de Cultura convoca las Becas FormARTE de formación y especialización en materias artísticas, gestión cultural, archivos, conservación y restauración, museología y biblioteconomía, en organismos públicos del Ministerio de Educación, Cultura y Deporte. Modalidades: A) Becas de Conservación y Restauración de Bienes Culturales: 14 becas. B) Becas&hellip;"
-thumbnail: "/media/uploads/2015/02/ministerio-educacion_cultura-y-deporte.gif"
+thumbnail: /media/uploads/becas-formarte-2/thumbnail.gif
 thumbnailAlt: ""
 ---
 

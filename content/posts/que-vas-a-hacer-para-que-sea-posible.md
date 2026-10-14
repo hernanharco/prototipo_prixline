@@ -17,7 +17,6 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Un laberinto de emociones: Desde este último post del año os animo a la ACCIÓN y para ello comparto con vosotros uno de mis textos favoritos: Todo lo mejor para el 2014."
-thumbnail: "http://unlaberintodeemociones.files.wordpress.com/2013/12/un-nuevo-ac3b1o.jpg?w=1024&h=766"
 thumbnailAlt: ""
 ---
 

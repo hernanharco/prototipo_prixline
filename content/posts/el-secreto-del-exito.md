@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2018/06/89e613a6f7239a9f0c619af7a9d42571.jpg"
+thumbnail: /media/uploads/el-secreto-del-exito/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

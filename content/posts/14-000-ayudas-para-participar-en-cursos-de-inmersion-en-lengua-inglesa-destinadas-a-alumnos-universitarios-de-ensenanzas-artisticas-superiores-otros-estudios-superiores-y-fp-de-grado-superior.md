@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: El Ministerio de Educación, Cultura y Deporte, convoca: 14.000 ayudas para seguir un curso de inmersión lingüística en inglés organizado por la Universidad Internacional Menéndez Pelayo. Podrán solicitar estas ayudas los jóvenes que no hayan cumplido 30 años a 31 de diciembre de 2018 y que hayan obtenido la condición&hellip;"
-thumbnail: "/media/uploads/2018/03/educacion2.png"
+thumbnail: /media/uploads/14-000-ayudas-para-participar-en-cursos-de-inmersion-en-lengua-inglesa-destinadas-a-alumnos-universitarios-de-ensenanzas-artisticas-superiores-otros-estudios-superiores-y-fp-de-grado-superior/thumbnail.png
 thumbnailAlt: ""
 ---
 

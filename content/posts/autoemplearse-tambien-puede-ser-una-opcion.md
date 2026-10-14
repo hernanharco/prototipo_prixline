@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Tips For Work: “El autoempleo implica realizar una actividad empresarial o profesional por cuenta y riesgo propios. Ligada directamente a este término se encuentra la palabra emprender, que consiste en acometer y comenzar una obra, un negocio o un proyecto.” Si por desgracia has tenido la mala fortuna de quedarte sin empleo,&hellip;"
-thumbnail: "/media/uploads/2015/05/bombilla-ideas.jpg"
+thumbnail: /media/uploads/autoemplearse-tambien-puede-ser-una-opcion/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

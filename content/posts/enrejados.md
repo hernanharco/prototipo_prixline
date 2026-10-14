@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/05/2014-05-16-enrejados.jpg"
+thumbnail: /media/uploads/enrejados/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -18,7 +18,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Empleo y Desarrollo Local Noroccidente de Asturias.: La UNED ofrece la posibilidad de certificar tu nivel de idiomas, de acuerdo con el Marco Europeo, de Inglés (B1, B2) y Francés (B1). Para matricularse del examen libre, se debe entrar en la página principal de la UNED (http://www.uned.es) e identificarse o darse de&hellip;"
-thumbnail: "/media/uploads/2014/03/logo_uned-e1319531053439.jpg"
+thumbnail: /media/uploads/pruebas-de-certificacion-de-idiomas-de-la-uned/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

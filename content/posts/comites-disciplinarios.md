@@ -14,7 +14,7 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: "Originally posted on @FerranMartín: @FerranMartín View original post"
-thumbnail: "/media/uploads/2014/02/2014-02-21-disciplinas.jpg"
+thumbnail: /media/uploads/comites-disciplinarios/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

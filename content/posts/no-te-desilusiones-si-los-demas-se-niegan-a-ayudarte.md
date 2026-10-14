@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/01/12507166_1019494844763898_4351505763231165704_n.jpg"
+thumbnail: /media/uploads/no-te-desilusiones-si-los-demas-se-niegan-a-ayudarte/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

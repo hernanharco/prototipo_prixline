@@ -22,7 +22,7 @@ originCategories:
   - "opiniones"
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Pautas para el momento de la verdad Buscando información que os ayude un poco a superar con éxito los exámenes estamos pensando que hay ciertas afirmaciones que habéis oído mil veces y que no hacéis ni caso: “No te des el atracón antes del examen, estudia diariamente, no&hellip;"
-thumbnail: "/media/uploads/2014/06/consejosexamen.jpg"
+thumbnail: /media/uploads/tiempo-de-examenes-comprende-organiza-revisa-corrige-yaprende/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

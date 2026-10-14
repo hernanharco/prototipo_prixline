@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2016/12/13729034_10201941221208617_8735944612016895096_n.jpg"
+thumbnail: /media/uploads/con-mis-mejores-deseos/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

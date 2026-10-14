@@ -16,7 +16,7 @@ originCategories:
   - "prixline"
   - "recursos"
 excerpt: "Originally posted on Mocedastur Blog: Las Cortes Generales convocan 3 becas sobre comunicación institucional, interna y externa, relacionada con la actividad oficial del Senado dirigidas a jóvenes titulados que deseen especializarse en estos campos. Las Cortes Generales convocan 3 becas sobre comunicación institucional, interna y externa, relacionada con la actividad oficial del Senado dirigidas a&hellip;"
-thumbnail: "/media/uploads/2015/09/senado.jpg"
+thumbnail: /media/uploads/3-becas-sobre-comunicacion-institucional-relacionada-con-la-actividad-oficial-del-senado/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on OBSERVATORIO DE EMPLEO : Hace algún tiempo, los reclutadores publicaban sus ofertas de trabajo en Internet y esperaron en silencio a los candidatos para ponerse en contacto con la empresa. En los últimos años, esta estrategia ha cambiado gradualmente con la llegada del reclutamiento móvil. Los reclutadores ahora se centran en la proactividad cuando se&hellip;"
-thumbnail: "/media/uploads/2017/10/5148276563_0af171ebf0_b.jpg"
+thumbnail: /media/uploads/por-que-apostar-por-el-reclutamiento-movil-colaboracion-para-cornerjob/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

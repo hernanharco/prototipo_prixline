@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Mocedastur Blog: La Comisión Europea convoca 25 plazas de traductores al Inglés, para un contrato temporal, a partir de dos idiomas de origen: El primero de los idiomas debe ser uno de los siguientes: búlgaro, croata, checo, danés, holandés, estonio, finlandés, griego, húngaro, letón, lituano, polaco, portugués , rumano, eslovaco, esloveno o sueco. La segunda&hellip;"
-thumbnail: "/media/uploads/2015/08/comision-europea.jpg"
+thumbnail: /media/uploads/traductores-de-ingles-para-la-comision-europea/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

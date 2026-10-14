@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on FORMANDO PARA EL EMPLEO: ? ? La semana pasada Silvia Saucedo me invitó de nuevo a participar en su programa SilviaTeOrienta en Radio Guadalquivir (por cierto, os animo a seguir este programa que cada semana entrevista a gente muy muy interesante). ¿De qué hablamos? Pues de qué va a ser… De Formación. &hellip;"
-thumbnail: "/media/uploads/2016/06/img_5050.jpg"
+thumbnail: /media/uploads/hablamos-de-formacion/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

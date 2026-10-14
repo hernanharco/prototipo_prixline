@@ -12,7 +12,6 @@ originCategories:
   - "prixline"
   - "Solidaridad"
 excerpt: ""
-thumbnail: "https://i.ytimg.com/vi/TzeNc2c9v5I/hqdefault.jpg"
 videoId: "TzeNc2c9v5I"
 thumbnailAlt: ""
 ---

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/11/1924429_289721591185356_471668604_n.jpg"
+thumbnail: /media/uploads/valiente-no-es-la-persona-que-no-tiene-miedo-sino-la-que-a-pesar-de-sentir-miedo-sigue-adelante/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

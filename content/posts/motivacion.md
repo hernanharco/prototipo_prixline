@@ -16,7 +16,7 @@ originCategories:
   - "opiniones"
   - "recursos"
 excerpt: ""
-thumbnail: "/media/uploads/2013/06/20130630-105302.jpg"
+thumbnail: /media/uploads/motivacion/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

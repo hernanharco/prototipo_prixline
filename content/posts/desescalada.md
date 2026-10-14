@@ -10,7 +10,6 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Desescalada"
-thumbnail: "https://i0.wp.com/ferranhumor.files.wordpress.com/2020/04/2020-04-28-coronavirus-132-e1588103712145.jpg?quality=80&w=1242&ssl=1"
 thumbnailAlt: ""
 ---
 

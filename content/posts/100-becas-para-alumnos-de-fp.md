@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on El Blog de TEIDE-HEASE : Para la red comercial de Telefónica Telefónica España ha anunciado este martes una convocatoria de cien becas para titulados de formación profesional de grado superior, para que puedan formarse en el área comercial e iniciar una trayectoria profesional en el mundo de las ventas. A esta convocatoria pueden&hellip;"
-thumbnail: "/media/uploads/2015/03/fp-telefc3b3nica.jpg"
+thumbnail: /media/uploads/100-becas-para-alumnos-de-fp/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

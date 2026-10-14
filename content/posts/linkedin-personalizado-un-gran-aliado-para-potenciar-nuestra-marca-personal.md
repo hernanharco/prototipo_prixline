@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Luces y Sombras de las Marcas: Aunque ya hemos repetido una y otra vez la importancia de cuidar nuestra imagen en todos los medios sociales y, no solo lo que publicamos, si no la estética de las imágenes y descripciones que acompañan nuestros perfiles, en el caso de Linkedin esta recomendación se vuelve primordial. Linkedin&hellip;"
-thumbnail: "/media/uploads/2014/06/captura-de-pantalla-2014-06-05-a-las-15-03-24.png"
+thumbnail: /media/uploads/linkedin-personalizado-un-gran-aliado-para-potenciar-nuestra-marca-personal/thumbnail.png
 thumbnailAlt: ""
 ---
 

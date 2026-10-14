@@ -16,7 +16,7 @@ originCategories:
   - "recursos"
   - "Trabajo"
 excerpt: "Originally posted on El Blog de Iñaki González : No, mira, por ahí ya no paso… Una cosa que es que defendamos el uso de las redes sociales para la búsqueda de empleo, que recomendemos crear y actualizar nuestro propio blog así como el uso de twitter, facebook o LinkedIn para promocionar nuestra marca&hellip;"
-thumbnail: "/media/uploads/2015/11/snapchat-para-bc3basqueda-de-empleo1.png"
+thumbnail: /media/uploads/snapchat-y-busqueda-de-empleo-wtf/thumbnail.png
 thumbnailAlt: ""
 ---
 

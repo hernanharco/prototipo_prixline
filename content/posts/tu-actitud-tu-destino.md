@@ -18,7 +18,7 @@ originCategories:
   - "prix-line"
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2014/07/wpid-wp-1404771591785.jpeg"
+thumbnail: /media/uploads/tu-actitud-tu-destino/thumbnail.jpeg
 thumbnailAlt: ""
 ---
 

@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "TICs y Formación Hola: Una infografía con 10 libros imprescindibles para la lengua castellana. Vía Un saludo 10 libros imprescindibles para la lengua castellana View original post"
-thumbnail: "/media/uploads/2015/04/10-libros-lengua-castellana-infografia.jpg"
+thumbnail: /media/uploads/10-libros-imprescindibles-para-la-lengua-castellana-infografia-infographic/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

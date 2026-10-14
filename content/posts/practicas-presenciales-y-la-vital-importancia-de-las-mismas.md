@@ -19,7 +19,7 @@ originCategories:
   - "empleo"
   - "formacion"
 excerpt: "En este artículo que he decidido escribir quiero contar mi experiencia a la hora de buscar las prácticas profesionales en todo el territorio nacional a todos los alumnos que contratan este servicio a la hora de hacer el curso. Una vez hecha esta breve presentación, me gustaría hacer una mención especial al concepto, la importancia [&hellip;]"
-thumbnail: "/media/uploads/2012/04/veterinaria-prixline.jpg"
+thumbnail: /media/uploads/practicas-presenciales-y-la-vital-importancia-de-las-mismas/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

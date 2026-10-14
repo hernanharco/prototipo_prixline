@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2015/10/10606038_857027314309919_2480497047033816605_n.jpg"
+thumbnail: /media/uploads/la-felicidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 

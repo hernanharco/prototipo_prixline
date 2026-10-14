@@ -10,7 +10,7 @@ categories:
 originCategories:
   - "prixline"
 excerpt: "Originally posted on Frases y citas celebres: Frases y citas celebres View original post"
-thumbnail: "/media/uploads/2017/04/1896811_10152046501951656_1746134561_n.jpg"
+thumbnail: /media/uploads/nunca-dejes-pasar-una-oportunidad/thumbnail.jpg
 thumbnailAlt: ""
 ---
 
