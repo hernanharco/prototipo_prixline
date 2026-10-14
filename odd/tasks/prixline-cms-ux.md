@@ -169,3 +169,13 @@ resuelta en L1, deploy pendiente).
   inyección vive dentro del try de auth), R4-head-response-gets-
   synthesized-body (middleware.ts:54-59, una respuesta HEAD
   recibe body sintetizado).
+- **L7** — **Delivery S5** (2026-10-14, decisión del usuario = "Sí,
+  merge + push ahora"): merge fast-forward `feat/prx-cms-ux` → `main`
+  (`b105029d..7cea9666`, 4 commits: 4a350697, d0e44b62, eedd256e,
+  7cea9666) + push. Vercel Git redespliega: deployment
+  `webprixline-1x08jlmj9` **Ready en 42s**, aliased a
+  `prixline.rincom.es`. **Verificación en vivo**: `/keystatic` → 302
+  `/admin/login` (gate intacto); la hoja de paleta sólo se inyecta en
+  HTML 200 autenticado, así que el check visual final es del usuario
+  (captura). Pendiente: E2E visual (T10) + E2E de subida de imagen
+  (T6), ambos en el usuario.
