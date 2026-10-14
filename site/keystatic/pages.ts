@@ -12,6 +12,10 @@ import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpe
 export const pages = collection({
   label: 'Páginas',
   path: 'content/pages/*',
+  // S2 (fase prixline-cms-ux): lista escaneable + botón "Ver en la web"
+  // (las páginas viven en la raíz: /contacto, /practicas, …).
+  columns: ['title', 'slug'],
+  previewUrl: '/{slug}',
   slugField: 'slug',
   format: { contentField: 'content' },
   schema: {

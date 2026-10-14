@@ -19,6 +19,9 @@ import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpe
 export const posts = collection({
   label: 'Entradas del blog',
   path: 'content/posts/*',
+  // S2 (fase prixline-cms-ux): lista escaneable + botón "Ver en la web".
+  columns: ['title', 'date', 'slug'],
+  previewUrl: '/articulos/{slug}',
   // El slug vive en el nombre de archivo Y en el frontmatter: `slugKeyField`
   // serializa serializeWithSlug(...).value para que la clave NO desaparezca al
   // guardar (Astro la exige). Riesgo T27 resuelto en T1 — ver helpers.ts.

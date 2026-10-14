@@ -16,6 +16,9 @@ import { isoDateField, persistText, rawHtmlContent, slugKeyField } from './helpe
 export const courses = collection({
   label: 'Cursos',
   path: 'content/courses/*',
+  // S2 (fase prixline-cms-ux): lista escaneable + botón "Ver en la web".
+  columns: ['title', 'family', 'slug'],
+  previewUrl: '/cursos/{slug}',
   slugField: 'slug',
   format: { contentField: 'content' },
   schema: {
