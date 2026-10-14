@@ -28,6 +28,17 @@ resuelta en L1, deploy pendiente).
   externas."* Sólo aplica a `posts` (los cursos no renderizan imagen y
   `videos.thumbnail` es URL de YouTube que se refresca sola — queda como
   campo texto).
+- **S5** — UI con la paleta de la web (petición del usuario, Log L4,
+  verbatim): *"este diseño no me gusta … podemos mejorar la UI manejar
+  una paleta de colores mucho mejor, una que sea acorde con la pagina
+  web. siento muy basico este CMS"*. Alcance (Ask, opción C = A+B):
+  **marca + paleta**: (A) `ui.brand.mark` con monograma navy+oro (soporte
+  oficial de Keystatic) y (B) capa CSS propia — helper + middleware — que
+  recolorea sidebar/header/accentos con la paleta de `global.css` (navy
+  `#12314f`, navy profundo `#0c2339`, oro `#c8a24a`, fondo `#f7f8fa`).
+  Deuda declarada: Keystatic NO expone theming (0 variables CSS en su
+  bundle, estilos Emotion con clases hasheadas) ⇒ selectores
+  estructurales estables + re-check en cada upgrade.
 
 ## Tasks
 
@@ -54,6 +65,14 @@ resuelta en L1, deploy pendiente).
   usuario (subida real de imagen desde el CMS).
 - **T7** — Delivery: merge a main + push (decisión del usuario) y
   registro de evidencia en `## Log`.
+- **T8** — [S5] Marca Prixline: `site/keystatic/brand.ts` con monograma
+  SVG (navy+oro, invertido en dark) vía `createElement` (el config es
+  `.ts`, sin JSX) + `ui.brand.mark` + test del elemento raíz.
+- **T9** — [S5] Paleta: `site/src/lib/cmsPalette.ts` (CSS +
+  `injectPaletteHtml`, test-first) + middleware que inyecta la hoja en
+  el HTML de `/keystatic*` (200 text/html sólo; API y resto intactos).
+- **T10** — [S5] Verificación: `astro check` + suite + build + E2E
+  visual en prod (captura del usuario) + evidencia en `## Log`.
 
 ## Log
 
@@ -102,3 +121,30 @@ resuelta en L1, deploy pendiente).
   `/media/uploads/100-becas-para-alumnos-de-fp/thumbnail.jpg` OK;
   marker de home presente; `/keystatic` → 302 `/admin/login` (gate
   intacto). Pendiente: E2E de subida real desde el CMS (T6).
+- **L4** — Petición del usuario (2026-10-14) verbatim: *"este diseño no
+  me gusta … podemos mejorar la UI manejar una paleta de colores mucho
+  mejor, una que sea acorde con la pagina web. siento muy basico este
+  CMS"*. Investigación (sólo lectura): Keystatic 0.6.9 no expone
+  theming — 0 variables CSS en todo `@keystatic/core/dist`, estilos
+  Emotion con clases hasheadas, doc Keystar: "internal component styles
+  … not available to override"; lo único oficial es `ui.brand` (name +
+  mark). Ask → usuario eligió **C: Marca + paleta (A+B)**. Tareas
+  nuevas T8-T10; T6 queda blocked en el E2E de subida de imagen.
+- **L5** — **T8-T10 implementados** (2026-10-14, rama `feat/prx-cms-ux`,
+  2 commits): `4a350697` T8 — monograma SVG navy+oro en
+  `site/keystatic/brand.ts` (`createElement` porque el config es `.ts`;
+  inverso en dark) cableado como `ui.brand.mark`, test
+  `site/scripts/keystatic-brand.test.mjs` **2/2** · `d0e44b62` T9 — hoja
+  `site/src/lib/cmsPalette.ts` (paleta idéntica a `global.css`) +
+  `injectPaletteHtml`/`shouldInjectPalette` inyectados por el middleware
+  sólo en respuestas **200 text/html de `/keystatic\*`** (API y resto del
+  sitio intactos), test-first `cmsPalette.test.mjs` **3/3**. Ganchos:
+  selectores estructurales (`<nav>`, `aria-current`, `header`, `main`,
+  `a`, `:focus-visible`) — nunca clases Emotion hasheadas como ancla;
+  si un selector no existe en un upgrade, la regla se ignora (degradado
+  silencioso, re-check declarado como deuda). **Fallo encontrado y
+  corregido en T9**: el literal del id duplicado en el comentario del
+  CSS rompía la idempotencia del test. **Checks**: `astro check`
+  0/0/2 · site/lib **43/43** · site/scripts **5/5** · raíz **138/138** ·
+  `astro build` OK (52s). Pendiente: E2E visual en prod (captura del
+  usuario) + cierre.
